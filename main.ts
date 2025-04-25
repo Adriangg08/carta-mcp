@@ -198,30 +198,50 @@ server.tool(
     limit: z.number().optional().default(20),
   },
   async (args) => {
+    // Notify start and carry progressToken
+    const meta = (args as any)._meta;
+    console.log(`[find_and_crawl_restaurants] started, progressToken=${meta?.progressToken}`);
     try {
       const restaurants = await searchGooglePlaces({
         location: args.location,
         limit: args.limit,
         apiKey: googleApiKey
       });
-      // Crawl each restaurant's website
-      const urlsByRestaurant = await Promise.all(
-        restaurants.map(async r => {
-          if (r.web) {
-            try {
-              // Disable filtering to capture all URLs
-              const data = await listDomainUrls(r.web, { filterMode: 'none' });
-              // Include homepage by default
-              const urls = data.filteredUrls.length > 0 ? data.filteredUrls : [];
-              urls.unshift(r.web);
-              return { id: r.id, urls };
-            } catch {
-              return { id: r.id, urls: [] };
-            }
+      console.log(`[find_and_crawl_restaurants] retrieved ${restaurants.length} restaurants`);
+      // Crawl each restaurant's website with concurrency limit and sliding timeout
+      const MAX_CONCURRENCY = 3;
+      const CRAWL_TIMEOUT_MS = 60000; // 1 minute sliding window
+      let deadline = Date.now() + CRAWL_TIMEOUT_MS;
+      async function crawlRestaurants(): Promise<Array<{ id: string; urls: string[] }>> {
+        const results: Array<{ id: string; urls: string[] }> = [];
+        for (let i = 0; i < restaurants.length; i += MAX_CONCURRENCY) {
+          if (Date.now() > deadline) {
+            console.log(`[find_and_crawl_restaurants] timeout reached after processing ${results.length} restaurants`);
+            break;
           }
-          return { id: r.id, urls: [] };
-        })
-      );
+          const batch = restaurants.slice(i, i + MAX_CONCURRENCY);
+          const batchResults = await Promise.all(batch.map(async r => {
+            if (r.web) {
+              try {
+                const data = await listDomainUrls(r.web, { filterMode: 'none' });
+                const urls = data.filteredUrls.length > 0 ? data.filteredUrls : [];
+                urls.unshift(r.web);
+                return { id: r.id, urls };
+              } catch {
+                return { id: r.id, urls: [] };
+              }
+            }
+            return { id: r.id, urls: [] };
+          }));
+          results.push(...batchResults);
+          console.log(`[find_and_crawl_restaurants] processed batch ${Math.floor(i/MAX_CONCURRENCY)+1}/${Math.ceil(restaurants.length/MAX_CONCURRENCY)} – total processed ${results.length}`);
+          // reset deadline on progress
+          deadline = Date.now() + CRAWL_TIMEOUT_MS;
+        }
+        return results;
+      }
+      const urlsByRestaurant = await crawlRestaurants();
+      console.log(`[find_and_crawl_restaurants] crawling completed, sending response`);
       return {
         content: [
           {
