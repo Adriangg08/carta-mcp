@@ -212,8 +212,8 @@ export async function listDomainUrls(
   const externalUrls = new Set<string>();
   
   // Cola de URLs para procesar
-  const urlQueue: Array<{ url: string; depth: number }> = [
-    { url: baseUrl.toString(), depth: 0 }
+  const urlQueue: Array<{ url: string; depth: number; noDepthLimit?: boolean }> = [
+    { url: baseUrl.toString(), depth: 0, noDepthLimit: false }
   ];
   
   // URLs ya visitadas
@@ -236,7 +236,7 @@ export async function listDomainUrls(
     }
     
     // Tomar un lote de URLs para procesar en paralelo
-    const batch: Array<{ url: string; depth: number }> = [];
+    const batch: Array<{ url: string; depth: number; noDepthLimit?: boolean }> = [];
     for (let i = 0; i < batchSize && urlQueue.length > 0; i++) {
       const item = urlQueue.shift();
       if (item) {
@@ -245,9 +245,9 @@ export async function listDomainUrls(
     }
     
     // Procesar el lote en paralelo
-    await Promise.all(batch.map(async ({ url, depth }) => {
-      // Si ya visitamos esta URL o excedimos la profundidad, saltar
-      if (visitedUrls.has(url) || depth >= maxDepth) {
+    await Promise.all(batch.map(async ({ url, depth, noDepthLimit = false }) => {
+      // Skip if visited or beyond depth limit (unless infinite depth)
+      if (visitedUrls.has(url) || (!noDepthLimit && depth >= maxDepth)) {
         return;
       }
       
@@ -342,9 +342,12 @@ export async function listDomainUrls(
               if (!foundUrls.has(linkUrl.toString())) {
                 foundUrls.add(linkUrl.toString());
                 
+                // Determine if this branch gets infinite depth
+                const nextNoDepthLimit = noDepthLimit || cartaPathPatterns.some(pattern => pattern.test(linkUrl.pathname));
+                
                 // Añadir a la cola para procesar si no excedemos la profundidad
-                if (depth + 1 < maxDepth) {
-                  urlQueue.push({ url: linkUrl.toString(), depth: depth + 1 });
+                if (nextNoDepthLimit || depth + 1 < maxDepth) {
+                  urlQueue.push({ url: linkUrl.toString(), depth: depth + 1, noDepthLimit: nextNoDepthLimit });
                 }
               }
             } else if (includeExternalLinks) {
@@ -388,6 +391,20 @@ export async function listDomainUrls(
       return true;
     });
   }
+  
+  // Ordenar las URLs por subruta (primer segmento) y luego alfabéticamente
+  filteredUrls.sort((a, b) => {
+    const aPath = new URL(a).pathname.split('/').filter(Boolean);
+    const bPath = new URL(b).pathname.split('/').filter(Boolean);
+    const aSub = aPath[0] || '';
+    const bSub = bPath[0] || '';
+    if (aSub < bSub) return -1;
+    if (aSub > bSub) return 1;
+    // mismo subruta, ordenar por URL completa
+    if (a < b) return -1;
+    if (a > b) return 1;
+    return 0;
+  });
   
   return {
     domain: baseDomain,

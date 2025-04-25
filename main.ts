@@ -190,5 +190,61 @@ server.tool(
   }
 );
 
+// Register the combined restaurant and crawling tool
+server.tool(
+  "find_and_crawl_restaurants",
+  {
+    location: z.string().min(1, "Location is required"),
+    limit: z.number().optional().default(20),
+  },
+  async (args) => {
+    try {
+      const restaurants = await searchGooglePlaces({
+        location: args.location,
+        limit: args.limit,
+        apiKey: googleApiKey
+      });
+      // Crawl each restaurant's website
+      const urlsByRestaurant = await Promise.all(
+        restaurants.map(async r => {
+          if (r.web) {
+            try {
+              // Disable filtering to capture all URLs
+              const data = await listDomainUrls(r.web, { filterMode: 'none' });
+              // Include homepage by default
+              const urls = data.filteredUrls.length > 0 ? data.filteredUrls : [];
+              urls.unshift(r.web);
+              return { id: r.id, urls };
+            } catch {
+              return { id: r.id, urls: [] };
+            }
+          }
+          return { id: r.id, urls: [] };
+        })
+      );
+      return {
+        content: [
+          {
+            type: "text",
+            text: JSON.stringify({
+              restaurants,
+              urls_to_scrape: urlsByRestaurant
+            }, null, 2)
+          }
+        ]
+      };
+    } catch (error: any) {
+      return {
+        content: [
+          {
+            type: "text",
+            text: `Error in combined tool: ${error.message}`
+          }
+        ]
+      };
+    }
+  }
+);
+
 // Connect the server to the transport
 await server.connect(transport);
