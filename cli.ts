@@ -149,7 +149,7 @@ async function main() {
 
   // After crawling, scrape pages and parse menus via OpenAI
   console.log("Scraping pages and parsing menus via OpenAI...");
-  const openaiModel = TEST_MODE ? "gpt-4.1-nano" : (process.env.OPENAI_MODEL || "gpt-4");
+  const openaiModel = "gpt-4.1-nano";
   const openai = new OpenAI({ apiKey: openApiKey });
   for (const r of results) {
     if (!r.urlsToScrape || r.urlsToScrape.length === 0) {
