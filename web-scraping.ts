@@ -1,4 +1,5 @@
 import { JSDOM } from "jsdom";
+import puppeteer from 'puppeteer';
 
 /**
  * Función para extraer texto de una página web
@@ -9,15 +10,24 @@ export async function scrapeWebPage(url: string): Promise<{
   links: { url: string; text: string }[];
   metadata: Record<string, string>;
 }> {
-  try {
-    const response = await fetch(url);
-    
-    if (!response.ok) {
-      throw new Error(`Failed to fetch URL: ${response.statusText}`);
+  // Obtener HTML estático o dinámico con Puppeteer si falla
+  async function fetchPageContent(targetUrl: string): Promise<string> {
+    try {
+      const res = await fetch(targetUrl);
+      if (!res.ok) throw new Error(`Fetch error: ${res.statusText}`);
+      return await res.text();
+    } catch {
+      const browser = await puppeteer.launch({ headless: true });
+      const page = await browser.newPage();
+      await page.goto(targetUrl, { waitUntil: 'networkidle2' });
+      const content = await page.content();
+      await browser.close();
+      return content;
     }
-    
-    // Manejar HTML
-    const html = await response.text();
+  }
+  try {
+    // Cargar contenido (estático o dinámico según sea necesario)
+    const html = await fetchPageContent(url);
     const dom = new JSDOM(html);
     const document = dom.window.document;
     
@@ -155,7 +165,7 @@ export async function listDomainUrls(
     /\/(privacy|privacidad|cookies|terms|terminos|condiciones|legal|aviso-legal)/i, // Legal
     /\/(contact|contacto|about|sobre-nosotros|quienes-somos|historia)/i, // Información
     /\/(blog|news|noticias|articulos|articles|press|prensa)/i, // Contenido editorial
-    /\/(shop|tienda|store|cart|carrito|checkout|compra)/i, // Comercio
+    /\/(shop|tienda|store|carrito|checkout|compra)(?:\/|$)/i, // Comercio, excluding cart pages but not '/carta'
     /\/(faq|faqs|help|ayuda|soporte|support)/i, // Ayuda
     /\/(events|eventos|calendar|calendario)/i, // Eventos
     /\/(gallery|galeria|photos|fotos|videos|imagenes)/i, // Multimedia
@@ -380,6 +390,8 @@ export async function listDomainUrls(
   
   // Filtrar las URLs encontradas para la respuesta final
   let filteredUrls = Array.from(foundUrls);
+
+  console.log(`[list_domain_urls] Found ${filteredUrls.length} URLs`);
   
   // Si estamos en modo de filtrado, aplicar filtros adicionales a las URLs encontradas
   if (filterMode !== 'none') {
