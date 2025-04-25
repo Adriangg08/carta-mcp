@@ -104,6 +104,7 @@ async function main() {
   const results: any[] = [];
   async function crawlRestaurant(r: any): Promise<any> {
     const urlsToScrape: string[] = [];
+    let resources: string[] = [];
     if (r.web) {
       console.log(`Crawling ${r.web}...`);
       try {
@@ -114,6 +115,10 @@ async function main() {
           maxDepth: TEST_MODE ? 1 : 4,
           maxUrls: TEST_MODE ? 10 : 50
         });
+        // Collect image/PDF resources
+        const allDataUrls = [...(data.urls || []), ...(data.externalUrls || [])];
+        const resourcePatterns = /\.(jpe?g|png|gif|svg|webp|ico|pdf)$/i;
+        resources = Array.from(new Set(allDataUrls.filter(u => resourcePatterns.test(u))));
         // DEBUG: inspect URLs returned by crawler
         console.log(`listDomainUrls for ${r.nombre} (${r.web}):`);
         console.log(`  filteredUrls: ${data.filteredUrls?.length}`, data.filteredUrls);
@@ -132,7 +137,7 @@ async function main() {
         console.error(`Error crawling ${r.web}: ${err.message}`);
       }
     }
-    return { ...r, urlsToScrape };
+    return { ...r, urlsToScrape, resources };
   }
   for (let i = 0; i < restaurants.length; i += MAX_CONCURRENCY) {
     const batch = restaurants.slice(i, i + MAX_CONCURRENCY);
@@ -149,6 +154,7 @@ async function main() {
   for (const r of results) {
     if (!r.urlsToScrape || r.urlsToScrape.length === 0) {
       r.cartas = null;
+      r.menus = null;
       continue;
     }
     // Scrape and parse via OpenAI
@@ -159,7 +165,7 @@ async function main() {
       const completion = await openai.chat.completions.create({
         model: openaiModel,
         messages: [
-          { role: "system", content: "You are an assistant that transforms raw restaurant menu text into a JSON array called 'cartas'. This array must contain exactly one menu object. That object should have 'nombre' (string), e.g. 'Carta de platos', and 'categorias' (array) listing each category. Each category object must have 'nombre' (string) and 'platos' (array of objects with 'nombre' (string) and 'precios' (array of strings)). Output only valid JSON for the 'cartas' array—no markdown, extra keys, or multiple array elements." },
+          { role: "system", content: "You are an assistant that transforms raw restaurant menu text into a JSON array called 'cartas'. This array should contain one menu object per distinct scraped menu (e.g., 'Carta de platos', 'Carta de vinos'). Each menu object must have 'nombre' (string) and 'categorias' (array). Each category object must have 'nombre' (string) and 'platos' (array of objects with 'nombre' (string) and 'precios' (array of objects with key 'precio' and string value)). Output only valid JSON for the 'cartas' array—no markdown or extra keys." },
           { role: "user", content: "Extract menu JSON from this text:\n" + combinedText }
         ],
         temperature: 0
@@ -199,15 +205,21 @@ async function main() {
             })) || []
           })) || []
         }));
-        r.cartas = cartasArray;
+        const normalizedMenus = cartasArray;
+        const cartasList = normalizedMenus.filter(m => !m.nombre.toLowerCase().includes('menu'));
+        const menusList = normalizedMenus.filter(m => m.nombre.toLowerCase().includes('menu'));
+        r.cartas = cartasList;
+        r.menus = menusList;
       } catch (parseErr: any) {
         console.error(`JSON parse error for ${r.nombre}:`, parseErr.message);
         console.error(`Response was: ${contentStr}`);
         r.cartas = null;
+        r.menus = null;
       }
     } catch (err: any) {
       console.error(`Error fetching/parsing menu for ${r.nombre}:`, err.message || err);
       r.cartas = null;
+      r.menus = null;
     }
   }
   // Write full output to JSON file to avoid console cutoff
