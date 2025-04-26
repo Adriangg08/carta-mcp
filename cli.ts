@@ -1,9 +1,15 @@
 #!/usr/bin/env node
-import { searchGooglePlaces } from "./utils";
+import { searchGooglePlaces, parsePdfTextLines, ParsedMenu } from "./utils";
 import { listDomainUrls, scrapeMultiplePages } from "./web-scraping";
-import { googleApiKey, openApiKey } from "./keys";
 import * as fs from 'fs';
 import OpenAI from "openai";
+import puppeteer from "puppeteer";
+import * as path from "path";
+import { Buffer } from "buffer";
+import dotenv from 'dotenv';
+import pdfParse from "pdf-parse";
+
+dotenv.config();
 
 // Deduplicate URLs by language-agnostic path, preferring '/es' versions
 function dedupeLanguageUrls(urls: string[]): string[] {
@@ -25,7 +31,7 @@ function dedupeLanguageUrls(urls: string[]): string[] {
 
 // Geocode a city to get bounding box viewport for subdivision
 async function geocodeCity(city: string): Promise<{latMin:number; latMax:number; lonMin:number; lonMax:number}> {
-  const geocodeUrl = `https://maps.googleapis.com/maps/api/geocode/json?address=${encodeURIComponent(city)}&key=${googleApiKey}`;
+  const geocodeUrl = `https://maps.googleapis.com/maps/api/geocode/json?address=${encodeURIComponent(city)}&key=${process.env.GOOGLE_API_KEY!}`;
   const res = await fetch(geocodeUrl);
   const data = await res.json();
   if (data.status === 'OK' && data.results?.length) {
@@ -35,8 +41,32 @@ async function geocodeCity(city: string): Promise<{latMin:number; latMax:number;
   throw new Error(`Could not geocode city: ${city}`);
 }
 
+// Helper: screenshot PDF pages and return image buffers
+async function screenshotPdfPages(url: string): Promise<Buffer[]> {
+  const browser = await puppeteer.launch();
+  const page = await browser.newPage();
+  await page.goto(url, { waitUntil: 'networkidle2' });
+  const img = await page.screenshot({ fullPage: true });
+  const screenshot = Buffer.from(img as Uint8Array);
+  await browser.close();
+  return [screenshot];
+}
+
 async function main() {
   const startTime = Date.now();
+
+  // Prepare cache directories
+  const cacheDir = 'cache';
+  const cityCacheDir = path.join(cacheDir, 'cities');
+  const gridCacheDir = path.join(cacheDir, 'grid');
+  if (!fs.existsSync(cacheDir)) fs.mkdirSync(cacheDir);
+  if (!fs.existsSync(cityCacheDir)) fs.mkdirSync(cityCacheDir);
+  if (!fs.existsSync(gridCacheDir)) fs.mkdirSync(gridCacheDir);
+  // Prepare final output cache
+  const outputCacheDir = path.join(cacheDir, 'results');
+  if (!fs.existsSync(outputCacheDir)) fs.mkdirSync(outputCacheDir);
+  // Derive zone key from cities list
+  const safeZone = ["Oviedo, Spain"].map(c => c.replace(/[^a-z0-9]/gi, '_').toLowerCase()).join('-');
 
   // Hybrid collection: by cities and grid to cover Spain
   // const cities = ["Madrid, Spain", "Barcelona, Spain", "Valencia, Spain", "Seville, Spain", "Zaragoza, Spain"];
@@ -46,28 +76,36 @@ async function main() {
   const idMap = new Map<string, any>();
   console.log("Collecting restaurants by city...");
   for (const city of cities) {
-    console.log(`Searching in ${city}...`);
-    let cityResults = await searchGooglePlaces({ location: city, limit: perCityLimit, apiKey: googleApiKey });
-    // Subdivide if at API max
-    const PLACE_API_MAX = 60;
-    if (cityResults.length >= PLACE_API_MAX) {
-      console.log(`${city} returned ${cityResults.length} (API limit). Subdividing area...`);
-      const bounds = await geocodeCity(city);
-      const stepCity = 0.05;
-      let subdivRes: any[] = [];
-      for (let lat = bounds.latMin; lat <= bounds.latMax; lat += stepCity) {
-        for (let lon = bounds.lonMin; lon <= bounds.lonMax; lon += stepCity) {
-          console.log(`Sub-search at ${lat.toFixed(4)},${lon.toFixed(4)}...`);
-          const sub = await searchGooglePlaces({ location: `${lat},${lon}`, limit: perCityLimit, apiKey: googleApiKey });
-          console.log(`Sub-search returned ${sub.length} restaurants`);
-          subdivRes.push(...sub);
+    const safeCity = city.replace(/[^a-z0-9]/gi, '_').toLowerCase();
+    const cityFile = path.join(cityCacheDir, `${safeCity}.json`);
+    let cityResults: any[];
+    if (fs.existsSync(cityFile)) {
+      console.log(`Loading cached city results for ${city} from ${cityFile}`);
+      cityResults = JSON.parse(fs.readFileSync(cityFile, 'utf8'));
+    } else {
+      console.log(`Searching in ${city}...`);
+      cityResults = await searchGooglePlaces({ location: city, limit: perCityLimit, apiKey: process.env.GOOGLE_API_KEY! });
+      const PLACE_API_MAX = 60;
+      if (cityResults.length >= PLACE_API_MAX) {
+        console.log(`${city} returned ${cityResults.length} (API limit). Subdividing area...`);
+        const bounds = await geocodeCity(city);
+        const stepCity = 0.05;
+        let subdivRes: any[] = [];
+        for (let lat = bounds.latMin; lat <= bounds.latMax; lat += stepCity) {
+          for (let lon = bounds.lonMin; lon <= bounds.lonMax; lon += stepCity) {
+            console.log(`Sub-search at ${lat.toFixed(4)},${lon.toFixed(4)}...`);
+            const sub = await searchGooglePlaces({ location: `${lat},${lon}`, limit: perCityLimit, apiKey: process.env.GOOGLE_API_KEY! });
+            console.log(`Sub-search returned ${sub.length} restaurants`);
+            subdivRes.push(...sub);
+          }
         }
+        const tmp = new Map<string, any>();
+        for (const r of [...cityResults, ...subdivRes]) tmp.set(r.id, r);
+        cityResults = Array.from(tmp.values());
+        console.log(`After subdivision, ${cityResults.length} unique restaurants in ${city}`);
       }
-      // Merge and dedupe
-      const tmp = new Map<string, any>();
-      for (const r of [...cityResults, ...subdivRes]) tmp.set(r.id, r);
-      cityResults = Array.from(tmp.values());
-      console.log(`After subdivision, ${cityResults.length} unique restaurants in ${city}`);
+      fs.writeFileSync(cityFile, JSON.stringify(cityResults, null, 2));
+      console.log(`Saved city cache to ${cityFile}`);
     }
     for (const r of cityResults) idMap.set(r.id, r);
     console.log(`Unique restaurants so far: ${idMap.size}`);
@@ -84,9 +122,19 @@ async function main() {
     for (let lon = lonMin; lon <= lonMax; lon += step) {
       coordCount++;
       const loc = `${lat},${lon}`;
-      console.log(`Searching at ${loc}...`);
-      const gridLimit = TEST_MODE ? 5 : 100;
-      const gridResults = await searchGooglePlaces({ location: loc, limit: gridLimit, apiKey: googleApiKey });
+      const coordKey = `${lat.toFixed(4)}_${lon.toFixed(4)}`;
+      const gridFile = path.join(gridCacheDir, `${coordKey}.json`);
+      let gridResults: any[];
+      if (fs.existsSync(gridFile)) {
+        console.log(`Loading cached grid results for ${coordKey} from ${gridFile}`);
+        gridResults = JSON.parse(fs.readFileSync(gridFile, 'utf8'));
+      } else {
+        console.log(`Searching at ${loc}...`);
+        const gridLimit = TEST_MODE ? 5 : 100;
+        gridResults = await searchGooglePlaces({ location: loc, limit: gridLimit, apiKey: process.env.GOOGLE_API_KEY! });
+        fs.writeFileSync(gridFile, JSON.stringify(gridResults, null, 2));
+        console.log(`Saved grid cache to ${gridFile}`);
+      }
       for (const r of gridResults) {
         idMap.set(r.id, r);
       }
@@ -149,86 +197,199 @@ async function main() {
 
   // After crawling, scrape pages and parse menus via OpenAI
   console.log("Scraping pages and parsing menus via OpenAI...");
-  const openaiModel = "gpt-4.1-nano";
-  const openai = new OpenAI({ apiKey: openApiKey });
-  for (const r of results) {
-    if (!r.urlsToScrape || r.urlsToScrape.length === 0) {
+  const openaiModel = process.env.OPENAI_MODEL || "gpt-4.1-nano";
+  const visionModel = process.env.OPENAI_IMAGE_MODEL || "gpt-4o-mini";
+  const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY! });
+  const ENABLE_IMAGE_PROCESSING = process.env.ENABLE_IMAGE_PROCESSING === 'true';
+  const ENABLE_PDF_SCREENSHOT = process.env.ENABLE_PDF_SCREENSHOT === 'true';
+  const ENABLE_PDF_TEXT = process.env.ENABLE_PDF_TEXT === 'true';
+  const ENABLE_OPENAI_PROCESSING = process.env.ENABLE_OPENAI_PROCESSING === 'true';
+
+  // Conditional OpenAI processing
+  if (!ENABLE_OPENAI_PROCESSING) {
+    console.log("Skipping OpenAI processing (ENABLE_OPENAI_PROCESSING=false).");
+    for (const r of results) {
       r.cartas = null;
       r.menus = null;
-      continue;
     }
-    // Scrape and parse via OpenAI
-    try {
-      const { pages } = await scrapeMultiplePages(r.urlsToScrape);
-      const combinedText = pages.map(p => p.text).join("\n");
-      // Use official OpenAI SDK
-      const completion = await openai.chat.completions.create({
-        model: openaiModel,
-        messages: [
-          { role: "system", content: "You are an assistant that transforms raw restaurant menu text into a JSON array called 'cartas'. This array should contain one menu object per distinct scraped menu (e.g., 'Carta de platos', 'Carta de vinos'). Each menu object must have 'nombre' (string) and 'categorias' (array). Each category object must have 'nombre' (string) and 'platos' (array of objects with 'nombre' (string) and 'precios' (array of objects with key 'precio' and string value)). Output only valid JSON for the 'cartas' array—no markdown or extra keys." },
-          { role: "user", content: "Extract menu JSON from this text:\n" + combinedText }
-        ],
-        temperature: 0
-      });
-      let contentStr = completion.choices?.[0]?.message?.content || "";
-      // Strip markdown fences if present
-      contentStr = contentStr.trim();
-      if (contentStr.startsWith("```")) {
-        contentStr = contentStr.replace(/^```(?:json)?\n?/, "").replace(/```$/, "").trim();
+  } else {
+    for (const r of results) {
+      if (!r.urlsToScrape || r.urlsToScrape.length === 0) {
+        r.cartas = null;
+        r.menus = null;
+        continue;
       }
-      // Parse JSON safely
+      // Scrape and parse via OpenAI
       try {
-        const parsed = JSON.parse(contentStr);
-        // Flatten if wrapped in an object with 'cartas'
-        let cartasArray: any[] = [];
-        if (Array.isArray(parsed)) {
-          cartasArray = parsed;
-        } else if (parsed.cartas && Array.isArray(parsed.cartas)) {
-          cartasArray = parsed.cartas;
+        const { pages } = await scrapeMultiplePages(r.urlsToScrape);
+        const combinedText = pages.map(p => p.text).join("\n");
+        // Use official OpenAI SDK
+        const completion = await openai.chat.completions.create({
+          model: openaiModel,
+          messages: [
+            { role: "system", content: "You are an assistant that transforms raw restaurant menu text into a JSON array called 'cartas'. This array should contain one menu object per distinct scraped menu (e.g., 'Carta de platos', 'Carta de vinos'). Each menu object must have 'nombre' (string) and 'categorias' (array). Each category object must have 'nombre' (string) and 'platos' (array of objects with 'nombre' (string) and 'precios' (array of objects with key 'precio' and string value)). Output only valid JSON for the 'cartas' array—no markdown or extra keys." },
+            { role: "user", content: "Extract menu JSON from this text:\n" + combinedText }
+          ],
+          temperature: 0
+        });
+        let contentStr = completion.choices?.[0]?.message?.content || "";
+        // Strip markdown fences if present
+        contentStr = contentStr.trim();
+        if (contentStr.startsWith("```")) {
+          contentStr = contentStr.replace(/^```(?:json)?\n?/, "").replace(/```$/, "").trim();
         }
-        // Normalize 'precios' field for each dish
-        cartasArray = cartasArray.map(menu => ({
-          ...menu,
-          categorias: menu.categorias?.map((category: any) => ({
-            ...category,
-            platos: category.platos?.map((item: any) => ({
-              nombre: item.nombre,
-              precios: Array.isArray(item.precios)
-                ? item.precios.map((p: any) => typeof p === 'string' ? { precio: p } : p)
-                : item.precios && typeof item.precios === 'string'
-                  ? [{ precio: item.precios }]
-                  : Array.isArray(item.precio)
-                    ? item.precio.map((p: any) => ({ precio: p }))
-                    : item.precio && typeof item.precio === 'string'
-                      ? [{ precio: item.precio }]
-                      : []
+        // Parse JSON safely
+        try {
+          const parsed = JSON.parse(contentStr);
+          // Flatten if wrapped in an object with 'cartas'
+          let cartasArray: any[] = [];
+          if (Array.isArray(parsed)) {
+            cartasArray = parsed;
+          } else if (parsed.cartas && Array.isArray(parsed.cartas)) {
+            cartasArray = parsed.cartas;
+          }
+          // Normalize 'precios' field for each dish
+          let normalizedMenus = cartasArray.map(menu => ({
+            ...menu,
+            categorias: menu.categorias?.map((category: any) => ({
+              ...category,
+              platos: category.platos?.map((item: any) => ({
+                nombre: item.nombre,
+                precios: Array.isArray(item.precios)
+                  ? item.precios.map((p: any) => typeof p === 'string' ? { precio: p } : p)
+                  : item.precios && typeof item.precios === 'string'
+                    ? [{ precio: item.precios }]
+                    : Array.isArray(item.precio)
+                      ? item.precio.map((p: any) => ({ precio: p }))
+                      : item.precio && typeof item.precio === 'string'
+                        ? [{ precio: item.precio }]
+                        : []
+              })) || []
             })) || []
-          })) || []
-        }));
-        const normalizedMenus = cartasArray;
-        const cartasList = normalizedMenus.filter(m => !m.nombre.toLowerCase().includes('menu'));
-        const menusList = normalizedMenus.filter(m => m.nombre.toLowerCase().includes('menu'));
-        r.cartas = cartasList;
-        r.menus = menusList;
-      } catch (parseErr: any) {
-        console.error(`JSON parse error for ${r.nombre}:`, parseErr.message);
-        console.error(`Response was: ${contentStr}`);
+          }));
+          // Optional image processing
+          if (ENABLE_IMAGE_PROCESSING) {
+            const imageUrls = (r.resources || []).filter(u => /\.(jpe?g|png|gif|svg|webp|ico)$/i.test(u));
+            if (imageUrls.length) {
+              const imageMenus: any[] = [];
+              for (const imageUrl of imageUrls) {
+                try {
+                  const imgCompletion = await openai.chat.completions.create({
+                    model: visionModel,
+                    messages: [
+                      { role: "system", content: "Extract restaurant menu from this image and output a JSON array 'cartas' with the same structure: each object with 'nombre', 'categorias' and 'platos'. Only valid JSON." },
+                      { role: "user", content: [ { type: "text", text: "Extract menu JSON from this image" }, { type: "image_url", image_url: { url: imageUrl } } ] }
+                    ],
+                    temperature: 0
+                  });
+                  const imgText = imgCompletion.choices?.[0]?.message?.content;
+                  let imgContentStr = imgText?.trim() || "";
+                  if (imgContentStr.startsWith("```")) {
+                    imgContentStr = imgContentStr.replace(/^```(?:json)?\n?/, "").replace(/```$/, "").trim();
+                  }
+                  const parsedImg = JSON.parse(imgContentStr);
+                  const imgCartasArray = Array.isArray(parsedImg) ? parsedImg : (parsedImg.cartas || []);
+                  imageMenus.push(...imgCartasArray);
+                } catch (err: any) {
+                  console.error(`Image parse error for ${r.nombre} at ${imageUrl}:`, err.message);
+                }
+              }
+              normalizedMenus = normalizedMenus.concat(imageMenus);
+            }
+          }
+          // Optional PDF screenshot processing
+          if (ENABLE_PDF_SCREENSHOT) {
+            const pdfUrls = (r.resources || []).filter(u => /\.pdf$/i.test(u));
+            for (const pdfUrl of pdfUrls) {
+              try {
+                const buffers = await screenshotPdfPages(pdfUrl);
+                const dir = "pdf_screenshots";
+                if (!fs.existsSync(dir)) fs.mkdirSync(dir);
+                buffers.forEach((buffer, idx) => {
+                  const nameSafe = r.nombre.replace(/[^a-z0-9]/gi, "_").toLowerCase();
+                  const fileName = `${nameSafe}_${idx}.png`;
+                  const filePath = path.join(dir, fileName);
+                  fs.writeFileSync(filePath, buffer);
+                  console.log(`Saved PDF screenshot ${idx} for ${r.nombre} to ${filePath}`);
+                });
+              } catch (err: any) {
+                console.error(`PDF screenshot error for ${r.nombre} at ${pdfUrl}:`, err.message);
+              }
+            }
+          }
+          const cartasList = normalizedMenus.filter(m => !m.nombre.toLowerCase().includes('menu'));
+          const menusList = normalizedMenus.filter(m => m.nombre.toLowerCase().includes('menu'));
+          r.cartas = cartasList;
+          r.menus = menusList;
+        } catch (parseErr: any) {
+          console.error(`JSON parse error for ${r.nombre}:`, parseErr.message);
+          console.error(`Response was: ${contentStr}`);
+          r.cartas = null;
+          r.menus = null;
+        }
+      } catch (err: any) {
+        console.error(`Error fetching/parsing menu for ${r.nombre}:`, err.message || err);
         r.cartas = null;
         r.menus = null;
       }
-    } catch (err: any) {
-      console.error(`Error fetching/parsing menu for ${r.nombre}:`, err.message || err);
-      r.cartas = null;
-      r.menus = null;
+    }
+  } // End conditional OpenAI processing
+
+  // Always extract and parse PDF text regardless of OpenAI processing toggle
+  if (ENABLE_PDF_TEXT) {
+    for (const r of results) {
+      const pdfUrlsText = (r.resources || []).filter(u => /\.pdf$/i.test(u) && /^https?:\/\//i.test(u));
+      console.log(`Extracting and parsing text from ${pdfUrlsText.length} PDFs for ${r.nombre}...`);
+      const dirText = 'pdf_texts';
+      if (!fs.existsSync(dirText)) fs.mkdirSync(dirText);
+      const allParsed: ParsedMenu[] = [];
+      for (const pdfUrl of pdfUrlsText) {
+        try {
+          const res = await fetch(pdfUrl);
+          const arrayBuffer = await res.arrayBuffer();
+          const pdfBuffer = Buffer.from(arrayBuffer);
+          const { text: pdfText } = await pdfParse(pdfBuffer);
+          // Clean extracted text
+          const cleanedText = pdfText
+            .split('\n')
+            .map(line => line.replace(/\s+/g, ' ').trim())
+            .filter(line => line.length > 0)
+            .join('\n');
+          const nameSafe = r.nombre.replace(/[^a-z0-9]/gi, "_").toLowerCase();
+          const filePath = path.join(dirText, `${nameSafe}.txt`);
+          fs.writeFileSync(filePath, cleanedText, 'utf8');
+          console.log(`Saved cleaned PDF text for ${r.nombre} to ${filePath}`);
+          // Derive default title from PDF filename
+          const pathname = new URL(pdfUrl).pathname;
+          const fileBase = path.basename(pathname, path.extname(pathname));
+          const defaultTitle = fileBase.replace(/[-_]/g, ' ').trim();
+          // Parse cleaned text lines into menus
+          const parsed = parsePdfTextLines(cleanedText.split('\n'), defaultTitle);
+          if (parsed.length) allParsed.push(...parsed);
+        } catch (err: any) {
+          console.error(`PDF text extraction error for ${r.nombre} at ${pdfUrl}:`, err.message);
+        }
+      }
+      // Assign parsed menus to restaurant object
+      r.cartas = allParsed.filter(m => !m.nombre.toLowerCase().includes('menu'));
+      r.menus = allParsed.filter(m => m.nombre.toLowerCase().includes('menu'));
     }
   }
+
   // Write full output to JSON file to avoid console cutoff
-  const output = { restaurants: results };
-  const filePath = 'output.json';
-  fs.writeFileSync(filePath, JSON.stringify(output, null, 2));
-  console.log(`Output saved to ${filePath}`);
+  const cacheOutputFile = path.join(outputCacheDir, `${safeZone}.json`);
+  fs.writeFileSync(cacheOutputFile, JSON.stringify({ restaurants: results }, null, 2));
+  console.log(`Saved final results to ${cacheOutputFile}`);
   const elapsedMs = Date.now() - startTime;
   console.log(`Total execution time: ${(elapsedMs/1000).toFixed(2)}s`);
+
+  // Save parsed PDF menus for review
+  if (ENABLE_PDF_TEXT) {
+    const pdfParsedOutput = results.map(r => ({ nombre: r.nombre, cartas: r.cartas }));
+    const pdfFile = 'pdf_parsed.json';
+    fs.writeFileSync(pdfFile, JSON.stringify(pdfParsedOutput, null, 2));
+    console.log(`Parsed PDF data saved to ${pdfFile}`);
+  }
 }
 
 main().catch(err => {

@@ -1,0 +1,158 @@
+{
+  "restaurants": [
+    {
+      "id": "ChIJydMucwCNNg0RSDGAlT0CtWo",
+      "nombre": "Oviedo",
+      "direccion": "33003 Oviedo, Asturias, Spain",
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "id": "ChIJhTIkJOWMNg0RQG5CiwtyOnk",
+      "nombre": "Starbucks",
+      "direccion": "Pl. Escandalera, 1, 33007 Oviedo, Asturias, Spain",
+      "telefono": "984 75 04 41",
+      "web": "http://www.starbucks.es/",
+      "urlsToScrape": [
+        "http://www.starbucks.es/article/896/seminarios-de-cafe-abril",
+        "http://www.starbucks.es/bebidas-spring-2025",
+        "http://www.starbucks.es/bebidas-te",
+        "http://www.starbucks.es/carta",
+        "http://www.starbucks.es/carta/bebidas",
+        "http://www.starbucks.es/carta/bebidas/bebidas-espresso",
+        "http://www.starbucks.es/carta/bebidas/chocolates",
+        "http://www.starbucks.es/carta/bebidas/frappuccino-cafe",
+        "http://www.starbucks.es/carta/bebidas/frappuccino-crema",
+        "http://www.starbucks.es/carta/bebidas/refresha",
+        "http://www.starbucks.es/carta/comidas",
+        "http://www.starbucks.es/carta/comidas/bolleria",
+        "http://www.starbucks.es/carta/comidas/ensaladas",
+        "http://www.starbucks.es/carta/comidas/muffins",
+        "http://www.starbucks.es/carta/comidas/sandwiches-bocadillos",
+        "http://www.starbucks.es/carta/comidas/sin-gluten",
+        "http://www.starbucks.es/carta/comidas/tartas",
+        "http://www.starbucks.es/carta/comidas/tostadas",
+        "http://www.starbucks.es/nuestro-cafe",
+        "http://www.starbucks.es/nuestro-cafe/como-elaborar"
+      ],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "id": "ChIJdyMk7z-NNg0RmyjqHGLI5aI",
+      "nombre": "PASAJE CAFÉ",
+      "direccion": "Pje. Plácido Álvarez Buylla, 33003 Oviedo, Asturias, Spain",
+      "web": "https://ufv9.adj.st/?adjust_deeplink=glovoapp%3A%2F%2Fopen%3Flink_type%3Dstore%26store_id%3D422518&adjust_t=s321jkn",
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "id": "ChIJ7-wAMrGNNg0R-pZKT-6Zc5Q",
+      "nombre": "Santagloria Coffee & Bakery",
+      "direccion": "C. Uría, 14, 33003 Oviedo, Asturias, Spain",
+      "telefono": "984 34 03 00",
+      "web": "http://www.santagloria.com/",
+      "urlsToScrape": [
+        "https://www.santagloria.com/ca/carta",
+        "https://www.santagloria.com/carta/bolleria-dulce",
+        "https://www.santagloria.com/carta/bolleria-salada",
+        "https://www.santagloria.com/carta/cafes-y-bebidas",
+        "https://www.santagloria.com/carta/comidas",
+        "https://www.santagloria.com/carta/panes",
+        "https://www.santagloria.com/carta/pasteleria",
+        "https://www.santagloria.com/carta/santas-y-glorias",
+        "https://www.santagloria.com/en/menu"
+      ],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "id": "ChIJzysnXZyNNg0R7yOITRnnCKc",
+      "nombre": "Restaurante La Corte de Pelayo",
+      "direccion": "Calle San Francisco, C. Fruela, 21 Esquina, 33003 Oviedo, Asturias, Spain",
+      "telefono": "985 21 31 45",
+      "web": "http://www.lacortedepelayo.com/",
+      "urlsToScrape": [
+        "http://www.lacortedepelayo.com/carta",
+        "https://lacortedepelayo.com/carta-y-vinos/",
+        "https://lacortedepelayo.com/wp-content/uploads/2024/11/CARTA-VINOS.pdf"
+      ],
+      "resources": [
+        "https://lacortedepelayo.com/wp-content/uploads/2024/11/CARTA-VINOS.pdf"
+      ],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "id": "ChIJp9Cy_0KTNg0RnH74GNqO6eE",
+      "nombre": "Parrilla Sidrería El Bodegón de Trubia",
+      "direccion": "Caserio Bosque,trubia, 16, 33100 Trubia, Asturias, Spain",
+      "telefono": "985 78 62 52",
+      "web": "https://www.facebook.com/profile.php?id=100089778267574&mibextid=LQQJ4d",
+      "urlsToScrape": [
+        "https://www.facebook.com/recover/initiate?ars=royal_blue_bar"
+      ],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "id": "ChIJZxTH_UKTNg0ROneWOXCnubQ",
+      "nombre": "Sidreria el Bosque",
+      "direccion": "Oviedo Asturias ES, Lugar El Bosque, 14, Sidreria, 33100 El Bosque, Asturias, Spain",
+      "telefono": "984 28 24 64",
+      "web": "http://www.elbosque14.com/",
+      "urlsToScrape": [
+        "https://www.elbosque14.com/carta/",
+        "https://www.elbosque14.com/nuestracocina/"
+      ],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "id": "ChIJScREV4_2Ng0R5op3THOjM4E",
+      "nombre": "Restaurante Casa Puyo",
+      "direccion": "C. Aviles, 10, BAJO, 33100 Trubia, Asturias, Spain",
+      "telefono": "985 78 42 11",
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "id": "ChIJG7xBxjrtNg0RVC9CikPntIE",
+      "nombre": "Restaurante Casa Eleuterio",
+      "direccion": "Lugar La Rienda, 33, 33174 Caces, Asturias, Spain",
+      "telefono": "985 79 80 08",
+      "web": "https://www.facebook.com/CasaEleuterio",
+      "urlsToScrape": [
+        "https://www.facebook.com/recover/initiate?ars=royal_blue_bar"
+      ],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "id": "ChIJpU-SsR6TNg0R3C6w09AOamk",
+      "nombre": "Pedro Martino | Restaurante & Catering en Oviedo - Asturias",
+      "direccion": "La Rienda, 14, 33174 Caces, Asturias, Spain",
+      "telefono": "684 60 33 84",
+      "web": "https://pedromartino.es/",
+      "urlsToScrape": [
+        "https://pedromartino.es/carta/",
+        "https://pedromartino.es/carta/vinos",
+        "https://pedromartino.es/curso-cocina-oviedo-asturias/"
+      ],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    }
+  ]
+}

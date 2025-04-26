@@ -91,3 +91,42 @@ export async function searchGooglePlaces(params: { location: string; limit?: num
       throw new Error(error.message || 'Failed to process place search');
     }
   }
+
+// Interfaces for PDF parsing
+export interface Dish { nombre: string; precio: string; }
+// Updated to support optional categorization
+export interface Category { nombre: string; platos: Dish[]; }
+export interface ParsedMenu { nombre: string; platos?: Dish[]; categorias?: Category[]; }
+
+/**
+ * Parse cleaned PDF text lines into menu sections.
+ */
+export function parsePdfTextLines(lines: string[], defaultTitle?: string): ParsedMenu[] {
+  // Temporary internal type where platos is always defined
+  type RawMenu = { nombre: string; platos: Dish[] };
+  const rawMenus: RawMenu[] = [];
+  let current: RawMenu | null = null;
+  const priceRe = /^\d+([.,]\d+)?$/;
+  for (let i = 0; i < lines.length; i++) {
+    const L = lines[i];
+    // New category header (uppercase)
+    if (/^[A-ZÁÉÍÓÚÑ ]{2,}$/.test(L)) {
+      current = { nombre: L, platos: [] };
+      rawMenus.push(current);
+    } else if (current && priceRe.test(L)) {
+      // Price line → previous line is dish name
+      const nameLine = lines[i - 1] || '';
+      current.platos.push({ nombre: nameLine.trim(), precio: L.trim() });
+    }
+  }
+  // Filter categories with at least one dish
+  const validCategories = rawMenus.filter(m => m.platos.length > 0);
+  // Group into single Carta de Vinos if multiple categories and none include 'menu' or 'carta'
+  if (validCategories.length > 1 && validCategories.every(m => !/menu/i.test(m.nombre) && !/carta/i.test(m.nombre))) {
+    const categorias: Category[] = validCategories.map(m => ({ nombre: m.nombre, platos: m.platos }));
+    // Use provided title or fallback
+    return [{ nombre: defaultTitle ?? 'Carta de Vinos', categorias }];
+  }
+  // Otherwise return each category as separate menu
+  return validCategories.map(m => ({ nombre: m.nombre, platos: m.platos }));
+}
