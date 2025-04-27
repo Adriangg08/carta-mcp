@@ -1,96 +1,101 @@
+import * as fs from 'fs';
+import OpenAI from 'openai';
+import * as path from 'path';
+import pdfParse from 'pdf-parse';
+
 // Function to search for restaurants using Google Maps API
 export async function searchGooglePlaces(params: { location: string; limit?: number; apiKey: string }): Promise<any[]> {
-    const { location, limit = 20, apiKey } = params;
-  
-    if (!apiKey) {
-      throw new Error('Missing API Key');
-    }
-    
-    if (!location) {
-      throw new Error('Location parameter is required');
-    }
-  
-    try {
-      // Resolve coordinates: if location is lat,lng skip geocoding
-      let lat: number; let lng: number;
-      const coordMatch = location.trim().match(/^(-?\d+(?:\.\d+)?),(-?\d+(?:\.\d+)?)$/);
-      if (coordMatch) {
-        lat = parseFloat(coordMatch[1]);
-        lng = parseFloat(coordMatch[2]);
-      } else {
-        // PASO 1: Geocoding (Location -> Coordinates)
-        const geocodeUrl = `https://maps.googleapis.com/maps/api/geocode/json?address=${encodeURIComponent(location)}&key=${apiKey}`;
-        const geocodeResponse = await fetch(geocodeUrl);
-        if (!geocodeResponse.ok) {
-          throw new Error(`Geocoding API request failed: ${geocodeResponse.statusText}`);
-        }
-        const geocodeData = await geocodeResponse.json();
-        if (geocodeData.status !== 'OK' || !geocodeData.results || geocodeData.results.length === 0) {
-          throw new Error(`Could not geocode location: ${location}. Status: ${geocodeData.status}`);
-        }
-        ({ lat, lng } = geocodeData.results[0].geometry.location);
-      }
+  const { location, limit = 20, apiKey } = params;
 
-      // PASO 2: Nearby Search (Coordinates -> Places) with pagination
-      const allResults: any[] = [];
-      let pageToken: string | undefined;
-      do {
-        const url = pageToken
-          ? `https://maps.googleapis.com/maps/api/place/nearbysearch/json?pagetoken=${pageToken}&key=${apiKey}`
-          : `https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=${lat},${lng}&rankby=distance&type=restaurant&key=${apiKey}`;
-        if (pageToken) await new Promise(res => setTimeout(res, 2000));
-        const responsePage = await fetch(url);
-        if (!responsePage.ok) {
-          throw new Error(`Nearby Search API request failed: ${responsePage.statusText}`);
-        }
-        const dataPage = await responsePage.json();
-        if (dataPage.status !== 'OK' && dataPage.status !== 'ZERO_RESULTS') {
-          throw new Error(`Nearby Search failed. Status: ${dataPage.status}`);
-        }
-        allResults.push(...(dataPage.results || []));
-        pageToken = dataPage.next_page_token;
-      } while (pageToken && allResults.length < limit);
-      // Limitar resultados antes de obtener detalles
-      const limitedResults = allResults.slice(0, limit);
-
-      // PASO 3: Place Details (Place ID -> Details)
-      const detailedResults: any[] = [];
-      
-      for (const place of limitedResults) {
-        if (!place.place_id) continue;
-
-        const detailsUrl = `https://maps.googleapis.com/maps/api/place/details/json?place_id=${place.place_id}&fields=name,formatted_address,website,formatted_phone_number,place_id&key=${apiKey}`;
-        
-        try {
-          const detailsResponse = await fetch(detailsUrl);
-          
-          if (!detailsResponse.ok) {
-            continue;
-          }
-          
-          const detailsData = await detailsResponse.json();
-          
-          if (detailsData.status === 'OK' && detailsData.result) {
-            const result = detailsData.result;
-            detailedResults.push({
-              id: result.place_id,
-              nombre: result.name,
-              direccion: result.formatted_address,
-              telefono: result.formatted_phone_number,
-              web: result.website,
-            });
-          }
-        } catch (detailsError) {
-          // Skip this restaurant if there's an error
-        }
-      }
-  
-      return detailedResults;
-  
-    } catch (error: any) {
-      throw new Error(error.message || 'Failed to process place search');
-    }
+  if (!apiKey) {
+    throw new Error('Missing API Key');
   }
+
+  if (!location) {
+    throw new Error('Location parameter is required');
+  }
+
+  try {
+    // Resolve coordinates: if location is lat,lng skip geocoding
+    let lat: number; let lng: number;
+    const coordMatch = location.trim().match(/^(-?\d+(?:\.\d+)?),(-?\d+(?:\.\d+)?)$/);
+    if (coordMatch) {
+      lat = parseFloat(coordMatch[1]);
+      lng = parseFloat(coordMatch[2]);
+    } else {
+      // PASO 1: Geocoding (Location -> Coordinates)
+      const geocodeUrl = `https://maps.googleapis.com/maps/api/geocode/json?address=${encodeURIComponent(location)}&key=${apiKey}`;
+      const geocodeResponse = await fetch(geocodeUrl);
+      if (!geocodeResponse.ok) {
+        throw new Error(`Geocoding API request failed: ${geocodeResponse.statusText}`);
+      }
+      const geocodeData = await geocodeResponse.json();
+      if (geocodeData.status !== 'OK' || !geocodeData.results || geocodeData.results.length === 0) {
+        throw new Error(`Could not geocode location: ${location}. Status: ${geocodeData.status}`);
+      }
+      ({ lat, lng } = geocodeData.results[0].geometry.location);
+    }
+
+    // PASO 2: Nearby Search (Coordinates -> Places) with pagination
+    const allResults: any[] = [];
+    let pageToken: string | undefined;
+    do {
+      const url = pageToken
+        ? `https://maps.googleapis.com/maps/api/place/nearbysearch/json?pagetoken=${pageToken}&key=${apiKey}`
+        : `https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=${lat},${lng}&rankby=distance&type=restaurant&key=${apiKey}`;
+      if (pageToken) await new Promise(res => setTimeout(res, 2000));
+      const responsePage = await fetch(url);
+      if (!responsePage.ok) {
+        throw new Error(`Nearby Search API request failed: ${responsePage.statusText}`);
+      }
+      const dataPage = await responsePage.json();
+      if (dataPage.status !== 'OK' && dataPage.status !== 'ZERO_RESULTS') {
+        throw new Error(`Nearby Search failed. Status: ${dataPage.status}`);
+      }
+      allResults.push(...(dataPage.results || []));
+      pageToken = dataPage.next_page_token;
+    } while (pageToken && allResults.length < limit);
+    // Limitar resultados antes de obtener detalles
+    const limitedResults = allResults.slice(0, limit);
+
+    // PASO 3: Place Details (Place ID -> Details)
+    const detailedResults: any[] = [];
+
+    for (const place of limitedResults) {
+      if (!place.place_id) continue;
+
+      const detailsUrl = `https://maps.googleapis.com/maps/api/place/details/json?place_id=${place.place_id}&fields=name,formatted_address,website,formatted_phone_number,place_id&key=${apiKey}`;
+
+      try {
+        const detailsResponse = await fetch(detailsUrl);
+
+        if (!detailsResponse.ok) {
+          continue;
+        }
+
+        const detailsData = await detailsResponse.json();
+
+        if (detailsData.status === 'OK' && detailsData.result) {
+          const result = detailsData.result;
+          detailedResults.push({
+            id: result.place_id,
+            nombre: result.name,
+            direccion: result.formatted_address,
+            telefono: result.formatted_phone_number,
+            web: result.website,
+          });
+        }
+      } catch (detailsError) {
+        // Skip this restaurant if there's an error
+      }
+    }
+
+    return detailedResults;
+
+  } catch (error: any) {
+    throw new Error(error.message || 'Failed to process place search');
+  }
+}
 
 // Interfaces for PDF parsing
 export interface Dish { nombre: string; precio: string; }
@@ -132,18 +137,14 @@ export function parsePdfTextLines(lines: string[], defaultTitle?: string): Parse
 }
 
 // --- New: TripAdvisor scraping approach ---
-import * as fs from 'fs';
-import * as path from 'path';
-import { listDomainUrls } from './web-scraping';
-import puppeteerExtra from 'puppeteer-extra';
-import StealthPlugin from 'puppeteer-extra-plugin-stealth';
-import dotenv from 'dotenv';
-dotenv.config();
 import axios from 'axios';
 import { Buffer } from 'buffer';
+import dotenv from 'dotenv';
+import puppeteer from 'puppeteer';
+import { listDomainUrls, scrapeMultiplePages } from './web-scraping';
+dotenv.config();
 
 // Configure stealth plugin once
-puppeteerExtra.use(StealthPlugin());
 
 // Advanced scraping helpers: rotate UA and auto-scroll dynamic pages
 const USER_AGENTS = [
@@ -245,7 +246,7 @@ export async function crawlTripAdvisorUrls(
   const listUrl = citySlugOrUrl.startsWith('http')
     ? citySlugOrUrl
     : `https://www.tripadvisor.es/Restaurants-${citySlugOrUrl}.html`;
-  
+
   // Paginate listing pages (30 resultados por página)
   const perPage = 30;
   const id = citySlugOrUrl.split('-')[0];
@@ -281,7 +282,7 @@ export async function crawlTripAdvisorUrls(
 }
 
 // --- New: OSM website lookup (free) ---
-async function getWebsiteFromOSM(name: string, city: string): Promise<string|undefined> {
+async function getWebsiteFromOSM(name: string, city: string): Promise<string | undefined> {
   const resp = await axios.get('https://nominatim.openstreetmap.org/search', {
     params: { format: 'json', extratags: 1, q: `${name} ${city}`.trim() },
     headers: { 'User-Agent': 'carta-mcp' }
@@ -433,16 +434,20 @@ out tags center meta;`;
 // --- New: Fetch restaurant details inside a polygon ---
 /**
  * Fetch raw OSM elements (nodes, ways, relations) with full tags, center coords, and metadata within a polygon.
- * @param polygon Array of [lat,lon] pairs defining the polygon vertices (in order).
+ * @param coordinates Array of [lat,lon] pairs defining the polygon vertices (in order).
  */
 export async function fetchRestaurantDetailsByPolygon(
-  polygon: [number, number][]
+  coordinates: [number, number][],
+  amenities: string[] = ['restaurant']
 ): Promise<any[]> {
-  const polyStr = polygon.map(([lat, lon]) => `${lat} ${lon}`).join(' ');
-  // Fetch nodes, ways, relations with amenity=restaurant within polygon
+  console.log(`Fetching restaurants within polygon: ${JSON.stringify(coordinates, null, 2)} vertices; amenities: ${amenities.join(',')}`);
+  const polyStr = coordinates.map(([lat, lon]) => `${lat} ${lon}`).join(' ');
+  const amenityFilter = amenities.length > 1
+    ? `["amenity"~"^(${amenities.join('|')})$"]`
+    : `["amenity"="${amenities[0]}"]`;
   const query = `[out:json][timeout:900];
-  nwr["amenity"="restaurant"](poly:"${polyStr}");
-  out tags center meta;`;
+nwr${amenityFilter}(poly:"${polyStr}");
+out tags center meta;`;
   const resp = await axios.post(
     'https://overpass-api.de/api/interpreter',
     query,
@@ -456,14 +461,18 @@ export async function fetchRestaurantDetailsByPolygon(
  * Fetch raw OSM elements (nodes, ways, relations) with full tags, center coords, and metadata within a country's administrative boundary.
  */
 export async function fetchRestaurantDetailsInCountry(
-  countryName: string
+  countryName: string,
+  amenities: string[] = ['restaurant']
 ): Promise<any[]> {
+  const amenityFilter = amenities.length > 1
+    ? `["amenity"~"^(${amenities.join('|')})$"]`
+    : `["amenity"="${amenities[0]}"]`;
   const query = `[out:json][timeout:900];
 area["name"="${countryName}"]->.searchArea;
 (
-  node["amenity"="restaurant"](area.searchArea);
-  way["amenity"="restaurant"](area.searchArea);
-  relation["amenity"="restaurant"](area.searchArea);
+  node${amenityFilter}(area.searchArea);
+  way${amenityFilter}(area.searchArea);
+  relation${amenityFilter}(area.searchArea);
 );
 out tags center meta;`;
   const resp = await axios.post(
@@ -481,36 +490,34 @@ out tags center meta;`;
  * @param areaName Name of the administrative boundary (e.g., "Asturias").
  */
 export async function fetchRestaurantDetailsByAreaName(
-  areaName: string
+  areaName: string,
+  adminLevel: number = 2,
+  amenities: string[] = ['restaurant']
 ): Promise<any[]> {
-  // Step 1: resolve area ID via Overpass
-  const areaIdQuery = `[out:json][timeout:25];
-area["boundary"="administrative"]["admin_level"="2"]["name"="${areaName}"];
-out ids;`;
-  console.log(areaIdQuery);
-  const areaIdResp = await axios.post(
-    'https://overpass-api.de/api/interpreter',
-    areaIdQuery,
-    { headers: { 'Content-Type': 'text/plain', 'User-Agent': 'carta-mcp' } }
+  // Step 1: retrieve geojson polygon for area via Nominatim
+  const geojson = await getCountryPolygon(areaName);
+  // Step 2: extract linear ring coordinates
+  const coords = (geojson.type === 'Polygon'
+    ? geojson.coordinates[0]
+    : geojson.coordinates[0][0]
   );
-  const areaElements = areaIdResp.data.elements as any[];
-  if (!areaElements || areaElements.length === 0) {
-    throw new Error(`No area found for: ${areaName}`);
-  }
-  const areaId = areaElements[0].id;
-  // Step 2: fetch restaurants within that area
-  const query = `[out:json][timeout:900];
-area(id:${areaId})->.searchArea;
-nwr["amenity"="restaurant"](area.searchArea);
-out center;`;
-  console.log(query);
-  const resp = await axios.post(
-    'https://overpass-api.de/api/interpreter',
-    query,
-    { headers: { 'Content-Type': 'text/plain', 'User-Agent': 'carta-mcp' } }
-  );
-  return resp.data.elements as any[];
+  // Convert [lon, lat] -> [lat, lon]
+  const coordinates = coords.map(([lon, lat]) => [lat, lon] as [number, number]);
+  // Step 3: fetch restaurants within polygon
+  return fetchRestaurantDetailsByPolygon(coordinates, amenities);
 }
+
+export interface GeoJSONPolygon {
+  type: 'Polygon';
+  coordinates: [number, number][][];
+}
+
+export interface GeoJSONMultiPolygon {
+  type: 'MultiPolygon';
+  coordinates: [number, number][][][];
+}
+
+export type GeoJSON = GeoJSONPolygon | GeoJSONMultiPolygon;
 
 // --- Fetch polygon of a country by name using Nominatim ---
 /**
@@ -518,7 +525,7 @@ out center;`;
  */
 export async function getCountryPolygon(
   countryName: string
-): Promise<[number, number][]> {
+): Promise<GeoJSON> {
   const searchUrl = `https://nominatim.openstreetmap.org/search.php?q=${encodeURIComponent(countryName)}&format=jsonv2`;
   const searchResp = await axios.get(searchUrl, { headers: { 'User-Agent': 'carta-mcp' } });
   const searchData = searchResp.data;
@@ -537,16 +544,8 @@ export async function getCountryPolygon(
   if (!geojson) {
     throw new Error(`No polygon found in details for: ${countryName}`);
   }
-  let coords: number[][];
-  if (geojson.type === 'Polygon') {
-    coords = geojson.coordinates[0];
-  } else if (geojson.type === 'MultiPolygon') {
-    coords = geojson.coordinates[0][0];
-  } else {
-    throw new Error(`Unsupported GeoJSON type: ${geojson.type}`);
-  }
   // Convert [lon,lat] -> [lat,lon]
-  return coords.map(([lon, lat]) => [lat, lon]);
+  return geojson;
 }
 
 // Example usage:
@@ -554,3 +553,416 @@ export async function getCountryPolygon(
 //   const details = await fetchRestaurantDetailsFromArea(37.0, -9.3, 38.0, -8.3);
 //   console.log(JSON.stringify(details, null, 2));
 // })();
+
+/**
+ * Manually get the OSM area ID for an administrative boundary by name.
+ */
+export async function getAreaId(
+  areaName: string,
+  adminLevel: number = 2
+): Promise<number> {
+  const query = `[out:json][timeout:25];
+area["boundary"="administrative"]["admin_level"="${adminLevel}"]["name"="${areaName}"];
+out ids;`;
+  console.log(`Fetching area ID for ${areaName}...`);
+  console.log(query);
+  const resp = await axios.post(
+    'https://overpass-api.de/api/interpreter',
+    query,
+    { headers: { 'Content-Type': 'text/plain', 'User-Agent': 'carta-mcp' } }
+  );
+  const elems = resp.data.elements as any[];
+  if (!elems?.length) {
+    throw new Error(`Area not found: ${areaName}`);
+  }
+  return elems[0].id;
+}
+
+/**
+ * Fetch restaurants using an OSM area ID.
+ */
+export async function fetchRestaurantDetailsByAreaId(
+  areaId: number,
+  amenities: string[] = ['restaurant']
+): Promise<any[]> {
+  const amenityFilter = amenities.length > 1
+    ? `["amenity"~"^(${amenities.join('|')})$"]`
+    : `["amenity"="${amenities[0]}"]`;
+  const query = `[out:json][timeout:900];
+area(id:${areaId})->.searchArea;
+nwr${amenityFilter}(area.searchArea);
+out tags center meta;`;
+  const resp = await axios.post(
+    'https://overpass-api.de/api/interpreter',
+    query,
+    { headers: { 'Content-Type': 'text/plain', 'User-Agent': 'carta-mcp' } }
+  );
+  return resp.data.elements as any[];
+}
+
+/**
+ * Convenience: fetch restaurants by area name in manual mode (uses getAreaId).
+ */
+export async function fetchRestaurantDetailsByAreaNameManual(
+  areaName: string,
+  adminLevel: number = 2,
+  amenities: string[] = ['restaurant']
+): Promise<any[]> {
+  const areaId = await getAreaId(areaName, adminLevel);
+  return fetchRestaurantDetailsByAreaId(areaId, amenities);
+}
+
+/**
+ * List all administrative areas matching a name (optionally filtering by adminLevel).
+ * Returns full elements (id, tags, meta) so you can choose.
+ */
+export async function getAreaCandidates(
+  areaName: string,
+  adminLevel?: number
+): Promise<any[]> {
+  const levelFilter = adminLevel != null ? `["admin_level"="${adminLevel}"]` : '';
+  const query = `[out:json][timeout:25];
+area["boundary"="administrative"]${levelFilter}["name"="${areaName}"];
+out body tags meta;`;
+  const resp = await axios.post(
+    'https://overpass-api.de/api/interpreter',
+    query,
+    { headers: { 'Content-Type': 'text/plain', 'User-Agent': 'carta-mcp' } }
+  );
+  const elems = resp.data.elements as any[];
+  if (!elems.length) throw new Error(`No areas found for: ${areaName}`);
+  return elems;
+}
+
+// Parse OSM menus (from scraped_pages.json) and save parsed menus
+export async function parseOsmMenus(areaArg: string): Promise<boolean> {
+  if (!areaArg) throw new Error('Area argument is required');
+
+  const baseMenusDir = path.join('cache', 'osm', 'manual');
+
+  const areasFile = path.join(baseMenusDir, areaArg, `restaurants_${areaArg}.json`);
+
+  const areasFileContent = fs.readFileSync(areasFile, 'utf8');
+  const restaurants = JSON.parse(areasFileContent);
+
+  const result = await getRestaurantsInfoFromWebsite(restaurants, -1);
+
+  const outputDir = path.join('cache', 'osm', 'manual', areaArg);
+  if (!fs.existsSync(outputDir)) fs.mkdirSync(outputDir, { recursive: true });
+  const safeName = areaArg.replace(/[^a-z0-9]/gi, "_").toLowerCase();
+  const filePath = path.join(outputDir, `cartas_${safeName}.json`);
+  fs.writeFileSync(filePath, JSON.stringify(result, null, 2), 'utf8');
+  console.log(`Saved final results to ${filePath}`);
+
+  return true;
+}
+
+// Helper: screenshot PDF pages and return image buffers
+export async function screenshotPdfPages(url: string): Promise<Buffer[]> {
+  const browser = await puppeteer.launch();
+  const page = await browser.newPage();
+  await page.goto(url, { waitUntil: 'networkidle2' });
+  const img = await page.screenshot({ fullPage: true });
+  const screenshot = Buffer.from(img as Uint8Array);
+  await browser.close();
+  return [screenshot];
+}
+
+// Deduplicate URLs by language-agnostic path, preferring '/es' versions
+export function dedupeLanguageUrls(urls: string[]): string[] {
+  const map = new Map<string, string>();
+  for (const u of urls) {
+    try {
+      const segments = new URL(u).pathname.split('/').filter(Boolean);
+      const lang = segments[0] && segments[0].length === 2 ? segments[0] : null;
+      const key = lang ? segments.slice(1).join('/') : segments.join('/');
+      if (!map.has(key) || lang === 'es') {
+        map.set(key, u);
+      }
+    } catch {
+      // ignore invalid URLs
+    }
+  }
+  return Array.from(map.values());
+}
+
+import { JSDOM } from 'jsdom';
+
+export async function crawlRestaurant(r: any): Promise<any> {
+  const urlsToScrape: string[] = [];
+  let resources: string[] = [];
+  const website = r.web || r.tags.website;
+  // Extract <img> src attributes from homepage into resources
+  try {
+    const resp = await fetch(website);
+    if (resp.ok) {
+      const html = await resp.text();
+      const dom = new JSDOM(html);
+      Array.from(dom.window.document.querySelectorAll('img'))
+        .map(img => img.getAttribute('src'))
+        .filter((src): src is string => Boolean(src))
+        .map(src => new URL(src, website).toString())
+        .forEach(u => resources.push(u));
+    }
+  } catch (err: any) {
+    console.warn(`Error extracting images from homepage ${website}:`, err.message || err);
+  }
+  if (website) {
+    console.log(`Crawling ${website}...`);
+    try {
+      const data = await listDomainUrls(website, {
+        filterMode: 'menu',
+        includeExternalLinks: true,
+        adaptiveSearch: true,
+        maxDepth: process.env.TEST_MODE ? 1 : 4,
+        maxUrls: process.env.TEST_MODE ? 10 : 50
+      });
+      const allDataUrls = [...(data.urls || []), ...(data.externalUrls || [])];
+      const resourcePatterns = /\.(jpe?g|png|gif|svg|webp|ico|pdf)$/i;
+      resources.push(...Array.from(new Set(allDataUrls.filter(u => resourcePatterns.test(u)))));
+      console.log(`listDomainUrls for ${r.name} (${website}):`);
+      console.log(`  filteredUrls: ${data.filteredUrls?.length}`, data.filteredUrls);
+      console.log(`  externalUrls: ${data.externalUrls?.length}`, data.externalUrls);
+      let urls = [...(data.filteredUrls || [])];
+      if (data.externalUrls) {
+        const extra = data.externalUrls.filter(u => {
+          const low = u.toLowerCase();
+          return low.includes('carta') || low.includes('@');
+        });
+        urls.push(...extra);
+      }
+      urls = dedupeLanguageUrls(urls);
+      urlsToScrape.push(...urls);
+    } catch (err: any) {
+      console.error(`Error crawling ${website}: ${err.message}`);
+    }
+  }
+  resources = Array.from(new Set(resources));
+  return { ...r, urlsToScrape, resources };
+}
+
+export async function getRestaurantsInfoFromWebsite(restaurants: any[], MAX_CONCURRENCY: number) {
+
+  console.log(`Found ${restaurants.length} restaurants`);
+
+  const startTime = Date.now();
+
+  const cacheDir = 'cache';
+  const outputCacheDir = path.join(cacheDir, 'results');
+  if (!fs.existsSync(outputCacheDir)) fs.mkdirSync(outputCacheDir);
+
+  let results: any[] = [];
+
+  if (MAX_CONCURRENCY === -1) {
+    MAX_CONCURRENCY = restaurants.length;
+  }
+
+  console.log(`Processing restaurants in batches of ${MAX_CONCURRENCY}...`);
+  console.log(``);
+
+  for (let i = 0; i < restaurants.length; i += MAX_CONCURRENCY) {
+    const batch = restaurants.slice(i, i + MAX_CONCURRENCY);
+    console.log(`Processing batch ${batch.length}...`);
+    const batchResults = await Promise.all(batch.map(crawlRestaurant));
+    results.push(...batchResults);
+  }
+
+  // After crawling, scrape pages and parse menus via OpenAI
+  console.log("Scraping pages and parsing menus via OpenAI...");
+  const openaiModel = process.env.OPENAI_MODEL || "gpt-4.1-nano";
+  const visionModel = process.env.OPENAI_IMAGE_MODEL || "gpt-4o-mini";
+  const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY! });
+  const ENABLE_IMAGE_PROCESSING = process.env.ENABLE_IMAGE_PROCESSING === 'true';
+  const ENABLE_PDF_SCREENSHOT = process.env.ENABLE_PDF_SCREENSHOT === 'true';
+  const ENABLE_PDF_TEXT = process.env.ENABLE_PDF_TEXT === 'true';
+  const ENABLE_OPENAI_PROCESSING = process.env.ENABLE_OPENAI_PROCESSING === 'true';
+
+  // Conditional OpenAI processing
+  if (!ENABLE_OPENAI_PROCESSING) {
+    console.log("Skipping OpenAI processing (ENABLE_OPENAI_PROCESSING=false).");
+    for (const r of results) {
+      r.cartas = null;
+      r.menus = null;
+    }
+  } else {
+    for (const r of results) {
+      if (!r.urlsToScrape || r.urlsToScrape.length === 0) {
+        r.cartas = null;
+        r.menus = null;
+        continue;
+      }
+      // Scrape and parse via OpenAI
+      try {
+        const { pages } = await scrapeMultiplePages(r.urlsToScrape);
+        const combinedText = pages.map(p => p.text).join("\n");
+        // Use official OpenAI SDK
+        const completion = await openai.chat.completions.create({
+          model: openaiModel,
+          messages: [
+            { role: "system", content: "You are an assistant that transforms raw restaurant menu text into a JSON array called 'cartas'. This array should contain one menu object per distinct scraped menu (e.g., 'Carta de platos', 'Carta de vinos'). Each menu object must have 'nombre' (string) and 'categorias' (array). Each category object must have 'nombre' (string) and 'platos' (array of objects with 'nombre' (string) and 'precios' (array of objects with key 'precio' and string value)). Output only valid JSON for the 'cartas' array—no markdown or extra keys." },
+            { role: "user", content: "Extract menu JSON from this text:\n" + combinedText }
+          ],
+          temperature: 0
+        });
+        let contentStr = completion.choices?.[0]?.message?.content || "";
+        // Strip markdown fences if present
+        contentStr = contentStr.trim();
+        if (contentStr.startsWith("```")) {
+          contentStr = contentStr.replace(/^```(?:json)?\n?/, "").replace(/```$/, "").trim();
+        }
+        // Parse JSON safely
+        try {
+          const parsed = JSON.parse(contentStr);
+          // Flatten if wrapped in an object with 'cartas'
+          let cartasArray: any[] = [];
+          if (Array.isArray(parsed)) {
+            cartasArray = parsed;
+          } else if (parsed.cartas && Array.isArray(parsed.cartas)) {
+            cartasArray = parsed.cartas;
+          }
+          // Normalize 'precios' field for each dish
+          let normalizedMenus = cartasArray.map(menu => ({
+            ...menu,
+            categorias: menu.categorias?.map((category: any) => ({
+              ...category,
+              platos: category.platos?.map((item: any) => ({
+                nombre: item.nombre,
+                precios: Array.isArray(item.precios)
+                  ? item.precios.map((p: any) => typeof p === 'string' ? { precio: p } : p)
+                  : item.precios && typeof item.precios === 'string'
+                    ? [{ precio: item.precios }]
+                    : Array.isArray(item.precio)
+                      ? item.precio.map((p: any) => ({ precio: p }))
+                      : item.precio && typeof item.precio === 'string'
+                        ? [{ precio: item.precio }]
+                        : []
+              })) || []
+            })) || []
+          }));
+          // Optional image processing
+          if (ENABLE_IMAGE_PROCESSING) {
+            const imageUrls = (r.resources || []).filter(u => /\.(jpe?g|png|gif|svg|webp|ico)$/i.test(u));
+            if (imageUrls.length) {
+              const imageMenus: any[] = [];
+              for (const imageUrl of imageUrls) {
+                try {
+                  const imgCompletion = await openai.chat.completions.create({
+                    model: visionModel,
+                    messages: [
+                      { role: "system", content: "Extract restaurant menu from this image and output a JSON array 'cartas' with the same structure: each object with 'nombre', 'categorias' and 'platos'. Only valid JSON." },
+                      { role: "user", content: [{ type: "text", text: "Extract menu JSON from this image" }, { type: "image_url", image_url: { url: imageUrl } }] }
+                    ],
+                    temperature: 0
+                  });
+                  const imgText = imgCompletion.choices?.[0]?.message?.content;
+                  let imgContentStr = imgText?.trim() || "";
+                  if (imgContentStr.startsWith("```")) {
+                    imgContentStr = imgContentStr.replace(/^```(?:json)?\n?/, "").replace(/```$/, "").trim();
+                  }
+                  const parsedImg = JSON.parse(imgContentStr);
+                  const imgCartasArray = Array.isArray(parsedImg) ? parsedImg : (parsedImg.cartas || []);
+                  imageMenus.push(...imgCartasArray);
+                } catch (err: any) {
+                  console.error(`Image parse error for ${r.nombre} at ${imageUrl}:`, err.message);
+                }
+              }
+              normalizedMenus = normalizedMenus.concat(imageMenus);
+            }
+          }
+          // Optional PDF screenshot processing
+          if (ENABLE_PDF_SCREENSHOT) {
+            const pdfUrls = (r.resources || []).filter(u => /\.pdf$/i.test(u));
+            for (const pdfUrl of pdfUrls) {
+              try {
+                const buffers = await screenshotPdfPages(pdfUrl);
+                const dir = "pdf_screenshots";
+                if (!fs.existsSync(dir)) fs.mkdirSync(dir);
+                buffers.forEach((buffer, idx) => {
+                  const nameSafe = r.nombre.replace(/[^a-z0-9]/gi, "_").toLowerCase();
+                  const fileName = `${nameSafe}_${idx}.png`;
+                  const filePath = path.join(dir, fileName);
+                  fs.writeFileSync(filePath, buffer);
+                  console.log(`Saved PDF screenshot ${idx} for ${r.nombre} to ${filePath}`);
+                });
+              } catch (err: any) {
+                console.error(`PDF screenshot error for ${r.nombre} at ${pdfUrl}:`, err.message);
+              }
+            }
+          }
+          const cartasList = normalizedMenus.filter(m => !m.nombre.toLowerCase().includes('menu'));
+          const menusList = normalizedMenus.filter(m => m.nombre.toLowerCase().includes('menu'));
+          r.cartas = cartasList;
+          r.menus = menusList;
+        } catch (parseErr: any) {
+          console.error(`JSON parse error for ${r.nombre}:`, parseErr.message);
+          console.error(`Response was: ${contentStr}`);
+          r.cartas = null;
+          r.menus = null;
+        }
+      } catch (err: any) {
+        console.error(`Error fetching/parsing menu for ${r.nombre}:`, err.message || err);
+        r.cartas = null;
+        r.menus = null;
+      }
+    }
+  } // End conditional OpenAI processing
+
+  // Always extract and parse PDF text regardless of OpenAI processing toggle
+  if (ENABLE_PDF_TEXT) {
+    for (const r of results) {
+      const pdfUrlsText = (r.resources || []).filter(u => /\.pdf$/i.test(u) && /^https?:\/\//i.test(u));
+      console.log(`Extracting and parsing text from ${pdfUrlsText.length} PDFs for ${r.nombre}...`);
+      const dirText = 'pdf_texts';
+      if (!fs.existsSync(dirText)) fs.mkdirSync(dirText);
+      const allParsed: ParsedMenu[] = [];
+      for (const pdfUrl of pdfUrlsText) {
+        try {
+          const res = await fetch(pdfUrl);
+          const arrayBuffer = await res.arrayBuffer();
+          const pdfBuffer = Buffer.from(arrayBuffer);
+          const { text: pdfText } = await pdfParse(pdfBuffer);
+          // Clean extracted text
+          const cleanedText = pdfText
+            .split('\n')
+            .map(line => line.replace(/\s+/g, ' ').trim())
+            .filter(line => line.length > 0)
+            .join('\n');
+          const nameSafe = r.nombre.replace(/[^a-z0-9]/gi, "_").toLowerCase();
+          const filePath = path.join(dirText, `${nameSafe}.txt`);
+          fs.writeFileSync(filePath, cleanedText, 'utf8');
+          console.log(`Saved cleaned PDF text for ${r.nombre} to ${filePath}`);
+          // Derive default title from PDF filename
+          const pathname = new URL(pdfUrl).pathname;
+          const fileBase = path.basename(pathname, path.extname(pathname));
+          const defaultTitle = fileBase.replace(/[-_]/g, ' ').trim();
+          // Parse cleaned text lines into menus
+          const parsed = parsePdfTextLines(cleanedText.split('\n'), defaultTitle);
+          if (parsed.length) allParsed.push(...parsed);
+        } catch (err: any) {
+          console.error(`PDF text extraction error for ${r.nombre} at ${pdfUrl}:`, err.message);
+        }
+      }
+      // Assign parsed menus to restaurant object
+      r.cartas = allParsed.filter(m => !m.nombre.toLowerCase().includes('menu'));
+      r.menus = allParsed.filter(m => m.nombre.toLowerCase().includes('menu'));
+    }
+  }
+
+  // Write full output to JSON file to avoid console cutoff
+  const cacheOutputFile = path.join(outputCacheDir, `cartas.json`);
+  fs.writeFileSync(cacheOutputFile, JSON.stringify({ restaurants: results }, null, 2));
+  console.log(`Saved final results to ${cacheOutputFile}`);
+  const elapsedMs = Date.now() - startTime;
+  console.log(`Total execution time: ${(elapsedMs / 1000).toFixed(2)}s`);
+
+  // Save parsed PDF menus for review
+  if (ENABLE_PDF_TEXT) {
+    const pdfParsedOutput = results.map(r => ({ nombre: r.nombre, cartas: r.cartas }));
+    const pdfFile = 'pdf_parsed.json';
+    fs.writeFileSync(pdfFile, JSON.stringify(pdfParsedOutput, null, 2));
+    console.log(`Parsed PDF data saved to ${pdfFile}`);
+  }
+
+  return results;
+
+}
