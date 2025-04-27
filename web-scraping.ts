@@ -136,6 +136,7 @@ export async function listDomainUrls(
     customExcludePatterns?: string[];
     customIncludePatterns?: string[];
     adaptiveSearch?: boolean;
+    exactUrl?: boolean;
   } = {}
 ): Promise<{
   domain: string;
@@ -154,6 +155,7 @@ export async function listDomainUrls(
   const batchSize = options.batchSize || 5; // Procesar 5 URLs a la vez por defecto
   const filterMode = options.filterMode || 'menu'; // Por defecto, filtrar para encontrar menús
   const adaptiveSearch = options.adaptiveSearch !== undefined ? options.adaptiveSearch : true; // Activado por defecto
+  const exactUrl = options.exactUrl || false; // Por defecto, no exacto
   
   // Patrones de exclusión para URLs irrelevantes
   const defaultExcludePatterns = [
@@ -215,8 +217,10 @@ export async function listDomainUrls(
     throw new Error(`URL de dominio inválida: ${domainUrl}`);
   }
   
-  const baseDomain = baseUrl.hostname;
-  
+  // Compute baseExact prefix from passed URL path (remove file extension)
+  const pathNoExt = baseUrl.pathname.replace(/\.[^/]+$/, '');
+  const baseExact = baseUrl.origin + pathNoExt;
+
   // Conjunto para almacenar URLs únicas encontradas
   const foundUrls = new Set<string>([baseUrl.toString()]);
   const externalUrls = new Set<string>();
@@ -296,9 +300,11 @@ export async function listDomainUrls(
         for (const link of pageData.links) {
           try {
             const linkUrl = new URL(link.url);
+            const linkHref = linkUrl.toString();
+            const isInternal = exactUrl ? linkHref.startsWith(baseExact) : linkUrl.hostname === baseUrl.hostname;
             
-            // Verificar si el enlace pertenece al mismo dominio
-            if (linkUrl.hostname === baseDomain) {
+            // Verificar si el enlace pertenece al dominio o subdirectorio exacto
+            if (isInternal) {
               // Aplicar filtros solo si no estamos en modo 'none'
               if (filterMode !== 'none') {
                 const urlString = linkUrl.toString();
@@ -419,7 +425,7 @@ export async function listDomainUrls(
   });
   
   return {
-    domain: baseDomain,
+    domain: baseUrl.hostname,
     urlsFound: foundUrls.size,
     urls: Array.from(foundUrls),
     filteredUrls,

@@ -1,13 +1,13 @@
 #!/usr/bin/env node
-import { searchGooglePlaces, parsePdfTextLines, ParsedMenu } from "./utils";
-import { listDomainUrls, scrapeMultiplePages } from "./web-scraping";
-import * as fs from 'fs';
-import OpenAI from "openai";
-import puppeteer from "puppeteer";
-import * as path from "path";
 import { Buffer } from "buffer";
 import dotenv from 'dotenv';
+import * as fs from 'fs';
+import OpenAI from "openai";
+import * as path from "path";
 import pdfParse from "pdf-parse";
+import puppeteer from "puppeteer";
+import { ParsedMenu, crawlTripAdvisorUrls, extractRestaurantWebsites, parsePdfTextLines, searchGooglePlaces, getAllRestaurantsInCountry, fetchRestaurantDetailsFromArea, fetchRestaurantDetailsByPolygon, fetchRestaurantDetailsInCountry, fetchRestaurantDetailsByAreaName, getCountryPolygon } from "./utils";
+import { listDomainUrls, scrapeMultiplePages } from "./web-scraping";
 
 dotenv.config();
 
@@ -53,6 +53,144 @@ async function screenshotPdfPages(url: string): Promise<Buffer[]> {
 }
 
 async function main() {
+  const args = process.argv.slice(2);
+  // Crawl TripAdvisor URLs
+  if (args[0] === '--crawl-tripadvisor') {
+    const slugOrUrl = args[1];
+    const limit = args[2] ? parseInt(args[2], 10) : 1000;
+    const pageLimit = args[3] ? parseInt(args[3], 10) : 50;
+    console.log(`Crawling TripAdvisor URLs for: ${slugOrUrl} (limit ${limit}, pages ${pageLimit})`);
+    const urls = await crawlTripAdvisorUrls(slugOrUrl, limit, pageLimit);
+    console.log(`Collected ${urls.length} URLs`);
+    return;
+  }
+  // Quick TripAdvisor scraping mode
+  if (args[0] === '--tripadvisor') {
+    const slugOrUrl = args[1];
+    const limit = args[2] ? parseInt(args[2], 10) : 20;
+    console.log(`Scraping TripAdvisor: ${slugOrUrl} (limit ${limit})`);
+    return;
+  }
+  // Extract official websites from cached TripAdvisor URLs
+  if (args[0] === '--extract-websites') {
+    const slug = args[1];
+    const fileName = slug.replace(/[^a-z0-9]/gi, '_') + '.json';
+    const filePath = path.join('cache', 'tripadvisor', fileName);
+    if (!fs.existsSync(filePath)) {
+      console.error(`Cache file not found: ${filePath}`);
+      process.exit(1);
+    }
+    const taUrls: string[] = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+    console.log(`Extracting websites from ${taUrls.length} URLs...`);
+    const siteResults = await extractRestaurantWebsites(taUrls);
+    console.log(JSON.stringify(siteResults, null, 2));
+    return;
+  }
+  if (args[0] === '--osm-country') {
+    const countryName = args[1] || 'Spain';
+    console.log(`Geocoding country: ${countryName}`);
+    const { latMin, latMax, lonMin, lonMax } = await geocodeCity(countryName);
+    console.log(`Bounding box: [${latMin}, ${lonMin}] -> [${latMax}, ${lonMax}]`);
+    console.log(`Fetching all restaurants in ${countryName} via OSM...`);
+    const restos = await getAllRestaurantsInCountry(latMin, lonMin, latMax, lonMax);
+    const outDir = path.join('cache', 'osm');
+    if (!fs.existsSync(outDir)) fs.mkdirSync(outDir, { recursive: true });
+    const safeName = countryName.replace(/[^a-z0-9]/gi, '_').toLowerCase();
+    const filePath = path.join(outDir, `restaurants_${safeName}.json`);
+    fs.writeFileSync(filePath, JSON.stringify(restos, null, 2), 'utf8');
+    console.log(`Saved ${restos.length} restaurants for ${countryName} to ${filePath}`);
+    return;
+  }
+  if (args[0] === '--osm-polygon') {
+    // args: list of pairs lat lon -> polygon
+    if (args.length < 3 || args.length % 2 === 0) {
+      console.error('Usage: --osm-polygon lat1 lon1 lat2 lon2 ...');
+      process.exit(1);
+    }
+    const coords: [number, number][] = [];
+    for (let i = 1; i < args.length; i += 2) {
+      const lat = parseFloat(args[i]);
+      const lon = parseFloat(args[i+1]);
+      if (isNaN(lat) || isNaN(lon)) {
+        console.error('Invalid coordinate pair:', args[i], args[i+1]);
+        process.exit(1);
+      }
+      coords.push([lat, lon]);
+    }
+    console.log(`Fetching restaurants within polygon (${coords.length} points)...`);
+    const details = await fetchRestaurantDetailsByPolygon(coords);
+    // Save output as JSON file for later analysis
+    const outDir = path.join('cache', 'osm', 'polygon');
+    if (!fs.existsSync(outDir)) fs.mkdirSync(outDir, { recursive: true });
+    const fileName = `polygon_${coords.map(c=>c.join('_')).join('-')}.json`;
+    const filePath = path.join(outDir, fileName);
+    fs.writeFileSync(filePath, JSON.stringify(details, null, 2), 'utf8');
+    console.log(`Saved ${details.length} elements to ${filePath}`);
+    return;
+  }
+  if (args[0] === '--osm-admin-country') {
+    const countryName = args[1] || 'Spain';
+    console.log(`Fetching restaurants within administrative boundary of ${countryName}...`);
+    const elements = await fetchRestaurantDetailsInCountry(countryName);
+    const safeName = countryName.replace(/[^a-z0-9]/gi, '_').toLowerCase();
+    const countryDir = path.join('cache', 'osm', 'admin', safeName);
+    if (!fs.existsSync(countryDir)) fs.mkdirSync(countryDir, { recursive: true });
+    const filePath = path.join(countryDir, `admin_${safeName}.json`);
+    fs.writeFileSync(filePath, JSON.stringify(elements, null, 2), 'utf8');
+    console.log(`Saved ${elements.length} elements for ${countryName} to ${filePath}`);
+    return;
+  }
+  if (args[0] === '--osm-country-polygon') {
+    // Retrieve country polygon and fetch restaurants within it
+    const countryName = args[1] || 'Spain';
+    console.log(`Retrieving polygon coords for ${countryName} via Nominatim...`);
+    const polygon = await getCountryPolygon(countryName);
+    const safeName = countryName.replace(/[^a-z0-9]/gi, '_').toLowerCase();
+    const countryDir = path.join('cache', 'osm', 'polygon', safeName);
+    if (!fs.existsSync(countryDir)) fs.mkdirSync(countryDir, { recursive: true });
+    // Save polygon coords
+    const polyPath = path.join(countryDir, `polygon_${safeName}.json`);
+    fs.writeFileSync(polyPath, JSON.stringify(polygon, null, 2), 'utf8');
+    console.log(`Saved polygon (${polygon.length} coords) to ${polyPath}`);
+    // Fetch restaurants within polygon
+    console.log(`Fetching restaurants within polygon for ${countryName}...`);
+    const restos = await fetchRestaurantDetailsByPolygon(polygon);
+    const restosPath = path.join(countryDir, `restaurants_${safeName}.json`);
+    fs.writeFileSync(restosPath, JSON.stringify(restos, null, 2), 'utf8');
+    console.log(`Saved ${restos.length} restaurants to ${restosPath}`);
+    return;
+  }
+  if (args[0] === '--osm-area') {
+    const areaName = args[1] || 'Asturias';
+    console.log(`Fetching restaurants in area: ${areaName}...`);
+    const elems = await fetchRestaurantDetailsByAreaName(areaName);
+    const safeName = areaName.replace(/[^a-z0-9]/gi, '_').toLowerCase();
+    const areaDir = path.join('cache', 'osm', 'area', safeName);
+    if (!fs.existsSync(areaDir)) fs.mkdirSync(areaDir, { recursive: true });
+    const filePath = path.join(areaDir, `area_${safeName}.json`);
+    fs.writeFileSync(filePath, JSON.stringify(elems, null, 2), 'utf8');
+    console.log(`Saved ${elems.length} restaurants to ${filePath}`);
+    return;
+  }
+  if (args[0] === '--osm-details') {
+    // Fetch full OSM elements with tags, center, metadata
+    let [minLat, minLon, maxLat, maxLon] = args.slice(1).map(v => parseFloat(v));
+    if (args.length < 5 || [minLat, minLon, maxLat, maxLon].some(isNaN)) {
+      console.log('Using default area [37.0,-9.3] -> [38.0,-8.3]');
+      minLat = 37.0; minLon = -9.3; maxLat = 38.0; maxLon = -8.3;
+    }
+    console.log(`Fetching detailed OSM data for area [${minLat},${minLon}] -> [${maxLat},${maxLon}]`);
+    const details = await fetchRestaurantDetailsFromArea(minLat, minLon, maxLat, maxLon);
+    // Save output as JSON file for later analysis
+    const outDir = path.join('cache', 'osm', 'details');
+    if (!fs.existsSync(outDir)) fs.mkdirSync(outDir, { recursive: true });
+    const fileName = `details_${minLat}_${minLon}_${maxLat}_${maxLon}.json`;
+    const filePath = path.join(outDir, fileName);
+    fs.writeFileSync(filePath, JSON.stringify(details, null, 2), 'utf8');
+    console.log(`Saved detailed OSM data (${details.length} elements) to ${filePath}`);
+    return;
+  }
+
   const startTime = Date.now();
 
   // Prepare cache directories
