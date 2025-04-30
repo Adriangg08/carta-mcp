@@ -119,11 +119,30 @@ async function main() {
     console.log(`Saved GeoJSON polygon to ${polyPath}`);
     return;
   }
+  // if (args[0] === '--osm-area-manual') {
+  //   const areaName = args[1] || 'Asturias';
+  //   const adminLevel = args[2] ? parseInt(args[2], 10) : 2;
+  //   console.log(`Fetching restaurants manually by area ID for area: ${areaName}...`);
+  //   const rest = await fetchRestaurantDetailsByAreaNameManual(areaName, adminLevel, ['bar', 'cafe', 'fast_food', 'restaurant', 'pub', 'ice_cream', 'biergarten', 'food_court']);
+  //   const safeName = areaName.replace(/[^a-z0-9]/gi, '_').toLowerCase();
+  //   const manualDir = path.join('cache', 'osm', 'manual', safeName);
+  //   if (!fs.existsSync(manualDir)) fs.mkdirSync(manualDir, { recursive: true });
+  //   const manualPath = path.join(manualDir, `restaurants_${safeName}.json`);
+  //   fs.writeFileSync(manualPath, JSON.stringify(rest, null, 2), 'utf8');
+  //   console.log(`Saved ${rest.length} restaurants to ${manualPath}`);
+  //   return;
+  // }
   if (args[0] === '--osm-area-manual') {
     const areaName = args[1] || 'Asturias';
     const adminLevel = args[2] ? parseInt(args[2], 10) : 2;
-    console.log(`Fetching restaurants manually by area ID for area: ${areaName}...`);
-    const rest = await fetchRestaurantDetailsByAreaNameManual(areaName, adminLevel, ['bar', 'cafe', 'fast_food', 'restaurant', 'pub', 'ice_cream', 'biergarten', 'food_court']);
+    const countryContext = args[3] || undefined; // Optional country context parameter
+    console.log(`Fetching restaurants manually by area ID for area: ${areaName}${countryContext ? ` within ${countryContext}` : ''}...`);
+    const rest = await fetchRestaurantDetailsByAreaNameManual(
+      areaName,
+      adminLevel,
+      ['bar', 'cafe', 'fast_food', 'restaurant', 'pub', 'ice_cream', 'biergarten', 'food_court'],
+      countryContext
+    );
     const safeName = areaName.replace(/[^a-z0-9]/gi, '_').toLowerCase();
     const manualDir = path.join('cache', 'osm', 'manual', safeName);
     if (!fs.existsSync(manualDir)) fs.mkdirSync(manualDir, { recursive: true });
@@ -132,6 +151,7 @@ async function main() {
     console.log(`Saved ${rest.length} restaurants to ${manualPath}`);
     return;
   }
+
   if (args[0] === '--osm-area-candidates') {
     const areaName = args[1] || '';
     const adminLevel = args[2] ? parseInt(args[2], 10) : undefined;

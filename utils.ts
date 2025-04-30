@@ -557,26 +557,26 @@ export async function getCountryPolygon(
 /**
  * Manually get the OSM area ID for an administrative boundary by name.
  */
-export async function getAreaId(
-  areaName: string,
-  adminLevel: number = 2
-): Promise<number> {
-  const query = `[out:json][timeout:25];
-area["boundary"="administrative"]["admin_level"="${adminLevel}"]["name"="${areaName}"];
-out ids;`;
-  console.log(`Fetching area ID for ${areaName}...`);
-  console.log(query);
-  const resp = await axios.post(
-    'https://overpass-api.de/api/interpreter',
-    query,
-    { headers: { 'Content-Type': 'text/plain', 'User-Agent': 'carta-mcp' } }
-  );
-  const elems = resp.data.elements as any[];
-  if (!elems?.length) {
-    throw new Error(`Area not found: ${areaName}`);
-  }
-  return elems[0].id;
-}
+// export async function getAreaId(
+//   areaName: string,
+//   adminLevel: number = 2
+// ): Promise<number> {
+//   const query = `[out:json][timeout:25];
+// area["boundary"="administrative"]["admin_level"="${adminLevel}"]["name"="${areaName}"];
+// out ids;`;
+//   console.log(`Fetching area ID for ${areaName}...`);
+//   console.log(query);
+//   const resp = await axios.post(
+//     'https://overpass-api.de/api/interpreter',
+//     query,
+//     { headers: { 'Content-Type': 'text/plain', 'User-Agent': 'carta-mcp' } }
+//   );
+//   const elems = resp.data.elements as any[];
+//   if (!elems?.length) {
+//     throw new Error(`Area not found: ${areaName}`);
+//   }
+//   return elems[0].id;
+// }
 
 /**
  * Fetch restaurants using an OSM area ID.
@@ -600,17 +600,17 @@ out tags center meta;`;
   return resp.data.elements as any[];
 }
 
-/**
- * Convenience: fetch restaurants by area name in manual mode (uses getAreaId).
- */
-export async function fetchRestaurantDetailsByAreaNameManual(
-  areaName: string,
-  adminLevel: number = 2,
-  amenities: string[] = ['restaurant']
-): Promise<any[]> {
-  const areaId = await getAreaId(areaName, adminLevel);
-  return fetchRestaurantDetailsByAreaId(areaId, amenities);
-}
+// /**
+//  * Convenience: fetch restaurants by area name in manual mode (uses getAreaId).
+//  */
+// export async function fetchRestaurantDetailsByAreaNameManual(
+//   areaName: string,
+//   adminLevel: number = 2,
+//   amenities: string[] = ['restaurant']
+// ): Promise<any[]> {
+//   const areaId = await getAreaId(areaName, adminLevel);
+//   return fetchRestaurantDetailsByAreaId(areaId, amenities);
+// }
 
 /**
  * List all administrative areas matching a name (optionally filtering by adminLevel).
@@ -688,57 +688,170 @@ export function dedupeLanguageUrls(urls: string[]): string[] {
 
 import { JSDOM } from 'jsdom';
 
+// Función para limpiar el HTML eliminando elementos no deseados como CSS y scripts
+function cleanHtml(html: string): string {
+  // Eliminar todos los elementos <style> y su contenido
+  html = html.replace(/<style\b[^<]*(?:(?!<\/style>)<[^<]*)*<\/style>/gi, '');
+
+  // Eliminar todos los elementos <script> y su contenido
+  html = html.replace(/<script\b[^<]*(?:(?!<\/script>)<[^<]*)*<\/script>/gi, '');
+
+  // Eliminar atributos style inline
+  html = html.replace(/\s+style\s*=\s*"[^"]*"/gi, '');
+  html = html.replace(/\s+style\s*=\s*'[^']*'/gi, '');
+
+  // Eliminar comentarios HTML
+  html = html.replace(/<!--[\s\S]*?-->/g, '');
+
+  // Eliminar hojas de estilo CSS
+  html = html.replace(/<link[^>]*rel\s*=\s*["']stylesheet["'][^>]*>/gi, '');
+
+  return html;
+}
+
 export async function crawlRestaurant(r: any): Promise<any> {
   const urlsToScrape: string[] = [];
   let resources: string[] = [];
-  const website = r.web || r.tags.website;
-  // Extract <img> src attributes from homepage into resources
-  try {
-    const resp = await fetch(website);
-    if (resp.ok) {
-      const html = await resp.text();
-      const dom = new JSDOM(html);
-      Array.from(dom.window.document.querySelectorAll('img'))
-        .map(img => img.getAttribute('src'))
-        .filter((src): src is string => Boolean(src))
-        .map(src => new URL(src, website).toString())
-        .forEach(u => resources.push(u));
-    }
-  } catch (err: any) {
-    console.warn(`Error extracting images from homepage ${website}:`, err.message || err);
-  }
+  let website = r.web || r.tags.website;
+
+  let possibleMail: string[] = [];
+  let possiblePhone: string[] = [];
+
   if (website) {
+    if (!website.startsWith('http')) {
+      website = `https://${website}`;
+    }
     console.log(`Crawling ${website}...`);
+
     try {
-      const data = await listDomainUrls(website, {
-        filterMode: 'menu',
-        includeExternalLinks: true,
-        adaptiveSearch: true,
-        maxDepth: process.env.TEST_MODE ? 1 : 4,
-        maxUrls: process.env.TEST_MODE ? 10 : 50
+      const resp = await fetch(website, {
+        // Add timeout to prevent hanging on unreachable sites
+        signal: AbortSignal.timeout(10000)
       });
-      const allDataUrls = [...(data.urls || []), ...(data.externalUrls || [])];
-      const resourcePatterns = /\.(jpe?g|png|gif|svg|webp|ico|pdf)$/i;
-      resources.push(...Array.from(new Set(allDataUrls.filter(u => resourcePatterns.test(u)))));
-      console.log(`listDomainUrls for ${r.name} (${website}):`);
-      console.log(`  filteredUrls: ${data.filteredUrls?.length}`, data.filteredUrls);
-      console.log(`  externalUrls: ${data.externalUrls?.length}`, data.externalUrls);
-      let urls = [...(data.filteredUrls || [])];
-      if (data.externalUrls) {
-        const extra = data.externalUrls.filter(u => {
-          const low = u.toLowerCase();
-          return low.includes('carta') || low.includes('@');
-        });
-        urls.push(...extra);
+
+      if (resp.ok) {
+        const html = await resp.text();
+        const cleanedHtml = cleanHtml(html);
+        const dom = new JSDOM(cleanedHtml);
+        try {
+          // Busqueda de imagenes de cartas
+          Array.from(dom.window.document.querySelectorAll('img'))
+            .map(img => img.getAttribute('src'))
+            .filter((src): src is string => Boolean(src) && (src?.toLowerCase().includes('carta') || false))
+            .map(src => {
+              try {
+                return new URL(src, website).toString();
+              } catch (e) {
+                console.error(`Invalid URL: ${src} for website ${website}`);
+                return null;
+              }
+            })
+            .filter(Boolean)
+            .forEach(u => u && resources.push(u));
+
+          // Busqueda de enlaces de cartas (pdf, pdfs, images, etc..)
+          Array.from(dom.window.document.querySelectorAll('a'))
+            .map(img => img.getAttribute('href'))
+            .filter((src): src is string => Boolean(src) && (src?.toLowerCase().includes('carta') || false))
+            .map(src => {
+              try {
+                return new URL(src, website).toString();
+              } catch (e) {
+                console.error(`Invalid URL: ${src} for website ${website}`);
+                return null;
+              }
+            })
+            .filter(Boolean)
+            .forEach(u => u && resources.push(u));
+
+          // Buscar enlaces mailto: para emails
+          Array.from(dom.window.document.querySelectorAll('a[href^="mailto:"]'))
+            .map(link => link.getAttribute('href'))
+            .filter(Boolean)
+            .map(href => href?.replace('mailto:', '').split('?')[0]) // Eliminar parámetros como ?subject=
+            .filter(Boolean)
+            .forEach(email => email && possibleMail.push(email));
+
+          // Buscar enlaces tel: o callto: para teléfonos
+          Array.from(dom.window.document.querySelectorAll('a[href^="tel:"], a[href^="callto:"]'))
+            .map(link => link.getAttribute('href'))
+            .filter(Boolean)
+            .map(href => href?.replace(/^(tel:|callto:)/, '').replace(/[^\d+]/g, '')) // Limpiar formato
+            .filter(Boolean)
+            .forEach(phone => phone && possiblePhone.push(phone));
+        } catch (imgErr) {
+          console.error(`Error processing images from ${website}: ${imgErr.message}`);
+        }
+
+        try {
+          const data = await listDomainUrls(website, {
+            filterMode: 'menu',
+            includeExternalLinks: true,
+            adaptiveSearch: true,
+            maxDepth: process.env.TEST_MODE ? 1 : 4,
+            maxUrls: process.env.TEST_MODE ? 10 : 50
+          });
+          const allDataUrls = [...(data.urls || []), ...(data.externalUrls || [])];
+          // Filtrar URLs especiales como mailto: y tel: antes de procesarlas
+          const filteredDataUrls = allDataUrls.filter(url => {
+            // Excluir URLs que empiezan con protocolos especiales
+            return !url.startsWith('mailto:') &&
+              !url.startsWith('tel:') &&
+              !url.startsWith('callto:') &&
+              !url.startsWith('sms:') &&
+              !url.startsWith('whatsapp:');
+          });
+
+          // Usar filteredDataUrls en lugar de allDataUrls
+          const resourcePatterns = /\.(jpe?g|png|gif|svg|webp|ico|pdf)$/i;
+          resources.push(...Array.from(new Set(filteredDataUrls.filter(u => resourcePatterns.test(u)))));
+          console.log(`listDomainUrls for ${r.name} (${website}):`);
+          console.log(`  filteredUrls: ${data.filteredUrls?.length}`, data.filteredUrls);
+          console.log(`  externalUrls: ${data.externalUrls?.length}`, data.externalUrls);
+          let urls = [...(data.filteredUrls || [])];
+          if (data.externalUrls) {
+            // Primero, extraer y guardar correos y teléfonos
+            data.externalUrls.forEach(url => {
+              if (url.startsWith('mailto:')) {
+                const email = url.replace('mailto:', '').split('?')[0];
+                if (email) possibleMail.push(email);
+              } else if (url.startsWith('tel:') || url.startsWith('callto:')) {
+                const phone = url.replace(/^(tel:|callto:)/, '').replace(/[^\d+]/g, '');
+                if (phone) possiblePhone.push(phone);
+              }
+            });
+
+            // Luego, filtrar las URLs para incluir solo las relevantes para cartas/menús
+            const extra = data.externalUrls.filter(u => {
+              const low = u.toLowerCase();
+              // Excluir protocolos especiales
+              if (low.startsWith('mailto:') || low.startsWith('tel:') ||
+                low.startsWith('callto:') || low.startsWith('sms:') ||
+                low.startsWith('whatsapp:')) {
+                return false;
+              }
+              return low.includes('carta') || low.includes('menu') || low.includes('vino') || low.includes('@');
+            });
+            urls.push(...extra);
+          }
+          urls = dedupeLanguageUrls(urls);
+          urlsToScrape.push(...urls);
+        } catch (err: any) {
+          console.error(`Error crawling ${website}: ${err.message}`);
+        }
+      } else {
+        console.warn(`Failed to fetch ${website}: HTTP status ${resp.status}`);
       }
-      urls = dedupeLanguageUrls(urls);
-      urlsToScrape.push(...urls);
     } catch (err: any) {
-      console.error(`Error crawling ${website}: ${err.message}`);
+      // Handle network errors, DNS resolution failures, etc.
+      console.warn(`Cannot access ${website}: ${err.message || 'Unknown error'}`);
     }
   }
+
   resources = Array.from(new Set(resources));
-  return { ...r, urlsToScrape, resources };
+  possibleMail = Array.from(new Set(possibleMail));
+  possiblePhone = Array.from(new Set(possiblePhone));
+  return { ...r, urlsToScrape, resources, possibleMail, possiblePhone };
 }
 
 export async function getRestaurantsInfoFromWebsite(restaurants: any[], MAX_CONCURRENCY: number) {
@@ -949,9 +1062,6 @@ export async function getRestaurantsInfoFromWebsite(restaurants: any[], MAX_CONC
   }
 
   // Write full output to JSON file to avoid console cutoff
-  const cacheOutputFile = path.join(outputCacheDir, `cartas.json`);
-  fs.writeFileSync(cacheOutputFile, JSON.stringify({ restaurants: results }, null, 2));
-  console.log(`Saved final results to ${cacheOutputFile}`);
   const elapsedMs = Date.now() - startTime;
   console.log(`Total execution time: ${(elapsedMs / 1000).toFixed(2)}s`);
 
@@ -965,4 +1075,112 @@ export async function getRestaurantsInfoFromWebsite(restaurants: any[], MAX_CONC
 
   return results;
 
+}
+
+/**
+* Convenience: fetch restaurants by area name or ID in manual mode.
+* @param areaNameOrId The name of the area to search for or its OSM area ID
+* @param adminLevel The admin_level to filter by (default: 2) - only used when areaNameOrId is a string name
+* @param amenities Array of amenity types to search for (default: ['restaurant'])
+* @param countryContext Optional country or region context to disambiguate (e.g., "Spain" or "Asturias, Spain") - only used when areaNameOrId is a string name
+*/
+export async function fetchRestaurantDetailsByAreaNameManual(
+  areaNameOrId: string | number,
+  adminLevel: number = 2,
+  amenities: string[] = ['restaurant'],
+  countryContext?: string
+): Promise<any[]> {
+  let areaId: number;
+
+  if (typeof areaNameOrId === 'number') {
+    // If an area ID is provided directly as a number, use it
+    areaId = areaNameOrId;
+    console.log(`Using provided area ID: ${areaId}`);
+  } else if (!isNaN(Number(areaNameOrId)) && String(Number(areaNameOrId)) === areaNameOrId) {
+    // If it's a string that can be converted to a number (e.g., "3600346397"), treat it as an area ID
+    areaId = Number(areaNameOrId);
+    console.log(`Using provided area ID (from string): ${areaId}`);
+  } else {
+    // If it's a string that is not a number, treat it as an area name and get the ID
+    areaId = await getAreaId(areaNameOrId, adminLevel, countryContext);
+  }
+
+  return fetchRestaurantDetailsByAreaId(areaId, amenities);
+}
+
+/**
+ * Manually get the OSM area ID for an administrative boundary by name.
+ * @param areaName The name of the area to search for
+ * @param adminLevel The admin_level to filter by (default: 2)
+ * @param countryContext Optional country or region context to disambiguate (e.g., "Spain" or "Asturias, Spain")
+ */
+export async function getAreaId(
+  areaName: string,
+  adminLevel: number = 2,
+  countryContext?: string
+): Promise<number> {
+  let query: string;
+
+  if (countryContext) {
+    // If country context is provided, use it to narrow down the search
+    // First get the area ID for the country/region context
+    const contextQuery = `[out:json][timeout:25];
+area["boundary"="administrative"]["name"="${countryContext}"];
+out ids;`;
+
+    const contextResp = await axios.post(
+      'https://overpass-api.de/api/interpreter',
+      contextQuery,
+      { headers: { 'Content-Type': 'text/plain', 'User-Agent': 'carta-mcp' } }
+    );
+
+    const contextElems = contextResp.data.elements as any[];
+    if (!contextElems?.length) {
+      console.warn(`Context area not found: ${countryContext}, falling back to global search`);
+    } else {
+      const contextAreaId = contextElems[0].id;
+      // Use the context area to narrow down the search for the target area
+      query = `[out:json][timeout:25];
+area(${contextAreaId})->.context;
+area["boundary"="administrative"]["admin_level"="${adminLevel}"]["name"="${areaName}"](area.context);
+out ids;`;
+
+      console.log(`Fetching area ID for ${areaName} within ${countryContext}...`);
+      console.log(query);
+
+      const resp = await axios.post(
+        'https://overpass-api.de/api/interpreter',
+        query,
+        { headers: { 'Content-Type': 'text/plain', 'User-Agent': 'carta-mcp' } }
+      );
+
+      const elems = resp.data.elements as any[];
+      if (elems?.length) {
+        return elems[0].id;
+      }
+
+      console.warn(`Area not found within context, falling back to global search`);
+    }
+  }
+
+  // Default query without context or fallback if context search fails
+  query = `[out:json][timeout:25];
+area["boundary"="administrative"]["admin_level"="${adminLevel}"]["name"="${areaName}"];
+out ids;`;
+
+  console.log(`Fetching area ID for ${areaName}...`);
+  console.log(query);
+
+  const resp = await axios.post(
+    'https://overpass-api.de/api/interpreter',
+    query,
+    { headers: { 'Content-Type': 'text/plain', 'User-Agent': 'carta-mcp' } }
+  );
+
+  const elems = resp.data.elements as any[];
+  if (!elems?.length) {
+    throw new Error(`Area not found: ${areaName}`);
+  }
+
+  return elems[0].id;
 }
