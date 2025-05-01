@@ -1,5 +1,6 @@
 import { JSDOM } from "jsdom";
 import puppeteer from 'puppeteer';
+import { cleanHtml } from "./utils";
 
 /**
  * Función para extraer texto de una página web
@@ -10,25 +11,42 @@ export async function scrapeWebPage(url: string): Promise<{
   links: { url: string; text: string }[];
   metadata: Record<string, string>;
 }> {
+  // Reutilizar un único navegador de Puppeteer
+  let browser: import('puppeteer').Browser | null = null;
+
   // Obtener HTML estático o dinámico con Puppeteer si falla
   async function fetchPageContent(targetUrl: string): Promise<string> {
     try {
-      const res = await fetch(targetUrl);
+      const res = await fetch(targetUrl, {
+        // Add timeout to prevent hanging on unreachable sites
+        signal: AbortSignal.timeout(10000)
+      });
+      // Evitar fallback en 404
+      if (res.status === 404) {
+        console.warn(`404 en ${targetUrl}`);
+        return '';
+      }
       if (!res.ok) throw new Error(`Fetch error: ${res.statusText}`);
       return await res.text();
-    } catch {
-      const browser = await puppeteer.launch({ headless: true });
-      const page = await browser.newPage();
-      await page.goto(targetUrl, { waitUntil: 'networkidle2' });
-      const content = await page.content();
-      await browser.close();
-      return content;
+    } catch (fetchErr) {
+      try {
+        if (!browser) browser = await puppeteer.launch({ headless: true });
+        const page = await browser.newPage();
+        await page.goto(targetUrl, { waitUntil: 'networkidle2' });
+        const content = await page.content();
+        await page.close();
+        return content;
+      } catch (puppeteerErr) {
+        console.error(`Puppeteer fallo en ${targetUrl}:`, puppeteerErr.message);
+        return '';
+      }
     }
   }
   try {
     // Cargar contenido (estático o dinámico según sea necesario)
     const html = await fetchPageContent(url);
-    const dom = new JSDOM(html);
+    const cleanedHtml = cleanHtml(html);
+    const dom = new JSDOM(cleanedHtml);
     const document = dom.window.document;
     
     // Extraer título

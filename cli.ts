@@ -4,8 +4,17 @@ import * as fs from 'fs';
 import * as path from "path";
 import { crawlTripAdvisorUrls, extractRestaurantWebsites, fetchRestaurantDetailsByAreaNameManual, fetchRestaurantDetailsByPolygon, fetchRestaurantDetailsFromArea, fetchRestaurantDetailsInCountry, getAllRestaurantsInCountry, getAreaCandidates, getCountryPolygon, getRestaurantsInfoFromWebsite, parseOsmMenus, searchGooglePlaces } from "./utils";
 import { scrapeMultiplePages } from "./web-scraping";
+import util from "util";
 
 dotenv.config();
+
+// Setup file logging
+const logFile = path.join(process.cwd(), "process.log");
+const logStream = fs.createWriteStream(logFile, { flags: "a" });
+const originalConsoleLog = console.log;
+const originalConsoleError = console.error;
+console.log = (...args: any[]) => { logStream.write(util.format(...args) + "\n"); originalConsoleLog(...args); };
+console.error = (...args: any[]) => { logStream.write(util.format(...args) + "\n"); originalConsoleError(...args); };
 
 // Geocode a city to get bounding box viewport for subdivision
 async function geocodeCity(city: string): Promise<{ latMin: number; latMax: number; lonMin: number; lonMax: number }> {
@@ -312,7 +321,14 @@ async function scratchGoogleMaps() {
 
 }
 
-main().catch(err => {
-  console.error("Unhandled error:", err);
-  process.exit(1);
-});
+// Wrap main to measure total process time and log it
+const overallStart = Date.now();
+main()
+  .then(() => {
+    const elapsedMs = Date.now() - overallStart;
+    console.log(`Total process time: ${(elapsedMs / 1000).toFixed(2)}s`);
+  })
+  .catch(err => {
+    console.error("Unhandled error:", err);
+    process.exit(1);
+  });

@@ -637,24 +637,162 @@ out body tags meta;`;
 // Parse OSM menus (from scraped_pages.json) and save parsed menus
 export async function parseOsmMenus(areaArg: string): Promise<boolean> {
   if (!areaArg) throw new Error('Area argument is required');
-
+  // Paths and settings
   const baseMenusDir = path.join('cache', 'osm', 'manual');
-
-  const areasFile = path.join(baseMenusDir, areaArg, `restaurants_${areaArg}.json`);
-
-  const areasFileContent = fs.readFileSync(areasFile, 'utf8');
-  const restaurants = JSON.parse(areasFileContent);
-
-  const result = await getRestaurantsInfoFromWebsite(restaurants, -1);
-
-  const outputDir = path.join('cache', 'osm', 'manual', areaArg);
-  if (!fs.existsSync(outputDir)) fs.mkdirSync(outputDir, { recursive: true });
-  const safeName = areaArg.replace(/[^a-z0-9]/gi, "_").toLowerCase();
-  const filePath = path.join(outputDir, `cartas_${safeName}.json`);
-  fs.writeFileSync(filePath, JSON.stringify(result, null, 2), 'utf8');
-  console.log(`Saved final results to ${filePath}`);
-
+  const areaDir = path.join(baseMenusDir, areaArg);
+  const restaurantsPath = path.join(areaDir, `restaurants_${areaArg}.json`);
+  const restaurants: any[] = JSON.parse(fs.readFileSync(restaurantsPath, 'utf8'));
+  const safeName = areaArg.replace(/[^a-z0-9]/gi, '_').toLowerCase();
+  const outputPath = path.join(areaDir, `cartas_${safeName}.json`);
+  const progressPath = path.join(areaDir, `${safeName}.progress.json`);
+  const logPath = path.join(areaDir, `${safeName}.log`);
+  const batchSize = parseInt(process.env.MENU_BATCH_SIZE || '10', 10);
+  // Initialize empty results, always reprocess all restaurants
+  const results: any[] = [];
+  const total = restaurants.length;
+  console.log(`Total restaurants: ${total}, batchSize: ${batchSize}`);
+  fs.appendFileSync(logPath, `[${new Date().toISOString()}] Starting parseOsmMenus: ${total} restaurants, batchSize ${batchSize}\n`);
+  // Track batch failures
+  const failures: { batchStart: number; batchEnd: number; error: string }[] = [];
+  // Batch processing
+  for (let i = 0; i < total; i += batchSize) {
+    const end = Math.min(i + batchSize, total);
+    console.log(`Processing restaurants ${i}-${end - 1}`);
+    fs.appendFileSync(logPath, `[${new Date().toISOString()}] Processing restaurants ${i}-${end - 1}\n`);
+    const batch = restaurants.slice(i, end);
+    try {
+      const batchResults = await getRestaurantsInfoFromWebsite(batch, batch.length);
+      results.push(...batchResults);
+      fs.writeFileSync(outputPath, JSON.stringify(results, null, 2), 'utf8');
+      fs.writeFileSync(progressPath, JSON.stringify({ lastIndex: end - 1 }, null, 2), 'utf8');
+      fs.appendFileSync(logPath, `[${new Date().toISOString()}] Completed restaurants ${i}-${end - 1}\n`);
+    } catch (e: any) {
+      console.error(`Batch ${i}-${end - 1} failed:`, e);
+      fs.appendFileSync(logPath, `[${new Date().toISOString()}] Batch ${i}-${end - 1} failed: ${e.stack}\n`);
+      failures.push({ batchStart: i, batchEnd: end - 1, error: e.message || e.toString() });
+      // Update progress and continue
+      fs.writeFileSync(progressPath, JSON.stringify({ lastIndex: end - 1 }, null, 2), 'utf8');
+      continue;
+    }
+  }
+  console.log('parseOsmMenus completed.');
+  // After all batches, record any failures
+  if (failures.length > 0) {
+    const failuresPath = path.join(areaDir, `${safeName}.failures.json`);
+    fs.writeFileSync(failuresPath, JSON.stringify(failures, null, 2), 'utf8');
+    console.warn(`parseOsmMenus completed with ${failures.length} failed batches. See ${failuresPath}`);
+    fs.appendFileSync(logPath, `[${new Date().toISOString()}] parseOsmMenus completed with ${failures.length} failures\n`);
+  }
   return true;
+}
+
+
+/**
+* Convenience: fetch restaurants by area name or ID in manual mode.
+* @param areaNameOrId The name of the area to search for or its OSM area ID
+* @param adminLevel The admin_level to filter by (default: 2) - only used when areaNameOrId is a string name
+* @param amenities Array of amenity types to search for (default: ['restaurant'])
+* @param countryContext Optional country or region context to disambiguate (e.g., "Spain" or "Asturias, Spain") - only used when areaNameOrId is a string name
+*/
+export async function fetchRestaurantDetailsByAreaNameManual(
+  areaNameOrId: string | number,
+  adminLevel: number = 2,
+  amenities: string[] = ['restaurant'],
+  countryContext?: string
+): Promise<any[]> {
+  let areaId: number;
+
+  if (typeof areaNameOrId === 'number') {
+    // If an area ID is provided directly as a number, use it
+    areaId = areaNameOrId;
+    console.log(`Using provided area ID: ${areaId}`);
+  } else if (!isNaN(Number(areaNameOrId)) && String(Number(areaNameOrId)) === areaNameOrId) {
+    // If it's a string that can be converted to a number (e.g., "3600346397"), treat it as an area ID
+    areaId = Number(areaNameOrId);
+    console.log(`Using provided area ID (from string): ${areaId}`);
+  } else {
+    // If it's a string that is not a number, treat it as an area name and get the ID
+    areaId = await getAreaId(areaNameOrId, adminLevel, countryContext);
+  }
+
+  return fetchRestaurantDetailsByAreaId(areaId, amenities);
+}
+
+/**
+ * Manually get the OSM area ID for an administrative boundary by name.
+ * @param areaName The name of the area to search for
+ * @param adminLevel The admin_level to filter by (default: 2)
+ * @param countryContext Optional country or region context to disambiguate (e.g., "Spain" or "Asturias, Spain")
+ */
+export async function getAreaId(
+  areaName: string,
+  adminLevel: number = 2,
+  countryContext?: string
+): Promise<number> {
+  let query: string;
+
+  if (countryContext) {
+    // If country context is provided, use it to narrow down the search
+    // First get the area ID for the country/region context
+    const contextQuery = `[out:json][timeout:25];
+area["boundary"="administrative"]["name"="${countryContext}"];
+out ids;`;
+
+    const contextResp = await axios.post(
+      'https://overpass-api.de/api/interpreter',
+      contextQuery,
+      { headers: { 'Content-Type': 'text/plain', 'User-Agent': 'carta-mcp' } }
+    );
+
+    const contextElems = contextResp.data.elements as any[];
+    if (!contextElems?.length) {
+      console.warn(`Context area not found: ${countryContext}, falling back to global search`);
+    } else {
+      const contextAreaId = contextElems[0].id;
+      // Use the context area to narrow down the search for the target area
+      query = `[out:json][timeout:25];
+area(${contextAreaId})->.context;
+area["boundary"="administrative"]["admin_level"="${adminLevel}"]["name"="${areaName}"](area.context);
+out ids;`;
+
+      console.log(`Fetching area ID for ${areaName} within ${countryContext}...`);
+      console.log(query);
+
+      const resp = await axios.post(
+        'https://overpass-api.de/api/interpreter',
+        query,
+        { headers: { 'Content-Type': 'text/plain', 'User-Agent': 'carta-mcp' } }
+      );
+
+      const elems = resp.data.elements as any[];
+      if (elems?.length) {
+        return elems[0].id;
+      }
+
+      console.warn(`Area not found within context, falling back to global search`);
+    }
+  }
+
+  // Default query without context or fallback if context search fails
+  query = `[out:json][timeout:25];
+area["boundary"="administrative"]["admin_level"="${adminLevel}"]["name"="${areaName}"];
+out ids;`;
+
+  console.log(`Fetching area ID for ${areaName}...`);
+  console.log(query);
+
+  const resp = await axios.post(
+    'https://overpass-api.de/api/interpreter',
+    query,
+    { headers: { 'Content-Type': 'text/plain', 'User-Agent': 'carta-mcp' } }
+  );
+
+  const elems = resp.data.elements as any[];
+  if (!elems?.length) {
+    throw new Error(`Area not found: ${areaName}`);
+  }
+
+  return elems[0].id;
 }
 
 // Helper: screenshot PDF pages and return image buffers
@@ -689,23 +827,19 @@ export function dedupeLanguageUrls(urls: string[]): string[] {
 import { JSDOM } from 'jsdom';
 
 // Función para limpiar el HTML eliminando elementos no deseados como CSS y scripts
-function cleanHtml(html: string): string {
-  // Eliminar todos los elementos <style> y su contenido
-  html = html.replace(/<style\b[^<]*(?:(?!<\/style>)<[^<]*)*<\/style>/gi, '');
-
-  // Eliminar todos los elementos <script> y su contenido
-  html = html.replace(/<script\b[^<]*(?:(?!<\/script>)<[^<]*)*<\/script>/gi, '');
-
-  // Eliminar atributos style inline
-  html = html.replace(/\s+style\s*=\s*"[^"]*"/gi, '');
-  html = html.replace(/\s+style\s*=\s*'[^']*'/gi, '');
-
+export function cleanHtml(html: string): string {
+  // Eliminar bloques <style> y su contenido
+  html = html.replace(/<style\b[^>]*>[\s\S]*?<\/style>/gi, '');
+  // Eliminar bloques <script> y su contenido
+  html = html.replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi, '');
   // Eliminar comentarios HTML
   html = html.replace(/<!--[\s\S]*?-->/g, '');
-
-  // Eliminar hojas de estilo CSS
-  html = html.replace(/<link[^>]*rel\s*=\s*["']stylesheet["'][^>]*>/gi, '');
-
+  // Eliminar enlaces a hojas de estilo externas
+  html = html.replace(/<link[^>]*rel=["']stylesheet["'][^>]*>/gi, '');
+  // Eliminar atributos css (ej. shortcodes VC)
+  html = html.replace(/\s+css\s*=\s*(['"])[\s\S]*?\1/gi, '');
+  // Eliminar atributos style inline
+  html = html.replace(/\s+style\s*=\s*(['"])[\s\S]*?\1/gi, '');
   return html;
 }
 
@@ -730,10 +864,10 @@ export async function crawlRestaurant(r: any): Promise<any> {
       });
 
       if (resp.ok) {
-        const html = await resp.text();
-        const cleanedHtml = cleanHtml(html);
-        const dom = new JSDOM(cleanedHtml);
         try {
+          const html = await resp.text();
+          const cleanedHtml = cleanHtml(html);
+          const dom = new JSDOM(cleanedHtml);
           // Busqueda de imagenes de cartas
           Array.from(dom.window.document.querySelectorAll('img'))
             .map(img => img.getAttribute('src'))
@@ -749,20 +883,21 @@ export async function crawlRestaurant(r: any): Promise<any> {
             .filter(Boolean)
             .forEach(u => u && resources.push(u));
 
-          // Busqueda de enlaces de cartas (pdf, pdfs, images, etc..)
+          // Busqueda de enlaces de cartas en formato de archivo (pdf, imágenes, etc.)
           Array.from(dom.window.document.querySelectorAll('a'))
-            .map(img => img.getAttribute('href'))
-            .filter((src): src is string => Boolean(src) && (src?.toLowerCase().includes('carta') || false))
-            .map(src => {
+            .map(link => link.getAttribute('href'))
+            .filter((href): href is string => href !== null)
+            .filter(href => /\.(jpe?g|png|gif|svg|webp|ico|pdf)$/i.test(href) && (href.toLowerCase().includes('carta') || href.toLowerCase().includes('menu') || href.toLowerCase().includes('vino')))
+            .map(href => {
               try {
-                return new URL(src, website).toString();
+                return new URL(href, website).toString();
               } catch (e) {
-                console.error(`Invalid URL: ${src} for website ${website}`);
+                console.error(`Invalid URL: ${href} for website ${website}`);
                 return null;
               }
             })
-            .filter(Boolean)
-            .forEach(u => u && resources.push(u));
+            .filter((url): url is string => Boolean(url))
+            .forEach(url => resources.push(url));
 
           // Buscar enlaces mailto: para emails
           Array.from(dom.window.document.querySelectorAll('a[href^="mailto:"]'))
@@ -804,7 +939,8 @@ export async function crawlRestaurant(r: any): Promise<any> {
 
           // Usar filteredDataUrls en lugar de allDataUrls
           const resourcePatterns = /\.(jpe?g|png|gif|svg|webp|ico|pdf)$/i;
-          resources.push(...Array.from(new Set(filteredDataUrls.filter(u => resourcePatterns.test(u)))));
+          resources.push(...Array.from(new Set([...(r.resources || []), ...filteredDataUrls.filter(u => resourcePatterns.test(u))])));
+
           console.log(`listDomainUrls for ${r.name} (${website}):`);
           console.log(`  filteredUrls: ${data.filteredUrls?.length}`, data.filteredUrls);
           console.log(`  externalUrls: ${data.externalUrls?.length}`, data.externalUrls);
@@ -876,7 +1012,7 @@ export async function getRestaurantsInfoFromWebsite(restaurants: any[], MAX_CONC
   for (let i = 0; i < restaurants.length; i += MAX_CONCURRENCY) {
     const batch = restaurants.slice(i, i + MAX_CONCURRENCY);
     console.log(`Processing batch ${batch.length}...`);
-    const batchResults = await Promise.all(batch.map(crawlRestaurant));
+    const batchResults = await Promise.all(batch.map(async r => await crawlRestaurant(r)));
     results.push(...batchResults);
   }
 
@@ -906,9 +1042,23 @@ export async function getRestaurantsInfoFromWebsite(restaurants: any[], MAX_CONC
       }
       // Scrape and parse via OpenAI
       try {
+        console.log(`[DEBUG][${r.tags.name}] URLs to scrape:`, r.urlsToScrape);
         const { pages } = await scrapeMultiplePages(r.urlsToScrape);
+        console.log(`[DEBUG][${r.tags.name}] pages returned: ${pages.length}`);
         const combinedText = pages.map(p => p.text).join("\n");
+        console.log(`[DEBUG][${r.tags.name}] combinedText length: ${combinedText.length}`);
+        console.log(`[DEBUG][${r.tags.name}] combinedText snippet: ${combinedText.slice(0,100).replace(/\n/g,' ')}`);
+        console.log(`[DEBUG][${r.tags.name}] links: ${JSON.stringify(pages.map(p => p.links), null, 2)}`);
+        // Extract PDF resources from scraped pages
+        const pdfResources = pages
+          .flatMap(p => p.links.map(l => l.url))
+          .filter(url => /\.(pdf)$/i.test(url) && (url.toLowerCase().includes('carta') || url.toLowerCase().includes('menu') || url.toLowerCase().includes('vino')));
+        if (pdfResources.length) {
+          console.log(`[DEBUG][${r.tags.name}] PDF resources found:`, pdfResources);
+          r.resources = Array.from(new Set([...(r.resources || []), ...pdfResources]));
+        }
         // Use official OpenAI SDK
+        console.log(`[DEBUG][${r.tags.name}] Sending text to OpenAI model: ${openaiModel}`);
         const completion = await openai.chat.completions.create({
           model: openaiModel,
           messages: [
@@ -1075,112 +1225,4 @@ export async function getRestaurantsInfoFromWebsite(restaurants: any[], MAX_CONC
 
   return results;
 
-}
-
-/**
-* Convenience: fetch restaurants by area name or ID in manual mode.
-* @param areaNameOrId The name of the area to search for or its OSM area ID
-* @param adminLevel The admin_level to filter by (default: 2) - only used when areaNameOrId is a string name
-* @param amenities Array of amenity types to search for (default: ['restaurant'])
-* @param countryContext Optional country or region context to disambiguate (e.g., "Spain" or "Asturias, Spain") - only used when areaNameOrId is a string name
-*/
-export async function fetchRestaurantDetailsByAreaNameManual(
-  areaNameOrId: string | number,
-  adminLevel: number = 2,
-  amenities: string[] = ['restaurant'],
-  countryContext?: string
-): Promise<any[]> {
-  let areaId: number;
-
-  if (typeof areaNameOrId === 'number') {
-    // If an area ID is provided directly as a number, use it
-    areaId = areaNameOrId;
-    console.log(`Using provided area ID: ${areaId}`);
-  } else if (!isNaN(Number(areaNameOrId)) && String(Number(areaNameOrId)) === areaNameOrId) {
-    // If it's a string that can be converted to a number (e.g., "3600346397"), treat it as an area ID
-    areaId = Number(areaNameOrId);
-    console.log(`Using provided area ID (from string): ${areaId}`);
-  } else {
-    // If it's a string that is not a number, treat it as an area name and get the ID
-    areaId = await getAreaId(areaNameOrId, adminLevel, countryContext);
-  }
-
-  return fetchRestaurantDetailsByAreaId(areaId, amenities);
-}
-
-/**
- * Manually get the OSM area ID for an administrative boundary by name.
- * @param areaName The name of the area to search for
- * @param adminLevel The admin_level to filter by (default: 2)
- * @param countryContext Optional country or region context to disambiguate (e.g., "Spain" or "Asturias, Spain")
- */
-export async function getAreaId(
-  areaName: string,
-  adminLevel: number = 2,
-  countryContext?: string
-): Promise<number> {
-  let query: string;
-
-  if (countryContext) {
-    // If country context is provided, use it to narrow down the search
-    // First get the area ID for the country/region context
-    const contextQuery = `[out:json][timeout:25];
-area["boundary"="administrative"]["name"="${countryContext}"];
-out ids;`;
-
-    const contextResp = await axios.post(
-      'https://overpass-api.de/api/interpreter',
-      contextQuery,
-      { headers: { 'Content-Type': 'text/plain', 'User-Agent': 'carta-mcp' } }
-    );
-
-    const contextElems = contextResp.data.elements as any[];
-    if (!contextElems?.length) {
-      console.warn(`Context area not found: ${countryContext}, falling back to global search`);
-    } else {
-      const contextAreaId = contextElems[0].id;
-      // Use the context area to narrow down the search for the target area
-      query = `[out:json][timeout:25];
-area(${contextAreaId})->.context;
-area["boundary"="administrative"]["admin_level"="${adminLevel}"]["name"="${areaName}"](area.context);
-out ids;`;
-
-      console.log(`Fetching area ID for ${areaName} within ${countryContext}...`);
-      console.log(query);
-
-      const resp = await axios.post(
-        'https://overpass-api.de/api/interpreter',
-        query,
-        { headers: { 'Content-Type': 'text/plain', 'User-Agent': 'carta-mcp' } }
-      );
-
-      const elems = resp.data.elements as any[];
-      if (elems?.length) {
-        return elems[0].id;
-      }
-
-      console.warn(`Area not found within context, falling back to global search`);
-    }
-  }
-
-  // Default query without context or fallback if context search fails
-  query = `[out:json][timeout:25];
-area["boundary"="administrative"]["admin_level"="${adminLevel}"]["name"="${areaName}"];
-out ids;`;
-
-  console.log(`Fetching area ID for ${areaName}...`);
-  console.log(query);
-
-  const resp = await axios.post(
-    'https://overpass-api.de/api/interpreter',
-    query,
-    { headers: { 'Content-Type': 'text/plain', 'User-Agent': 'carta-mcp' } }
-  );
-
-  const elems = resp.data.elements as any[];
-  if (!elems?.length) {
-    throw new Error(`Area not found: ${areaName}`);
-  }
-
-  return elems[0].id;
 }
