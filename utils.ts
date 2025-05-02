@@ -858,132 +858,79 @@ export async function crawlRestaurant(r: any): Promise<any> {
     console.log(`Crawling ${website}...`);
 
     try {
-      const resp = await fetch(website, {
-        // Add timeout to prevent hanging on unreachable sites
-        signal: AbortSignal.timeout(10000)
+      const data = await listDomainUrls(website, {
+        filterMode: 'menu',
+        includeExternalLinks: true,
+        adaptiveSearch: true,
+        maxDepth: process.env.TEST_MODE ? 1 : 4,
+        maxUrls: process.env.TEST_MODE ? 10 : 50
       });
-
-      if (resp.ok) {
-        try {
-          const html = await resp.text();
-          const cleanedHtml = cleanHtml(html);
-          const dom = new JSDOM(cleanedHtml);
-          // Busqueda de imagenes de cartas
-          Array.from(dom.window.document.querySelectorAll('img'))
-            .map(img => img.getAttribute('src'))
-            .filter((src): src is string => Boolean(src) && (src?.toLowerCase().includes('carta') || false))
-            .map(src => {
-              try {
-                return new URL(src, website).toString();
-              } catch (e) {
-                console.error(`Invalid URL: ${src} for website ${website}`);
-                return null;
-              }
-            })
-            .filter(Boolean)
-            .forEach(u => u && resources.push(u));
-
-          // Busqueda de enlaces de cartas en formato de archivo (pdf, imágenes, etc.)
-          Array.from(dom.window.document.querySelectorAll('a'))
-            .map(link => link.getAttribute('href'))
-            .filter((href): href is string => href !== null)
-            .filter(href => /\.(jpe?g|png|gif|svg|webp|ico|pdf)$/i.test(href) && (href.toLowerCase().includes('carta') || href.toLowerCase().includes('menu') || href.toLowerCase().includes('vino')))
-            .map(href => {
-              try {
-                return new URL(href, website).toString();
-              } catch (e) {
-                console.error(`Invalid URL: ${href} for website ${website}`);
-                return null;
-              }
-            })
-            .filter((url): url is string => Boolean(url))
-            .forEach(url => resources.push(url));
-
-          // Buscar enlaces mailto: para emails
-          Array.from(dom.window.document.querySelectorAll('a[href^="mailto:"]'))
-            .map(link => link.getAttribute('href'))
-            .filter(Boolean)
-            .map(href => href?.replace('mailto:', '').split('?')[0]) // Eliminar parámetros como ?subject=
-            .filter(Boolean)
-            .forEach(email => email && possibleMail.push(email));
-
-          // Buscar enlaces tel: o callto: para teléfonos
-          Array.from(dom.window.document.querySelectorAll('a[href^="tel:"], a[href^="callto:"]'))
-            .map(link => link.getAttribute('href'))
-            .filter(Boolean)
-            .map(href => href?.replace(/^(tel:|callto:)/, '').replace(/[^\d+]/g, '')) // Limpiar formato
-            .filter(Boolean)
-            .forEach(phone => phone && possiblePhone.push(phone));
-        } catch (imgErr) {
-          console.error(`Error processing images from ${website}: ${imgErr.message}`);
-        }
-
-        try {
-          const data = await listDomainUrls(website, {
-            filterMode: 'menu',
-            includeExternalLinks: true,
-            adaptiveSearch: true,
-            maxDepth: process.env.TEST_MODE ? 1 : 4,
-            maxUrls: process.env.TEST_MODE ? 10 : 50
-          });
-          const allDataUrls = [...(data.urls || []), ...(data.externalUrls || [])];
-          // Filtrar URLs especiales como mailto: y tel: antes de procesarlas
-          const filteredDataUrls = allDataUrls.filter(url => {
-            // Excluir URLs que empiezan con protocolos especiales
-            return !url.startsWith('mailto:') &&
-              !url.startsWith('tel:') &&
-              !url.startsWith('callto:') &&
-              !url.startsWith('sms:') &&
-              !url.startsWith('whatsapp:');
-          });
-
-          // Usar filteredDataUrls en lugar de allDataUrls
-          const resourcePatterns = /\.(jpe?g|png|gif|svg|webp|ico|pdf)$/i;
-          resources.push(...Array.from(new Set([...(r.resources || []), ...filteredDataUrls.filter(u => resourcePatterns.test(u))])));
-
-          console.log(`listDomainUrls for ${r.name} (${website}):`);
-          console.log(`  filteredUrls: ${data.filteredUrls?.length}`, data.filteredUrls);
-          console.log(`  externalUrls: ${data.externalUrls?.length}`, data.externalUrls);
-          let urls = [...(data.filteredUrls || [])];
-          if (data.externalUrls) {
-            // Primero, extraer y guardar correos y teléfonos
-            data.externalUrls.forEach(url => {
-              if (url.startsWith('mailto:')) {
-                const email = url.replace('mailto:', '').split('?')[0];
-                if (email) possibleMail.push(email);
-              } else if (url.startsWith('tel:') || url.startsWith('callto:')) {
-                const phone = url.replace(/^(tel:|callto:)/, '').replace(/[^\d+]/g, '');
-                if (phone) possiblePhone.push(phone);
-              }
-            });
-
-            // Luego, filtrar las URLs para incluir solo las relevantes para cartas/menús
-            const extra = data.externalUrls.filter(u => {
-              const low = u.toLowerCase();
-              // Excluir protocolos especiales
-              if (low.startsWith('mailto:') || low.startsWith('tel:') ||
-                low.startsWith('callto:') || low.startsWith('sms:') ||
-                low.startsWith('whatsapp:')) {
-                return false;
-              }
-              return low.includes('carta') || low.includes('menu') || low.includes('vino') || low.includes('@');
-            });
-            urls.push(...extra);
-          }
-          urls = dedupeLanguageUrls(urls);
-          urlsToScrape.push(...urls);
-        } catch (err: any) {
-          console.error(`Error crawling ${website}: ${err.message}`);
-        }
-      } else {
-        console.warn(`Failed to fetch ${website}: HTTP status ${resp.status}`);
+      const allDataUrls = [...(data.urls || []), ...(data.externalUrls || [])];
+      const resourcePatterns = /\.(jpe?g|png|gif|svg|webp|ico|pdf)$/i;
+      resources.push(...Array.from(new Set(allDataUrls.filter(u => resourcePatterns.test(u)))));
+      console.log(`listDomainUrls for ${r.name} (${website}):`);
+      console.log(`  filteredUrls: ${data.filteredUrls?.length}`, data.filteredUrls);
+      console.log(`  externalUrls: ${data.externalUrls?.length}`, data.externalUrls);
+      let urls = [...(data.filteredUrls || [])];
+      if (data.externalUrls) {
+        const extra = data.externalUrls.filter(u => {
+          const low = u.toLowerCase();
+          return low.includes('carta') || low.includes('@');
+        });
+        urls.push(...extra);
       }
+      urls = dedupeLanguageUrls(urls);
+      urlsToScrape.push(...urls);
     } catch (err: any) {
-      // Handle network errors, DNS resolution failures, etc.
-      console.warn(`Cannot access ${website}: ${err.message || 'Unknown error'}`);
+      console.error(`Error crawling ${website}: ${err.message}`);
     }
   }
-
+  // Extract images from each scraped page (e.g. menu pages)
+  for (const pageUrl of urlsToScrape) {
+    try {
+      const resp = await fetch(pageUrl);
+      if (resp.ok) {
+        const html = await resp.text();
+        const cleaned = cleanHtml(html);
+        const dom = new JSDOM(cleaned);
+        const candidates = new Set<string>();
+        // gather from <img> attributes and srcset
+        dom.window.document.querySelectorAll('img').forEach(img => {
+          ['src','data-src','data-original','data-lazy-src'].forEach(attr => {
+            const val = img.getAttribute(attr);
+            if (val) {
+              try { candidates.add(new URL(val, pageUrl).toString()); } catch {}
+            }
+          });
+          const srcset = img.getAttribute('srcset');
+          if (srcset) {
+            srcset.split(',').map(p => p.trim().split(' ')[0]).forEach(urlStr => {
+              try { candidates.add(new URL(urlStr, pageUrl).toString()); } catch {}
+            });
+          }
+        });
+        // gather direct links to image files
+        dom.window.document.querySelectorAll('a[href]').forEach(a => {
+          const href = a.getAttribute('href');
+          if (href && /\.(jpe?g|png|gif|svg|webp|ico)$/i.test(href)) {
+            try { candidates.add(new URL(href, pageUrl).toString()); } catch {}
+          }
+        });
+        for (const u of candidates) resources.push(u);
+      }
+    } catch (err: any) {
+      console.warn(`Error extracting images from ${pageUrl}:`, err.message || err);
+    }
+  }
+  // Filter resources to only those whose filename contains 'carta' or 'menu'
+  resources = resources.filter(u => {
+    try {
+      const filename = new URL(u).pathname.split('/').pop() || '';
+      return /(carta|menu)/i.test(filename);
+    } catch {
+      return false;
+    }
+  });
   resources = Array.from(new Set(resources));
   possibleMail = Array.from(new Set(possibleMail));
   possiblePhone = Array.from(new Set(possiblePhone));

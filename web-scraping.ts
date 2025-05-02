@@ -17,6 +17,9 @@ export async function scrapeWebPage(url: string): Promise<{
   // Obtener HTML estático o dinámico con Puppeteer si falla
   async function fetchPageContent(targetUrl: string): Promise<string> {
     try {
+      if (targetUrl.startsWith("mailto:") || targetUrl.startsWith("tel:")) {
+        return "";
+      }
       const res = await fetch(targetUrl, {
         // Add timeout to prevent hanging on unreachable sites
         signal: AbortSignal.timeout(10000)
