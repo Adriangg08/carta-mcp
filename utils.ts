@@ -841,19 +841,13 @@ import { JSDOM } from 'jsdom';
 
 // Función para limpiar el HTML eliminando elementos no deseados como CSS y scripts
 export function cleanHtml(html: string): string {
-  // Eliminar bloques <style> y su contenido
-  html = html.replace(/<style\b[^>]*>[\s\S]*?<\/style>/gi, '');
-  // Eliminar bloques <script> y su contenido
-  html = html.replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi, '');
-  // Eliminar comentarios HTML
-  html = html.replace(/<!--[\s\S]*?-->/g, '');
-  // Eliminar enlaces a hojas de estilo externas
-  html = html.replace(/<link[^>]*rel=["']stylesheet["'][^>]*>/gi, '');
-  // Eliminar atributos css (ej. shortcodes VC)
-  html = html.replace(/\s+css\s*=\s*(['"])[\s\S]*?\1/gi, '');
-  // Eliminar atributos style inline
-  html = html.replace(/\s+style\s*=\s*(['"])[\s\S]*?\1/gi, '');
-  return html;
+  // Parse HTML and remove unwanted elements and attributes
+  const dom = new JSDOM(html);
+  const doc = dom.window.document;
+  doc.querySelectorAll('script, style, noscript, iframe').forEach(el => el.remove());
+  doc.querySelectorAll('link[rel="stylesheet"]').forEach(el => el.remove());
+  doc.querySelectorAll('[style]').forEach(el => el.removeAttribute('style'));
+  return doc.documentElement.outerHTML;
 }
 
 export async function crawlRestaurant(r: any): Promise<any> {
@@ -909,16 +903,16 @@ export async function crawlRestaurant(r: any): Promise<any> {
         const candidates = new Set<string>();
         // gather from <img> attributes and srcset
         dom.window.document.querySelectorAll('img').forEach(img => {
-          ['src','data-src','data-original','data-lazy-src'].forEach(attr => {
+          ['src', 'data-src', 'data-original', 'data-lazy-src'].forEach(attr => {
             const val = img.getAttribute(attr);
             if (val) {
-              try { candidates.add(new URL(val, pageUrl).toString()); } catch {}
+              try { candidates.add(new URL(val, pageUrl).toString()); } catch { }
             }
           });
           const srcset = img.getAttribute('srcset');
           if (srcset) {
             srcset.split(',').map(p => p.trim().split(' ')[0]).forEach(urlStr => {
-              try { candidates.add(new URL(urlStr, pageUrl).toString()); } catch {}
+              try { candidates.add(new URL(urlStr, pageUrl).toString()); } catch { }
             });
           }
         });
@@ -926,7 +920,7 @@ export async function crawlRestaurant(r: any): Promise<any> {
         dom.window.document.querySelectorAll('a[href]').forEach(a => {
           const href = a.getAttribute('href');
           if (href && /\.(jpe?g|png|gif|svg|webp|ico)$/i.test(href)) {
-            try { candidates.add(new URL(href, pageUrl).toString()); } catch {}
+            try { candidates.add(new URL(href, pageUrl).toString()); } catch { }
           }
         });
         for (const u of candidates) resources.push(u);
@@ -1007,7 +1001,7 @@ export async function getRestaurantsInfoFromWebsite(restaurants: any[], MAX_CONC
         console.log(`[DEBUG][${r.tags.name}] pages returned: ${pages.length}`);
         const combinedText = pages.map(p => p.text).join("\n");
         console.log(`[DEBUG][${r.tags.name}] combinedText length: ${combinedText.length}`);
-        console.log(`[DEBUG][${r.tags.name}] combinedText snippet: ${combinedText.slice(0,100).replace(/\n/g,' ')}`);
+        console.log(`[DEBUG][${r.tags.name}] combinedText snippet: ${combinedText.slice(0, 100).replace(/\n/g, ' ')}`);
         console.log(`[DEBUG][${r.tags.name}] links: ${JSON.stringify(pages.map(p => p.links), null, 2)}`);
         // Extract PDF resources from scraped pages
         const pdfResources = pages
