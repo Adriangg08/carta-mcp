@@ -1,0 +1,230 @@
+[
+  {
+    "type": "node",
+    "id": 1094705495,
+    "lat": 33.0108408,
+    "lon": -5.6327033,
+    "timestamp": "2014-12-03T16:02:50Z",
+    "version": 3,
+    "changeset": 27203312,
+    "user": "Niels Elgaard Larsen",
+    "uid": 1288,
+    "tags": {
+      "amenity": "restaurant",
+      "comment": "nice terrace",
+      "name": "Riad el Borj"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1094713684,
+    "lat": 32.97332,
+    "lon": -5.661685,
+    "timestamp": "2024-07-01T14:10:11Z",
+    "version": 3,
+    "changeset": 153414606,
+    "user": "woodpeck_repair",
+    "uid": 145231,
+    "tags": {
+      "_waypoint_": "yes",
+      "amenity": "restaurant",
+      "name": "Titrite"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3206574457,
+    "lat": 32.6436268,
+    "lon": -5.9149084,
+    "timestamp": "2014-11-26T18:40:04Z",
+    "version": 1,
+    "changeset": 27051789,
+    "user": "Niels Elgaard Larsen",
+    "uid": 1288,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "tagine"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3217569184,
+    "lat": 32.6434207,
+    "lon": -5.9154645,
+    "timestamp": "2016-06-13T11:36:18Z",
+    "version": 3,
+    "changeset": 39990653,
+    "user": "Abderrahman DINAR",
+    "uid": 824817,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Anna Jah tagine chiken",
+      "note": "Ttagine with chicken and lemon"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3217569196,
+    "lat": 32.64359,
+    "lon": -5.9146233,
+    "timestamp": "2014-12-03T15:58:04Z",
+    "version": 1,
+    "changeset": 27203225,
+    "user": "Niels Elgaard Larsen",
+    "uid": 1288,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Cafe Chatilla"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3217569204,
+    "lat": 32.6435093,
+    "lon": -5.9153072,
+    "timestamp": "2016-06-13T11:36:18Z",
+    "version": 3,
+    "changeset": 39990653,
+    "user": "Abderrahman DINAR",
+    "uid": 824817,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "tagine",
+      "name": "Imouzzer Tagine"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4582022490,
+    "lat": 33.2950001,
+    "lon": -5.4912515,
+    "timestamp": "2016-12-30T23:13:15Z",
+    "version": 1,
+    "changeset": 44797228,
+    "user": "Maggus315",
+    "uid": 4229099,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "moroccan",
+      "name:en": "Roadside Barbeque"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6611834765,
+    "lat": 33.1586367,
+    "lon": -5.566027,
+    "timestamp": "2019-07-13T15:20:06Z",
+    "version": 1,
+    "changeset": 72212370,
+    "user": "Cyrille37",
+    "uid": 454932,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "barbecue;burger;coffee_shop;international;kebab;mediterranean;pizza;chicken;regional;sandwich;turkish",
+      "name": "café Restaurant Al Akhawayne",
+      "takeaway": "yes",
+      "toilets": "yes",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8848360933,
+    "lat": 32.5539275,
+    "lon": -6.014011,
+    "timestamp": "2021-06-19T13:51:29Z",
+    "version": 1,
+    "changeset": 106633065,
+    "user": "Traktorbek",
+    "uid": 7370308,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Café Restaurant le grand Atlas"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9238313719,
+    "lat": 32.9961488,
+    "lon": -5.6517183,
+    "timestamp": "2021-11-09T15:20:02Z",
+    "version": 1,
+    "changeset": 113569891,
+    "user": "Rafael Raposo Pires",
+    "uid": 4317402,
+    "tags": {
+      "amenity": "restaurant",
+      "name:pt": "Restaurante"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11829088770,
+    "lat": 32.9307774,
+    "lon": -5.669051,
+    "timestamp": "2024-04-18T19:16:44Z",
+    "version": 1,
+    "changeset": 150191105,
+    "user": "qcmj",
+    "uid": 4268474,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Rania"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11841172108,
+    "lat": 32.9314071,
+    "lon": -5.668764,
+    "timestamp": "2024-04-23T11:43:45Z",
+    "version": 1,
+    "changeset": 150391253,
+    "user": "Éloi Héraut",
+    "uid": 4975832,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Adrar"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12511022339,
+    "lat": 32.9362679,
+    "lon": -5.6715857,
+    "timestamp": "2025-01-17T22:24:36Z",
+    "version": 1,
+    "changeset": 161472998,
+    "user": "sudo_man",
+    "uid": 10131249,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Chez Azziz Couscous"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1336890345,
+    "timestamp": "2024-11-22T17:05:16Z",
+    "version": 1,
+    "changeset": 159468129,
+    "user": "clwacker",
+    "uid": 208020,
+    "center": {
+      "lat": 32.9257391,
+      "lon": -5.5489743
+    },
+    "nodes": [
+      12365477030,
+      12365477031,
+      12365477032,
+      12365477033,
+      12365477030
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes"
+    }
+  }
+]

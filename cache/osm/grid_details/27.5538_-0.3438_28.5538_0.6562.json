@@ -1,0 +1,39 @@
+[
+  {
+    "type": "node",
+    "id": 3199092864,
+    "lat": 27.8746427,
+    "lon": -0.2911681,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4947058222,
+    "lat": 27.8794533,
+    "lon": -0.2768923,
+    "timestamp": "2020-11-26T23:31:52Z",
+    "version": 4,
+    "changeset": 94863118,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:city": "أدرار",
+      "addr:street": "شارع الحي 20 أغسطس 1955",
+      "amenity": "restaurant",
+      "name": "البيتزا الحقيقية",
+      "name:ar": "البيتزا الحقيقية",
+      "name:en": "Real pizza",
+      "name:fr": "Real pizza"
+    }
+  }
+]

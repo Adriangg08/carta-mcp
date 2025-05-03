@@ -1,0 +1,309 @@
+[
+  {
+    "type": "node",
+    "id": 2014553240,
+    "lat": 30.5258625,
+    "lon": -7.9049869,
+    "timestamp": "2022-04-09T08:41:27Z",
+    "version": 3,
+    "changeset": 119494924,
+    "user": "Nicolas Bouliane",
+    "uid": 10141361,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "internet_access": "wlan",
+      "name": "Souktana",
+      "rooms": "8",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2222347315,
+    "lat": 30.5304354,
+    "lon": -7.9095014,
+    "timestamp": "2022-05-26T22:12:56Z",
+    "version": 6,
+    "changeset": 121547732,
+    "user": "b-jazz-bot",
+    "uid": 9451067,
+    "tags": {
+      "addr:postcode": "83500",
+      "addr:street": "Boulevard Mohammed V",
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Hôtel-Restaurant le Safran",
+      "website": "https://auberge-safran-taliouine-sud-maroc.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3966804615,
+    "lat": 30.530427,
+    "lon": -7.9096919,
+    "timestamp": "2016-04-04T13:28:52Z",
+    "version": 2,
+    "changeset": 38291125,
+    "user": "Quentin_larue",
+    "uid": 2589582,
+    "tags": {
+      "addr:city": "Taliouine تالوين",
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Askaoun",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3984515422,
+    "lat": 30.5297664,
+    "lon": -7.9209594,
+    "timestamp": "2016-02-02T17:22:55Z",
+    "version": 1,
+    "changeset": 36961690,
+    "user": "Quentin_larue",
+    "uid": 2589582,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Chez Souad",
+      "tourism": "guest_house"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4048509894,
+    "lat": 30.5320773,
+    "lon": -7.9222801,
+    "timestamp": "2016-03-08T17:02:54Z",
+    "version": 1,
+    "changeset": 37690894,
+    "user": "Quentin_larue",
+    "uid": 2589582,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Café Restaurant Hotel La Kasba",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4048509955,
+    "lat": 30.5321688,
+    "lon": -7.9242473,
+    "timestamp": "2016-03-08T17:02:55Z",
+    "version": 1,
+    "changeset": 37690894,
+    "user": "Quentin_larue",
+    "uid": 2589582,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4048509975,
+    "lat": 30.5322979,
+    "lon": -7.9233536,
+    "timestamp": "2016-03-08T17:02:56Z",
+    "version": 1,
+    "changeset": 37690894,
+    "user": "Quentin_larue",
+    "uid": 2589582,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4051504117,
+    "lat": 30.5325636,
+    "lon": -7.9242247,
+    "timestamp": "2016-03-09T17:49:50Z",
+    "version": 1,
+    "changeset": 37714453,
+    "user": "Quentin_larue",
+    "uid": 2589582,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4051504143,
+    "lat": 30.5327022,
+    "lon": -7.9254317,
+    "timestamp": "2016-03-09T17:49:50Z",
+    "version": 1,
+    "changeset": 37714453,
+    "user": "Quentin_larue",
+    "uid": 2589582,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4051504148,
+    "lat": 30.5327392,
+    "lon": -7.9245519,
+    "timestamp": "2016-03-09T17:49:50Z",
+    "version": 1,
+    "changeset": 37714453,
+    "user": "Quentin_larue",
+    "uid": 2589582,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4051504158,
+    "lat": 30.5327761,
+    "lon": -7.9246491,
+    "timestamp": "2016-03-09T17:49:51Z",
+    "version": 1,
+    "changeset": 37714453,
+    "user": "Quentin_larue",
+    "uid": 2589582,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4051504163,
+    "lat": 30.5328073,
+    "lon": -7.9247356,
+    "timestamp": "2016-03-09T17:49:51Z",
+    "version": 1,
+    "changeset": 37714453,
+    "user": "Quentin_larue",
+    "uid": 2589582,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4065485291,
+    "lat": 30.5257963,
+    "lon": -7.9146527,
+    "timestamp": "2016-03-17T17:26:31Z",
+    "version": 1,
+    "changeset": 37901866,
+    "user": "Quentin_larue",
+    "uid": 2589582,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5254811037,
+    "lat": 30.4694035,
+    "lon": -7.399646,
+    "timestamp": "2017-11-29T21:55:13Z",
+    "version": 1,
+    "changeset": 54190151,
+    "user": "CRCulver",
+    "uid": 340741,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Boucetta"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5254840659,
+    "lat": 29.7470727,
+    "lon": -7.973042,
+    "timestamp": "2017-11-29T22:19:52Z",
+    "version": 1,
+    "changeset": 54190676,
+    "user": "palimpadum",
+    "uid": 155936,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Al Mansour"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5265756775,
+    "lat": 30.4575802,
+    "lon": -7.563529,
+    "timestamp": "2017-12-05T13:14:44Z",
+    "version": 1,
+    "changeset": 54364609,
+    "user": "CRCulver",
+    "uid": 340741,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Café Restaurant Tasrirte مقهى ومطعم تسريرت",
+      "name:ar": "مقهى ومطعم تسريرت",
+      "name:fr": "Café Restaurant Tasrirte"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7279348586,
+    "lat": 29.7463818,
+    "lon": -7.9732065,
+    "timestamp": "2020-03-09T10:38:20Z",
+    "version": 1,
+    "changeset": 81958735,
+    "user": "hgs235",
+    "uid": 6354767,
+    "tags": {
+      "amenity": "restaurant",
+      "name:en": "Café Restaurant La Rose"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10280533409,
+    "lat": 29.7441216,
+    "lon": -7.9731603,
+    "timestamp": "2022-12-22T15:00:36Z",
+    "version": 1,
+    "changeset": 130380532,
+    "user": "R3gi",
+    "uid": 873469,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Snack Restaurant Oasis De Rêve"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10280768010,
+    "lat": 29.7477268,
+    "lon": -7.9712016,
+    "timestamp": "2022-12-22T17:03:52Z",
+    "version": 1,
+    "changeset": 130385052,
+    "user": "R3gi",
+    "uid": 873469,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10853403605,
+    "lat": 29.7464787,
+    "lon": -7.9732502,
+    "timestamp": "2023-04-28T19:45:39Z",
+    "version": 1,
+    "changeset": 135482530,
+    "user": "Alexski52",
+    "uid": 10134238,
+    "tags": {
+      "amenity": "restaurant",
+      "name:fr": "Al Mansour"
+    }
+  }
+]

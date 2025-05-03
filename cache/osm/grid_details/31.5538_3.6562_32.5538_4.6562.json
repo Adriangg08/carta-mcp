@@ -1,0 +1,153 @@
+[
+  {
+    "type": "node",
+    "id": 4206086513,
+    "lat": 32.516982,
+    "lon": 3.6712372,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4381342599,
+    "lat": 31.6041194,
+    "lon": 3.6805568,
+    "timestamp": "2020-12-02T23:34:54Z",
+    "version": 5,
+    "changeset": 95181763,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "addr:street": "Trans-Sahara",
+      "amenity": "restaurant",
+      "name": "الرمال الذهبية",
+      "name:ar": "الرمال الذهبية",
+      "name:en": "SABLE D'OR",
+      "name:fr": "Sables d'Or"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5274955513,
+    "lat": 32.3723966,
+    "lon": 3.7931931,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6431578285,
+    "lat": 32.4863682,
+    "lon": 3.6975093,
+    "timestamp": "2020-11-28T03:30:23Z",
+    "version": 2,
+    "changeset": 94923160,
+    "user": "MustafaQasim",
+    "uid": 9535554,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "arab",
+      "name": "Djurdjura",
+      "name:ar": "جرجرة",
+      "name:etymology": "جرجرة",
+      "name:etymology:wikidata": "Q3033100",
+      "name:etymology:wikipedia": "ar:جبال جرجرة"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11364946716,
+    "lat": 32.4836615,
+    "lon": 3.6798454,
+    "timestamp": "2023-11-20T19:35:44Z",
+    "version": 1,
+    "changeset": 144260384,
+    "user": "elzaim",
+    "uid": 20608181,
+    "tags": {
+      "addr:city": "Ghardaïa",
+      "addr:postcode": "47000",
+      "addr:street": "Avenue de l'ALN",
+      "air_conditioning": "yes",
+      "amenity": "restaurant",
+      "cuisine": "pizza;burger;sandwich;chicken",
+      "delivery": "yes",
+      "name": "مطعم الزعيم",
+      "opening_hours": "Sa-Thu 08:30-23:00",
+      "phone": "+213550474716"
+    }
+  },
+  {
+    "type": "way",
+    "id": 419592812,
+    "timestamp": "2016-05-20T00:46:57Z",
+    "version": 1,
+    "changeset": 39439922,
+    "user": "zazuge",
+    "uid": 1766933,
+    "center": {
+      "lat": 32.4230021,
+      "lon": 3.725599
+    },
+    "nodes": [
+      4196279231,
+      4196279229,
+      4196279228,
+      4196279230,
+      4196279231
+    ],
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1174356326,
+    "timestamp": "2023-05-19T18:37:36Z",
+    "version": 1,
+    "changeset": 136312069,
+    "user": "Superadlen",
+    "uid": 1922193,
+    "center": {
+      "lat": 32.4888926,
+      "lon": 3.6968995
+    },
+    "nodes": [
+      10911934422,
+      10911929227,
+      10911929438,
+      1159237786,
+      10911936004,
+      10911934513,
+      10911934422
+    ],
+    "tags": {
+      "addr:city": "بونورة",
+      "addr:city:ar": "بونورة",
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Restaurant Tiliwine",
+      "name:ar": "مطعم تيليوين",
+      "source": "Algerie Mapper Team"
+    }
+  }
+]

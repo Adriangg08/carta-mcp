@@ -1,0 +1,59 @@
+[
+  {
+    "type": "node",
+    "id": 4958651048,
+    "lat": 27.6714648,
+    "lon": -8.1445371,
+    "timestamp": "2020-11-06T12:30:08Z",
+    "version": 5,
+    "changeset": 93664241,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:city": "تندوف",
+      "addr:city:ar": "تندوف",
+      "amenity": "restaurant",
+      "diet:halal": "yes",
+      "language:ar": "main",
+      "name": "سينما وشاورما",
+      "name:ar": "سينما وشاورما",
+      "name:fr": "Chawarma"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6700850775,
+    "lat": 27.6704731,
+    "lon": -8.1368537,
+    "timestamp": "2023-07-22T12:17:06Z",
+    "version": 3,
+    "changeset": 138851579,
+    "user": "Gurusraouta",
+    "uid": 18913526,
+    "tags": {
+      "addr:city": "تندوف",
+      "amenity": "restaurant",
+      "name": "Café et Restaurant Diplomate",
+      "name:ar": "مقهى ومطعم ديبلومات",
+      "name:fr": "Café et Restaurant Diplomate"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6700851786,
+    "lat": 27.6695633,
+    "lon": -8.1398978,
+    "timestamp": "2020-11-06T12:30:08Z",
+    "version": 2,
+    "changeset": 93664241,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:city": "تندوف",
+      "amenity": "restaurant",
+      "name": "مطعم البيظان بنافا",
+      "name:ar": "مطعم البيظان بنافا",
+      "name:fr": "Restaurant Baidane Banava"
+    }
+  }
+]

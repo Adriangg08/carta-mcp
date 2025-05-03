@@ -1,0 +1,184 @@
+[
+  {
+    "type": "node",
+    "id": 4318643192,
+    "lat": 27.154346,
+    "lon": -13.1971882,
+    "timestamp": "2021-12-21T18:11:55Z",
+    "version": 2,
+    "changeset": 115220812,
+    "user": "Yamílo",
+    "uid": 11332999,
+    "tags": {
+      "addr:city": "El Aaiún العيون‎",
+      "addr:city:ar": "العيون‎",
+      "addr:city:es": "El Aaiún",
+      "amenity": "restaurant",
+      "cuisine": "kebab"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4318645596,
+    "lat": 27.1545023,
+    "lon": -13.197321,
+    "timestamp": "2021-12-21T18:11:55Z",
+    "version": 2,
+    "changeset": 115220812,
+    "user": "Yamílo",
+    "uid": 11332999,
+    "tags": {
+      "addr:city": "El Aaiún العيون‎",
+      "addr:city:ar": "العيون‎",
+      "addr:city:es": "El Aaiún",
+      "amenity": "restaurant",
+      "cuisine": "pizza"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4318645792,
+    "lat": 27.1541285,
+    "lon": -13.1970853,
+    "timestamp": "2021-12-21T18:11:55Z",
+    "version": 2,
+    "changeset": 115220812,
+    "user": "Yamílo",
+    "uid": 11332999,
+    "tags": {
+      "addr:city": "El Aaiún العيون‎",
+      "addr:city:ar": "العيون‎",
+      "addr:city:es": "El Aaiún",
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6088632961,
+    "lat": 27.151557,
+    "lon": -13.2004333,
+    "timestamp": "2023-07-04T09:56:29Z",
+    "version": 3,
+    "changeset": 138099424,
+    "user": "Gurusraouta",
+    "uid": 18913526,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Gout de Fès",
+      "name:fr": "Gout de Fès"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9643262718,
+    "lat": 27.4066343,
+    "lon": -13.2657987,
+    "timestamp": "2022-04-05T13:18:35Z",
+    "version": 1,
+    "changeset": 119344433,
+    "user": "Ciclo-Via",
+    "uid": 168468,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Ville des Roses"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9804538717,
+    "lat": 27.406058,
+    "lon": -13.2659574,
+    "timestamp": "2022-06-08T18:28:59Z",
+    "version": 1,
+    "changeset": 122130858,
+    "user": "Bobster177",
+    "uid": 16110464,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10779411486,
+    "lat": 27.1563705,
+    "lon": -13.2000266,
+    "timestamp": "2023-04-02T10:28:40Z",
+    "version": 1,
+    "changeset": 134408046,
+    "user": "geoser",
+    "uid": 5729272,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional;italian",
+      "name": "Food Lounge Qwiindy"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11756884408,
+    "lat": 27.1264367,
+    "lon": -13.1776288,
+    "timestamp": "2024-03-23T23:45:12Z",
+    "version": 1,
+    "changeset": 149071045,
+    "user": "Meryem akh",
+    "uid": 21163302,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1264839641,
+    "timestamp": "2024-04-04T12:11:24Z",
+    "version": 2,
+    "changeset": 149567375,
+    "user": "Meryem akh",
+    "uid": 21163302,
+    "center": {
+      "lat": 27.1564748,
+      "lon": -13.2030422
+    },
+    "nodes": [
+      11750665595,
+      11750665596,
+      11750665597,
+      11750665598,
+      11750665595
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "xhiwat bladi restaurant"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1266809449,
+    "timestamp": "2024-04-18T15:12:34Z",
+    "version": 3,
+    "changeset": 150180673,
+    "user": "VLD314",
+    "uid": 19867806,
+    "center": {
+      "lat": 27.1570992,
+      "lon": -13.2039602
+    },
+    "nodes": [
+      11766360903,
+      11766360904,
+      11766378320,
+      11786784301,
+      11766378321,
+      11766378322,
+      11766378323,
+      11766378324,
+      11766378325,
+      11766360903
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes"
+    }
+  }
+]

@@ -1,0 +1,1348 @@
+[
+  {
+    "type": "node",
+    "id": 1065121460,
+    "lat": 39.0245934,
+    "lon": 1.5966435,
+    "timestamp": "2024-06-05T15:15:37Z",
+    "version": 4,
+    "changeset": 152293196,
+    "user": "Jordan Mann",
+    "uid": 1876487,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "El Bigote"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1065129540,
+    "lat": 39.0800406,
+    "lon": 1.439639,
+    "timestamp": "2019-08-20T08:49:13Z",
+    "version": 4,
+    "changeset": 73528169,
+    "user": "sanchi",
+    "uid": 170106,
+    "tags": {
+      "amenity": "restaurant",
+      "contact:phone": "+34 971 33 45 27",
+      "name": "Port Balansat",
+      "source": "survey"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1065439095,
+    "lat": 39.0552753,
+    "lon": 1.4376903,
+    "timestamp": "2022-11-19T00:51:36Z",
+    "version": 2,
+    "changeset": 129107115,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Can Rei",
+      "name:ca": "Can Rei"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1069596320,
+    "lat": 39.0752363,
+    "lon": 1.5904896,
+    "timestamp": "2023-03-17T13:33:16Z",
+    "version": 7,
+    "changeset": 133783027,
+    "user": "wheelmap_visitor",
+    "uid": 290680,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "The Boathouse",
+      "toilets:wheelchair": "no",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1069625472,
+    "lat": 39.0802885,
+    "lon": 1.4396843,
+    "timestamp": "2017-10-28T21:22:28Z",
+    "version": 4,
+    "changeset": 53328287,
+    "user": "gpesquero",
+    "uid": 3584,
+    "tags": {
+      "amenity": "restaurant",
+      "contact:facebook": "https://www.facebook.com/puertodesanmiguel/",
+      "cuisine": "spanish",
+      "name": "Chiringuito Pascual",
+      "name:es": "Chiringuito Pascual",
+      "name:nl": "chiringuito Pascual"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1069625476,
+    "lat": 39.0795152,
+    "lon": 1.4404201,
+    "timestamp": "2010-12-28T19:20:34Z",
+    "version": 1,
+    "changeset": 6791458,
+    "user": "msdetroit",
+    "uid": 387777,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1069625481,
+    "lat": 39.0780144,
+    "lon": 1.4399547,
+    "timestamp": "2017-10-28T21:22:28Z",
+    "version": 2,
+    "changeset": 53328287,
+    "user": "gpesquero",
+    "uid": 3584,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Sol i Camp",
+      "source": "survey"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1073094086,
+    "lat": 39.0896294,
+    "lon": 1.4544731,
+    "timestamp": "2014-03-02T17:23:57Z",
+    "version": 2,
+    "changeset": 20868691,
+    "user": "Nautic",
+    "uid": 449569,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1073233319,
+    "lat": 39.0744251,
+    "lon": 1.59067,
+    "timestamp": "2023-03-17T14:23:09Z",
+    "version": 6,
+    "changeset": 133783027,
+    "user": "wheelmap_visitor",
+    "uid": 290680,
+    "tags": {
+      "addr:city": "Cala Sant Vincent",
+      "amenity": "restaurant",
+      "name": "On The Beach",
+      "toilets:wheelchair": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1459201622,
+    "lat": 39.0307114,
+    "lon": 1.6063612,
+    "timestamp": "2016-01-24T12:42:38Z",
+    "version": 2,
+    "changeset": 36775169,
+    "user": "marczoutendijk",
+    "uid": 606555,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Cala Boix"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1567138687,
+    "lat": 39.0089499,
+    "lon": 1.2990402,
+    "timestamp": "2024-05-29T21:30:48Z",
+    "version": 3,
+    "changeset": 152007969,
+    "user": "cucu",
+    "uid": 112189,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Rte.Cala Salada"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1775380432,
+    "lat": 39.0414978,
+    "lon": 1.3165303,
+    "timestamp": "2012-06-03T20:40:14Z",
+    "version": 1,
+    "changeset": 11790857,
+    "user": "DSGIS",
+    "uid": 287093,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurante Las Puertas del Cielo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1843289396,
+    "lat": 39.0765403,
+    "lon": 1.5932919,
+    "timestamp": "2023-03-17T13:33:42Z",
+    "version": 5,
+    "changeset": 133783027,
+    "user": "wheelmap_visitor",
+    "uid": 290680,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Ca La Calma Calm Club",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2001831611,
+    "lat": 39.0330376,
+    "lon": 1.4905369,
+    "timestamp": "2019-08-20T08:49:13Z",
+    "version": 2,
+    "changeset": 73528169,
+    "user": "sanchi",
+    "uid": 170106,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Cana Pepeta",
+      "phone": "+34 971 32 50 29"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2005292060,
+    "lat": 39.0998476,
+    "lon": 1.5026122,
+    "timestamp": "2023-09-08T14:35:42Z",
+    "version": 4,
+    "changeset": 140989927,
+    "user": "rskedgell",
+    "uid": 3951648,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date": "2023-09-07",
+      "cuisine": "regional",
+      "name": "S' Illiot des Rencli",
+      "outdoor_seating": "yes",
+      "reservation": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3080859023,
+    "lat": 39.0982358,
+    "lon": 1.4973094,
+    "timestamp": "2023-07-11T10:06:08Z",
+    "version": 2,
+    "changeset": 138372979,
+    "user": "osmdees",
+    "uid": 16492361,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurante Cala Xarraca"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3255642162,
+    "lat": 39.0612376,
+    "lon": 1.4086225,
+    "timestamp": "2014-12-27T19:31:36Z",
+    "version": 1,
+    "changeset": 27738157,
+    "user": "rakli-osm",
+    "uid": 2540755,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "spanish",
+      "name": "Can Sulayetas"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3949853109,
+    "lat": 39.0121159,
+    "lon": 1.4875546,
+    "timestamp": "2016-01-16T12:06:11Z",
+    "version": 1,
+    "changeset": 36613077,
+    "user": "tigretigre",
+    "uid": 2301555,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Sacca Ibiza"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3953634816,
+    "lat": 39.0668447,
+    "lon": 1.4942569,
+    "timestamp": "2016-01-18T14:36:17Z",
+    "version": 2,
+    "changeset": 36658475,
+    "user": "tigretigre",
+    "uid": 2301555,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Ses Arcades",
+      "phone": "+34 971 33 30 02"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4177089791,
+    "lat": 39.0305565,
+    "lon": 1.47573,
+    "timestamp": "2023-04-22T19:43:39Z",
+    "version": 5,
+    "changeset": 135241383,
+    "user": "b-jazz-bot",
+    "uid": 9451067,
+    "tags": {
+      "addr:housenumber": "4",
+      "addr:postcode": "07812",
+      "addr:street": "C/ Can Pou",
+      "amenity": "restaurant",
+      "name": "la Paloma",
+      "name:ca": "la Paloma",
+      "name:en": "Paloma Cafe",
+      "name:es": "Paloma Cafe",
+      "phone": "+971325543",
+      "website": "https://www.palomaibiza.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4401284195,
+    "lat": 39.0407843,
+    "lon": 1.4333885,
+    "timestamp": "2024-08-02T19:19:14Z",
+    "version": 4,
+    "changeset": 154750392,
+    "user": "aTarom",
+    "uid": 5127355,
+    "tags": {
+      "addr:milestone": "km. 9.9",
+      "addr:street": "Carretera Sant Miquel",
+      "amenity": "restaurant",
+      "cuisine": "mediterranean",
+      "diet:vegan": "yes",
+      "diet:vegetarian": "yes",
+      "name": "Aubergine",
+      "name:en": "Aubergine",
+      "name:es": "Aubergine",
+      "website": "https://aubergineibiza.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4406603915,
+    "lat": 39.0346102,
+    "lon": 1.56554,
+    "timestamp": "2024-04-17T15:16:27Z",
+    "version": 2,
+    "changeset": 150134782,
+    "user": "thefabi",
+    "uid": 17283956,
+    "tags": {
+      "amenity": "restaurant",
+      "indoor_seating": "yes",
+      "name": "Bar Anita",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5196978750,
+    "lat": 39.0787022,
+    "lon": 1.4398379,
+    "timestamp": "2021-05-20T20:22:12Z",
+    "version": 2,
+    "changeset": 105049462,
+    "user": "Schlawehner",
+    "uid": 8742065,
+    "tags": {
+      "addr:housenumber": "6",
+      "addr:postcode": "07815",
+      "addr:street": "Carretera des Port de Sant Miguel",
+      "amenity": "restaurant",
+      "cuisine": "burger;regional;fish;seafood",
+      "diet:vegetarian": "yes",
+      "name": "Escándalo",
+      "phone": "+34 971 33 46 09"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6356467785,
+    "lat": 39.0349035,
+    "lon": 1.6099971,
+    "timestamp": "2019-03-23T15:05:44Z",
+    "version": 1,
+    "changeset": 68446612,
+    "user": "JMSB113",
+    "uid": 4866290,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Salvadó"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6447714585,
+    "lat": 39.0111347,
+    "lon": 1.5506155,
+    "timestamp": "2023-01-15T19:13:54Z",
+    "version": 3,
+    "changeset": 131310912,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "steak_house",
+      "name": "Cas Pagès",
+      "name:ca": "Cas Pagès",
+      "phone": "+34 971330205"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6673527422,
+    "lat": 39.0395162,
+    "lon": 1.3828184,
+    "timestamp": "2023-01-15T19:07:17Z",
+    "version": 2,
+    "changeset": 131310728,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Es Camp Vell",
+      "name:ca": "Es Camp Vell"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8825758605,
+    "lat": 39.111184,
+    "lon": 1.5080584,
+    "timestamp": "2021-06-11T17:48:19Z",
+    "version": 1,
+    "changeset": 106227341,
+    "user": "Six Senses Ibiza",
+    "uid": 13540022,
+    "tags": {
+      "addr:city": "Sant Joan de Labritja",
+      "addr:housenumber": "71",
+      "addr:postcode": "07810",
+      "addr:street": "Cami de Sa Torre",
+      "amenity": "restaurant",
+      "cuisine": "international;regional",
+      "diet:healthy": "yes",
+      "diet:non-vegetarian": "yes",
+      "diet:vegetarian": "yes",
+      "name": "The Farmer's Market",
+      "opening_hours": "Mo-Su 07:00-22:00",
+      "phone": "+34871008875",
+      "website": "https://www.sixsenses.com/en/resorts/ibiza"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8825758606,
+    "lat": 39.1112125,
+    "lon": 1.5078381,
+    "timestamp": "2021-12-26T19:55:22Z",
+    "version": 2,
+    "changeset": 115398155,
+    "user": "parukhin",
+    "uid": 519501,
+    "tags": {
+      "addr:city": "Sant Joan de Labritja",
+      "addr:housenumber": "71",
+      "addr:postcode": "07810",
+      "addr:street": "Carrer Camí de se Torre",
+      "amenity": "restaurant",
+      "name": "HaSalon at The Piazza by Eyal Shani",
+      "opening_hours": "Mo-Su 12:00+",
+      "phone": "+34871008875",
+      "website": "https://www.sixsenses.com/en/resorts/ibiza/dining"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9158182317,
+    "lat": 39.0385276,
+    "lon": 1.3360724,
+    "timestamp": "2021-10-08T12:43:04Z",
+    "version": 1,
+    "changeset": 112263513,
+    "user": "Pablo Strubell",
+    "uid": 5054268,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Bar Cosmi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9172020517,
+    "lat": 39.0395713,
+    "lon": 1.382683,
+    "timestamp": "2021-10-14T14:25:54Z",
+    "version": 1,
+    "changeset": 112506468,
+    "user": "Pablo Strubell",
+    "uid": 5054268,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Ses casetes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9174596918,
+    "lat": 39.0306456,
+    "lon": 1.6060766,
+    "timestamp": "2021-11-18T09:54:34Z",
+    "version": 2,
+    "changeset": 113936421,
+    "user": "benetj",
+    "uid": 2353661,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "local",
+      "internet_access": "wlan",
+      "name": "S'Arribada",
+      "phone": "+34 971 33 52 24"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9211775217,
+    "lat": 39.000307,
+    "lon": 1.4907486,
+    "timestamp": "2021-10-30T08:07:15Z",
+    "version": 1,
+    "changeset": 113151268,
+    "user": "Monika Karapetian",
+    "uid": 6657516,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "can guimo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9937739903,
+    "lat": 39.0903404,
+    "lon": 1.4539762,
+    "timestamp": "2022-10-11T07:55:41Z",
+    "version": 2,
+    "changeset": 127342801,
+    "user": "Pan Perníček",
+    "uid": 9641379,
+    "tags": {
+      "amenity": "restaurant",
+      "contact:email": "info@elements-ibiza.com",
+      "contact:facebook": "https://www.facebook.com/ElementsIbiza/",
+      "contact:phone": "+34 971 33 31 36",
+      "name": "Elements Eivissa Beach Club",
+      "website": "https://www.elements-ibiza.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9937749057,
+    "lat": 39.090425,
+    "lon": 1.453786,
+    "timestamp": "2022-08-07T18:01:32Z",
+    "version": 1,
+    "changeset": 124607786,
+    "user": "walo",
+    "uid": 149606,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Restaurante 2000"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10016006644,
+    "lat": 39.0763643,
+    "lon": 1.5926674,
+    "timestamp": "2022-11-19T00:51:34Z",
+    "version": 2,
+    "changeset": 129107115,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Can Gat",
+      "name:ca": "Can Gat"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10792274886,
+    "lat": 39.0325694,
+    "lon": 1.4901225,
+    "timestamp": "2024-08-02T19:17:38Z",
+    "version": 3,
+    "changeset": 154750358,
+    "user": "aTarom",
+    "uid": 5127355,
+    "tags": {
+      "addr:city": "Sant Llorenc de Balafia",
+      "addr:milestone": "km. 15.4",
+      "addr:postcode": "07812",
+      "addr:street": "Carretera a Sant Llorent de Balafia",
+      "amenity": "restaurant",
+      "check_date": "2023-04-07",
+      "currency:XBT": "yes",
+      "name": "Can Muson de sa Vila",
+      "opening_hours": "Mo 09:00-23:00; We-Sa 09:00-23:00; Su 10:00-23:00",
+      "payment:onchain": "yes",
+      "phone": "+34 971325082"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10821654019,
+    "lat": 39.1017681,
+    "lon": 1.4857324,
+    "timestamp": "2024-02-03T19:47:40Z",
+    "version": 3,
+    "changeset": 147032139,
+    "user": "kapazao_import",
+    "uid": 8770019,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Chiringuito Cala Xuclar",
+      "name:es": "Chiringuito Cala Xuclar",
+      "phone": "+34 679670559"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10963089739,
+    "lat": 39.0529568,
+    "lon": 1.5936163,
+    "timestamp": "2023-06-08T08:34:11Z",
+    "version": 2,
+    "changeset": 137085902,
+    "user": "Beta-Break",
+    "uid": 19294083,
+    "tags": {
+      "addr:city": "es Figueral",
+      "addr:housenumber": "48",
+      "addr:postcode": "07850",
+      "addr:street": "Carretera Club Figueral",
+      "amenity": "restaurant",
+      "name": "Nudo",
+      "opening_hours": "We-Su 13:00-16:00",
+      "phone": "+34 971 326 991",
+      "website": "https://www.nudoibiza.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11035449100,
+    "lat": 39.0016907,
+    "lon": 1.5778968,
+    "timestamp": "2023-07-09T11:06:58Z",
+    "version": 1,
+    "changeset": 138292435,
+    "user": "osmdees",
+    "uid": 16492361,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11039314975,
+    "lat": 39.1093207,
+    "lon": 1.5173355,
+    "timestamp": "2023-07-11T10:06:08Z",
+    "version": 1,
+    "changeset": 138372979,
+    "user": "osmdees",
+    "uid": 16492361,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11039314976,
+    "lat": 39.108623,
+    "lon": 1.5158261,
+    "timestamp": "2023-07-11T10:06:11Z",
+    "version": 1,
+    "changeset": 138372979,
+    "user": "osmdees",
+    "uid": 16492361,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11039347717,
+    "lat": 39.1082909,
+    "lon": 1.5154431,
+    "timestamp": "2023-07-11T10:06:12Z",
+    "version": 1,
+    "changeset": 138372979,
+    "user": "osmdees",
+    "uid": 16492361,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11039361326,
+    "lat": 39.1100735,
+    "lon": 1.518218,
+    "timestamp": "2023-07-11T10:06:14Z",
+    "version": 1,
+    "changeset": 138372979,
+    "user": "osmdees",
+    "uid": 16492361,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11039453238,
+    "lat": 39.1109125,
+    "lon": 1.517439,
+    "timestamp": "2023-07-11T10:06:10Z",
+    "version": 1,
+    "changeset": 138372979,
+    "user": "osmdees",
+    "uid": 16492361,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11039453750,
+    "lat": 39.1108628,
+    "lon": 1.5182763,
+    "timestamp": "2023-07-11T10:06:11Z",
+    "version": 1,
+    "changeset": 138372979,
+    "user": "osmdees",
+    "uid": 16492361,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "La Vida Loca"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11039455320,
+    "lat": 39.1084821,
+    "lon": 1.5155631,
+    "timestamp": "2023-07-11T10:06:12Z",
+    "version": 1,
+    "changeset": 138372979,
+    "user": "osmdees",
+    "uid": 16492361,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11174438459,
+    "lat": 39.1136663,
+    "lon": 1.5204304,
+    "timestamp": "2023-09-07T12:24:15Z",
+    "version": 1,
+    "changeset": 140938644,
+    "user": "rskedgell",
+    "uid": 3951648,
+    "tags": {
+      "addr:housenumber": "104",
+      "addr:street": "Carretera Venda de Portinatx",
+      "amenity": "restaurant",
+      "contact:phone": "+34 971 32 07 76",
+      "name": "El Puerto",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11775283035,
+    "lat": 39.076165,
+    "lon": 1.504056,
+    "timestamp": "2024-03-31T12:12:55Z",
+    "version": 1,
+    "changeset": 149387590,
+    "user": "Fradeve11",
+    "uid": 37791,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date": "2024-03-31",
+      "cuisine": "spanish",
+      "diet:vegetarian": "yes",
+      "highchair": "yes",
+      "internet_access": "wlan",
+      "internet_access:fee": "customers",
+      "internet_access:ssid": "SHAMARKANDA_WIFI",
+      "name": "Shamarkanda",
+      "outdoor_seating": "yes",
+      "payment:american_express": "yes",
+      "payment:cash": "yes",
+      "payment:mastercard": "yes",
+      "payment:visa": "yes",
+      "payment:visa_debit": "yes",
+      "reservation": "yes",
+      "takeaway": "no",
+      "toilets": "yes",
+      "toilets:wheelchair": "no",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11837886852,
+    "lat": 39.0780961,
+    "lon": 1.5150283,
+    "timestamp": "2024-05-15T16:01:46Z",
+    "version": 2,
+    "changeset": 151368975,
+    "user": "thefabi",
+    "uid": 17283956,
+    "tags": {
+      "addr:city": "Sant Joan de Labritja",
+      "addr:housenumber": "13",
+      "addr:postcode": "07810",
+      "addr:street": "Carrer de sa Cala",
+      "amenity": "restaurant",
+      "contact:facebook": "https://www.facebook.com/profile.php?id=100089895138269",
+      "contact:instagram": "https://www.instagram.com/bistromondo/",
+      "email": "info@bistro-mondo.com",
+      "name": "Bistro Mondo",
+      "opening_hours": "Tu-Su 10:00-16:00,18:00-21:30",
+      "phone": "+34 697 345791",
+      "website": "https://www.bistro-mondo.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12076958477,
+    "lat": 39.0319777,
+    "lon": 1.5565585,
+    "timestamp": "2024-07-27T14:12:24Z",
+    "version": 1,
+    "changeset": 154486249,
+    "user": "horstsun",
+    "uid": 685410,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Can Curreau"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12124196436,
+    "lat": 39.0016974,
+    "lon": 1.5754733,
+    "timestamp": "2024-08-21T11:16:24Z",
+    "version": 1,
+    "changeset": 155552039,
+    "user": "thefabi",
+    "uid": 17283956,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Cafeteria Montemar"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12124227413,
+    "lat": 39.0036476,
+    "lon": 1.5738859,
+    "timestamp": "2024-08-21T11:16:14Z",
+    "version": 4,
+    "changeset": 155552078,
+    "user": "thefabi",
+    "uid": 17283956,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "Promosale"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12124233980,
+    "lat": 39.0013207,
+    "lon": 1.5763223,
+    "timestamp": "2024-08-21T11:16:43Z",
+    "version": 1,
+    "changeset": 155552039,
+    "user": "thefabi",
+    "uid": 17283956,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "La Perla"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12167761175,
+    "lat": 39.0382379,
+    "lon": 1.3358299,
+    "timestamp": "2024-09-10T09:32:02Z",
+    "version": 1,
+    "changeset": 156430473,
+    "user": "thefabi",
+    "uid": 17283956,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Sa Palmera",
+      "start_date": "1969"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12395585446,
+    "lat": 39.0542779,
+    "lon": 1.4373022,
+    "timestamp": "2024-12-04T09:40:36Z",
+    "version": 1,
+    "changeset": 159911351,
+    "user": "AbeOrch",
+    "uid": 12481428,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date": "2024-11-29",
+      "cuisine": "thai",
+      "name": "Ca Na Hathai - Thai Sant Miquel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12454387864,
+    "lat": 39.0330304,
+    "lon": 1.4894227,
+    "timestamp": "2024-12-27T01:45:59Z",
+    "version": 1,
+    "changeset": 160659179,
+    "user": "EvelinaGas",
+    "uid": 22068719,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Camí de Balàfia"
+    }
+  },
+  {
+    "type": "way",
+    "id": 184618754,
+    "timestamp": "2022-06-06T02:47:23Z",
+    "version": 3,
+    "changeset": 122000938,
+    "user": "ontour-ontour",
+    "uid": 4388831,
+    "center": {
+      "lat": 39.0100044,
+      "lon": 1.5820688
+    },
+    "nodes": [
+      1951180436,
+      1951180440,
+      1951180482,
+      1951180485,
+      1951180489,
+      1951180493,
+      1951180495,
+      9797584884,
+      1951180501,
+      1951180672,
+      1951180591,
+      1951180595,
+      1951180600,
+      1951180610,
+      1951180436
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "level": "0",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 229069665,
+    "timestamp": "2024-09-18T15:17:14Z",
+    "version": 3,
+    "changeset": 156778850,
+    "user": "thefabi",
+    "uid": 17283956,
+    "center": {
+      "lat": 39.1135651,
+      "lon": 1.5197568
+    },
+    "nodes": [
+      2377064324,
+      2377064320,
+      2377064319,
+      2377064321,
+      2377064323,
+      2377064324
+    ],
+    "tags": {
+      "addr:city": "Portinatx",
+      "addr:housenumber": "51",
+      "addr:postcode": "07810",
+      "addr:street": "Carretera de Portinatx",
+      "amenity": "restaurant",
+      "building": "hotel",
+      "name": "Los Enamorados",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "way",
+    "id": 239888393,
+    "timestamp": "2024-06-27T18:05:33Z",
+    "version": 3,
+    "changeset": 153259943,
+    "user": "b-jazz-bot",
+    "uid": 9451067,
+    "center": {
+      "lat": 39.0531589,
+      "lon": 1.5928163
+    },
+    "nodes": [
+      2476633930,
+      2476633932,
+      2476633934,
+      2476633936,
+      2476633938,
+      2476633940,
+      2476633941,
+      2476633943,
+      2476633945,
+      2476633947,
+      2476633948,
+      2476633950,
+      2476633952,
+      2476633954,
+      2476633930
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Es Alocs",
+      "tourism": "guest_house",
+      "website": "https://www.hostalalocs.com/"
+    }
+  },
+  {
+    "type": "way",
+    "id": 306387142,
+    "timestamp": "2014-10-05T13:32:57Z",
+    "version": 1,
+    "changeset": 25875967,
+    "user": "roamingbecki",
+    "uid": 680482,
+    "center": {
+      "lat": 39.0153059,
+      "lon": 1.5840319
+    },
+    "nodes": [
+      3112773181,
+      3112773182,
+      3112773183,
+      3112773184,
+      3112773181
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "sandwich",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 313569146,
+    "timestamp": "2022-11-19T00:51:00Z",
+    "version": 5,
+    "changeset": 129107106,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "center": {
+      "lat": 38.9999789,
+      "lon": 1.3060904
+    },
+    "nodes": [
+      3195661417,
+      3195661418,
+      4436614851,
+      4436614850,
+      4436614849,
+      4436614847,
+      3195661419,
+      3195661420,
+      3195661421,
+      3195661422,
+      3195661417
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Can Pou",
+      "name:ca": "Can Pou",
+      "phone": "+34 971 340170",
+      "website": "https://canpou.com/"
+    }
+  },
+  {
+    "type": "way",
+    "id": 317250851,
+    "timestamp": "2023-05-23T18:03:20Z",
+    "version": 5,
+    "changeset": 136467570,
+    "user": "briet",
+    "uid": 70527,
+    "center": {
+      "lat": 39.0078386,
+      "lon": 1.5805323
+    },
+    "nodes": [
+      3234983407,
+      3234983408,
+      3234983409,
+      3234983410,
+      3234983411,
+      3234983412,
+      3234983413,
+      10922236627,
+      3234983407
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 419223351,
+    "timestamp": "2024-02-22T16:34:04Z",
+    "version": 2,
+    "changeset": 147780786,
+    "user": "thefabi",
+    "uid": 17283956,
+    "center": {
+      "lat": 39.0094068,
+      "lon": 1.54872
+    },
+    "nodes": [
+      4193384889,
+      4193376287,
+      4193376286,
+      4193376288,
+      4193384889
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "regional",
+      "name": "Can Curreu",
+      "opening_hours": "Mo-Sa",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 434895393,
+    "timestamp": "2024-10-02T12:33:31Z",
+    "version": 2,
+    "changeset": 157377080,
+    "user": "thefabi",
+    "uid": 17283956,
+    "center": {
+      "lat": 39.0173319,
+      "lon": 1.5895964
+    },
+    "nodes": [
+      12215965129,
+      12215965125,
+      12215965126,
+      12215965124,
+      12215965130,
+      12215965131,
+      12215965132,
+      12215965133,
+      12215965134,
+      4328085850,
+      4328085853,
+      4328085860,
+      4328085854,
+      12215965127,
+      12215965128,
+      12215965129
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "commercial",
+      "internet_access": "wlan",
+      "name": "Lenny",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 434895394,
+    "timestamp": "2016-07-30T15:16:54Z",
+    "version": 1,
+    "changeset": 41129233,
+    "user": "Spielkind",
+    "uid": 49971,
+    "center": {
+      "lat": 39.0195857,
+      "lon": 1.591249
+    },
+    "nodes": [
+      4328085884,
+      4328085883,
+      4328085881,
+      4328085879,
+      4328085878,
+      4328085880,
+      4328085884
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "commercial",
+      "name": "Mar Azul"
+    }
+  },
+  {
+    "type": "way",
+    "id": 435114383,
+    "timestamp": "2016-08-01T10:02:29Z",
+    "version": 1,
+    "changeset": 41163402,
+    "user": "Spielkind",
+    "uid": 49971,
+    "center": {
+      "lat": 39.0180898,
+      "lon": 1.5860237
+    },
+    "nodes": [
+      4330700943,
+      4330700940,
+      4330700936,
+      4330700937,
+      4330700938,
+      4330700939,
+      4330700942,
+      4330700941,
+      4330700943
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "commercial",
+      "name": "Restaurante Cala Llenya",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 445939045,
+    "timestamp": "2024-04-22T12:43:02Z",
+    "version": 2,
+    "changeset": 150345196,
+    "user": "thefabi",
+    "uid": 17283956,
+    "center": {
+      "lat": 39.0780525,
+      "lon": 1.5135135
+    },
+    "nodes": [
+      4432846902,
+      4432846903,
+      4432846904,
+      11837458991,
+      4432846905,
+      11837459122,
+      11837459126,
+      11837459125,
+      11837459124,
+      11837459123,
+      11837459127,
+      4432846902
+    ],
+    "tags": {
+      "addr:city": "Sant Joan de Labritja",
+      "addr:housenumber": "5",
+      "addr:postcode": "07810",
+      "addr:street": "Plaça d'Espanya",
+      "amenity": "restaurant",
+      "building": "yes",
+      "building:levels": "0",
+      "name": "The Giri Café",
+      "phone": "+34 971 333474",
+      "website": "https://giricafe.com/"
+    }
+  },
+  {
+    "type": "way",
+    "id": 446011243,
+    "timestamp": "2025-03-29T17:21:18Z",
+    "version": 3,
+    "changeset": 164258695,
+    "user": "quelgir",
+    "uid": 13293058,
+    "center": {
+      "lat": 39.0354618,
+      "lon": 1.6066496
+    },
+    "nodes": [
+      4433428435,
+      4433428436,
+      4433428437,
+      4433428438,
+      4433428439,
+      4433428440,
+      4433428435
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Pou des Lleó",
+      "tourism": "guest_house",
+      "website": "www.poudeslleo.com",
+      "wikidata": "Q133540588"
+    }
+  }
+]

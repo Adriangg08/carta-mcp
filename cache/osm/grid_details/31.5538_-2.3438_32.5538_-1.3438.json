@@ -1,0 +1,180 @@
+[
+  {
+    "type": "node",
+    "id": 4122100389,
+    "lat": 32.5323393,
+    "lon": -1.9612681,
+    "timestamp": "2016-04-14T23:09:33Z",
+    "version": 1,
+    "changeset": 38573507,
+    "user": "indradatta",
+    "uid": 3337407,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "moroccan;grill",
+      "name": "Le Diamant Vert"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5613545039,
+    "lat": 31.6238231,
+    "lon": -2.2103639,
+    "timestamp": "2018-06-13T17:55:19Z",
+    "version": 2,
+    "changeset": 59818370,
+    "user": "ButterflyOfFire_",
+    "uid": 2842609,
+    "tags": {
+      "addr:city": "debdaba bechar",
+      "addr:country": "DZ",
+      "addr:housenumber": "34",
+      "addr:postcode": "08000",
+      "addr:street": "adrari abdelkader",
+      "amenity": "restaurant",
+      "name": "Habibou",
+      "opening_hours": "Sa-Th 10:00-22:00;Fr off",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5675882722,
+    "lat": 31.6237856,
+    "lon": -2.2103195,
+    "timestamp": "2018-06-13T17:55:23Z",
+    "version": 2,
+    "changeset": 59818370,
+    "user": "ButterflyOfFire_",
+    "uid": 2842609,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "habibou baraka"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8437668117,
+    "lat": 31.6174574,
+    "lon": -2.2218026,
+    "timestamp": "2021-02-19T12:07:14Z",
+    "version": 1,
+    "changeset": 99592513,
+    "user": "Kaito renato",
+    "uid": 9149584,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "american;barbecue;chicken;fish;grill;pasta;pizza",
+      "name:en": "Casanova",
+      "name:fr": "Casanova"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12547330625,
+    "lat": 32.3649371,
+    "lon": -2.223803,
+    "timestamp": "2025-01-31T19:31:44Z",
+    "version": 1,
+    "changeset": 161989437,
+    "user": "Tootie4Douz",
+    "uid": 14237762,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional"
+    }
+  },
+  {
+    "type": "way",
+    "id": 557149182,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "center": {
+      "lat": 31.6024828,
+      "lon": -2.2341309
+    },
+    "nodes": [
+      5373686804,
+      5373686816,
+      5373686817,
+      5373686820,
+      5373686805,
+      5373686806,
+      5373686807,
+      5373686802,
+      5373686808,
+      5373686809,
+      5373686810,
+      5373686804
+    ],
+    "tags": {
+      "addr:city": "Bechar",
+      "addr:postcode": "08000",
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Restaurant universitaire",
+      "name:ar": "مطعم جامعي",
+      "name:en": "U Resto",
+      "name:fr": "Resto U",
+      "smoking": "no"
+    }
+  },
+  {
+    "type": "way",
+    "id": 669472753,
+    "timestamp": "2024-12-05T21:08:35Z",
+    "version": 2,
+    "changeset": 159972866,
+    "user": "H_Rezigui",
+    "uid": 234230,
+    "center": {
+      "lat": 31.6369631,
+      "lon": -2.1965964
+    },
+    "nodes": [
+      6269238738,
+      6269238739,
+      6269238740,
+      6269238741,
+      6269238738
+    ],
+    "tags": {
+      "addr:city": "Béchar",
+      "addr:postcode": "08000",
+      "addr:street": "طريق الساورة",
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Restaurant RITADJ",
+      "name:ar": "مطعم ريتاج"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1333447595,
+    "timestamp": "2024-11-13T10:21:59Z",
+    "version": 1,
+    "changeset": 159084149,
+    "user": "H_Rezigui",
+    "uid": 234230,
+    "center": {
+      "lat": 31.6360397,
+      "lon": -2.1982402
+    },
+    "nodes": [
+      12336858603,
+      12336858604,
+      12336858605,
+      12336858606,
+      12336858603
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "restaurant Numedia"
+    }
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "type": "node",
+    "id": 5214920454,
+    "lat": 33.0474478,
+    "lon": -3.9881387,
+    "timestamp": "2017-11-06T19:51:25Z",
+    "version": 1,
+    "changeset": 53564763,
+    "user": "CRCulver",
+    "uid": 340741,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Aragonite",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5214920478,
+    "lat": 33.0468761,
+    "lon": -3.9909413,
+    "timestamp": "2017-11-06T21:19:48Z",
+    "version": 2,
+    "changeset": 53566556,
+    "user": "CRCulver",
+    "uid": 340741,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Raja",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5215008816,
+    "lat": 33.3364567,
+    "lon": -3.6935426,
+    "timestamp": "2017-11-06T20:57:40Z",
+    "version": 1,
+    "changeset": 53566118,
+    "user": "CRCulver",
+    "uid": 340741,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "El Nakhil"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5216299520,
+    "lat": 33.0482572,
+    "lon": -3.9921272,
+    "timestamp": "2017-11-07T14:56:39Z",
+    "version": 1,
+    "changeset": 53583458,
+    "user": "CRCulver",
+    "uid": 340741,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Soulaimane",
+      "outdoor_seating": "yes",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11525018647,
+    "lat": 33.4706708,
+    "lon": -4.2955838,
+    "timestamp": "2024-01-17T15:49:32Z",
+    "version": 1,
+    "changeset": 146370871,
+    "user": "Mounir Neddi",
+    "uid": 10801359,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "chicken;kebab;salad",
+      "diet:local": "yes",
+      "name": "Bismillah Restaurant - مطعم ومجزرة بإسم الله"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11895699070,
+    "lat": 33.0434007,
+    "lon": -4.001121,
+    "timestamp": "2024-05-10T20:19:27Z",
+    "version": 1,
+    "changeset": 151163171,
+    "user": "Éloi Héraut",
+    "uid": 4975832,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "O bon choix"
+    }
+  }
+]

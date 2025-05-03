@@ -1,0 +1,4704 @@
+[
+  {
+    "type": "node",
+    "id": 321679777,
+    "lat": 42.4353428,
+    "lon": 1.5207202,
+    "timestamp": "2022-01-28T09:23:37Z",
+    "version": 7,
+    "changeset": 116698855,
+    "user": "Emilio Gomez",
+    "uid": 2904,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "la Rabassa",
+      "piste:type": "nordic",
+      "sport": "skiing",
+      "wikidata": "Q3212119"
+    }
+  },
+  {
+    "type": "node",
+    "id": 521134858,
+    "lat": 42.5724427,
+    "lon": 1.4830335,
+    "timestamp": "2024-05-11T15:42:08Z",
+    "version": 4,
+    "changeset": 151192131,
+    "user": "bridgeburner",
+    "uid": 54265,
+    "tags": {
+      "addr:city": "Arinsal",
+      "addr:country": "AD",
+      "addr:postcode": "AD400",
+      "addr:street": "Carretera General CG5",
+      "amenity": "restaurant",
+      "contact:email": "surfdearinsal@gmail.com",
+      "contact:phone": "+376 838 069",
+      "contact:website": "https://www.surfarinsal.com",
+      "cuisine": "steak_house",
+      "delivery": "no",
+      "name": "Surf",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 522787948,
+    "lat": 42.5782263,
+    "lon": 1.4794403,
+    "timestamp": "2024-04-26T11:01:48Z",
+    "version": 5,
+    "changeset": 150533181,
+    "user": "bridgeburner",
+    "uid": 54265,
+    "tags": {
+      "addr:street": "Carretera d'Arinsal",
+      "amenity": "restaurant",
+      "cuisine": "argentinian",
+      "internet_access": "wlan",
+      "name": "Pampa",
+      "opening_hours": "Mo-Su 12:00-00:00",
+      "phone": "+376 839 630",
+      "website": "https://m.facebook.com/pamparestobar"
+    }
+  },
+  {
+    "type": "node",
+    "id": 593870539,
+    "lat": 42.57335,
+    "lon": 1.47065,
+    "timestamp": "2009-12-16T18:20:10Z",
+    "version": 1,
+    "changeset": 3388565,
+    "user": "mackerski",
+    "uid": 6367,
+    "tags": {
+      "amenity": "restaurant",
+      "ele": "1926",
+      "name": "Restaurant Panoramix"
+    }
+  },
+  {
+    "type": "node",
+    "id": 593870549,
+    "lat": 42.5696583,
+    "lon": 1.4880136,
+    "timestamp": "2014-08-16T17:18:29Z",
+    "version": 3,
+    "changeset": 24791178,
+    "user": "lib2know",
+    "uid": 2190723,
+    "tags": {
+      "amenity": "restaurant",
+      "ele": "1430",
+      "name": "Bar El Bosc"
+    }
+  },
+  {
+    "type": "node",
+    "id": 593870554,
+    "lat": 42.5721078,
+    "lon": 1.48359,
+    "timestamp": "2024-05-06T12:13:02Z",
+    "version": 3,
+    "changeset": 150962020,
+    "user": "b-jazz-bot",
+    "uid": 9451067,
+    "tags": {
+      "addr:city": "Arinsal",
+      "addr:country": "AD",
+      "addr:postcode": "AD400",
+      "addr:street": "Borda El Pradet de Jan",
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "ele": "1461",
+      "email": "factoryarinsal@hotmail.com",
+      "name": "Factory",
+      "opening_hours": "Mo-Su 12:00-00:00",
+      "phone": "+376 835 554",
+      "website": "https://factoryarinsal.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 593870556,
+    "lat": 42.5726333,
+    "lon": 1.4840167,
+    "timestamp": "2009-12-16T18:20:11Z",
+    "version": 1,
+    "changeset": 3388565,
+    "user": "mackerski",
+    "uid": 6367,
+    "tags": {
+      "amenity": "restaurant",
+      "ele": "1474",
+      "name": "Restaurant/Bar Mollies"
+    }
+  },
+  {
+    "type": "node",
+    "id": 593870558,
+    "lat": 42.5724304,
+    "lon": 1.484084,
+    "timestamp": "2024-04-25T14:18:45Z",
+    "version": 2,
+    "changeset": 150499175,
+    "user": "bridgeburner",
+    "uid": 54265,
+    "tags": {
+      "amenity": "restaurant",
+      "ele": "1477",
+      "name": "Restaurant/Bar Ciscos"
+    }
+  },
+  {
+    "type": "node",
+    "id": 620937074,
+    "lat": 42.5641393,
+    "lon": 1.6652161,
+    "timestamp": "2020-01-08T17:23:15Z",
+    "version": 3,
+    "changeset": 79349473,
+    "user": "RivalSouth",
+    "uid": 10633942,
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Restaurant La Cabana Espiolets"
+    }
+  },
+  {
+    "type": "node",
+    "id": 621473071,
+    "lat": 42.5320767,
+    "lon": 1.695954,
+    "timestamp": "2010-01-27T21:40:25Z",
+    "version": 1,
+    "changeset": 3731851,
+    "user": "orhygine",
+    "uid": 148173,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Cubil"
+    }
+  },
+  {
+    "type": "node",
+    "id": 621473079,
+    "lat": 42.5423599,
+    "lon": 1.661137,
+    "timestamp": "2022-12-26T23:02:32Z",
+    "version": 3,
+    "changeset": 130533712,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Solanelles",
+      "name:ca": "Solanelles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 666793594,
+    "lat": 42.554621,
+    "lon": 1.616347,
+    "timestamp": "2013-01-11T14:03:25Z",
+    "version": 2,
+    "changeset": 14610422,
+    "user": "jmontane",
+    "uid": 28773,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Roc de les Bruixes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 666793614,
+    "lat": 42.5679462,
+    "lon": 1.6411107,
+    "timestamp": "2010-03-15T10:47:09Z",
+    "version": 1,
+    "changeset": 4133447,
+    "user": "wolodik",
+    "uid": 241566,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "El Mercal Del Pi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 666793616,
+    "lat": 42.5647132,
+    "lon": 1.6631159,
+    "timestamp": "2024-10-26T18:01:51Z",
+    "version": 3,
+    "changeset": 158387063,
+    "user": "Verdy_p",
+    "uid": 90780,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Gall De Bosc",
+      "name:ca": "Gall De Bosc"
+    }
+  },
+  {
+    "type": "node",
+    "id": 690708514,
+    "lat": 42.5392999,
+    "lon": 1.7333742,
+    "timestamp": "2010-04-09T18:07:05Z",
+    "version": 1,
+    "changeset": 4375683,
+    "user": "XuRxO",
+    "uid": 13409,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "Pasta Rapid"
+    }
+  },
+  {
+    "type": "node",
+    "id": 690708568,
+    "lat": 42.5393635,
+    "lon": 1.7333901,
+    "timestamp": "2010-04-09T18:07:06Z",
+    "version": 1,
+    "changeset": 4375683,
+    "user": "XuRxO",
+    "uid": 13409,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "french",
+      "name": "El Gargantua"
+    }
+  },
+  {
+    "type": "node",
+    "id": 690708585,
+    "lat": 42.5414415,
+    "lon": 1.7327372,
+    "timestamp": "2020-03-15T12:52:08Z",
+    "version": 2,
+    "changeset": 82216592,
+    "user": "hvictor",
+    "uid": 3003217,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Lizarrán"
+    }
+  },
+  {
+    "type": "node",
+    "id": 821006310,
+    "lat": 42.576744,
+    "lon": 1.666665,
+    "timestamp": "2019-04-30T14:50:59Z",
+    "version": 3,
+    "changeset": 69737950,
+    "user": "cougar",
+    "uid": 248703,
+    "tags": {
+      "addr:city": "Soldeu",
+      "addr:postcode": "AD100",
+      "amenity": "restaurant",
+      "name": "Bruxelles Restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 895601494,
+    "lat": 42.5346685,
+    "lon": 1.5832592,
+    "timestamp": "2010-09-04T13:07:26Z",
+    "version": 1,
+    "changeset": 5678739,
+    "user": "Hagman",
+    "uid": 213594,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Borda del Tremat"
+    }
+  },
+  {
+    "type": "node",
+    "id": 895604180,
+    "lat": 42.5540475,
+    "lon": 1.5898872,
+    "timestamp": "2024-07-03T15:30:31Z",
+    "version": 2,
+    "changeset": 153507767,
+    "user": "Joan Manel zamora",
+    "uid": 8345192,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "L'era del Rossell"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1398283973,
+    "lat": 42.508392,
+    "lon": 1.536791,
+    "timestamp": "2011-08-14T08:02:34Z",
+    "version": 1,
+    "changeset": 9012596,
+    "user": "Xevi",
+    "uid": 100124,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "La Plazzeta"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1407150629,
+    "lat": 42.4630693,
+    "lon": 1.4911522,
+    "timestamp": "2024-04-20T19:31:00Z",
+    "version": 4,
+    "changeset": 150277952,
+    "user": "cEvLGWiQ",
+    "uid": 5432507,
+    "tags": {
+      "addr:housenumber": "4",
+      "addr:street": "Plaça Major",
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "Pizzeria Uruguaia",
+      "phone": "+376 832 903",
+      "smoking": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1568150101,
+    "lat": 42.5798643,
+    "lon": 1.6518026,
+    "timestamp": "2024-04-07T13:31:51Z",
+    "version": 3,
+    "changeset": 149692537,
+    "user": "EditorMarinero",
+    "uid": 21146045,
+    "tags": {
+      "addr:city": "El Tarter",
+      "addr:postcode": "AD100",
+      "addr:street": "Urbanització Sant Pere del Tarter",
+      "amenity": "restaurant",
+      "cuisine": "italian",
+      "name": "Dylan's",
+      "opening_hours": "Mo-Su 13:00-01:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1568150111,
+    "lat": 42.5782538,
+    "lon": 1.6452286,
+    "timestamp": "2023-02-28T09:08:55Z",
+    "version": 3,
+    "changeset": 133119393,
+    "user": "EliziR",
+    "uid": 605366,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "l'Abarset"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1568150145,
+    "lat": 42.5778361,
+    "lon": 1.6491857,
+    "timestamp": "2011-12-29T21:05:38Z",
+    "version": 1,
+    "changeset": 10239781,
+    "user": "srbrook",
+    "uid": 186212,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Snackbar El Clos"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1568433755,
+    "lat": 42.568451,
+    "lon": 1.6432634,
+    "timestamp": "2011-12-29T23:34:05Z",
+    "version": 1,
+    "changeset": 10241104,
+    "user": "srbrook",
+    "uid": 186212,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1569492569,
+    "lat": 42.5325563,
+    "lon": 1.7001354,
+    "timestamp": "2021-07-31T09:41:25Z",
+    "version": 2,
+    "changeset": 108923615,
+    "user": "corrector_91",
+    "uid": 3418742,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant dels Pessons",
+      "website": "https://www.grandvalira.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1894423912,
+    "lat": 42.5260011,
+    "lon": 1.6878845,
+    "timestamp": "2024-04-20T19:30:13Z",
+    "version": 5,
+    "changeset": 150277920,
+    "user": "cEvLGWiQ",
+    "uid": 5432507,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant Refugi del Llac de Pessons",
+      "phone": "+376 759 015",
+      "website": "https://www.grandvalira.com/ca/restaurant-refugi-del-llac-de-pessons"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1934454841,
+    "lat": 42.5331112,
+    "lon": 1.578252,
+    "timestamp": "2012-09-26T22:47:10Z",
+    "version": 1,
+    "changeset": 13265811,
+    "user": "thibautRe",
+    "uid": 849013,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Sol y Muntanya"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1934464734,
+    "lat": 42.5332093,
+    "lon": 1.5789812,
+    "timestamp": "2012-09-26T23:13:27Z",
+    "version": 1,
+    "changeset": 13265811,
+    "user": "thibautRe",
+    "uid": 849013,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "La Flambada del raco"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1934464789,
+    "lat": 42.5330892,
+    "lon": 1.5789853,
+    "timestamp": "2012-09-26T23:13:29Z",
+    "version": 1,
+    "changeset": 13265811,
+    "user": "thibautRe",
+    "uid": 849013,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant Benito"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1934478616,
+    "lat": 42.5339806,
+    "lon": 1.5803459,
+    "timestamp": "2024-04-20T19:30:13Z",
+    "version": 5,
+    "changeset": 150277920,
+    "user": "cEvLGWiQ",
+    "uid": 5432507,
+    "tags": {
+      "addr:street": "Avinguda de Joan Martí",
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "email": "elcyranorestaurant@gmail.com",
+      "internet_access": "wlan",
+      "name": "Restaurant El Cyrano",
+      "phone": "+376 831 913"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2050339346,
+    "lat": 42.4693324,
+    "lon": 1.492671,
+    "timestamp": "2024-04-20T19:31:00Z",
+    "version": 4,
+    "changeset": 150277952,
+    "user": "cEvLGWiQ",
+    "uid": 5432507,
+    "tags": {
+      "addr:city": "Sant Julià de Lòria",
+      "addr:street": "avinguda Rocafort",
+      "amenity": "restaurant",
+      "cuisine": "italian",
+      "name": "Pizzeria Angelo",
+      "phone": "+376 742 274",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2050339369,
+    "lat": 42.469455,
+    "lon": 1.4928534,
+    "timestamp": "2024-04-20T19:31:00Z",
+    "version": 3,
+    "changeset": 150277952,
+    "user": "cEvLGWiQ",
+    "uid": 5432507,
+    "tags": {
+      "addr:city": "Sant Julià de Lòria",
+      "addr:street": "avinguda Rocafort",
+      "amenity": "restaurant",
+      "name": "Bar Restaurant Xenius",
+      "phone": "+376 842 454"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2050370616,
+    "lat": 42.4679533,
+    "lon": 1.4935454,
+    "timestamp": "2012-12-04T20:39:24Z",
+    "version": 1,
+    "changeset": 14156115,
+    "user": "Angel49",
+    "uid": 622053,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2050370617,
+    "lat": 42.4680404,
+    "lon": 1.4937385,
+    "timestamp": "2012-12-04T20:39:24Z",
+    "version": 1,
+    "changeset": 14156115,
+    "user": "Angel49",
+    "uid": 622053,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2050445451,
+    "lat": 42.4624104,
+    "lon": 1.4911416,
+    "timestamp": "2016-11-26T16:38:18Z",
+    "version": 2,
+    "changeset": 43966973,
+    "user": "Emilio Gomez",
+    "uid": 2904,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "Restaurant Pizzeria Venecia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2050445477,
+    "lat": 42.462812,
+    "lon": 1.4911013,
+    "timestamp": "2016-11-26T16:38:18Z",
+    "version": 2,
+    "changeset": 43966973,
+    "user": "Emilio Gomez",
+    "uid": 2904,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Cafe Principal"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2430767662,
+    "lat": 42.5097373,
+    "lon": 1.5316999,
+    "timestamp": "2016-04-03T13:53:34Z",
+    "version": 2,
+    "changeset": 38267387,
+    "user": "Emmanuel Dewaele",
+    "uid": 242257,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "portuguese",
+      "name": "Bar Restaurant Nou"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2430768272,
+    "lat": 42.5096443,
+    "lon": 1.5308094,
+    "timestamp": "2013-08-25T08:17:59Z",
+    "version": 1,
+    "changeset": 17494617,
+    "user": "jutezak",
+    "uid": 121724,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "L'Escenari de pizzes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2430773040,
+    "lat": 42.5076089,
+    "lon": 1.5315597,
+    "timestamp": "2022-04-27T04:24:48Z",
+    "version": 2,
+    "changeset": 120238169,
+    "user": "DanielBautista",
+    "uid": 573582,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "La Piazza"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2482295113,
+    "lat": 42.5401574,
+    "lon": 1.7198784,
+    "timestamp": "2013-10-04T13:08:26Z",
+    "version": 2,
+    "changeset": 18178196,
+    "user": "Computerteddy",
+    "uid": 7336,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Refugi Fra Miguel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2535029540,
+    "lat": 42.507149,
+    "lon": 1.5214837,
+    "timestamp": "2023-10-30T11:18:34Z",
+    "version": 2,
+    "changeset": 143359637,
+    "user": "jqngarcia",
+    "uid": 5126253,
+    "tags": {
+      "addr:housenumber": "1",
+      "addr:postcode": "500",
+      "addr:street": "Carrer de la Vall",
+      "amenity": "restaurant",
+      "contact:facebook": "arrosseria_del_barri",
+      "contact:instagram": "arrosseria_del_barri",
+      "cuisine": "mediterranean;spanish",
+      "internet_access:fee": "yes",
+      "name": "L'Arrosseria",
+      "operator": "Carlos Pando",
+      "phone": "+376 826 000;+376 391 408"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2563785115,
+    "lat": 42.5081958,
+    "lon": 1.521789,
+    "timestamp": "2013-12-03T23:18:09Z",
+    "version": 2,
+    "changeset": 19263898,
+    "user": "cristobal",
+    "uid": 401801,
+    "tags": {
+      "addr:city": "Andorra la Vella",
+      "addr:country": "AD",
+      "addr:housenumber": "8",
+      "addr:postcode": "AD500",
+      "addr:street": "Plaça Guillemó",
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "L'Alternativa",
+      "website": "https://www.facebook.com/lalternativaAND"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2878603701,
+    "lat": 42.509019,
+    "lon": 1.538066,
+    "timestamp": "2024-04-20T19:31:30Z",
+    "version": 5,
+    "changeset": 150277970,
+    "user": "cEvLGWiQ",
+    "uid": 5432507,
+    "tags": {
+      "addr:city": "Escaldes-Engordany",
+      "addr:country": "AD",
+      "addr:postcode": "AD700",
+      "addr:street": "Carrer François Mitterrand",
+      "addr:unit": "Botigues Molines No 3",
+      "amenity": "restaurant",
+      "cuisine": "burger",
+      "name": "And Burger Zero",
+      "phone": "+376 846 046",
+      "source": "Survey"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2878637701,
+    "lat": 42.509083,
+    "lon": 1.538053,
+    "timestamp": "2024-04-20T19:31:31Z",
+    "version": 3,
+    "changeset": 150277970,
+    "user": "cEvLGWiQ",
+    "uid": 5432507,
+    "tags": {
+      "addr:housenumber": "4",
+      "addr:postcode": "700",
+      "addr:street": "Carrer François Mitterrand",
+      "amenity": "restaurant",
+      "cuisine": "french",
+      "name": "Cheese's Art",
+      "phone": "+376 868 086"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2880667916,
+    "lat": 42.508614,
+    "lon": 1.5372614,
+    "timestamp": "2024-04-20T19:31:31Z",
+    "version": 4,
+    "changeset": 150277970,
+    "user": "cEvLGWiQ",
+    "uid": 5432507,
+    "tags": {
+      "addr:city": "Escaldes-Engordany",
+      "addr:country": "AD",
+      "addr:housenumber": "91",
+      "addr:postcode": "AD700",
+      "addr:street": "Avinguda Carlemany",
+      "amenity": "restaurant",
+      "brand": "La Tagliatella",
+      "brand:wikidata": "Q113426257",
+      "cuisine": "italian",
+      "name": "La Tagliatella",
+      "phone": "+376 866 177",
+      "website": "https://www.latagliatella.es/ca"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2881280267,
+    "lat": 42.5088998,
+    "lon": 1.5292231,
+    "timestamp": "2024-04-20T19:31:15Z",
+    "version": 6,
+    "changeset": 150277959,
+    "user": "cEvLGWiQ",
+    "uid": 5432507,
+    "tags": {
+      "addr:city": "Andorra la Vella",
+      "addr:housenumber": "73",
+      "addr:postcode": "AD500",
+      "addr:street": "Avinguda Meritxell",
+      "amenity": "restaurant",
+      "cuisine": "local",
+      "internet_access": "wlan",
+      "name": "El Refugi Alpí",
+      "opening_hours": "Mo-Su 12:30-16:00, 20:00-23:00",
+      "phone": "+376 808 100",
+      "website": "https://www.elrefugialpi.ad/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2881284325,
+    "lat": 42.5089024,
+    "lon": 1.5293971,
+    "timestamp": "2024-04-20T19:31:15Z",
+    "version": 2,
+    "changeset": 150277959,
+    "user": "cEvLGWiQ",
+    "uid": 5432507,
+    "tags": {
+      "addr:city": "Andorra la Vella",
+      "addr:housenumber": "73",
+      "addr:postcode": "AD500",
+      "addr:street": "Avinguda Meritxell",
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "La Mossegada",
+      "phone": "+376 823 131",
+      "website": "http://www.mossegada.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2931435923,
+    "lat": 42.5089545,
+    "lon": 1.5285964,
+    "timestamp": "2014-06-24T18:07:13Z",
+    "version": 2,
+    "changeset": 23127927,
+    "user": "Creando",
+    "uid": 132740,
+    "tags": {
+      "addr:city": "Andorra la Vella",
+      "addr:housenumber": "65",
+      "addr:postcode": "AD500",
+      "addr:street": "Avinguda Meritxell",
+      "amenity": "restaurant",
+      "cuisine": "japanese",
+      "name": "El Japo",
+      "opening_hours": "Tu-Sa 13:00-15:00, 20:00-23:00",
+      "phone": "+376 860 400",
+      "website": "http://www.eljapoandorra.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2942339674,
+    "lat": 42.5082749,
+    "lon": 1.5300058,
+    "timestamp": "2022-04-27T05:14:33Z",
+    "version": 2,
+    "changeset": 120239470,
+    "user": "DanielBautista",
+    "uid": 573582,
+    "tags": {
+      "addr:city": "Andorra la Vella",
+      "addr:housenumber": "86",
+      "addr:postcode": "AD500",
+      "addr:street": "Avinguda Meritxell",
+      "amenity": "restaurant",
+      "cuisine": "tapas",
+      "name": "Lizarran",
+      "phone": "+376 863 994"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2966865383,
+    "lat": 42.5451354,
+    "lon": 1.5149472,
+    "timestamp": "2023-11-07T08:40:32Z",
+    "version": 4,
+    "changeset": 143725471,
+    "user": "b-jazz-bot",
+    "uid": 9451067,
+    "tags": {
+      "addr:city": "La Massana",
+      "addr:housenumber": "22",
+      "addr:postcode": "AD400",
+      "addr:street": "Avinguda Sant Antoni",
+      "amenity": "restaurant",
+      "capacity": "50",
+      "cuisine": "pizza",
+      "internet_access": "wlan",
+      "name": "Pizzeria Angelo",
+      "note": "service speaks many languages",
+      "opening_hours": "Mo-Su 12:30-15:30, 20:00-23:30",
+      "phone": "+376 738 393",
+      "smoking": "outside",
+      "website": "https://angelopizzerie.com/",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2966874167,
+    "lat": 42.5447537,
+    "lon": 1.5149962,
+    "timestamp": "2022-11-25T23:34:54Z",
+    "version": 5,
+    "changeset": 129385554,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "tags": {
+      "addr:city": "La Massana",
+      "addr:housenumber": "12",
+      "addr:postcode": "AD400",
+      "addr:street": "Carrer de Josep Rossel",
+      "amenity": "restaurant",
+      "capacity": "30",
+      "cuisine": "regional",
+      "internet_access": "wlan",
+      "name": "Versió Original",
+      "name:ca": "Versió Original",
+      "name:en": "V.O.",
+      "opening_hours": "Mo-Su 01:00-23:00",
+      "phone": "+376 839 309",
+      "smoking": "outside"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2967211360,
+    "lat": 42.5454067,
+    "lon": 1.5149442,
+    "timestamp": "2022-04-24T20:31:01Z",
+    "version": 7,
+    "changeset": 120138273,
+    "user": "mtmail",
+    "uid": 8339,
+    "tags": {
+      "addr:city": "La Massana",
+      "addr:housenumber": "20",
+      "addr:postcode": "AD400",
+      "addr:street": "Avinguda Sant Antoni",
+      "amenity": "restaurant",
+      "capacity": "20",
+      "cuisine": "kebab",
+      "internet_access": "wlan",
+      "name": "Istanbul Kebab Pizzeria Andorra",
+      "note": "childrens playground, free WiFi",
+      "opening_hours": "24/7",
+      "phone": "+376 838 123",
+      "smoking": "outside",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2967213632,
+    "lat": 42.5456636,
+    "lon": 1.5144882,
+    "timestamp": "2022-04-24T20:31:01Z",
+    "version": 3,
+    "changeset": 120138273,
+    "user": "mtmail",
+    "uid": 8339,
+    "tags": {
+      "addr:city": "La Massana",
+      "addr:postcode": "AD400",
+      "addr:street": "Avinguda Sant Antoni",
+      "amenity": "restaurant",
+      "capacity": "30",
+      "cuisine": "regional",
+      "internet_access": "wlan",
+      "name": "Hostal Palanques",
+      "phone": "+376 835 007",
+      "smoking": "outside"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2967385701,
+    "lat": 42.5472602,
+    "lon": 1.5146538,
+    "timestamp": "2014-07-17T10:45:59Z",
+    "version": 1,
+    "changeset": 24198626,
+    "user": "lib2know",
+    "uid": 2190723,
+    "tags": {
+      "addr:city": "La Massana",
+      "addr:postcode": "AD400",
+      "addr:street": "Avinguda el Travès",
+      "amenity": "restaurant",
+      "capacity": "20",
+      "cuisine": "regional",
+      "note": "terrace",
+      "smoking": "outside"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3020684669,
+    "lat": 42.5691467,
+    "lon": 1.4887055,
+    "timestamp": "2022-11-25T23:34:32Z",
+    "version": 2,
+    "changeset": 129385554,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "tags": {
+      "amenity": "restaurant",
+      "capacity": "50",
+      "cuisine": "regional",
+      "name": "Llum d'Oli",
+      "name:ca": "Llum d'Oli",
+      "smoking": "outside"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3264974265,
+    "lat": 42.5050859,
+    "lon": 1.5250415,
+    "timestamp": "2019-03-23T15:16:58Z",
+    "version": 3,
+    "changeset": 68446927,
+    "user": "b-jazz-bot",
+    "uid": 9451067,
+    "tags": {
+      "addr:city": "Andorra la Vella",
+      "addr:housenumber": "50-78",
+      "addr:postcode": "AD500",
+      "addr:street": "Avinguda de Tarragona",
+      "amenity": "restaurant",
+      "capacity": "120",
+      "cuisine": "regional",
+      "name": "Restaurante L'Aigüeta",
+      "note": "menu midgdia;plats combinats, tapes",
+      "opening_hours": "01:00-01:00",
+      "phone": "+376 825 311",
+      "smoking": "outside",
+      "website": "https://visitandorra.com/es/comer/restaurante-l-aigueeta/",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3265036849,
+    "lat": 42.505186,
+    "lon": 1.5273417,
+    "timestamp": "2021-08-25T16:00:16Z",
+    "version": 3,
+    "changeset": 110241109,
+    "user": "gabe12",
+    "uid": 144921,
+    "tags": {
+      "addr:city": "Andorra la Vella",
+      "addr:housenumber": "53",
+      "addr:postcode": "AD500",
+      "addr:street": "Avinguda de Tarragona",
+      "amenity": "restaurant",
+      "capacity": "35",
+      "cuisine": "international",
+      "delivery": "no",
+      "name": "El Bon Café",
+      "opening_hours": "12:00-15:00,19:00-23:00",
+      "smoking": "outside",
+      "takeaway": "yes",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3265136403,
+    "lat": 42.505137,
+    "lon": 1.5254119,
+    "timestamp": "2017-02-03T06:02:43Z",
+    "version": 3,
+    "changeset": 45768509,
+    "user": "Paulo Manuel Santos Moreira",
+    "uid": 3098937,
+    "tags": {
+      "addr:city": "Andorra la Vella",
+      "addr:postcode": "AD500",
+      "addr:street": "Avinguda de Tarragona",
+      "amenity": "restaurant",
+      "capacity": "30",
+      "cuisine": "steak_house;grill",
+      "internet_access": "wlan",
+      "name": "Tatú",
+      "name:ca": "Tatoo",
+      "smoking": "outside",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3292692065,
+    "lat": 42.6186661,
+    "lon": 1.5393919,
+    "timestamp": "2023-07-10T16:34:44Z",
+    "version": 6,
+    "changeset": 138345470,
+    "user": "aTarom",
+    "uid": 5127355,
+    "tags": {
+      "addr:city": "El Serrat",
+      "addr:postcode": "AD300",
+      "addr:street": "Carretera General 3",
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Hotel Bringué",
+      "nohousenumber": "yes",
+      "website": "https://hotelbringue.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3415627481,
+    "lat": 42.5019636,
+    "lon": 1.5152102,
+    "timestamp": "2015-03-24T10:00:23Z",
+    "version": 1,
+    "changeset": 29699521,
+    "user": "EliziR",
+    "uid": 605366,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Bar Restaurant Valira"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3459374691,
+    "lat": 42.4653489,
+    "lon": 1.4911054,
+    "timestamp": "2015-04-16T13:43:10Z",
+    "version": 1,
+    "changeset": 30265243,
+    "user": "lib2know",
+    "uid": 2190723,
+    "tags": {
+      "amenity": "restaurant",
+      "capacity": "20",
+      "cuisine": "regional"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3653139637,
+    "lat": 42.5741626,
+    "lon": 1.5184734,
+    "timestamp": "2015-07-15T18:06:49Z",
+    "version": 1,
+    "changeset": 32658205,
+    "user": "dr_grijando",
+    "uid": 548834,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3902532112,
+    "lat": 42.5793482,
+    "lon": 1.6591582,
+    "timestamp": "2024-05-01T07:17:58Z",
+    "version": 2,
+    "changeset": 150736398,
+    "user": "t0rte",
+    "uid": 11203820,
+    "tags": {
+      "addr:city": "Soldeu",
+      "addr:housenumber": "2",
+      "addr:postcode": "AD100",
+      "addr:street": "Crta Gral",
+      "amenity": "restaurant",
+      "name": "Bruna Restaurant",
+      "phone": "+376 751 150",
+      "website": "https://serrasandorra.com/en/gastronomy/restaurante-bruna/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3902532114,
+    "lat": 42.5798557,
+    "lon": 1.6597458,
+    "timestamp": "2022-03-17T18:15:55Z",
+    "version": 2,
+    "changeset": 118606092,
+    "user": "Mountain Hostel Tarter",
+    "uid": 12807986,
+    "tags": {
+      "addr:city": "Incles",
+      "addr:housenumber": "2",
+      "addr:postcode": "AD100",
+      "addr:street": "Carretera General",
+      "amenity": "restaurant",
+      "bar": "yes",
+      "cuisine": "regional;smoked",
+      "delivery": "yes",
+      "name": "NØR RESTAURANT",
+      "opening_hours": "We- Mo 17:00-22:00",
+      "phone": "+376 851 009",
+      "website": "https://www.norrestaurant.com/es/inicio/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3902532115,
+    "lat": 42.5796782,
+    "lon": 1.659477,
+    "timestamp": "2022-03-17T18:17:14Z",
+    "version": 2,
+    "changeset": 118606125,
+    "user": "Mountain Hostel Tarter",
+    "uid": 12807986,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3928793748,
+    "lat": 42.5675165,
+    "lon": 1.6013448,
+    "timestamp": "2016-01-05T14:30:58Z",
+    "version": 1,
+    "changeset": 36382021,
+    "user": "EliziR",
+    "uid": 605366,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Ca la Padrina"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4078487138,
+    "lat": 42.5082019,
+    "lon": 1.5364959,
+    "timestamp": "2020-04-17T20:54:16Z",
+    "version": 5,
+    "changeset": 83725815,
+    "user": "47NOE",
+    "uid": 1811738,
+    "tags": {
+      "addr:city": "Escaldes-Engordany",
+      "addr:country": "AD",
+      "addr:housenumber": "3",
+      "addr:street": "Isabel Sandy",
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Don Denis",
+      "opening_hours": "08:00-01:00",
+      "phone": "+376 820 692",
+      "website": "https://www.restaurantdondenis.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4240956912,
+    "lat": 42.4657978,
+    "lon": 1.4950324,
+    "timestamp": "2016-06-13T08:28:46Z",
+    "version": 1,
+    "changeset": 39987019,
+    "user": "EliziR",
+    "uid": 605366,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant San Telmo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4252265545,
+    "lat": 42.5080097,
+    "lon": 1.5222334,
+    "timestamp": "2016-06-19T09:20:55Z",
+    "version": 1,
+    "changeset": 40131499,
+    "user": "Hollin Wakefield",
+    "uid": 4140704,
+    "tags": {
+      "amenity": "restaurant",
+      "internet_access": "wlan",
+      "name": "Broceliand"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4416878225,
+    "lat": 42.5423789,
+    "lon": 1.5172686,
+    "timestamp": "2022-07-14T11:52:13Z",
+    "version": 3,
+    "changeset": 123606230,
+    "user": "CarlesCM",
+    "uid": 16209711,
+    "tags": {
+      "addr:housenumber": "38",
+      "addr:street": "Avinguda Sant Antoni",
+      "amenity": "restaurant",
+      "cuisine": "italian_pizza",
+      "email": "lacapricciosapizza@gmail.com",
+      "name": "La Capricciosa",
+      "name:ca": "La Capricciosa",
+      "name:es": "La Capricciosa",
+      "opening_hours": "Th-Mo 13:00-15:30,19:00-22:30",
+      "phone": "+376 838 386"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4448379096,
+    "lat": 42.5076993,
+    "lon": 1.5342472,
+    "timestamp": "2024-04-20T19:31:31Z",
+    "version": 4,
+    "changeset": 150277970,
+    "user": "cEvLGWiQ",
+    "uid": 5432507,
+    "tags": {
+      "addr:housenumber": "13",
+      "addr:street": "Carrer de la Unió",
+      "amenity": "restaurant",
+      "cuisine": "tapas",
+      "internet_access": "wlan",
+      "name": "Tertulia",
+      "name:es": "Tertúlia",
+      "opening_hours": "Mo-Sa 08:00-00:00",
+      "phone": "+376 828 533",
+      "website": "https://www.facebook.com/pages/Bar-La-Tertulia/136277396450693"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4454140589,
+    "lat": 42.5068301,
+    "lon": 1.5188341,
+    "timestamp": "2016-10-18T22:32:35Z",
+    "version": 1,
+    "changeset": 42996991,
+    "user": "Olga Udod",
+    "uid": 4541507,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Domenech",
+      "name:en": "snack bar Domenech"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4454982589,
+    "lat": 42.5343419,
+    "lon": 1.5855897,
+    "timestamp": "2024-04-20T19:30:13Z",
+    "version": 2,
+    "changeset": 150277920,
+    "user": "cEvLGWiQ",
+    "uid": 5432507,
+    "tags": {
+      "addr:housenumber": "55",
+      "addr:street": "Avinguda de François Mitterrand",
+      "amenity": "restaurant",
+      "cuisine": "portuguese",
+      "name": "Orlando's Bar",
+      "phone": "+376 333 758"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4512306331,
+    "lat": 42.5078895,
+    "lon": 1.534217,
+    "timestamp": "2016-11-20T17:11:44Z",
+    "version": 1,
+    "changeset": 43826914,
+    "user": "Paulo Manuel Santos Moreira",
+    "uid": 3098937,
+    "tags": {
+      "addr:street": "Carrer de la Unió",
+      "amenity": "restaurant",
+      "cuisine": "pizza;pasta",
+      "internet_access": "wlan",
+      "name": "Pizzeria Angelo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4520641689,
+    "lat": 42.5826175,
+    "lon": 1.5193117,
+    "timestamp": "2016-11-25T13:04:24Z",
+    "version": 1,
+    "changeset": 43943832,
+    "user": "xikitin",
+    "uid": 4857532,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "La Font d'Arans",
+      "name:ca": "La Font d'Arans"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4523549375,
+    "lat": 42.4627858,
+    "lon": 1.4912324,
+    "timestamp": "2016-11-26T16:38:18Z",
+    "version": 1,
+    "changeset": 43966973,
+    "user": "Emilio Gomez",
+    "uid": 2904,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "Pizzeria Venezia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4525483689,
+    "lat": 42.5087108,
+    "lon": 1.5403067,
+    "timestamp": "2016-11-28T00:13:43Z",
+    "version": 1,
+    "changeset": 43994512,
+    "user": "xikitin",
+    "uid": 4857532,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Taberna Excalibur",
+      "name:ca": "Taberna Excalibur"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4677760389,
+    "lat": 42.4977255,
+    "lon": 1.5032433,
+    "timestamp": "2017-02-10T06:54:32Z",
+    "version": 1,
+    "changeset": 45965213,
+    "user": "Paulo Manuel Santos Moreira",
+    "uid": 3098937,
+    "tags": {
+      "addr:housenumber": "24",
+      "amenity": "restaurant",
+      "name": "Can Jovi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4680804790,
+    "lat": 42.5081545,
+    "lon": 1.5382215,
+    "timestamp": "2024-04-20T19:31:31Z",
+    "version": 2,
+    "changeset": 150277970,
+    "user": "cEvLGWiQ",
+    "uid": 5432507,
+    "tags": {
+      "addr:housenumber": "16",
+      "addr:street": "Avinguda del Fener",
+      "amenity": "restaurant",
+      "cuisine": "turkish",
+      "name": "Delicies Turques",
+      "phone": "+376 864 964"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4698145789,
+    "lat": 42.5077683,
+    "lon": 1.5220237,
+    "timestamp": "2017-02-21T22:33:18Z",
+    "version": 1,
+    "changeset": 46289239,
+    "user": "Paulo Manuel Santos Moreira",
+    "uid": 3098937,
+    "tags": {
+      "addr:street": "Cap del Carrer",
+      "amenity": "restaurant",
+      "cuisine": "mexican",
+      "internet_access": "wlan",
+      "name:es": "La Adelita"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4698700290,
+    "lat": 42.5074991,
+    "lon": 1.5223404,
+    "timestamp": "2017-02-22T08:48:40Z",
+    "version": 1,
+    "changeset": 46299326,
+    "user": "Paulo Manuel Santos Moreira",
+    "uid": 3098937,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "burger",
+      "internet_access": "wlan",
+      "name": "Chester"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4698727789,
+    "lat": 42.5073267,
+    "lon": 1.5224144,
+    "timestamp": "2021-12-18T19:38:56Z",
+    "version": 2,
+    "changeset": 115107048,
+    "user": "Yamílo",
+    "uid": 11332999,
+    "tags": {
+      "addr:street": "Carrer Dr. Vilanova",
+      "amenity": "restaurant",
+      "internet_access": "wlan",
+      "name": "Dos Caçadors",
+      "name:es": "Dos Cazadores"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4698758017,
+    "lat": 42.5076104,
+    "lon": 1.5215205,
+    "timestamp": "2024-04-20T19:31:15Z",
+    "version": 3,
+    "changeset": 150277959,
+    "user": "cEvLGWiQ",
+    "uid": 5432507,
+    "tags": {
+      "addr:housenumber": "4",
+      "addr:street": "Avinguda del Princep Benlloch",
+      "amenity": "restaurant",
+      "cuisine": "tapas",
+      "internet_access": "wlan",
+      "name": "Papanico",
+      "phone": "+376 867 333"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4699170491,
+    "lat": 42.5085007,
+    "lon": 1.522331,
+    "timestamp": "2022-05-09T01:55:24Z",
+    "version": 2,
+    "changeset": 120723583,
+    "user": "DanielBautista",
+    "uid": 573582,
+    "tags": {
+      "addr:street": "Carrer La Llacuna",
+      "amenity": "restaurant",
+      "cuisine": "tapas",
+      "internet_access": "wlan",
+      "name": "El taller The Tapeo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4879709321,
+    "lat": 42.5078173,
+    "lon": 1.5383994,
+    "timestamp": "2017-05-27T06:27:42Z",
+    "version": 1,
+    "changeset": 49017488,
+    "user": "Sbb31",
+    "uid": 4699574,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "El Cachirulo",
+      "name:ca": "El Cachirulo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4879709322,
+    "lat": 42.5100133,
+    "lon": 1.5398696,
+    "timestamp": "2022-08-05T16:58:24Z",
+    "version": 2,
+    "changeset": 124532317,
+    "user": "vincent_95",
+    "uid": 49047,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "L'Enoteca",
+      "name:ca": "L'enoteca"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4927139621,
+    "lat": 42.5079392,
+    "lon": 1.5359182,
+    "timestamp": "2017-06-20T16:56:56Z",
+    "version": 1,
+    "changeset": 49698947,
+    "user": "Paulo Manuel Santos Moreira",
+    "uid": 3098937,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "steak_house;barbecue;argentinian",
+      "internet_access": "wlan",
+      "name": "Chulengo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4928317128,
+    "lat": 42.5086585,
+    "lon": 1.5401804,
+    "timestamp": "2021-08-21T23:02:09Z",
+    "version": 2,
+    "changeset": 110044328,
+    "user": "yopaseopor",
+    "uid": 500572,
+    "tags": {
+      "addr:housenumber": "59",
+      "addr:street": "Avinguda Carlemany",
+      "amenity": "restaurant",
+      "name": "Pizzeria Piccola Venezia",
+      "name:2020": "La Taverna Italiana"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4970223123,
+    "lat": 42.4949974,
+    "lon": 1.4976415,
+    "timestamp": "2017-07-14T11:43:57Z",
+    "version": 1,
+    "changeset": 50281012,
+    "user": "Paulo Manuel Santos Moreira",
+    "uid": 3098937,
+    "tags": {
+      "addr:street": "Carrer de la Tartera",
+      "amenity": "restaurant",
+      "cuisine": "steak_house",
+      "internet_access": "wlan",
+      "name": "Don Pernil"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5017730521,
+    "lat": 42.5075025,
+    "lon": 1.5323972,
+    "timestamp": "2024-04-20T19:31:15Z",
+    "version": 4,
+    "changeset": 150277959,
+    "user": "cEvLGWiQ",
+    "uid": 5432507,
+    "tags": {
+      "addr:housenumber": "10",
+      "addr:street": "Sant Salvador 10",
+      "amenity": "restaurant",
+      "cuisine": "american",
+      "internet_access": "wlan",
+      "name:en": "Hard Rock Cafe Andorra",
+      "opening_hours": "Mo-Su 12:00-23:30",
+      "phone": "+376 811 888",
+      "website": "https://www.hardrock.com/cafes/andorra"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5142807224,
+    "lat": 42.5070693,
+    "lon": 1.5318035,
+    "timestamp": "2023-11-06T13:07:11Z",
+    "version": 3,
+    "changeset": 143692911,
+    "user": "b-jazz-bot",
+    "uid": 9451067,
+    "tags": {
+      "addr:housenumber": "4",
+      "addr:street": "Carrer Verge del Pilar",
+      "amenity": "restaurant",
+      "internet_access": "wlan",
+      "name": "Celler d’en Toni",
+      "website": "https://www.cellerdentoni.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5173641721,
+    "lat": 42.4625851,
+    "lon": 1.5023539,
+    "timestamp": "2017-10-17T20:09:28Z",
+    "version": 1,
+    "changeset": 53023252,
+    "user": "Jesús Gómez",
+    "uid": 6389,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Borda de les Pubilles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5219634726,
+    "lat": 42.5592165,
+    "lon": 1.5036063,
+    "timestamp": "2017-11-09T11:40:16Z",
+    "version": 2,
+    "changeset": 53637146,
+    "user": "spla",
+    "uid": 6959487,
+    "tags": {
+      "addr:city": "Andorra",
+      "addr:housenumber": "39",
+      "addr:postcode": "AD400",
+      "addr:street": "Carretera d'Erts",
+      "amenity": "restaurant",
+      "cuisine": "Andorrana",
+      "name": "Borda Raubert"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5289767421,
+    "lat": 42.5454758,
+    "lon": 1.514375,
+    "timestamp": "2017-12-17T13:57:09Z",
+    "version": 1,
+    "changeset": 54703927,
+    "user": "Colcolt",
+    "uid": 7262124,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5325452669,
+    "lat": 42.5427924,
+    "lon": 1.7335932,
+    "timestamp": "2018-01-07T13:10:18Z",
+    "version": 1,
+    "changeset": 55235332,
+    "user": "MultiDavid2001b",
+    "uid": 4946691,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Grill"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5325452685,
+    "lat": 42.5422035,
+    "lon": 1.7335529,
+    "timestamp": "2018-01-07T13:10:19Z",
+    "version": 1,
+    "changeset": 55235332,
+    "user": "MultiDavid2001b",
+    "uid": 4946691,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "EL ROSAT"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5325452713,
+    "lat": 42.5426461,
+    "lon": 1.7347921,
+    "timestamp": "2018-01-07T13:10:20Z",
+    "version": 1,
+    "changeset": 55235332,
+    "user": "MultiDavid2001b",
+    "uid": 4946691,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Pic Mari"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5361692621,
+    "lat": 42.5074327,
+    "lon": 1.5308924,
+    "timestamp": "2018-01-25T17:12:15Z",
+    "version": 1,
+    "changeset": 55747756,
+    "user": "adrain728",
+    "uid": 5499990,
+    "tags": {
+      "addr:housenumber": "3",
+      "addr:street": "Carrer Ciutat de Consuegra",
+      "amenity": "restaurant",
+      "name": "Taberna Angel Belmonte"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5361692622,
+    "lat": 42.5073506,
+    "lon": 1.5317863,
+    "timestamp": "2023-08-21T17:30:04Z",
+    "version": 2,
+    "changeset": 140193359,
+    "user": "juhanjuku",
+    "uid": 152305,
+    "tags": {
+      "addr:housenumber": "8",
+      "addr:street": "Carrer Bonaventura Riberaygua",
+      "amenity": "restaurant",
+      "cuisine": "mediterranean",
+      "name": "Plat’in",
+      "opening_hours": "Mo-Fr 08:30-20:00; Sa,Su 08:00-15:00; PH off",
+      "website": "http://www.plat-in.net/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5361727022,
+    "lat": 42.5063388,
+    "lon": 1.515657,
+    "timestamp": "2022-11-19T00:13:12Z",
+    "version": 2,
+    "changeset": 129106539,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "tags": {
+      "addr:housenumber": "6C",
+      "addr:street": "Carrer Mestre Xavier Plana",
+      "amenity": "restaurant",
+      "name": "Can Manel",
+      "name:ca": "Can Manel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5447216524,
+    "lat": 42.535793,
+    "lon": 1.5869846,
+    "timestamp": "2018-03-02T07:04:11Z",
+    "version": 1,
+    "changeset": 56809563,
+    "user": "Movses",
+    "uid": 721672,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5447274921,
+    "lat": 42.5091688,
+    "lon": 1.5419224,
+    "timestamp": "2020-03-15T10:49:29Z",
+    "version": 3,
+    "changeset": 82213914,
+    "user": "hvictor",
+    "uid": 3003217,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5455197021,
+    "lat": 42.536397,
+    "lon": 1.583174,
+    "timestamp": "2018-03-04T21:08:36Z",
+    "version": 1,
+    "changeset": 56882039,
+    "user": "TheSteelRat",
+    "uid": 614722,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "italian",
+      "email": "restolamosquera@gmail.com",
+      "name": "Pizzeria La Mosquera",
+      "phone": "+376 8343484"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5508892222,
+    "lat": 42.5069393,
+    "lon": 1.5299491,
+    "timestamp": "2024-04-20T19:31:16Z",
+    "version": 3,
+    "changeset": 150277959,
+    "user": "cEvLGWiQ",
+    "uid": 5432507,
+    "tags": {
+      "addr:housenumber": "8",
+      "addr:postcode": "500",
+      "addr:street": "Carrer Callaueta",
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "Pizzeria Primavera",
+      "phone": "+376 800 530"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5508892223,
+    "lat": 42.50557,
+    "lon": 1.5215439,
+    "timestamp": "2024-04-20T19:31:16Z",
+    "version": 2,
+    "changeset": 150277959,
+    "user": "cEvLGWiQ",
+    "uid": 5432507,
+    "tags": {
+      "addr:housenumber": "7",
+      "addr:postcode": "500",
+      "addr:street": "Carrer Doctor Vilanova",
+      "amenity": "restaurant",
+      "name": "la Borda Pairal",
+      "phone": "+376 869 999"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5508952122,
+    "lat": 42.5595085,
+    "lon": 1.6857497,
+    "timestamp": "2018-03-27T17:36:31Z",
+    "version": 1,
+    "changeset": 57575303,
+    "user": "MarcTixis",
+    "uid": 6795823,
+    "tags": {
+      "addr:housenumber": "km. 22",
+      "addr:postcode": "100",
+      "addr:street": "CG-2",
+      "amenity": "restaurant",
+      "name": "la llar de l’artesà - Borda Popaire"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5515906722,
+    "lat": 42.5093916,
+    "lon": 1.5422736,
+    "timestamp": "2018-03-30T09:14:03Z",
+    "version": 1,
+    "changeset": 57655416,
+    "user": "Happy Hobo",
+    "uid": 4203306,
+    "tags": {
+      "amenity": "restaurant",
+      "name:en": "Restaurant Sevilla"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5519001823,
+    "lat": 42.5086494,
+    "lon": 1.5390783,
+    "timestamp": "2021-08-21T23:02:09Z",
+    "version": 2,
+    "changeset": 110044328,
+    "user": "yopaseopor",
+    "uid": 500572,
+    "tags": {
+      "addr:housenumber": "8",
+      "addr:street": "Avinguda Carlemany",
+      "addr:street:2020": "Avinguda Carlemany",
+      "amenity": "restaurant",
+      "amenity:2020": "restaurant",
+      "cuisine": "american",
+      "internet_access": "wlan",
+      "name": "Monkeys",
+      "name:2020": "Taverna Andorra",
+      "opening_hours": "Mo-Fr 16:00-01:00; Sa,Su 12:00-01:00",
+      "website:2020": "http://www.tavernes-andorra.com/taverna-pa-tomaquet.html"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5520567230,
+    "lat": 42.4967618,
+    "lon": 1.4980418,
+    "timestamp": "2018-04-01T16:01:15Z",
+    "version": 1,
+    "changeset": 57715969,
+    "user": "Happy Hobo",
+    "uid": 4203306,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Café Els Barrers"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5736767209,
+    "lat": 42.6225501,
+    "lon": 1.5641677,
+    "timestamp": "2020-10-27T23:13:40Z",
+    "version": 3,
+    "changeset": 93146607,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Refugi de Sorteny",
+      "wikidata": "Q3931665",
+      "wikipedia": "ca:Refugi de Sorteny"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5902157085,
+    "lat": 42.508566,
+    "lon": 1.522666,
+    "timestamp": "2022-12-28T23:55:35Z",
+    "version": 3,
+    "changeset": 130622531,
+    "user": "Kristjan ESPERANTO",
+    "uid": 77904,
+    "tags": {
+      "addr:housenumber": "6",
+      "addr:street": "Carrer Mossen tremossa. Local 2",
+      "amenity": "restaurant",
+      "cuisine": "german",
+      "diet:vegan": "yes",
+      "email": "macaryaleman@gmail.com",
+      "internet_access": "wlan",
+      "name": "Macary Alemán",
+      "name:ca": "Macary Alemany",
+      "opening_hours": "Mo-Sa 12:00-15:00, 19:00-23:00",
+      "phone": "+376 818 918"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5981150136,
+    "lat": 42.5664846,
+    "lon": 1.5988609,
+    "timestamp": "2022-06-11T17:19:04Z",
+    "version": 2,
+    "changeset": 122258209,
+    "user": "hecktor",
+    "uid": 465052,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Xzreme Pizza",
+      "outdoor_seating": "yes",
+      "self_service": "yes",
+      "takeaway": "yes",
+      "toilets": "yes",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6173518385,
+    "lat": 42.5070071,
+    "lon": 1.528725,
+    "timestamp": "2018-12-30T20:13:43Z",
+    "version": 1,
+    "changeset": 65896637,
+    "user": "Paulo Manuel Santos Moreira",
+    "uid": 3098937,
+    "tags": {
+      "addr:street": "Carrer Pere d'Urg",
+      "amenity": "restaurant",
+      "internet_access": "wlan",
+      "name": "Ca L’Irina"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6255387272,
+    "lat": 42.5406002,
+    "lon": 1.7317864,
+    "timestamp": "2022-12-19T20:11:18Z",
+    "version": 2,
+    "changeset": 130262523,
+    "user": "Kadubei",
+    "uid": 16642036,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Хаски",
+      "name:de": "Husky",
+      "name:fr": "Husky",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6380415729,
+    "lat": 42.5339127,
+    "lon": 1.5878703,
+    "timestamp": "2019-04-03T09:27:47Z",
+    "version": 1,
+    "changeset": 68829588,
+    "user": "France Randos",
+    "uid": 9497624,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Hôtel Mila"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6398382765,
+    "lat": 42.5073641,
+    "lon": 1.519592,
+    "timestamp": "2020-04-17T20:54:16Z",
+    "version": 3,
+    "changeset": 83725815,
+    "user": "47NOE",
+    "uid": 1811738,
+    "tags": {
+      "addr:city": "Andorra la Vella",
+      "addr:housenumber": "20 bis",
+      "addr:postcode": "AD500",
+      "addr:street": "Av.Princep Benlloch",
+      "amenity": "restaurant",
+      "cuisine": "spanish",
+      "name": "1940 Restaurant",
+      "website": "https://www.1940restaurant.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6657130485,
+    "lat": 42.5834453,
+    "lon": 1.6629807,
+    "timestamp": "2024-04-20T19:29:58Z",
+    "version": 2,
+    "changeset": 150277912,
+    "user": "cEvLGWiQ",
+    "uid": 5432507,
+    "tags": {
+      "addr:housenumber": "75",
+      "amenity": "restaurant",
+      "cuisine": "barbecue;burger;tapas;pasta;sandwich;grill",
+      "name": "Restaurant la Cabaneta",
+      "opening_hours": "Mo-Su 09:00-23:00",
+      "phone": "+376 727 999"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6733504642,
+    "lat": 42.5613675,
+    "lon": 1.4976007,
+    "timestamp": "2019-08-21T21:47:13Z",
+    "version": 1,
+    "changeset": 73598088,
+    "user": "jqngarcia",
+    "uid": 5126253,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "asian",
+      "name": "Restaurant Bambú"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6757604185,
+    "lat": 42.5087642,
+    "lon": 1.5364324,
+    "timestamp": "2022-08-05T16:58:23Z",
+    "version": 2,
+    "changeset": 124532317,
+    "user": "vincent_95",
+    "uid": 49047,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "L'Informal"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7117547032,
+    "lat": 42.5641525,
+    "lon": 1.6627701,
+    "timestamp": "2020-01-08T17:23:15Z",
+    "version": 1,
+    "changeset": 79349473,
+    "user": "RivalSouth",
+    "uid": 10633942,
+    "tags": {
+      "amenity": "restaurant",
+      "capacity": "100",
+      "cuisine": "international;wine;grill",
+      "name": "Wine & Meat Bar by Jean Leon"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7419315385,
+    "lat": 42.5418223,
+    "lon": 1.7317404,
+    "timestamp": "2020-04-19T14:04:54Z",
+    "version": 1,
+    "changeset": 83774119,
+    "user": "GR50",
+    "uid": 9647750,
+    "tags": {
+      "amenity": "restaurant",
+      "internet_access": "wlan",
+      "name": "La Copa"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7667983885,
+    "lat": 42.5344653,
+    "lon": 1.5867806,
+    "timestamp": "2024-04-20T19:30:13Z",
+    "version": 2,
+    "changeset": 150277920,
+    "user": "cEvLGWiQ",
+    "uid": 5432507,
+    "tags": {
+      "addr:housenumber": "73",
+      "addr:street": "Avinguda de François Mitterrand",
+      "amenity": "restaurant",
+      "cuisine": "italian_pizza",
+      "name": "Pizza Vitto Encamp",
+      "opening_hours": "Mo-Su 19:30-23:00",
+      "phone": "+376 727 937"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7667983886,
+    "lat": 42.5364386,
+    "lon": 1.5836812,
+    "timestamp": "2024-04-20T19:30:13Z",
+    "version": 2,
+    "changeset": 150277920,
+    "user": "cEvLGWiQ",
+    "uid": 5432507,
+    "tags": {
+      "addr:street": "Plaza dels Arinsols",
+      "amenity": "restaurant",
+      "name": "Can Fontcuberta",
+      "opening_hours": "Mo-Th 08:00-14:00, 15:00-21:00; Fr-Su 08:00-23:00",
+      "phone": "+376 834 393"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7667983887,
+    "lat": 42.5355929,
+    "lon": 1.5815131,
+    "timestamp": "2024-04-20T19:30:13Z",
+    "version": 3,
+    "changeset": 150277920,
+    "user": "cEvLGWiQ",
+    "uid": 5432507,
+    "tags": {
+      "addr:housenumber": "6",
+      "addr:street": "Avinguda de Joan Martí",
+      "amenity": "restaurant",
+      "name": "Cava la Moreneta",
+      "opening_hours": "Mo-Su 07:00-24:00",
+      "phone": "+376 834 045"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7667983985,
+    "lat": 42.5341616,
+    "lon": 1.5799951,
+    "timestamp": "2024-04-20T19:30:13Z",
+    "version": 2,
+    "changeset": 150277920,
+    "user": "cEvLGWiQ",
+    "uid": 5432507,
+    "tags": {
+      "addr:housenumber": "3",
+      "addr:street": "Avinguda Princep Benlloch",
+      "amenity": "restaurant",
+      "name": "L'espiga",
+      "opening_hours": "Mo-Su 06:30-21:00",
+      "phone": "+376 731 830"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7667983986,
+    "lat": 42.5346401,
+    "lon": 1.5778337,
+    "timestamp": "2024-04-20T19:30:13Z",
+    "version": 2,
+    "changeset": 150277920,
+    "user": "cEvLGWiQ",
+    "uid": 5432507,
+    "tags": {
+      "addr:housenumber": "28",
+      "addr:street": "Avinguda Princep Benlloch",
+      "amenity": "restaurant",
+      "name": "Roc Arnau",
+      "opening_hours": "Mo-Su 07:00-23:00",
+      "phone": "+376 833 406"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7668025985,
+    "lat": 42.5083546,
+    "lon": 1.5218974,
+    "timestamp": "2024-04-20T19:31:16Z",
+    "version": 3,
+    "changeset": 150277959,
+    "user": "cEvLGWiQ",
+    "uid": 5432507,
+    "tags": {
+      "addr:housenumber": "7",
+      "addr:street": "Carrer Mossèn Cinto Verdaguer",
+      "amenity": "restaurant",
+      "name": "La Cava",
+      "name:ca": "La Cava",
+      "opening_hours": "Mo-Su 13:00-15:30, 19:00-23:00",
+      "phone": "+376 820 175"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7668026085,
+    "lat": 42.5535024,
+    "lon": 1.5284556,
+    "timestamp": "2024-04-20T19:30:45Z",
+    "version": 3,
+    "changeset": 150277942,
+    "user": "cEvLGWiQ",
+    "uid": 5432507,
+    "tags": {
+      "addr:street": "Carretera General 3",
+      "amenity": "restaurant",
+      "name": "La Clota",
+      "name:ca": "La Clota",
+      "opening_hours": "Mo-Fr 07:00-20:00; Sa-Su 07:00-00:00",
+      "phone": "+376 847 474"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7738205486,
+    "lat": 42.5364031,
+    "lon": 1.5838717,
+    "timestamp": "2024-04-20T19:30:13Z",
+    "version": 4,
+    "changeset": 150277920,
+    "user": "cEvLGWiQ",
+    "uid": 5432507,
+    "tags": {
+      "addr:postcode": "200",
+      "addr:street": "Plaça dels Arinsols",
+      "amenity": "restaurant",
+      "name": "Can font cuberta",
+      "opening_hours": "Su-Th 08:00-21:00; Fr-Sa 08:00-23:00",
+      "phone": "+376 834 393"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7738205585,
+    "lat": 42.5342647,
+    "lon": 1.5862744,
+    "timestamp": "2024-04-20T19:30:13Z",
+    "version": 3,
+    "changeset": 150277920,
+    "user": "cEvLGWiQ",
+    "uid": 5432507,
+    "tags": {
+      "addr:housenumber": "73",
+      "addr:postcode": "200",
+      "addr:street": "Avinguda de François Mitterrand",
+      "amenity": "restaurant",
+      "name": "Pizza Vitto Encamp",
+      "opening_hours": "Tu-Su 19:30-23:00",
+      "phone": "+376 727 937"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7738216285,
+    "lat": 42.5083057,
+    "lon": 1.5217785,
+    "timestamp": "2024-04-20T19:31:16Z",
+    "version": 3,
+    "changeset": 150277959,
+    "user": "cEvLGWiQ",
+    "uid": 5432507,
+    "tags": {
+      "addr:housenumber": "7",
+      "addr:postcode": "500",
+      "addr:street": "Carrer Mossèn Cinto Verdaguer",
+      "amenity": "restaurant",
+      "name": "La Cava",
+      "name:ca": "La Cava",
+      "phone": "+376 820 175"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7796373543,
+    "lat": 42.5564653,
+    "lon": 1.534475,
+    "timestamp": "2020-08-08T10:03:18Z",
+    "version": 1,
+    "changeset": 89122716,
+    "user": "EliziR",
+    "uid": 605366,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7796876819,
+    "lat": 42.6017305,
+    "lon": 1.6878377,
+    "timestamp": "2020-08-08T15:22:56Z",
+    "version": 1,
+    "changeset": 89131509,
+    "user": "EliziR",
+    "uid": 605366,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "l'Ovella Negra"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7810730185,
+    "lat": 42.5062918,
+    "lon": 1.5309162,
+    "timestamp": "2020-08-13T18:30:35Z",
+    "version": 1,
+    "changeset": 89370688,
+    "user": "3vauban",
+    "uid": 10524090,
+    "tags": {
+      "addr:housenumber": "32",
+      "addr:postcode": "500",
+      "addr:street": "Carrer Maria Plà",
+      "amenity": "restaurant",
+      "name": "Veggie's World"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7821898785,
+    "lat": 42.5080409,
+    "lon": 1.5355741,
+    "timestamp": "2020-08-18T06:00:24Z",
+    "version": 1,
+    "changeset": 89552036,
+    "user": "3vauban",
+    "uid": 10524090,
+    "tags": {
+      "addr:postcode": "700",
+      "addr:street": "Carrer Paraires",
+      "amenity": "restaurant",
+      "name": "Pizzeria Xavier"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7947465364,
+    "lat": 42.6320831,
+    "lon": 1.4816268,
+    "timestamp": "2024-04-20T19:30:45Z",
+    "version": 2,
+    "changeset": 150277942,
+    "user": "cEvLGWiQ",
+    "uid": 5432507,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Borda de la Coma",
+      "phone": "+376 739 639"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7947465365,
+    "lat": 42.6290865,
+    "lon": 1.497944,
+    "timestamp": "2024-04-20T19:30:45Z",
+    "version": 2,
+    "changeset": 150277942,
+    "user": "cEvLGWiQ",
+    "uid": 5432507,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant Planells",
+      "phone": "+376 739 600"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8114224717,
+    "lat": 42.5115353,
+    "lon": 1.5493023,
+    "timestamp": "2020-11-13T08:05:27Z",
+    "version": 1,
+    "changeset": 94044452,
+    "user": "Securetat",
+    "uid": 10373936,
+    "tags": {
+      "addr:housenumber": "3",
+      "addr:street": "Carretera d'Engolasters",
+      "amenity": "restaurant",
+      "cuisine": "portuguese",
+      "internet_access": "wlan",
+      "name": "FROG 18"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8196558617,
+    "lat": 42.5079877,
+    "lon": 1.5358486,
+    "timestamp": "2020-12-05T15:13:47Z",
+    "version": 1,
+    "changeset": 95337779,
+    "user": "Securetat",
+    "uid": 10373936,
+    "tags": {
+      "addr:housenumber": "24",
+      "addr:street": "Avinguda del Fener",
+      "amenity": "restaurant",
+      "cuisine": "chinese",
+      "name": "Fideus",
+      "opening_hours": "Mo-Su 12:00-16:00, 19:00-23:00",
+      "website": "http://fideus.ad"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8410235717,
+    "lat": 42.5829475,
+    "lon": 1.662579,
+    "timestamp": "2021-02-09T23:26:23Z",
+    "version": 1,
+    "changeset": 99003834,
+    "user": "Joan Manel zamora",
+    "uid": 8345192,
+    "tags": {
+      "addr:street": "carretera general 2",
+      "amenity": "restaurant",
+      "name": "restaurant can pep"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8410235817,
+    "lat": 42.5827098,
+    "lon": 1.6624241,
+    "timestamp": "2021-02-09T23:26:24Z",
+    "version": 1,
+    "changeset": 99003834,
+    "user": "Joan Manel zamora",
+    "uid": 8345192,
+    "tags": {
+      "addr:street": "carretera general 2",
+      "amenity": "restaurant",
+      "name": "borda del rector"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8644092640,
+    "lat": 42.5073641,
+    "lon": 1.5307589,
+    "timestamp": "2021-04-19T14:51:37Z",
+    "version": 1,
+    "changeset": 103206465,
+    "user": "apob05",
+    "uid": 13118293,
+    "tags": {
+      "addr:city": "Andorra la Vella",
+      "addr:housenumber": "2",
+      "addr:postcode": "AD500",
+      "addr:street": "Carrer Ciutat de Consuegra",
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "fixme": "site web\nnum de tel\net horraires",
+      "name": "font verd"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8824645796,
+    "lat": 42.5750221,
+    "lon": 1.5178372,
+    "timestamp": "2021-06-11T14:03:18Z",
+    "version": 1,
+    "changeset": 106218929,
+    "user": "carlescampi",
+    "uid": 13318670,
+    "tags": {
+      "addr:city": "La Cortinada",
+      "addr:postcode": "AD300",
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "La Solaneta Ristorante"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8824645797,
+    "lat": 42.5730646,
+    "lon": 1.5185847,
+    "timestamp": "2021-06-11T14:03:18Z",
+    "version": 1,
+    "changeset": 106218929,
+    "user": "carlescampi",
+    "uid": 13318670,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant Cal Tonet"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8824645799,
+    "lat": 42.5727403,
+    "lon": 1.5187236,
+    "timestamp": "2021-06-11T14:06:17Z",
+    "version": 2,
+    "changeset": 106219052,
+    "user": "carlescampi",
+    "uid": 13318670,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "El Traguet i Més"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8824813854,
+    "lat": 42.5770409,
+    "lon": 1.5171109,
+    "timestamp": "2021-06-11T14:06:17Z",
+    "version": 1,
+    "changeset": 106219052,
+    "user": "carlescampi",
+    "uid": 13318670,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant Font Blanca"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8964032514,
+    "lat": 42.5752916,
+    "lon": 1.6713677,
+    "timestamp": "2021-07-30T19:32:23Z",
+    "version": 1,
+    "changeset": 108907929,
+    "user": "corrector_91",
+    "uid": 3418742,
+    "tags": {
+      "amenity": "restaurant",
+      "description": "Inside the Sport Hotel Hermitage & Spa, the chef Francis Paniego, with two Michelin stars and three Repsol suns, joins the restaurant to offer a gastronomic experience that will not leave you indifferent.",
+      "name": "Ibaya",
+      "website": "https://www.hermitagehotel.sporthotelsandorra.co.uk/andorra-gastronomy/the-restaurants/ibaya.html"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8964032515,
+    "lat": 42.5759847,
+    "lon": 1.6693699,
+    "timestamp": "2021-07-30T19:32:23Z",
+    "version": 1,
+    "changeset": 108907929,
+    "user": "corrector_91",
+    "uid": 3418742,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "japanese",
+      "description": "by chef Hideki Matsuhisa. You can sample the signature dishes of the Michelin-starred Koy Shunka restaurant in Barcelona",
+      "fixme": "exact location?",
+      "name": "Koy Hermitage",
+      "website": "https://www.hermitagehotel.sporthotelsandorra.co.uk/andorra-gastronomy/the-restaurants/restaurant-koy-hermitage.html"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8964032516,
+    "lat": 42.5754108,
+    "lon": 1.6710499,
+    "timestamp": "2021-07-30T19:32:23Z",
+    "version": 1,
+    "changeset": 108907929,
+    "user": "corrector_91",
+    "uid": 3418742,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "spanish",
+      "description": "Located in the Sport Hotel Hermitage & Spa, Hermitage Tradició Restaurant offers a unique culinary experience with Francis Paniego and his wonderful team.",
+      "name": "Hermitage Tradició",
+      "website": "https://www.sporthotelsandorra.co.uk/andorra-gastronomy/restaurants/hermitage-tradicio.html"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8964053323,
+    "lat": 42.576398,
+    "lon": 1.6685238,
+    "timestamp": "2021-07-30T19:32:23Z",
+    "version": 1,
+    "changeset": 108907929,
+    "user": "corrector_91",
+    "uid": 3418742,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "spanish",
+      "name": "The Villager Tapas & Wine",
+      "website": "https://www.sporthotelsandorra.co.uk/andorra-gastronomy/restaurants/villager-tapas-wine.html"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8964053324,
+    "lat": 42.5763497,
+    "lon": 1.6698071,
+    "timestamp": "2021-07-30T19:32:23Z",
+    "version": 1,
+    "changeset": 108907929,
+    "user": "corrector_91",
+    "uid": 3418742,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "italian",
+      "name": "La Tofana",
+      "website": "https://www.sporthotelsandorra.co.uk/andorra-gastronomy/restaurants/la-tofana-restaurant.html"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8964255612,
+    "lat": 42.5079085,
+    "lon": 1.5251944,
+    "timestamp": "2021-07-30T21:17:31Z",
+    "version": 1,
+    "changeset": 108910948,
+    "user": "corrector_91",
+    "uid": 3418742,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant de l'Isard"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8967794801,
+    "lat": 42.5769731,
+    "lon": 1.6660571,
+    "timestamp": "2021-07-31T09:33:12Z",
+    "version": 1,
+    "changeset": 108923211,
+    "user": "corrector_91",
+    "uid": 3418742,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Naudi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8967818101,
+    "lat": 42.5326379,
+    "lon": 1.7012311,
+    "timestamp": "2021-07-31T09:41:25Z",
+    "version": 1,
+    "changeset": 108923615,
+    "user": "corrector_91",
+    "uid": 3418742,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "La Vaquería Restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8967848025,
+    "lat": 42.5770515,
+    "lon": 1.667457,
+    "timestamp": "2022-07-07T18:39:40Z",
+    "version": 2,
+    "changeset": 123331913,
+    "user": "svencb",
+    "uid": 1862505,
+    "tags": {
+      "addr:city": "Soldeu",
+      "amenity": "restaurant",
+      "contact:facebook": "https://de-de.facebook.com/tavernaiaiasoldeu/",
+      "email": "latavernadelaia@gmail.com",
+      "name": "La Taverna de la iaia",
+      "phone": "+376 851 321"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8967868970,
+    "lat": 42.5333677,
+    "lon": 1.5798894,
+    "timestamp": "2021-07-31T09:56:38Z",
+    "version": 1,
+    "changeset": 108924988,
+    "user": "corrector_91",
+    "uid": 3418742,
+    "tags": {
+      "addr:housenumber": "35B",
+      "addr:street": "Avinguda de Joan Martí",
+      "amenity": "restaurant",
+      "cuisine": "portuguese",
+      "name": "El Racó del Garrí"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8967894638,
+    "lat": 42.5079255,
+    "lon": 1.5223271,
+    "timestamp": "2024-04-20T19:31:16Z",
+    "version": 2,
+    "changeset": 150277959,
+    "user": "cEvLGWiQ",
+    "uid": 5432507,
+    "tags": {
+      "addr:housenumber": "4",
+      "addr:street": "Cap del Carrer",
+      "amenity": "restaurant",
+      "name": "El Faisà",
+      "phone": "+376 823 283"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8967907448,
+    "lat": 42.5084376,
+    "lon": 1.535704,
+    "timestamp": "2021-07-31T10:05:44Z",
+    "version": 1,
+    "changeset": 108926156,
+    "user": "corrector_91",
+    "uid": 3418742,
+    "tags": {
+      "addr:housenumber": "107",
+      "addr:street": "Avinguda Carlemany",
+      "amenity": "restaurant",
+      "name": "A Casa Canut",
+      "website": "http://www.acasacanut.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8967965640,
+    "lat": 42.5032567,
+    "lon": 1.5193481,
+    "timestamp": "2021-07-31T10:21:44Z",
+    "version": 1,
+    "changeset": 108928792,
+    "user": "corrector_91",
+    "uid": 3418742,
+    "tags": {
+      "addr:housenumber": "2",
+      "addr:street": "Carretera de la Comella",
+      "amenity": "restaurant",
+      "name": "Borda Estevet"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8968026809,
+    "lat": 42.5072111,
+    "lon": 1.5204319,
+    "timestamp": "2021-07-31T10:35:49Z",
+    "version": 1,
+    "changeset": 108931205,
+    "user": "corrector_91",
+    "uid": 3418742,
+    "tags": {
+      "addr:housenumber": "9",
+      "addr:street": "Carrer Antic Carrer Major",
+      "amenity": "restaurant",
+      "name": "Borda Can Andreu (Can Benet)",
+      "website": "http://restaurant-canbenet.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8968030866,
+    "lat": 42.5081476,
+    "lon": 1.5224995,
+    "timestamp": "2021-07-31T10:42:46Z",
+    "version": 1,
+    "changeset": 108932055,
+    "user": "corrector_91",
+    "uid": 3418742,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Eximi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8968030867,
+    "lat": 42.5081228,
+    "lon": 1.522165,
+    "timestamp": "2021-07-31T10:42:46Z",
+    "version": 1,
+    "changeset": 108932055,
+    "user": "corrector_91",
+    "uid": 3418742,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurante El Crosto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8968106640,
+    "lat": 42.5088551,
+    "lon": 1.5292435,
+    "timestamp": "2023-04-11T14:04:16Z",
+    "version": 2,
+    "changeset": 134776088,
+    "user": "LudovicG",
+    "uid": 209796,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "crepe",
+      "name": "Creperia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8968123178,
+    "lat": 42.5069232,
+    "lon": 1.5254794,
+    "timestamp": "2021-07-31T10:56:32Z",
+    "version": 1,
+    "changeset": 108934021,
+    "user": "corrector_91",
+    "uid": 3418742,
+    "tags": {
+      "addr:housenumber": "29",
+      "addr:street": "Carrer Prat de la Creu",
+      "amenity": "restaurant",
+      "name": "Kökosnøt",
+      "website": "https://sites.google.com/view/restaurantkokokosnot"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9203234124,
+    "lat": 42.5041605,
+    "lon": 1.515337,
+    "timestamp": "2021-10-26T20:05:43Z",
+    "version": 1,
+    "changeset": 113009008,
+    "user": "Toni Serra",
+    "uid": 3859465,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Lycée  omte de Foix. restaurant pédagogique"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9321160317,
+    "lat": 42.5083234,
+    "lon": 1.5334114,
+    "timestamp": "2021-12-08T14:44:37Z",
+    "version": 1,
+    "changeset": 114706466,
+    "user": "Mutantkilla",
+    "uid": 8738892,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "120 Andorra"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9789163717,
+    "lat": 42.5070984,
+    "lon": 1.5212489,
+    "timestamp": "2022-12-10T18:01:42Z",
+    "version": 2,
+    "changeset": 129941153,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "La Casa",
+      "name:ca": "La Casa"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9796519717,
+    "lat": 42.5086091,
+    "lon": 1.5392906,
+    "timestamp": "2022-08-05T16:58:23Z",
+    "version": 2,
+    "changeset": 124532317,
+    "user": "vincent_95",
+    "uid": 49047,
+    "tags": {
+      "addr:street": "Avinguda Carlemany",
+      "amenity": "restaurant",
+      "cuisine": "mexican",
+      "name": "Cielito Lindo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9812543331,
+    "lat": 42.566278,
+    "lon": 1.5985937,
+    "timestamp": "2022-11-28T00:38:53Z",
+    "version": 2,
+    "changeset": 129452709,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "El Solà",
+      "name:ca": "El Solà",
+      "outdoor_seating": "yes",
+      "toilets": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9812543332,
+    "lat": 42.5657479,
+    "lon": 1.5976543,
+    "timestamp": "2022-06-12T15:07:15Z",
+    "version": 1,
+    "changeset": 122285480,
+    "user": "hecktor",
+    "uid": 465052,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "Pizzeria Arlequi",
+      "outdoor_seating": "yes",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9812543335,
+    "lat": 42.5658651,
+    "lon": 1.5970826,
+    "timestamp": "2022-06-12T15:07:15Z",
+    "version": 1,
+    "changeset": 122285480,
+    "user": "hecktor",
+    "uid": 465052,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "Cal Lulu"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9812543339,
+    "lat": 42.5659233,
+    "lon": 1.5981064,
+    "timestamp": "2022-06-12T15:07:15Z",
+    "version": 1,
+    "changeset": 122285480,
+    "user": "hecktor",
+    "uid": 465052,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "italian",
+      "name": "La Taula Dels Amies",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9955137271,
+    "lat": 42.566321,
+    "lon": 1.6003079,
+    "timestamp": "2022-11-21T00:35:18Z",
+    "version": 2,
+    "changeset": 129173960,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Cal Bonavida",
+      "name:ca": "Cal Bonavida",
+      "website": "https://www.hotelbonavida.com/en/cal-bonavida-restaurant-andorra"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9983551517,
+    "lat": 42.5083777,
+    "lon": 1.5337417,
+    "timestamp": "2022-08-28T15:03:01Z",
+    "version": 1,
+    "changeset": 125481742,
+    "user": "aseques",
+    "uid": 140745,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Cafetería Maritxell"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9983551617,
+    "lat": 42.5083903,
+    "lon": 1.5338371,
+    "timestamp": "2022-08-28T15:03:02Z",
+    "version": 1,
+    "changeset": 125481742,
+    "user": "aseques",
+    "uid": 140745,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "L'Escapada"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10089755318,
+    "lat": 42.6191497,
+    "lon": 1.5393341,
+    "timestamp": "2022-10-10T13:46:24Z",
+    "version": 1,
+    "changeset": 127305169,
+    "user": "JoelMorella",
+    "uid": 4698069,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "El Pradet"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10090390117,
+    "lat": 42.5069331,
+    "lon": 1.5289305,
+    "timestamp": "2022-10-10T19:09:30Z",
+    "version": 1,
+    "changeset": 127320000,
+    "user": "JoelMorella",
+    "uid": 4698069,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Diner Kebab Andorra"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10728289546,
+    "lat": 42.508069,
+    "lon": 1.5342896,
+    "timestamp": "2023-03-11T19:50:21Z",
+    "version": 1,
+    "changeset": 133565813,
+    "user": "Àlex Magaz",
+    "uid": 118127,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Udon",
+      "opening_hours": "Mo-Su 12:00-23:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10728500782,
+    "lat": 42.508611,
+    "lon": 1.5391887,
+    "timestamp": "2023-03-11T22:08:42Z",
+    "version": 1,
+    "changeset": 133568919,
+    "user": "Àlex Magaz",
+    "uid": 118127,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Cielito lindo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11071058816,
+    "lat": 42.5052909,
+    "lon": 1.5199082,
+    "timestamp": "2023-07-27T11:20:55Z",
+    "version": 1,
+    "changeset": 139081311,
+    "user": "coloresworld",
+    "uid": 10946106,
+    "tags": {
+      "amenity": "restaurant",
+      "name:es": "racó d'en Josep"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11071058909,
+    "lat": 42.5078758,
+    "lon": 1.5288639,
+    "timestamp": "2023-07-27T11:20:54Z",
+    "version": 1,
+    "changeset": 139081311,
+    "user": "coloresworld",
+    "uid": 10946106,
+    "tags": {
+      "amenity": "restaurant",
+      "name:es": "K l'irina"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11071058910,
+    "lat": 42.5081084,
+    "lon": 1.5251654,
+    "timestamp": "2023-07-27T11:20:54Z",
+    "version": 1,
+    "changeset": 139081311,
+    "user": "coloresworld",
+    "uid": 10946106,
+    "tags": {
+      "amenity": "restaurant",
+      "name:es": "Mama Maria"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11071059015,
+    "lat": 42.5444505,
+    "lon": 1.4783957,
+    "timestamp": "2023-07-27T11:21:04Z",
+    "version": 1,
+    "changeset": 139081311,
+    "user": "coloresworld",
+    "uid": 10946106,
+    "tags": {
+      "amenity": "restaurant",
+      "name:es": "Lydia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11071059017,
+    "lat": 42.5355298,
+    "lon": 1.5821461,
+    "timestamp": "2023-07-27T11:21:08Z",
+    "version": 1,
+    "changeset": 139081311,
+    "user": "coloresworld",
+    "uid": 10946106,
+    "tags": {
+      "amenity": "restaurant",
+      "name:es": "Borda Major"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11071059119,
+    "lat": 42.5364077,
+    "lon": 1.5828667,
+    "timestamp": "2023-07-27T11:21:09Z",
+    "version": 1,
+    "changeset": 139081311,
+    "user": "coloresworld",
+    "uid": 10946106,
+    "tags": {
+      "amenity": "restaurant",
+      "name:es": "Caliu d'en Josep"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11071059207,
+    "lat": 42.5347086,
+    "lon": 1.5784006,
+    "timestamp": "2023-08-21T17:30:04Z",
+    "version": 2,
+    "changeset": 140193359,
+    "user": "juhanjuku",
+    "uid": 152305,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "spanish",
+      "name": "Borda Vella",
+      "name:es": "Borda Vella",
+      "opening_hours": "We-Sa 13:00-15:00; We-Sa 20:00-22:00",
+      "website": "https://www.bordavella.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11071059407,
+    "lat": 42.5618229,
+    "lon": 1.4964567,
+    "timestamp": "2023-07-27T11:21:06Z",
+    "version": 1,
+    "changeset": 139081311,
+    "user": "coloresworld",
+    "uid": 10946106,
+    "tags": {
+      "amenity": "restaurant",
+      "name:es": "Borda de Erts"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11152560354,
+    "lat": 42.5067261,
+    "lon": 1.5285558,
+    "timestamp": "2023-08-29T09:20:05Z",
+    "version": 1,
+    "changeset": 140530902,
+    "user": "juhanjuku",
+    "uid": 152305,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "MiraKbe"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11152629506,
+    "lat": 42.5064324,
+    "lon": 1.5295465,
+    "timestamp": "2023-08-29T09:38:05Z",
+    "version": 1,
+    "changeset": 140531898,
+    "user": "juhanjuku",
+    "uid": 152305,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant La Terreta"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11152629507,
+    "lat": 42.505871,
+    "lon": 1.5262335,
+    "timestamp": "2023-08-29T09:38:05Z",
+    "version": 1,
+    "changeset": 140531898,
+    "user": "juhanjuku",
+    "uid": 152305,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "La Petite Foret"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11169346937,
+    "lat": 42.5661996,
+    "lon": 1.5985946,
+    "timestamp": "2023-09-05T10:20:33Z",
+    "version": 1,
+    "changeset": 140842965,
+    "user": "JoelMorella",
+    "uid": 4698069,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "El Sola"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11193141838,
+    "lat": 42.5081097,
+    "lon": 1.5291045,
+    "timestamp": "2023-09-15T11:22:02Z",
+    "version": 1,
+    "changeset": 141298373,
+    "user": "BernatCAT",
+    "uid": 20256572,
+    "tags": {
+      "addr:housenumber": "7",
+      "addr:postcode": "500",
+      "addr:street": "Carrer Bonaventura Armengol",
+      "amenity": "restaurant",
+      "cuisine": "italian;italian_pizza",
+      "name:en": "Quarantuno Pizzeria",
+      "opening_hours": "Su-Fr 13:00-15:30, 20:00-22:30",
+      "phone": "+376 824 171",
+      "website": "https://www.quarantunopizzeria.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11295450129,
+    "lat": 42.5299388,
+    "lon": 1.6958642,
+    "timestamp": "2023-10-28T12:50:15Z",
+    "version": 1,
+    "changeset": 143260217,
+    "user": "Barretina",
+    "uid": 545136,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11461793016,
+    "lat": 42.5429526,
+    "lon": 1.7342372,
+    "timestamp": "2023-12-28T07:06:20Z",
+    "version": 1,
+    "changeset": 145604161,
+    "user": "Robot8A",
+    "uid": 393359,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date": "2023-12-28",
+      "name": "De Les Neus",
+      "stars": "2",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11724679369,
+    "lat": 42.5093165,
+    "lon": 1.5409544,
+    "timestamp": "2024-03-12T13:57:40Z",
+    "version": 1,
+    "changeset": 148551347,
+    "user": "Dizziness2430",
+    "uid": 17462053,
+    "tags": {
+      "addr:housenumber": "14",
+      "addr:street": "Carrer Santa Anna",
+      "amenity": "restaurant",
+      "cuisine": "mediterranean",
+      "name": "Odetti Bistro"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11897249434,
+    "lat": 42.5719384,
+    "lon": 1.4844377,
+    "timestamp": "2024-05-11T18:08:46Z",
+    "version": 1,
+    "changeset": 151197707,
+    "user": "bridgeburner",
+    "uid": 54265,
+    "tags": {
+      "addr:city": "Arinsal",
+      "addr:country": "AD",
+      "addr:housenumber": "15",
+      "addr:postcode": "AD400",
+      "addr:street": "Carretera d'Arinsal",
+      "amenity": "restaurant",
+      "contact:phone": "+376 631 785",
+      "contact:website": "https://www.instagram.com/californiagrill.and/",
+      "cuisine": "mexican",
+      "name": "California Grill"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12460387603,
+    "lat": 42.5747936,
+    "lon": 1.4814534,
+    "timestamp": "2024-12-29T07:07:38Z",
+    "version": 1,
+    "changeset": 160739120,
+    "user": "EdgarOtero",
+    "uid": 20937778,
+    "tags": {
+      "addr:street": "Camil Veinal",
+      "amenity": "restaurant",
+      "cuisine": "spanish",
+      "name": "l’Hort de Casa"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12625890636,
+    "lat": 42.5452928,
+    "lon": 1.5163075,
+    "timestamp": "2025-02-28T15:33:24Z",
+    "version": 1,
+    "changeset": 163057505,
+    "user": "FranAndorra",
+    "uid": 552845,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "pizza;mexican;argentinian",
+      "name": "Mon Bohemi",
+      "website": "https://monbohemi.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12740964976,
+    "lat": 42.5058131,
+    "lon": 1.5201637,
+    "timestamp": "2025-04-09T08:26:24Z",
+    "version": 1,
+    "changeset": 164712052,
+    "user": "apicallo",
+    "uid": 22727948,
+    "tags": {
+      "addr:city": "Andorra la Vella",
+      "addr:housenumber": "88",
+      "addr:postcode": "AD500",
+      "addr:street": "Carrer Prat de la Creu",
+      "amenity": "restaurant",
+      "cuisine": "suiza;andorrana;de_montaña",
+      "name": "La Fonclette Andorra la Vella",
+      "phone": "+376 874 444",
+      "website": "https://www.portalrest.com/index.html?data==ATPrNXYmETPtZSMyQDOzITP0NXZSRWa",
+      "website:menu": "https://suiteshotel.online/es/la-fonclette/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12740973815,
+    "lat": 42.5656508,
+    "lon": 1.5974534,
+    "timestamp": "2025-04-09T08:28:50Z",
+    "version": 1,
+    "changeset": 164712127,
+    "user": "apicallo",
+    "uid": 22727948,
+    "tags": {
+      "addr:city": "Canillo",
+      "addr:housenumber": "18",
+      "addr:postcode": "AD100",
+      "addr:street": "CG-2 - Avinguda Sant Joan de Caselles",
+      "amenity": "restaurant",
+      "cuisine": "suiza;andorrana;de_montaña",
+      "name": "La Fonclette Canillo",
+      "phone": "+376 739 444",
+      "website": "https://www.portalrest.com/index.html?data==ATPrNXYmETPtZiMzQDOzITP0NXZSRWa",
+      "website:menu": "https://hotelskiplaza.online/es/fonclette/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12740978296,
+    "lat": 42.5068523,
+    "lon": 1.5324401,
+    "timestamp": "2025-04-09T08:31:53Z",
+    "version": 1,
+    "changeset": 164712232,
+    "user": "apicallo",
+    "uid": 22727948,
+    "tags": {
+      "addr:city": "Andorra la Vella",
+      "addr:housenumber": "19",
+      "addr:postcode": "AD500",
+      "addr:street": "Carrer Maria Plà",
+      "amenity": "restaurant",
+      "name": "Restaurant Instants",
+      "phone": "+376 879 404",
+      "website": "https://instants.restaurant/es/",
+      "website:menu": "https://instants.restaurant/es/carta-restaurant/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12740979792,
+    "lat": 42.5069037,
+    "lon": 1.5325152,
+    "timestamp": "2025-04-09T08:33:32Z",
+    "version": 1,
+    "changeset": 164712295,
+    "user": "apicallo",
+    "uid": 22727948,
+    "tags": {
+      "addr:city": "Andorra la Vella",
+      "addr:housenumber": "21",
+      "addr:postcode": "AD500",
+      "addr:street": "Carrer Maria Plà",
+      "amenity": "restaurant",
+      "cuisine": "italian",
+      "name": "Restaurant Sottovoce",
+      "phone": "+376 879 444",
+      "website": "https://www.portalrest.com/index.html?data=%3DATPrNXYmETPtZSMzQDOzITP0NXZSRWa",
+      "website:menu": "https://instants.restaurant/es/sottovoce/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12752065540,
+    "lat": 42.5074163,
+    "lon": 1.5209913,
+    "timestamp": "2025-04-23T10:29:40Z",
+    "version": 2,
+    "changeset": 165325961,
+    "user": "b-jazz-bot",
+    "uid": 9451067,
+    "tags": {
+      "addr:city": "Andorra la Vella",
+      "addr:housenumber": "5",
+      "addr:postcode": "AD500",
+      "addr:street": "Av. Príncep Benlloch",
+      "amenity": "restaurant",
+      "cuisine": "japanese;mexican",
+      "name": "Japomex",
+      "phone": "+376 801 801",
+      "website": "https://japomex.com/"
+    }
+  },
+  {
+    "type": "way",
+    "id": 191587690,
+    "timestamp": "2022-11-13T23:41:36Z",
+    "version": 5,
+    "changeset": 128866318,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "center": {
+      "lat": 42.5221856,
+      "lon": 1.572474
+    },
+    "nodes": [
+      2021725979,
+      2021725985,
+      2021725982,
+      2021725971,
+      8707322352,
+      2021725979
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Llac i Cel",
+      "name:ca": "Llac i Cel"
+    }
+  },
+  {
+    "type": "way",
+    "id": 275123411,
+    "timestamp": "2023-08-14T23:17:50Z",
+    "version": 3,
+    "changeset": 139892157,
+    "user": "yopaseopor",
+    "uid": 500572,
+    "center": {
+      "lat": 42.5258805,
+      "lon": 1.71377
+    },
+    "nodes": [
+      2797791854,
+      2797792674,
+      2797792687,
+      2797792701,
+      2797792721,
+      2797792751,
+      2797792765,
+      2797791790,
+      2797791796,
+      2797791820,
+      2797791854
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 293096888,
+    "timestamp": "2024-04-20T19:30:29Z",
+    "version": 6,
+    "changeset": 150277930,
+    "user": "cEvLGWiQ",
+    "uid": 5432507,
+    "center": {
+      "lat": 42.5492877,
+      "lon": 1.5118911
+    },
+    "nodes": [
+      2966536706,
+      2966536707,
+      2966536708,
+      2966536709,
+      2966536710,
+      2966536711,
+      2966536712,
+      6600188534,
+      2966536706
+    ],
+    "tags": {
+      "addr:city": "La Massana",
+      "addr:housenumber": "9",
+      "addr:postcode": "AD400",
+      "addr:street": "Avinguda del Ravell",
+      "amenity": "restaurant",
+      "building": "yes",
+      "capacity": "100",
+      "cuisine": "regional;pizza",
+      "name": "Restaurant del Prat Gran",
+      "name:ca": "Restaurant del Prat Gran",
+      "note": "big terrace, playground inside in a seperate room with video controll, WiFi free",
+      "phone": "+376 836 222",
+      "smoking": "outside",
+      "website": "https://visitandorra.com/es/donde-comer/restaurant-del-prat-gran/",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 293098255,
+    "timestamp": "2024-04-20T19:30:29Z",
+    "version": 3,
+    "changeset": 150277930,
+    "user": "cEvLGWiQ",
+    "uid": 5432507,
+    "center": {
+      "lat": 42.5515333,
+      "lon": 1.5104247
+    },
+    "nodes": [
+      2966549025,
+      2966549026,
+      2966549027,
+      2966549028,
+      2966549025
+    ],
+    "tags": {
+      "addr:postcode": "400",
+      "addr:street": "CG-4 km. 38",
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "la Borda d l’avi",
+      "phone": "+376 835 154",
+      "website": "http://www.restaurantlabordadelavi.com"
+    }
+  },
+  {
+    "type": "way",
+    "id": 293180576,
+    "timestamp": "2022-04-17T09:45:47Z",
+    "version": 2,
+    "changeset": 119809883,
+    "user": "DanielBautista",
+    "uid": 573582,
+    "center": {
+      "lat": 42.5473582,
+      "lon": 1.5221695
+    },
+    "nodes": [
+      2967521397,
+      9671662612,
+      2967521398,
+      2967521399,
+      9671723218,
+      2967521400,
+      9671662613,
+      2967521397
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "regional"
+    }
+  },
+  {
+    "type": "way",
+    "id": 294034380,
+    "timestamp": "2022-05-05T05:11:58Z",
+    "version": 2,
+    "changeset": 120568922,
+    "user": "DanielBautista",
+    "uid": 573582,
+    "center": {
+      "lat": 42.5355647,
+      "lon": 1.521656
+    },
+    "nodes": [
+      2976003502,
+      2976003503,
+      9717119635,
+      2976003504,
+      2976003505,
+      2976003506,
+      9717119634,
+      2976003502
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 305459067,
+    "timestamp": "2022-12-26T22:56:56Z",
+    "version": 4,
+    "changeset": 130533614,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "center": {
+      "lat": 42.5067815,
+      "lon": 1.5250462
+    },
+    "nodes": [
+      3100848589,
+      3100848590,
+      3100848587,
+      9699429087,
+      3100848580,
+      3100848578,
+      3100848575,
+      3100848577,
+      3100848585,
+      3100848589
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "L'Orri",
+      "name:ca": "L'Orri"
+    }
+  },
+  {
+    "type": "way",
+    "id": 311481216,
+    "timestamp": "2025-01-17T18:15:07Z",
+    "version": 5,
+    "changeset": 161466145,
+    "user": "Donut Master 🍩",
+    "uid": 22321183,
+    "center": {
+      "lat": 42.5069326,
+      "lon": 1.5228309
+    },
+    "nodes": [
+      3171462815,
+      3171462817,
+      3171462818,
+      3171462816,
+      3171462815
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "layer": "1",
+      "name": "Bon dia Cafe"
+    }
+  },
+  {
+    "type": "way",
+    "id": 330823782,
+    "timestamp": "2020-02-07T10:18:52Z",
+    "version": 2,
+    "changeset": 80685128,
+    "user": "aseques",
+    "uid": 140745,
+    "center": {
+      "lat": 42.5678161,
+      "lon": 1.602391
+    },
+    "nodes": [
+      3378259409,
+      3378259406,
+      3378259404,
+      3378259402,
+      3378259397,
+      3378259400,
+      3378259408,
+      3378259409
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "swiss",
+      "name": "El molí del peano"
+    }
+  },
+  {
+    "type": "way",
+    "id": 358085292,
+    "timestamp": "2022-12-26T23:00:44Z",
+    "version": 2,
+    "changeset": 130533679,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "center": {
+      "lat": 42.5258674,
+      "lon": 1.6982753
+    },
+    "nodes": [
+      3630978531,
+      3630978532,
+      3630978533,
+      3630978534,
+      3630978531
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "El Piolet",
+      "name:ca": "El Piolet"
+    }
+  },
+  {
+    "type": "way",
+    "id": 360845613,
+    "timestamp": "2022-12-26T22:58:31Z",
+    "version": 2,
+    "changeset": 130533635,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "center": {
+      "lat": 42.5815019,
+      "lon": 1.6390095
+    },
+    "nodes": [
+      3654033985,
+      3654033986,
+      3654033987,
+      3654033988,
+      3654033985
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "El Saler",
+      "name:ca": "El Saler"
+    }
+  },
+  {
+    "type": "way",
+    "id": 360846604,
+    "timestamp": "2015-07-16T11:21:45Z",
+    "version": 1,
+    "changeset": 32671475,
+    "user": "Alaia",
+    "uid": 2778590,
+    "center": {
+      "lat": 42.5792192,
+      "lon": 1.6376035
+    },
+    "nodes": [
+      3654041426,
+      3654041427,
+      3654041428,
+      3654041429,
+      3654041430,
+      3654041431,
+      3654041432,
+      3654041433,
+      3654041426
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Borda De L'Hortó"
+    }
+  },
+  {
+    "type": "way",
+    "id": 361532815,
+    "timestamp": "2022-12-26T23:01:08Z",
+    "version": 4,
+    "changeset": 130533679,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "center": {
+      "lat": 42.5224987,
+      "lon": 1.5718972
+    },
+    "nodes": [
+      3659891034,
+      3659891035,
+      4082749589,
+      3659891036,
+      3659891037,
+      3659891038,
+      3659891034
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "la Dama del Llac",
+      "name:ca": "la Dama del Llac"
+    }
+  },
+  {
+    "type": "way",
+    "id": 365957882,
+    "timestamp": "2025-03-21T10:40:49Z",
+    "version": 4,
+    "changeset": 163899217,
+    "user": "Marek-M",
+    "uid": 598860,
+    "center": {
+      "lat": 42.5793103,
+      "lon": 1.6424836
+    },
+    "nodes": [
+      3699561173,
+      3699561174,
+      3699561175,
+      3699561176,
+      3699561171,
+      3699561173
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "bar_and_grill",
+      "name": "RM",
+      "name:ca": "RM"
+    }
+  },
+  {
+    "type": "way",
+    "id": 381426922,
+    "timestamp": "2017-08-23T00:16:34Z",
+    "version": 2,
+    "changeset": 51359142,
+    "user": "JCATA",
+    "uid": 707986,
+    "center": {
+      "lat": 42.5912343,
+      "lon": 1.6689721
+    },
+    "nodes": [
+      3846276102,
+      3846276100,
+      3846276098,
+      3846276099,
+      3846276102
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Restaurant Font de Ferrosins"
+    }
+  },
+  {
+    "type": "way",
+    "id": 383732966,
+    "timestamp": "2022-12-26T22:58:51Z",
+    "version": 2,
+    "changeset": 130533635,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "center": {
+      "lat": 42.5623212,
+      "lon": 1.5901937
+    },
+    "nodes": [
+      3870463578,
+      3870463574,
+      3870463573,
+      3870463576,
+      3870463575,
+      3870463577,
+      3870463578
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "La Cantina dels Racons",
+      "name:ca": "La Cantina dels Racons"
+    }
+  },
+  {
+    "type": "way",
+    "id": 385230803,
+    "timestamp": "2022-12-26T23:03:01Z",
+    "version": 3,
+    "changeset": 130533743,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "center": {
+      "lat": 42.5252082,
+      "lon": 1.6979854
+    },
+    "nodes": [
+      3885860866,
+      3885860864,
+      3885860868,
+      3885860869,
+      3885860866
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Vodka Bar",
+      "name:ca": "Vodka Bar"
+    }
+  },
+  {
+    "type": "way",
+    "id": 386175624,
+    "timestamp": "2022-12-26T23:06:31Z",
+    "version": 4,
+    "changeset": 130533811,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "center": {
+      "lat": 42.5447621,
+      "lon": 1.4530272
+    },
+    "nodes": [
+      3895031152,
+      3895031146,
+      6643326959,
+      6643326958,
+      6643326956,
+      6643326955,
+      6643326957,
+      3895031154,
+      3895031157,
+      3895031152
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Restaurant Coll de la Botella",
+      "name:ca": "Restaurant Coll de la Botella"
+    }
+  },
+  {
+    "type": "way",
+    "id": 387523518,
+    "timestamp": "2022-12-26T22:58:52Z",
+    "version": 3,
+    "changeset": 130533635,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "center": {
+      "lat": 42.5521116,
+      "lon": 1.5903133
+    },
+    "nodes": [
+      3908115657,
+      3908115663,
+      3908115661,
+      3908115664,
+      3908115657
+    ],
+    "tags": {
+      "addr:city": "Meritxell",
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "la Sangria",
+      "name:ca": "la Sangria"
+    }
+  },
+  {
+    "type": "way",
+    "id": 439892189,
+    "timestamp": "2022-12-26T23:06:14Z",
+    "version": 2,
+    "changeset": 130533811,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "center": {
+      "lat": 42.5334158,
+      "lon": 1.5163523
+    },
+    "nodes": [
+      4375692037,
+      4375692038,
+      4375692043,
+      4375692044,
+      4375692045,
+      4375692039,
+      4375692042,
+      4375692041,
+      4375692040,
+      4375692037
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Molí dels fanals",
+      "name:ca": "Molí dels fanals"
+    }
+  },
+  {
+    "type": "way",
+    "id": 488724548,
+    "timestamp": "2023-11-16T20:16:02Z",
+    "version": 3,
+    "changeset": 144111449,
+    "user": "sanchi",
+    "uid": 170106,
+    "center": {
+      "lat": 42.4746604,
+      "lon": 1.4516194
+    },
+    "nodes": [
+      4810116081,
+      4810116082,
+      4810116083,
+      4810116084,
+      4810116081
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "building:levels": "1",
+      "name": "Restaurant Parador de Canòlich"
+    }
+  },
+  {
+    "type": "way",
+    "id": 518176966,
+    "timestamp": "2017-08-24T05:22:01Z",
+    "version": 1,
+    "changeset": 51394364,
+    "user": "paaast",
+    "uid": 6470,
+    "center": {
+      "lat": 42.5538896,
+      "lon": 1.5902645
+    },
+    "nodes": [
+      5055220754,
+      5055220753,
+      5055220752,
+      5055220751,
+      5055220750,
+      5055220749,
+      5055220754
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "way",
+    "id": 526175490,
+    "timestamp": "2024-04-20T19:31:16Z",
+    "version": 5,
+    "changeset": 150277959,
+    "user": "cEvLGWiQ",
+    "uid": 5432507,
+    "center": {
+      "lat": 42.4952466,
+      "lon": 1.5047461
+    },
+    "nodes": [
+      5117321923,
+      5117321924,
+      5117321925,
+      1870081860,
+      5117321923
+    ],
+    "tags": {
+      "addr:city": "Santa Coloma",
+      "addr:housenumber": "86",
+      "addr:postcode": "500",
+      "addr:street": "Avinguda de Salou",
+      "amenity": "restaurant",
+      "building": "yes",
+      "ele": "972",
+      "email": "bonraco@andorra.ad",
+      "fax": "+376 722 621",
+      "name": "Restaurant El Bon Racó",
+      "name:ca": "Restaurant El Bon Racó",
+      "phone": "+376 721 616"
+    }
+  },
+  {
+    "type": "way",
+    "id": 547219347,
+    "timestamp": "2017-12-16T11:27:59Z",
+    "version": 2,
+    "changeset": 54677134,
+    "user": "MARIUS-FFB",
+    "uid": 4923051,
+    "center": {
+      "lat": 42.47736,
+      "lon": 1.4727093
+    },
+    "nodes": [
+      5287369757,
+      5287369758,
+      5287369759,
+      5287369760,
+      5287369757
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Borda de l' Arena"
+    }
+  },
+  {
+    "type": "way",
+    "id": 547224463,
+    "timestamp": "2022-12-26T23:09:30Z",
+    "version": 2,
+    "changeset": 130533858,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "center": {
+      "lat": 42.4757518,
+      "lon": 1.4873728
+    },
+    "nodes": [
+      5287409290,
+      5287409291,
+      5287409292,
+      5287409293,
+      5287409290
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Delgado",
+      "name:ca": "Delgado"
+    }
+  },
+  {
+    "type": "way",
+    "id": 547225364,
+    "timestamp": "2017-12-16T12:38:10Z",
+    "version": 2,
+    "changeset": 54678539,
+    "user": "MARIUS-FFB",
+    "uid": 4923051,
+    "center": {
+      "lat": 42.47587,
+      "lon": 1.4879066
+    },
+    "nodes": [
+      5287416703,
+      5287416711,
+      5287416708,
+      5287416706,
+      5287416707,
+      5287416703
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Carmen"
+    }
+  },
+  {
+    "type": "way",
+    "id": 547229113,
+    "timestamp": "2022-11-28T00:39:03Z",
+    "version": 2,
+    "changeset": 129452717,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "center": {
+      "lat": 42.4769808,
+      "lon": 1.4887664
+    },
+    "nodes": [
+      5287447068,
+      5287447069,
+      5287447070,
+      5287447071,
+      5287447072,
+      5287447073,
+      5287447074,
+      5287447075,
+      5287447076,
+      5287447077,
+      5287447068
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "La Quadra",
+      "name:ca": "La Quadra"
+    }
+  },
+  {
+    "type": "way",
+    "id": 761782609,
+    "timestamp": "2021-07-30T19:32:23Z",
+    "version": 2,
+    "changeset": 108907929,
+    "user": "corrector_91",
+    "uid": 3418742,
+    "center": {
+      "lat": 42.5760755,
+      "lon": 1.6678289
+    },
+    "nodes": [
+      8964053318,
+      7117508136,
+      7117508137,
+      7117508138,
+      7117508139,
+      7117508140,
+      8964053318
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Restaurant Sol i Neu Club Hermitage",
+      "website": "https://www.sporthotelsandorra.co.uk/andorra-gastronomy/restaurants/sol-i-neu-club-hermitage-restaurant.html"
+    }
+  },
+  {
+    "type": "way",
+    "id": 761782617,
+    "timestamp": "2024-09-23T10:27:04Z",
+    "version": 3,
+    "changeset": 156988363,
+    "user": "Joan Manel zamora",
+    "uid": 8345192,
+    "center": {
+      "lat": 42.5774594,
+      "lon": 1.6667135
+    },
+    "nodes": [
+      7117508175,
+      12194258091,
+      7117508178,
+      12194258095,
+      7117508179,
+      7117508180,
+      12188422046,
+      7117508175
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 761782618,
+    "timestamp": "2024-09-20T14:42:58Z",
+    "version": 2,
+    "changeset": 156871456,
+    "user": "Joan Manel zamora",
+    "uid": 8345192,
+    "center": {
+      "lat": 42.5772073,
+      "lon": 1.6673569
+    },
+    "nodes": [
+      7117508181,
+      12188422064,
+      7117508182,
+      7117508183,
+      7117508184,
+      7117508181
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 974790592,
+    "timestamp": "2024-04-20T19:30:29Z",
+    "version": 4,
+    "changeset": 150277930,
+    "user": "cEvLGWiQ",
+    "uid": 5432507,
+    "center": {
+      "lat": 42.5450179,
+      "lon": 1.5134338
+    },
+    "nodes": [
+      9020981640,
+      9020981641,
+      9020981642,
+      9020981643,
+      9020981640
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "regional",
+      "name": "La Borda Xica",
+      "name:ca": "La Borda Xica",
+      "opening_hours": "Tu-Su 13:30-15:00, 20:30-22:00",
+      "phone": "+376 837 190"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1236442460,
+    "timestamp": "2024-01-02T22:20:13Z",
+    "version": 1,
+    "changeset": 145816679,
+    "user": "algefaen",
+    "uid": 60456,
+    "center": {
+      "lat": 42.4545016,
+      "lon": 1.4926907
+    },
+    "nodes": [
+      11481021598,
+      11481021597,
+      11481021596,
+      11481021595,
+      11481021594,
+      11481021593,
+      11481021592,
+      11481021591,
+      11481021598
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Vermutería Arrosseria del Poble D'Auvinya"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1286995487,
+    "timestamp": "2024-05-27T07:30:08Z",
+    "version": 1,
+    "changeset": 151883596,
+    "user": "Joan Manel zamora",
+    "uid": 8345192,
+    "center": {
+      "lat": 42.5831009,
+      "lon": 1.6640846
+    },
+    "nodes": [
+      11936511854,
+      11936511855,
+      11936511856,
+      11936511857,
+      11936511858,
+      11936511854
+    ],
+    "tags": {
+      "addr:city": "Incles",
+      "addr:postcode": "AD100",
+      "addr:street": "Camí Pont D'Incles",
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Lamont"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1288987664,
+    "timestamp": "2025-03-21T10:40:49Z",
+    "version": 2,
+    "changeset": 163899217,
+    "user": "Marek-M",
+    "uid": 598860,
+    "center": {
+      "lat": 42.5792924,
+      "lon": 1.6409366
+    },
+    "nodes": [
+      11952544754,
+      11952544755,
+      11952544756,
+      11952544757,
+      11952544758,
+      11952544754
+    ],
+    "tags": {
+      "addr:city": "El Tarter",
+      "addr:postcode": "AD100",
+      "addr:street": "CG-2",
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "bar_and_grill",
+      "name": "The Boss",
+      "name:ca": "The Boss"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1302899066,
+    "timestamp": "2024-07-21T17:17:33Z",
+    "version": 1,
+    "changeset": 154229087,
+    "user": "Joan Manel zamora",
+    "uid": 8345192,
+    "center": {
+      "lat": 42.5596911,
+      "lon": 1.685828
+    },
+    "nodes": [
+      12066592728,
+      12066592729,
+      12066592730,
+      12066592731,
+      12066592728
+    ],
+    "tags": {
+      "addr:city": "les Bordes d'Envalira",
+      "addr:place": "CG-2 Bordes d'Envalira",
+      "addr:postcode": "AD100",
+      "amenity": "restaurant",
+      "building": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1304457696,
+    "timestamp": "2024-07-29T14:00:46Z",
+    "version": 1,
+    "changeset": 154564626,
+    "user": "Joan Manel zamora",
+    "uid": 8345192,
+    "center": {
+      "lat": 42.462732,
+      "lon": 1.5025302
+    },
+    "nodes": [
+      12080215165,
+      12080215166,
+      12080215167,
+      12080215168,
+      12080215169,
+      12080215170,
+      12080215171,
+      12080215172,
+      12080215165
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1305200230,
+    "timestamp": "2024-08-02T08:26:14Z",
+    "version": 1,
+    "changeset": 154724221,
+    "user": "Joan Manel zamora",
+    "uid": 8345192,
+    "center": {
+      "lat": 42.465835,
+      "lon": 1.4951236
+    },
+    "nodes": [
+      12088573285,
+      12088573286,
+      12088573287,
+      12088573288,
+      12088573285
+    ],
+    "tags": {
+      "addr:postcode": "AD600",
+      "amenity": "restaurant",
+      "building": "house"
+    }
+  }
+]

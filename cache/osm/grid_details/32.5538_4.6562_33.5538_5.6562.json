@@ -1,0 +1,35 @@
+[
+  {
+    "type": "way",
+    "id": 1171676649,
+    "timestamp": "2023-05-11T15:53:05Z",
+    "version": 1,
+    "changeset": 135983863,
+    "user": "Superadlen",
+    "uid": 1922193,
+    "center": {
+      "lat": 32.617362,
+      "lon": 5.5137051
+    },
+    "nodes": [
+      10887117105,
+      10887116168,
+      4574452594,
+      10887117430,
+      10887116841,
+      10887117050,
+      10887118638,
+      10887116130,
+      10887117105
+    ],
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "مقهى ومطعم بخالد",
+      "name:ar": "مقهى ومطعم بخالد",
+      "name:fr": "Khaled",
+      "source": "FB: Algerie Mapper Team : (Superadlen)"
+    }
+  }
+]

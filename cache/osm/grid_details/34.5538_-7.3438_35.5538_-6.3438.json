@@ -1,0 +1,32 @@
+[
+  {
+    "type": "node",
+    "id": 1290626522,
+    "lat": 34.644684,
+    "lon": -6.4077755,
+    "timestamp": "2024-01-16T07:11:17Z",
+    "version": 4,
+    "changeset": 146310196,
+    "user": "Langenb1",
+    "uid": 20134577,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Aire de service M'Nasra"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1290626533,
+    "lat": 34.6442242,
+    "lon": -6.4060539,
+    "timestamp": "2013-12-12T06:45:05Z",
+    "version": 3,
+    "changeset": 19406569,
+    "user": "alain2003",
+    "uid": 578772,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Aire de service M'Nasra"
+    }
+  }
+]

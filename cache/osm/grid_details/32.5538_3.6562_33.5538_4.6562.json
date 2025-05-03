@@ -1,0 +1,55 @@
+[
+  {
+    "type": "node",
+    "id": 2914563324,
+    "lat": 32.8261737,
+    "lon": 3.7635496,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 5,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:city": "بريان",
+      "addr:city:ar": "بريان",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4977067859,
+    "lat": 32.7891805,
+    "lon": 4.4884961,
+    "timestamp": "2023-07-17T10:33:19Z",
+    "version": 5,
+    "changeset": 138615584,
+    "user": "Gurusraouta",
+    "uid": 18913526,
+    "tags": {
+      "addr:city": "Guerrara",
+      "addr:city:ar": "القرارة",
+      "addr:city:fr": "Guerrara",
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6813177285,
+    "lat": 32.8452208,
+    "lon": 3.7252656,
+    "timestamp": "2020-12-02T23:34:54Z",
+    "version": 3,
+    "changeset": 95181763,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:street": "بريان",
+      "amenity": "restaurant",
+      "name": "مطعم صغير",
+      "name:ar": "مطعم صغير",
+      "name:fr": "Restaurant Seghir"
+    }
+  }
+]

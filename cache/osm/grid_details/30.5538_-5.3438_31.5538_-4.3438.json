@@ -1,0 +1,515 @@
+[
+  {
+    "type": "node",
+    "id": 622166228,
+    "lat": 31.4943871,
+    "lon": -5.0855336,
+    "timestamp": "2019-12-30T12:42:20Z",
+    "version": 2,
+    "changeset": 79013634,
+    "user": "mds08011",
+    "uid": 4705962,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "El Korbat"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1140727248,
+    "lat": 31.5098234,
+    "lon": -5.0313106,
+    "timestamp": "2020-11-23T00:44:02Z",
+    "version": 3,
+    "changeset": 94602979,
+    "user": "MustafaQasim",
+    "uid": 9535554,
+    "tags": {
+      "addr:city": "Tinejdad",
+      "addr:street": "Route N10",
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Cafe Restaurant Riad"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1140727257,
+    "lat": 31.5096082,
+    "lon": -5.0321022,
+    "timestamp": "2020-11-23T00:44:02Z",
+    "version": 3,
+    "changeset": 94602979,
+    "user": "MustafaQasim",
+    "uid": 9535554,
+    "tags": {
+      "addr:city": "Tinejdad",
+      "addr:street": "Route N10",
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Terrasse Ferila"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1140754541,
+    "lat": 31.494789,
+    "lon": -5.0972612,
+    "timestamp": "2020-11-23T00:44:02Z",
+    "version": 2,
+    "changeset": 94602979,
+    "user": "MustafaQasim",
+    "uid": 9535554,
+    "tags": {
+      "addr:city": "Tinejdad",
+      "addr:street": "Route N10",
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Cafe Restaurant Itran"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2017052403,
+    "lat": 31.5049912,
+    "lon": -5.046613,
+    "timestamp": "2012-11-16T20:06:33Z",
+    "version": 1,
+    "changeset": 13898387,
+    "user": "staehler",
+    "uid": 118856,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Fatima-Frederic",
+      "tourism": "guest_house"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2017054101,
+    "lat": 31.4999427,
+    "lon": -5.0689526,
+    "timestamp": "2012-11-16T20:07:07Z",
+    "version": 1,
+    "changeset": 13898387,
+    "user": "staehler",
+    "uid": 118856,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Reda",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2257967878,
+    "lat": 31.1156922,
+    "lon": -5.167827,
+    "timestamp": "2013-04-08T11:10:08Z",
+    "version": 1,
+    "changeset": 15653127,
+    "user": "staehler",
+    "uid": 118856,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Bougaffer",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2257967902,
+    "lat": 31.1162857,
+    "lon": -5.1615149,
+    "timestamp": "2013-04-08T11:10:08Z",
+    "version": 1,
+    "changeset": 15653127,
+    "user": "staehler",
+    "uid": 118856,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "L'Oasis"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2257967920,
+    "lat": 31.1155944,
+    "lon": -5.1652838,
+    "timestamp": "2019-11-20T18:45:32Z",
+    "version": 3,
+    "changeset": 77340936,
+    "user": "GertVanLoo",
+    "uid": 1086325,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "internet_access": "wlan",
+      "name": "Hotel Palmiers",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4587367589,
+    "lat": 31.1157604,
+    "lon": -5.1669124,
+    "timestamp": "2017-01-05T08:07:24Z",
+    "version": 2,
+    "changeset": 44917374,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:postcode": "52452",
+      "addr:street": "RN112 alnif",
+      "amenity": "restaurant",
+      "cuisine": "arab;coffee_shop;barbecue;regional",
+      "email": "aydoude70@gmail.com",
+      "internet_access": "wlan",
+      "name": "Étoile du sud",
+      "name:fr": "Étoile du sud",
+      "opening_hours": "Mo-Su 06:00-21:00",
+      "phone": "00212618689779"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5306994621,
+    "lat": 31.1180049,
+    "lon": -5.1702193,
+    "timestamp": "2017-12-27T19:50:13Z",
+    "version": 2,
+    "changeset": 54965724,
+    "user": "Jason Arbour",
+    "uid": 4116976,
+    "tags": {
+      "amenity": "restaurant",
+      "internet_access": "wlan",
+      "name:en": "Cafe Restaurant Venezia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5343584623,
+    "lat": 31.5061355,
+    "lon": -5.0425895,
+    "timestamp": "2018-01-16T19:39:55Z",
+    "version": 1,
+    "changeset": 55503170,
+    "user": "Jaapwhf",
+    "uid": 4497135,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Café Milano"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5344987221,
+    "lat": 30.6713132,
+    "lon": -4.694087,
+    "timestamp": "2020-11-23T00:44:02Z",
+    "version": 2,
+    "changeset": 94602979,
+    "user": "MustafaQasim",
+    "uid": 9535554,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "ايت خباش",
+      "name:ar": "ايت خباش",
+      "name:en": "Ait khbach"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5344987321,
+    "lat": 30.6720217,
+    "lon": -4.6904736,
+    "timestamp": "2020-11-23T00:44:02Z",
+    "version": 2,
+    "changeset": 94602979,
+    "user": "MustafaQasim",
+    "uid": 9535554,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "tea;barbecue;breakfast;diner",
+      "name": "مقهى ايت خباش",
+      "name:ar": "مقهى ايت خباش",
+      "name:en": "RESTAURANT ayt khbach"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6447686286,
+    "lat": 31.5156905,
+    "lon": -4.6042658,
+    "timestamp": "2024-03-15T11:12:16Z",
+    "version": 2,
+    "changeset": 148682590,
+    "user": "94621",
+    "uid": 8225234,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Chez Kiki"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6633232025,
+    "lat": 31.5148897,
+    "lon": -5.0165584,
+    "timestamp": "2019-07-20T13:01:24Z",
+    "version": 1,
+    "changeset": 72460104,
+    "user": "Cyrille37",
+    "uid": 454932,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6815757187,
+    "lat": 31.1157284,
+    "lon": -5.1679653,
+    "timestamp": "2023-01-16T13:47:51Z",
+    "version": 2,
+    "changeset": 131339097,
+    "user": "grelus",
+    "uid": 813385,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "La Gazelle du Sud"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7035782527,
+    "lat": 31.1615428,
+    "lon": -5.2116895,
+    "timestamp": "2019-12-05T12:02:22Z",
+    "version": 1,
+    "changeset": 77992211,
+    "user": "sissou",
+    "uid": 13303,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7035785861,
+    "lat": 31.4957749,
+    "lon": -5.0933609,
+    "timestamp": "2019-12-05T12:01:23Z",
+    "version": 1,
+    "changeset": 77992155,
+    "user": "sissou",
+    "uid": 13303,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Belle vue"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7035789609,
+    "lat": 31.5057706,
+    "lon": -4.4260016,
+    "timestamp": "2019-12-05T12:02:16Z",
+    "version": 1,
+    "changeset": 77992211,
+    "user": "sissou",
+    "uid": 13303,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7035792653,
+    "lat": 31.5436057,
+    "lon": -4.8598003,
+    "timestamp": "2022-01-20T21:05:27Z",
+    "version": 2,
+    "changeset": 116403096,
+    "user": "Yamílo",
+    "uid": 11332999,
+    "tags": {
+      "addr:city": "إستواليل",
+      "addr:city:ar": "إستواليل",
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7035794188,
+    "lat": 31.509108,
+    "lon": -5.0324895,
+    "timestamp": "2019-12-05T12:02:05Z",
+    "version": 1,
+    "changeset": 77992211,
+    "user": "sissou",
+    "uid": 13303,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Barbecue Faisal"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8860574396,
+    "lat": 31.5059477,
+    "lon": -5.0433499,
+    "timestamp": "2021-06-23T15:42:22Z",
+    "version": 1,
+    "changeset": 106847916,
+    "user": "Traktorbek",
+    "uid": 7370308,
+    "tags": {
+      "amenity": "restaurant",
+      "email": "café.o2.ice@gmail.com",
+      "name": "O2",
+      "phone": "+212600619903"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10293434610,
+    "lat": 31.1236543,
+    "lon": -5.1731693,
+    "timestamp": "2022-12-29T15:00:49Z",
+    "version": 1,
+    "changeset": 130650106,
+    "user": "brandisbrandisbrand",
+    "uid": 17092710,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Repos des Nomades"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10298349415,
+    "lat": 31.1164785,
+    "lon": -5.1621007,
+    "timestamp": "2023-01-01T15:30:56Z",
+    "version": 1,
+    "changeset": 130752953,
+    "user": "rriemann",
+    "uid": 2066198,
+    "tags": {
+      "amenity": "restaurant",
+      "internet_access": "wlan",
+      "toilets": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10559481333,
+    "lat": 31.1159011,
+    "lon": -5.1679932,
+    "timestamp": "2023-01-16T13:47:51Z",
+    "version": 1,
+    "changeset": 131339097,
+    "user": "grelus",
+    "uid": 813385,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10559481334,
+    "lat": 31.1156439,
+    "lon": -5.1670262,
+    "timestamp": "2023-01-16T13:47:51Z",
+    "version": 1,
+    "changeset": 131339097,
+    "user": "grelus",
+    "uid": 813385,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11733830068,
+    "lat": 31.5199435,
+    "lon": -4.6141385,
+    "timestamp": "2024-03-15T11:11:47Z",
+    "version": 1,
+    "changeset": 148682572,
+    "user": "94621",
+    "uid": 8225234,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Ikken"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11733861098,
+    "lat": 31.5275133,
+    "lon": -4.4682089,
+    "timestamp": "2024-03-15T11:22:12Z",
+    "version": 1,
+    "changeset": 148682990,
+    "user": "94621",
+    "uid": 8225234,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12253390001,
+    "lat": 31.4801321,
+    "lon": -4.3951506,
+    "timestamp": "2024-10-15T16:42:07Z",
+    "version": 1,
+    "changeset": 157929455,
+    "user": "Körnelius",
+    "uid": 21782111,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Sahara"
+    }
+  },
+  {
+    "type": "way",
+    "id": 216454804,
+    "timestamp": "2022-12-20T21:20:10Z",
+    "version": 4,
+    "changeset": 130306476,
+    "user": "Lutz",
+    "uid": 121460,
+    "center": {
+      "lat": 31.0283716,
+      "lon": -5.2661364
+    },
+    "nodes": [
+      2257970449,
+      2257970366,
+      2257970367,
+      2257970363,
+      2257970365,
+      2257970368,
+      2257970369,
+      2257970383,
+      2257970382,
+      2257970450,
+      2257970449
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Kasbah Meteorites",
+      "tourism": "hotel"
+    }
+  }
+]

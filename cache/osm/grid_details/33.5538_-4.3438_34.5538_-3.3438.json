@@ -1,0 +1,292 @@
+[
+  {
+    "type": "node",
+    "id": 548875112,
+    "lat": 34.1459863,
+    "lon": -4.0105932,
+    "timestamp": "2009-10-31T15:42:17Z",
+    "version": 1,
+    "changeset": 2998298,
+    "user": "PhQ",
+    "uid": 141978,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1698212168,
+    "lat": 34.2237502,
+    "lon": -4.0084014,
+    "timestamp": "2012-03-30T22:20:16Z",
+    "version": 2,
+    "changeset": 11160762,
+    "user": "Rumpeltux",
+    "uid": 23451,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "Les Deux Rives"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2576500827,
+    "lat": 34.3098774,
+    "lon": -3.747063,
+    "timestamp": "2013-12-12T00:51:29Z",
+    "version": 1,
+    "changeset": 19405037,
+    "user": "alain2003",
+    "uid": 578772,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2576500927,
+    "lat": 34.3085968,
+    "lon": -3.747857,
+    "timestamp": "2013-12-12T00:51:31Z",
+    "version": 1,
+    "changeset": 19405037,
+    "user": "alain2003",
+    "uid": 578772,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3618055153,
+    "lat": 34.2265319,
+    "lon": -3.3507663,
+    "timestamp": "2021-08-21T20:55:50Z",
+    "version": 4,
+    "changeset": 110041956,
+    "user": "Yamílo",
+    "uid": 11332999,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant de France مطعم فرنسا",
+      "name:ar": "مطعم فرنسا",
+      "name:es": "Restaurante de Francia",
+      "name:fr": "Restaurant de France"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5003590619,
+    "lat": 34.2143999,
+    "lon": -4.0091792,
+    "timestamp": "2017-07-30T18:01:47Z",
+    "version": 1,
+    "changeset": 50699526,
+    "user": "osm10005",
+    "uid": 4816089,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant Paradise Moumou",
+      "phone": "+212 535 671 111"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5003611304,
+    "lat": 34.2231098,
+    "lon": -4.0114181,
+    "timestamp": "2022-01-05T20:10:47Z",
+    "version": 2,
+    "changeset": 115811229,
+    "user": "Yamílo",
+    "uid": 11332999,
+    "tags": {
+      "addr:city": "Taza تازة",
+      "addr:city:ar": "تازة",
+      "addr:city:es": "Taza",
+      "addr:street": "Avenue Sidi Mohamed شارع سيدي محمد",
+      "addr:street:ar": "شارع سيدي محمد",
+      "addr:street:es": "Avenida Sidi Mohamed",
+      "amenity": "restaurant",
+      "name": "Restaurant Ramsis مطعم رمسيس",
+      "name:ar": "مطعم رمسيس",
+      "name:es": "Restaurante Ramsés",
+      "name:fr": "Restaurant Ramsis",
+      "phone": "+212 535 281 112"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5208312269,
+    "lat": 34.2247624,
+    "lon": -3.347444,
+    "timestamp": "2017-11-03T13:03:36Z",
+    "version": 1,
+    "changeset": 53478653,
+    "user": "CRCulver",
+    "uid": 340741,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Sindibad",
+      "outdoor_seating": "yes",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5208312282,
+    "lat": 34.2249598,
+    "lon": -3.3468743,
+    "timestamp": "2017-11-03T13:03:36Z",
+    "version": 1,
+    "changeset": 53478653,
+    "user": "CRCulver",
+    "uid": 340741,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "El ikhwa Kassi",
+      "outdoor_seating": "yes",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5208839769,
+    "lat": 34.2263446,
+    "lon": -3.346544,
+    "timestamp": "2017-11-03T17:25:14Z",
+    "version": 1,
+    "changeset": 53484709,
+    "user": "CRCulver",
+    "uid": 340741,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "Barça Palace",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5208839772,
+    "lat": 34.2265166,
+    "lon": -3.3509838,
+    "timestamp": "2017-11-03T22:38:25Z",
+    "version": 2,
+    "changeset": 53491535,
+    "user": "CRCulver",
+    "uid": 340741,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant Agadir"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6749240295,
+    "lat": 34.2303445,
+    "lon": -4.0090017,
+    "timestamp": "2019-08-27T08:25:15Z",
+    "version": 1,
+    "changeset": 73784163,
+    "user": "ghayout",
+    "uid": 8778633,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Youssef"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6780739086,
+    "lat": 34.2135177,
+    "lon": -4.0108246,
+    "timestamp": "2019-09-08T12:14:20Z",
+    "version": 1,
+    "changeset": 74225273,
+    "user": "Melanie Can",
+    "uid": 10074128,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Time 2"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10059508118,
+    "lat": 34.2314612,
+    "lon": -4.0088288,
+    "timestamp": "2022-09-28T20:00:52Z",
+    "version": 1,
+    "changeset": 126754144,
+    "user": "jdelee1",
+    "uid": 9527951,
+    "tags": {
+      "amenity": "restaurant",
+      "name:en": "Nour"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10929112616,
+    "lat": 34.2244861,
+    "lon": -4.0069623,
+    "timestamp": "2023-05-26T13:14:30Z",
+    "version": 1,
+    "changeset": 136587620,
+    "user": "KvB Cycles",
+    "uid": 10186492,
+    "tags": {
+      "amenity": "restaurant",
+      "description": "Moroccan restaurant",
+      "name": "Le palais des goûts"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11115030905,
+    "lat": 34.146645,
+    "lon": -4.0104882,
+    "timestamp": "2023-08-14T20:10:00Z",
+    "version": 1,
+    "changeset": 139887737,
+    "user": "RE3EL",
+    "uid": 13913242,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Ras Elma"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11286206169,
+    "lat": 34.213655,
+    "lon": -4.0185821,
+    "timestamp": "2023-10-24T12:56:08Z",
+    "version": 1,
+    "changeset": 143063955,
+    "user": "Alexski52",
+    "uid": 10134238,
+    "tags": {
+      "amenity": "restaurant",
+      "name:fr": "La vue"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11991795419,
+    "lat": 34.1623206,
+    "lon": -4.320483,
+    "timestamp": "2024-06-19T10:41:06Z",
+    "version": 1,
+    "changeset": 152889573,
+    "user": "LuisAmaral",
+    "uid": 9588555,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "sandwich",
+      "name": "Grillé Jawehara"
+    }
+  }
+]

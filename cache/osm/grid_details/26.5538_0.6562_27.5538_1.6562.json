@@ -1,0 +1,115 @@
+[
+  {
+    "type": "node",
+    "id": 3005886576,
+    "lat": 26.9767942,
+    "lon": 1.08179,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 5,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3005903564,
+    "lat": 26.9719233,
+    "lon": 1.0795048,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 6,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3006114340,
+    "lat": 26.9592813,
+    "lon": 1.0882218,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 4,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:city": "أولف",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3017946628,
+    "lat": 26.9756468,
+    "lon": 1.0798717,
+    "timestamp": "2018-06-13T17:53:14Z",
+    "version": 4,
+    "changeset": 59818370,
+    "user": "ButterflyOfFire_",
+    "uid": 2842609,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Mahmoud"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3074107779,
+    "lat": 26.9760768,
+    "lon": 1.0796887,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 6,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "مطعم التحدي",
+      "name:ar": "مطعم التحدي",
+      "name:fr": "Tahadi"
+    }
+  },
+  {
+    "type": "way",
+    "id": 833171974,
+    "timestamp": "2020-12-30T00:17:20Z",
+    "version": 3,
+    "changeset": 96630043,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "center": {
+      "lat": 26.9673378,
+      "lon": 1.0764252
+    },
+    "nodes": [
+      7777794585,
+      7777783982,
+      7777783983,
+      7777783984,
+      7777794585
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "قاعة متعددة الخدمات قصبة بلال",
+      "name:ar": "قاعة متعددة الخدمات قصبة بلال",
+      "name:fr": "Casbah Bilal"
+    }
+  }
+]

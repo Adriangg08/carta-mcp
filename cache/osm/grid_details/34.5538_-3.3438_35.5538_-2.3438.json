@@ -1,0 +1,1111 @@
+[
+  {
+    "type": "node",
+    "id": 353912070,
+    "lat": 35.2952743,
+    "lon": -2.9414735,
+    "timestamp": "2014-09-04T13:43:53Z",
+    "version": 5,
+    "changeset": 25226167,
+    "user": "ulilu",
+    "uid": 16881,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Bodegas Madrid"
+    }
+  },
+  {
+    "type": "node",
+    "id": 354593945,
+    "lat": 35.2931815,
+    "lon": -2.9358205,
+    "timestamp": "2018-04-15T15:06:43Z",
+    "version": 3,
+    "changeset": 58112191,
+    "user": "MONUMENTA",
+    "uid": 8116557,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Bar Sevilla"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1051282120,
+    "lat": 35.1414739,
+    "lon": -2.4238063,
+    "timestamp": "2010-12-20T10:32:04Z",
+    "version": 1,
+    "changeset": 6714449,
+    "user": "Flairreisen",
+    "uid": 40821,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2576500655,
+    "lat": 34.6165218,
+    "lon": -2.438571,
+    "timestamp": "2014-10-20T08:46:47Z",
+    "version": 2,
+    "changeset": 26206361,
+    "user": "ulilu",
+    "uid": 16881,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2576500736,
+    "lat": 34.6151439,
+    "lon": -2.4398563,
+    "timestamp": "2013-12-12T00:51:27Z",
+    "version": 1,
+    "changeset": 19405037,
+    "user": "alain2003",
+    "uid": 578772,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2717246126,
+    "lat": 34.807741,
+    "lon": -2.4117519,
+    "timestamp": "2014-10-05T09:54:41Z",
+    "version": 2,
+    "changeset": 25872146,
+    "user": "ulilu",
+    "uid": 16881,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant Complexe Riyad 3"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2883908405,
+    "lat": 35.28915,
+    "lon": -2.93598,
+    "timestamp": "2016-02-22T18:16:39Z",
+    "version": 2,
+    "changeset": 37373486,
+    "user": "CarlosMG",
+    "uid": 2163609,
+    "tags": {
+      "addr:city": "Melilla",
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Alvado",
+      "phone": "+34 952675601"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3060769807,
+    "lat": 35.2845787,
+    "lon": -2.9392562,
+    "timestamp": "2016-02-22T18:16:38Z",
+    "version": 3,
+    "changeset": 37373486,
+    "user": "CarlosMG",
+    "uid": 2163609,
+    "tags": {
+      "addr:city": "Melilla",
+      "addr:postcode": "52006",
+      "amenity": "restaurant",
+      "cuisine": "chinese",
+      "name": "Hong Kong"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3062552811,
+    "lat": 35.293747,
+    "lon": -2.9372267,
+    "timestamp": "2021-02-28T15:49:04Z",
+    "version": 6,
+    "changeset": 100143159,
+    "user": "MONUMENTA",
+    "uid": 8116557,
+    "tags": {
+      "addr:housenumber": "5",
+      "addr:postcode": "52001",
+      "addr:street": "Plaza de las Culturas",
+      "amenity": "restaurant",
+      "email": "la_taberna_andaluza@yahoo.es",
+      "name": "La Taberna Andaluza",
+      "opening_hours": "Mo 12:30-16:00; Tu-Sa 12:30-16:00, 20:30-24:00",
+      "phone": "+34 952682946",
+      "website": "http://www.latabernaandaluza.es/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3090527766,
+    "lat": 35.2743455,
+    "lon": -2.9553681,
+    "timestamp": "2019-01-13T09:08:04Z",
+    "version": 2,
+    "changeset": 66268225,
+    "user": "Depsy",
+    "uid": 27577,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "V Pino"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3090963348,
+    "lat": 35.2935965,
+    "lon": -2.9512607,
+    "timestamp": "2014-12-23T17:45:37Z",
+    "version": 2,
+    "changeset": 27655726,
+    "user": "Gontzal",
+    "uid": 2456008,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Bravo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3093743268,
+    "lat": 35.2941799,
+    "lon": -2.9423472,
+    "timestamp": "2014-09-26T14:00:03Z",
+    "version": 2,
+    "changeset": 25686129,
+    "user": "ulilu",
+    "uid": 16881,
+    "tags": {
+      "addr:housenumber": "10",
+      "addr:street": "Calle José Antonio Primo de Rivera",
+      "amenity": "restaurant",
+      "cuisine": "chinese",
+      "name": "El Dragón de Oro"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3094230206,
+    "lat": 35.2906989,
+    "lon": -2.9458501,
+    "timestamp": "2014-09-24T16:47:22Z",
+    "version": 5,
+    "changeset": 25649225,
+    "user": "ulilu",
+    "uid": 16881,
+    "tags": {
+      "addr:housenumber": "5",
+      "addr:postcode": "52003",
+      "addr:street": "Calle de Alférez Guerrero Romero",
+      "amenity": "restaurant",
+      "contact:email": "info@restaurantelaposadadepacobenitez.com",
+      "contact:phone": "+34 (952) 681629",
+      "contact:website": "http://www.restaurantelaposadadepacobenitez.com/",
+      "cuisine": "spanish",
+      "name": "La Posada de Paco Benítez",
+      "operator": "Francisco José Benítez Luque"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3094250023,
+    "lat": 35.2906441,
+    "lon": -2.9455923,
+    "timestamp": "2014-09-24T16:48:07Z",
+    "version": 2,
+    "changeset": 25649225,
+    "user": "ulilu",
+    "uid": 16881,
+    "tags": {
+      "addr:housenumber": "5",
+      "addr:postcode": "52003",
+      "addr:street": "Plaza 1º de Mayo",
+      "amenity": "restaurant",
+      "capacity": "62",
+      "contact:email": "info@restaurantelaposadadepacobenitez.com",
+      "contact:pasi": "detalle-2198",
+      "contact:phone": "+34 (952) 680023",
+      "cuisine": "chinese",
+      "name": "La Casa del Arroz"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4100734419,
+    "lat": 35.2689467,
+    "lon": -2.9295594,
+    "timestamp": "2016-04-05T21:49:16Z",
+    "version": 1,
+    "changeset": 38332938,
+    "user": "alain2003",
+    "uid": 578772,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4100734468,
+    "lat": 35.2697303,
+    "lon": -2.9278137,
+    "timestamp": "2021-12-19T22:49:41Z",
+    "version": 2,
+    "changeset": 115141738,
+    "user": "Yamílo",
+    "uid": 11332999,
+    "tags": {
+      "addr:city": "Beni Enzar بني انصار",
+      "addr:city:ar": "بني انصار",
+      "addr:city:es": "Beni Enzar",
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4482262691,
+    "lat": 35.4369954,
+    "lon": -2.9769749,
+    "timestamp": "2016-11-04T16:56:11Z",
+    "version": 1,
+    "changeset": 43405190,
+    "user": "neocarto",
+    "uid": 1749221,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "fish"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4556127590,
+    "lat": 34.9407982,
+    "lon": -2.7345512,
+    "timestamp": "2016-12-18T15:44:25Z",
+    "version": 2,
+    "changeset": 44494279,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Douya دويا",
+      "name:ar": "دويا",
+      "name:en": "Douya",
+      "name:fr": "Douya"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4569290698,
+    "lat": 35.011822,
+    "lon": -3.0046919,
+    "timestamp": "2016-12-25T12:46:19Z",
+    "version": 2,
+    "changeset": 44661156,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "moroccan",
+      "name": "Berkani",
+      "name:fr": "Berkani"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4685589810,
+    "lat": 35.1468734,
+    "lon": -2.4234178,
+    "timestamp": "2017-02-14T17:30:05Z",
+    "version": 1,
+    "changeset": 46084722,
+    "user": "Annunaki Ikanunna",
+    "uid": 3681236,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "fish",
+      "name": "l'opéra"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4685594029,
+    "lat": 35.1429914,
+    "lon": -2.4244049,
+    "timestamp": "2017-02-14T17:33:27Z",
+    "version": 1,
+    "changeset": 46084722,
+    "user": "Annunaki Ikanunna",
+    "uid": 3681236,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "fish",
+      "name": "Islas"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4724679401,
+    "lat": 35.146161,
+    "lon": -2.425114,
+    "timestamp": "2017-03-08T19:27:13Z",
+    "version": 1,
+    "changeset": 46689712,
+    "user": "Annunaki Ikanunna",
+    "uid": 3681236,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "fish",
+      "name": "Restaurant Al Jabal"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4841617115,
+    "lat": 35.2792329,
+    "lon": -2.9364543,
+    "timestamp": "2025-04-26T10:06:18Z",
+    "version": 2,
+    "changeset": 165457523,
+    "user": "Cuenqui",
+    "uid": 3649461,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurante Miguel Benitez"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4854083325,
+    "lat": 34.806494,
+    "lon": -2.4097316,
+    "timestamp": "2017-05-14T19:09:02Z",
+    "version": 1,
+    "changeset": 48681243,
+    "user": "Rafael Raposo Pires",
+    "uid": 4317402,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4864536342,
+    "lat": 35.1424055,
+    "lon": -2.4241775,
+    "timestamp": "2017-05-19T16:46:59Z",
+    "version": 1,
+    "changeset": 48826497,
+    "user": "Annunaki Ikanunna",
+    "uid": 3681236,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant Rascasse",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5198018615,
+    "lat": 35.1749311,
+    "lon": -2.9225659,
+    "timestamp": "2017-10-29T11:43:41Z",
+    "version": 1,
+    "changeset": 53339492,
+    "user": "CRCulver",
+    "uid": 340741,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "seafood",
+      "name": "Canaria"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5198021231,
+    "lat": 35.1746921,
+    "lon": -2.9223942,
+    "timestamp": "2022-04-20T23:19:22Z",
+    "version": 4,
+    "changeset": 119975615,
+    "user": "Peter Maris",
+    "uid": 15543111,
+    "tags": {
+      "addr:city": "الناظور",
+      "amenity": "restaurant",
+      "internet_access": "no",
+      "name": "Victoria فيكتوريا",
+      "name:ar": "فيكتوريا",
+      "name:es": "Victoria",
+      "name:fr": "Victoria",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5198021238,
+    "lat": 35.1774446,
+    "lon": -2.924891,
+    "timestamp": "2017-10-29T11:43:42Z",
+    "version": 1,
+    "changeset": 53339492,
+    "user": "CRCulver",
+    "uid": 340741,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "ice_cream;pizza",
+      "name": "Milmo",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5200384249,
+    "lat": 35.1724006,
+    "lon": -2.9200954,
+    "timestamp": "2018-02-02T08:03:29Z",
+    "version": 3,
+    "changeset": 55988186,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:city": "الناظور",
+      "amenity": "restaurant",
+      "cuisine": "ice_cream;pizza",
+      "name": "Blanco & Negro بلانكو ونيغرو",
+      "name:ar": "بلانكو ونيغرو",
+      "name:en": "Blanco & Negro",
+      "name:fr": "Blanco & Negro",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5200384252,
+    "lat": 35.1723777,
+    "lon": -2.9270094,
+    "timestamp": "2017-10-30T16:28:15Z",
+    "version": 1,
+    "changeset": 53372030,
+    "user": "CRCulver",
+    "uid": 340741,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Bella Italia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5200384272,
+    "lat": 35.1662091,
+    "lon": -2.9287259,
+    "timestamp": "2017-10-30T16:28:16Z",
+    "version": 1,
+    "changeset": 53372030,
+    "user": "CRCulver",
+    "uid": 340741,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "pizza;seafood;spanish",
+      "internet_access": "wlan",
+      "internet_access:fee": "no",
+      "name": "Norsal",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5200384273,
+    "lat": 35.1724271,
+    "lon": -2.9268788,
+    "timestamp": "2017-10-30T16:28:17Z",
+    "version": 1,
+    "changeset": 53372030,
+    "user": "CRCulver",
+    "uid": 340741,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Gran Canaria"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5207172160,
+    "lat": 35.003568,
+    "lon": -3.0315064,
+    "timestamp": "2017-11-02T20:28:59Z",
+    "version": 1,
+    "changeset": 53462464,
+    "user": "CRCulver",
+    "uid": 340741,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5347880441,
+    "lat": 35.145875,
+    "lon": -2.9214629,
+    "timestamp": "2022-04-21T14:56:10Z",
+    "version": 2,
+    "changeset": 120005079,
+    "user": "Peter Maris",
+    "uid": 15543111,
+    "tags": {
+      "addr:city": "الناظور",
+      "amenity": "restaurant",
+      "name": "روكا نيغرا",
+      "name:ar": "روكا نيغرا",
+      "name:es": "Roca Negra"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5347880442,
+    "lat": 35.1534418,
+    "lon": -2.9193821,
+    "timestamp": "2023-02-26T14:59:43Z",
+    "version": 3,
+    "changeset": 133046305,
+    "user": "Kadubei",
+    "uid": 16642036,
+    "tags": {
+      "addr:city": "الناظور",
+      "amenity": "restaurant",
+      "name": "Plateau d'Or",
+      "name:ar": "الطبق الذهبي",
+      "name:es": "El Plato de Oro",
+      "name:fr": "Plateau d'Or"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5374947715,
+    "lat": 35.2852134,
+    "lon": -2.9398372,
+    "timestamp": "2018-01-31T10:40:43Z",
+    "version": 1,
+    "changeset": 55927555,
+    "user": "kerotido",
+    "uid": 5510201,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Mr. Noodles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6307064785,
+    "lat": 35.2956688,
+    "lon": -2.9413919,
+    "timestamp": "2022-12-10T20:07:50Z",
+    "version": 2,
+    "changeset": 129944892,
+    "user": "elpata33",
+    "uid": 4774483,
+    "tags": {
+      "addr:street": "castelar",
+      "amenity": "restaurant",
+      "name": "Bar Cerveceria Castelar"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8326257115,
+    "lat": 35.1788313,
+    "lon": -2.9277188,
+    "timestamp": "2021-01-16T00:55:15Z",
+    "version": 1,
+    "changeset": 97587907,
+    "user": "Restaurant Marhaba",
+    "uid": 12492669,
+    "tags": {
+      "addr:city": "Nador الناظور",
+      "addr:housenumber": "2",
+      "addr:street": "Rue Ibn Rouchd زنقة ابن رشد",
+      "amenity": "restaurant",
+      "cuisine": "international;fruit_de_mer",
+      "fixme": "restaurant Marhaba",
+      "name": "restaurant Marhaba",
+      "phone": "0536603311"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8462765072,
+    "lat": 35.2929405,
+    "lon": -2.9346301,
+    "timestamp": "2021-02-27T04:31:33Z",
+    "version": 1,
+    "changeset": 100082365,
+    "user": "MONUMENTA",
+    "uid": 8116557,
+    "tags": {
+      "addr:street": "Avenida del General Macias",
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "La Pérgola"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9610664780,
+    "lat": 35.2937663,
+    "lon": -2.9423851,
+    "timestamp": "2022-03-27T11:56:19Z",
+    "version": 1,
+    "changeset": 118977980,
+    "user": "KvB Cycles",
+    "uid": 10186492,
+    "tags": {
+      "addr:housenumber": "24",
+      "addr:street": "Calle General Prim",
+      "amenity": "restaurant",
+      "description": "Delicious set menus",
+      "name": "Mar de Alborán"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9682989325,
+    "lat": 35.1543873,
+    "lon": -2.9112082,
+    "timestamp": "2022-04-21T14:56:10Z",
+    "version": 1,
+    "changeset": 120005079,
+    "user": "Peter Maris",
+    "uid": 15543111,
+    "tags": {
+      "addr:city": "Nador الناظور",
+      "addr:city:ar": "الناظور",
+      "addr:city:es": "Nador",
+      "addr:postcode": "62000",
+      "amenity": "restaurant",
+      "contact:facebook": "https://facebook.com/pages/category/Seafood-Restaurant/Casa-Juanito-Nador-718066638307752",
+      "long_name": "Restaurante Casa Juanito Nador",
+      "long_name:es": "Restaurante Casa Juanito Nador",
+      "name": "Casa Juanito",
+      "name:es": "Casa Juanito",
+      "opening_hours": "12:00-02:00",
+      "phone": "+212536380500"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9682989326,
+    "lat": 35.1546307,
+    "lon": -2.9116856,
+    "timestamp": "2022-04-21T14:56:10Z",
+    "version": 1,
+    "changeset": 120005079,
+    "user": "Peter Maris",
+    "uid": 15543111,
+    "tags": {
+      "addr:city": "Nador الناظور",
+      "addr:city:ar": "الناظور",
+      "addr:city:es": "Nador",
+      "addr:postcode": "62000",
+      "addr:street": "Bulevar Gran Rif",
+      "addr:street:es": "Bulevar Gran Rif",
+      "amenity": "restaurant",
+      "name": "Gran Rif",
+      "name:es": "Gran Rif"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9682989327,
+    "lat": 35.1547053,
+    "lon": -2.9078233,
+    "timestamp": "2022-04-21T14:56:10Z",
+    "version": 1,
+    "changeset": 120005079,
+    "user": "Peter Maris",
+    "uid": 15543111,
+    "tags": {
+      "addr:city": "Nador الناظور",
+      "addr:city:ar": "الناظور",
+      "addr:city:es": "Nador",
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "Café Gran Vía",
+      "name:es": "Café Gran Vía",
+      "phone": "+212536382819"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9740054317,
+    "lat": 35.1427643,
+    "lon": -2.4242921,
+    "timestamp": "2022-05-14T18:26:16Z",
+    "version": 1,
+    "changeset": 120989006,
+    "user": "GUIRAUT",
+    "uid": 5340446,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "fish",
+      "name:fr": "Chez Farid"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9760950354,
+    "lat": 35.2643418,
+    "lon": -2.9338287,
+    "timestamp": "2022-05-22T05:35:25Z",
+    "version": 1,
+    "changeset": 121304540,
+    "user": "KvB Cycles",
+    "uid": 10186492,
+    "tags": {
+      "amenity": "restaurant",
+      "description": "Restaurant with large outdoor area",
+      "name": "Cafe Pizzeria Amira Drems",
+      "opening_hours": "24/7"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9813998117,
+    "lat": 35.4212207,
+    "lon": -2.9614066,
+    "timestamp": "2022-06-13T08:23:32Z",
+    "version": 1,
+    "changeset": 122312745,
+    "user": "Alfonsocayetano",
+    "uid": 6071155,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "restaurant Asaalam"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10012456376,
+    "lat": 35.1681848,
+    "lon": -2.9455103,
+    "timestamp": "2022-09-10T00:39:02Z",
+    "version": 1,
+    "changeset": 125999674,
+    "user": "alain2003",
+    "uid": 578772,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Ice House"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10049250961,
+    "lat": 35.1711372,
+    "lon": -2.9291776,
+    "timestamp": "2022-09-24T14:52:37Z",
+    "version": 1,
+    "changeset": 126584903,
+    "user": "Kadubei",
+    "uid": 16642036,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "chicken",
+      "name": "Los Pollos Hermanos",
+      "name:es": "Los Pollos Hermanos"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10251461596,
+    "lat": 35.2915023,
+    "lon": -2.9536371,
+    "timestamp": "2022-12-10T20:07:50Z",
+    "version": 1,
+    "changeset": 129944892,
+    "user": "elpata33",
+    "uid": 4774483,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Brabo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11299670675,
+    "lat": 35.1528448,
+    "lon": -2.9110183,
+    "timestamp": "2023-10-30T10:47:05Z",
+    "version": 1,
+    "changeset": 143358103,
+    "user": "Restaurant Salpicon",
+    "uid": 20518616,
+    "tags": {
+      "addr:city": "Nador الناظور",
+      "addr:housenumber": "04",
+      "addr:street": "QT ALMATAR RAZAN IMMEUBLE OUCHEN",
+      "amenity": "restaurant",
+      "cuisine": "italian;spanish;fish",
+      "name": "Restaurant Salpicon",
+      "name:en": "Salpicon",
+      "opening_hours": "12-00",
+      "phone": "0536383795",
+      "website": "https://www.instagram.com/RESTAURANT.SALPICON/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11646090769,
+    "lat": 35.2945516,
+    "lon": -2.9408265,
+    "timestamp": "2024-02-20T17:26:25Z",
+    "version": 1,
+    "changeset": 147701412,
+    "user": "Haileyferg",
+    "uid": 18380413,
+    "tags": {
+      "amenity": "restaurant",
+      "name:en": "Rincon Casa Sadia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11907336169,
+    "lat": 35.1729074,
+    "lon": -2.9242705,
+    "timestamp": "2024-05-15T14:56:46Z",
+    "version": 1,
+    "changeset": 151365589,
+    "user": "Éloi Héraut",
+    "uid": 4975832,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant syrien"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11911062342,
+    "lat": 35.1637996,
+    "lon": -2.9085425,
+    "timestamp": "2024-05-17T00:34:18Z",
+    "version": 1,
+    "changeset": 151431480,
+    "user": "Swic",
+    "uid": 2244843,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "L'Artiste"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12518499603,
+    "lat": 35.1731742,
+    "lon": -2.9159568,
+    "timestamp": "2025-01-20T15:49:36Z",
+    "version": 1,
+    "changeset": 161568913,
+    "user": "laxandrea",
+    "uid": 381486,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12518499604,
+    "lat": 35.173354,
+    "lon": -2.9158281,
+    "timestamp": "2025-01-20T15:49:36Z",
+    "version": 1,
+    "changeset": 161568913,
+    "user": "laxandrea",
+    "uid": 381486,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "way",
+    "id": 304837907,
+    "timestamp": "2020-11-19T19:54:06Z",
+    "version": 2,
+    "changeset": 94458338,
+    "user": "MustafaQasim",
+    "uid": 9535554,
+    "center": {
+      "lat": 35.294302,
+      "lon": -2.9571606
+    },
+    "nodes": [
+      3094267778,
+      3094267772,
+      3094267775,
+      3094267773,
+      3094267778
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Celebraciones Al-Cazar"
+    }
+  },
+  {
+    "type": "way",
+    "id": 489079466,
+    "timestamp": "2022-12-10T20:07:50Z",
+    "version": 3,
+    "changeset": 129944892,
+    "user": "elpata33",
+    "uid": 4774483,
+    "center": {
+      "lat": 35.2749309,
+      "lon": -2.9325356
+    },
+    "nodes": [
+      4813584738,
+      4813584739,
+      4813584740,
+      4813584741,
+      4813584742,
+      4813584743,
+      4813584744,
+      4813584745,
+      4813584746,
+      4813584747,
+      4813584748,
+      4813584749,
+      4813584738
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Bambú Lounge & Restaurant"
+    }
+  },
+  {
+    "type": "way",
+    "id": 677750983,
+    "timestamp": "2019-03-18T21:19:47Z",
+    "version": 2,
+    "changeset": 68273258,
+    "user": "Annunaki Ikanunna",
+    "uid": 3681236,
+    "center": {
+      "lat": 35.1425092,
+      "lon": -2.4223362
+    },
+    "nodes": [
+      6345970920,
+      6345970921,
+      6345970922,
+      6345970923,
+      6345970924,
+      6345970925,
+      6345970926,
+      6345970927,
+      6345970920
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "fish_and_chips;pizza",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 815935045,
+    "timestamp": "2020-06-14T18:50:10Z",
+    "version": 1,
+    "changeset": 86632476,
+    "user": "Annunaki Ikanunna",
+    "uid": 3681236,
+    "center": {
+      "lat": 34.938547,
+      "lon": -2.348959
+    },
+    "nodes": [
+      7620434423,
+      7620434424,
+      7620434425,
+      7620434426,
+      7620434427,
+      7620434428,
+      7620434429,
+      7620434430,
+      7620434431,
+      7620434432,
+      7620434433,
+      7620434434,
+      7620434423
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "burger;pizza;coffee_shop;sandwich;french;ice_cream;barbecue",
+      "name": "Jnane berkane"
+    }
+  },
+  {
+    "type": "way",
+    "id": 925738119,
+    "timestamp": "2021-04-03T21:10:26Z",
+    "version": 1,
+    "changeset": 102251481,
+    "user": "Annunaki Ikanunna",
+    "uid": 3681236,
+    "center": {
+      "lat": 35.1322201,
+      "lon": -2.3974018
+    },
+    "nodes": [
+      8591265541,
+      8591265542,
+      8591265543,
+      8591265541
+    ],
+    "tags": {
+      "addr:city": "Ras El Ma رأس الماء",
+      "addr:street": "الطريق الساحلية المتوسطية",
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "seafood",
+      "name": "restaurant bahia"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1216359019,
+    "timestamp": "2025-02-08T14:22:20Z",
+    "version": 2,
+    "changeset": 162281333,
+    "user": "alain2003",
+    "uid": 578772,
+    "center": {
+      "lat": 35.1595819,
+      "lon": -3.0332206
+    },
+    "nodes": [
+      11270605292,
+      11270605293,
+      11270605294,
+      11270605295,
+      11270605296,
+      11270605297,
+      11270605292
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "source": "microsoft/BuildingFootprints"
+    }
+  }
+]

@@ -1,0 +1,873 @@
+[
+  {
+    "type": "node",
+    "id": 2437318980,
+    "lat": 34.6672981,
+    "lon": 3.2498633,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 5,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2439174766,
+    "lat": 34.6542515,
+    "lon": 3.2816791,
+    "timestamp": "2018-06-13T17:52:56Z",
+    "version": 3,
+    "changeset": 59818370,
+    "user": "ButterflyOfFire_",
+    "uid": 2842609,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "المطعم المركزي",
+      "name:ar": "المطعم المركزي",
+      "name:fr": "Restaurant centrale de l'université"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2462415392,
+    "lat": 34.6656522,
+    "lon": 3.2554055,
+    "timestamp": "2018-12-10T12:19:20Z",
+    "version": 6,
+    "changeset": 65342072,
+    "user": "Verdy_p",
+    "uid": 90780,
+    "tags": {
+      "amenity": "restaurant",
+      "capacity": "30",
+      "name": "Lookers Restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2462415393,
+    "lat": 34.6651858,
+    "lon": 3.2516148,
+    "timestamp": "2023-07-16T08:52:29Z",
+    "version": 4,
+    "changeset": 138569816,
+    "user": "alitkan2020",
+    "uid": 19880677,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Restaurant Salah Eddine"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2507197252,
+    "lat": 34.6809479,
+    "lon": 3.2803899,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 6,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "مطعم",
+      "name:ar": "Restaurant مطعم",
+      "name:en": "Restaurant",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2610572723,
+    "lat": 34.669164,
+    "lon": 3.2530301,
+    "timestamp": "2018-06-13T17:52:59Z",
+    "version": 3,
+    "changeset": 59818370,
+    "user": "ButterflyOfFire_",
+    "uid": 2842609,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Al Rayan"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2614294507,
+    "lat": 35.4508539,
+    "lon": 2.9071148,
+    "timestamp": "2018-06-13T17:52:59Z",
+    "version": 4,
+    "changeset": 59818370,
+    "user": "ButterflyOfFire_",
+    "uid": 2842609,
+    "tags": {
+      "addr:city": "Aïn Oussara",
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "cuisine": "chicken",
+      "name": "Alouane"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2614294510,
+    "lat": 35.4507094,
+    "lon": 2.9071031,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 4,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:city": "Aïn Oussara",
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2620151015,
+    "lat": 34.661625,
+    "lon": 3.2629286,
+    "timestamp": "2020-11-16T23:32:20Z",
+    "version": 7,
+    "changeset": 94232449,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:city": "الجلفة",
+      "addr:country": "DZ",
+      "addr:street": "نهج المجاهدين - Boulevard Elmoudjahidin",
+      "amenity": "restaurant",
+      "cuisine": "international",
+      "description": "مطعم مستوى رفيع مقابل ثانوية طهيري عبد الرحمان بحي العقيد محمد شعباني",
+      "name": "مطعم الخيمة",
+      "name:ar": "مطعم الخيمة",
+      "name:en": "El Khaima",
+      "name:fr": "Restaurant Khaima"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2623791805,
+    "lat": 35.4543359,
+    "lon": 2.9040097,
+    "timestamp": "2018-06-13T17:52:59Z",
+    "version": 5,
+    "changeset": 59818370,
+    "user": "ButterflyOfFire_",
+    "uid": 2842609,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Chez Bahi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2625843629,
+    "lat": 35.45102,
+    "lon": 2.907112,
+    "timestamp": "2024-10-28T16:32:52Z",
+    "version": 4,
+    "changeset": 158463888,
+    "user": "Claudius Henrichs",
+    "uid": 18069,
+    "tags": {
+      "addr:city": "Aïn Oussara",
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "cuisine": "algerian",
+      "name": "Paul Cazelles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2625843633,
+    "lat": 35.452709,
+    "lon": 2.9071737,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2628944360,
+    "lat": 35.4546646,
+    "lon": 2.907098,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3390893283,
+    "lat": 34.6514447,
+    "lon": 3.2559502,
+    "timestamp": "2018-06-13T17:53:35Z",
+    "version": 4,
+    "changeset": 59818370,
+    "user": "ButterflyOfFire_",
+    "uid": 2842609,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "capacity": "50",
+      "cuisine": "regional",
+      "name": "Restaurent El Khalil",
+      "opening_hours": "11:00-22:00",
+      "smoking": "outside",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3443907026,
+    "lat": 34.6577023,
+    "lon": 3.2633228,
+    "timestamp": "2020-12-31T00:32:17Z",
+    "version": 5,
+    "changeset": 96696110,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "مأكولات تقليدية",
+      "name:ar": "مأكولات تقليدية",
+      "name:fr": "La cuisine traditionnelle"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4107920689,
+    "lat": 35.4577308,
+    "lon": 2.9013448,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 4,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4108560558,
+    "lat": 35.4536184,
+    "lon": 2.8941741,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 5,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4108924292,
+    "lat": 35.461433,
+    "lon": 2.9071345,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4108924308,
+    "lat": 35.4592379,
+    "lon": 2.9005115,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 4,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4533009289,
+    "lat": 34.6652554,
+    "lon": 3.252237,
+    "timestamp": "2018-06-13T17:54:31Z",
+    "version": 2,
+    "changeset": 59818370,
+    "user": "ButterflyOfFire_",
+    "uid": 2842609,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "شواء دجاج عند سليم",
+      "name:ar": "شواء دجاج عند سليم",
+      "name:fr": "Poulet rôti"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4567359990,
+    "lat": 35.4537079,
+    "lon": 2.9040032,
+    "timestamp": "2018-06-13T17:54:34Z",
+    "version": 3,
+    "changeset": 59818370,
+    "user": "ButterflyOfFire_",
+    "uid": 2842609,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Restauration rapide",
+      "name:ar": "Restauration rapide"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4612242289,
+    "lat": 35.4558279,
+    "lon": 2.9039497,
+    "timestamp": "2023-07-20T11:34:45Z",
+    "version": 5,
+    "changeset": 138760180,
+    "user": "Gurusraouta",
+    "uid": 18913526,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Pizzéria Mahdi",
+      "name:fr": "Pizzéria Mahdi",
+      "phone": "0550 03 48 97"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4620395993,
+    "lat": 35.4505899,
+    "lon": 2.9071048,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 4,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:city": "Aïn Oussara",
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4724132689,
+    "lat": 35.4504219,
+    "lon": 2.907086,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4739808818,
+    "lat": 34.6776996,
+    "lon": 3.2518626,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 5,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:city": "الجلفة",
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5277586621,
+    "lat": 35.4555234,
+    "lon": 2.9052741,
+    "timestamp": "2020-11-02T04:33:54Z",
+    "version": 3,
+    "changeset": 93391015,
+    "user": "MustafaQasim",
+    "uid": 9535554,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "مطعم المستشفى",
+      "name:ar": "مطعم المستشفى",
+      "name:fr": "Restaurant l'hôpital"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5331337828,
+    "lat": 34.6182515,
+    "lon": 2.807263,
+    "timestamp": "2018-06-13T17:55:08Z",
+    "version": 3,
+    "changeset": 59818370,
+    "user": "ButterflyOfFire_",
+    "uid": 2842609,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "cuisine": "pizza;regional;sandwich",
+      "name": "Pizzeria Milano",
+      "smoking": "separated"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5331487797,
+    "lat": 34.6279648,
+    "lon": 2.8046103,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5338709225,
+    "lat": 34.66979,
+    "lon": 3.2507653,
+    "timestamp": "2020-11-02T04:33:54Z",
+    "version": 4,
+    "changeset": 93391015,
+    "user": "MustafaQasim",
+    "uid": 9535554,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "مطعم فارس",
+      "name:ar": "مطعم فارس",
+      "name:en": "Restaurant fares",
+      "name:fr": "Restaurant fares"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5422601622,
+    "lat": 35.3653302,
+    "lon": 2.9476439,
+    "timestamp": "2020-12-31T00:28:55Z",
+    "version": 4,
+    "changeset": 96696052,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "يونقا",
+      "name:ar": "يونقا",
+      "name:en": "Younga",
+      "name:fr": "Younga"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5838842794,
+    "lat": 34.6683357,
+    "lon": 3.2513906,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6155799605,
+    "lat": 34.6709673,
+    "lon": 3.254523,
+    "timestamp": "2023-09-24T16:33:01Z",
+    "version": 3,
+    "changeset": 141690417,
+    "user": "LudovicG",
+    "uid": 209796,
+    "tags": {
+      "addr:city": "الجلفة",
+      "addr:city:ar": "الجلفة",
+      "amenity": "restaurant",
+      "cuisine": "tacos;pizza;plats;crepe;cheese;panini",
+      "delivery": "yes",
+      "name": "snap food",
+      "name:ar": "اسناب فود",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6244843585,
+    "lat": 35.4516858,
+    "lon": 2.907114,
+    "timestamp": "2019-01-29T17:18:38Z",
+    "version": 1,
+    "changeset": 66745018,
+    "user": "YassineSefra",
+    "uid": 4187916,
+    "tags": {
+      "amenity": "restaurant",
+      "name:fr": "charara"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6292073414,
+    "lat": 35.3498786,
+    "lon": 3.3573212,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "مطعم مدرسي",
+      "name:ar": "مطعم مدرسي",
+      "name:ber": "Tneccit n uɣerbaz",
+      "name:en": "school canteen",
+      "name:fr": "Cantine scolaire"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6292073415,
+    "lat": 35.3457354,
+    "lon": 3.3641378,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "مطعم مدرسي",
+      "name:ar": "مطعم مدرسي",
+      "name:ber": "Tneccit n uɣerbaz",
+      "name:en": "school canteen",
+      "name:fr": "Cantine scolaire"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6292073416,
+    "lat": 35.3486627,
+    "lon": 3.3621574,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "مطعم مدرسي",
+      "name:ar": "مطعم مدرسي",
+      "name:ber": "Tneccit n uɣerbaz",
+      "name:en": "school canteen",
+      "name:fr": "Cantine scolaire"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6292073417,
+    "lat": 35.3532527,
+    "lon": 3.3692021,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "مطعم مدرسي",
+      "name:ar": "مطعم مدرسي",
+      "name:ber": "Tneccit n uɣerbaz",
+      "name:en": "school canteen",
+      "name:fr": "Cantine scolaire"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6292073418,
+    "lat": 35.3577388,
+    "lon": 3.3655761,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "مطعم مدرسي",
+      "name:ar": "مطعم مدرسي",
+      "name:ber": "Tneccit n uɣerbaz",
+      "name:en": "school canteen",
+      "name:fr": "Cantine scolaire"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6292073419,
+    "lat": 35.4562854,
+    "lon": 3.394692,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "مطعم مدرسي",
+      "name:ar": "مطعم مدرسي",
+      "name:ber": "Tneccit n uɣerbaz",
+      "name:en": "school canteen",
+      "name:fr": "Cantine scolaire"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6292073420,
+    "lat": 35.5283016,
+    "lon": 3.5077069,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "مطعم مدرسي",
+      "name:ar": "مطعم مدرسي",
+      "name:ber": "Tneccit n uɣerbaz",
+      "name:en": "school canteen",
+      "name:fr": "Cantine scolaire"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6292073421,
+    "lat": 35.3546962,
+    "lon": 3.37324,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "مطعم مدرسي",
+      "name:ar": "مطعم مدرسي",
+      "name:ber": "Tneccit n uɣerbaz",
+      "name:en": "school canteen",
+      "name:fr": "Cantine scolaire"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6699130466,
+    "lat": 34.6625627,
+    "lon": 3.2768111,
+    "timestamp": "2020-11-16T23:32:20Z",
+    "version": 3,
+    "changeset": 94232449,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "traditional",
+      "name": "خيمة الشيخ عطالله للمأكولات التقليدية",
+      "name:ar": "خيمة الشيخ عطالله للمأكولات التقليدية",
+      "name:fr": "Khaima Cheikh Atallah"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6699167197,
+    "lat": 34.6663171,
+    "lon": 3.2772188,
+    "timestamp": "2023-07-20T11:27:50Z",
+    "version": 5,
+    "changeset": 138759872,
+    "user": "Gurusraouta",
+    "uid": 18913526,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "pizza;tacos;sandwich",
+      "name": "Pizzéria",
+      "name:ar": "بيتزا",
+      "name:fr": "Pizzéria"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6699192597,
+    "lat": 34.6670477,
+    "lon": 3.2784795,
+    "timestamp": "2020-11-16T23:32:20Z",
+    "version": 4,
+    "changeset": 94232449,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "دجاج قناني",
+      "name:ar": "دجاج قناني",
+      "name:fr": "Poulet Ganani"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6732265533,
+    "lat": 34.6665309,
+    "lon": 3.2776329,
+    "timestamp": "2023-07-20T11:27:50Z",
+    "version": 3,
+    "changeset": 138759872,
+    "user": "Gurusraouta",
+    "uid": 18913526,
+    "tags": {
+      "addr:street": "حاشي معمر",
+      "amenity": "restaurant",
+      "name": "Pizzéria",
+      "name:fr": "Pizzéria"
+    }
+  },
+  {
+    "type": "way",
+    "id": 272449384,
+    "timestamp": "2017-06-10T17:11:15Z",
+    "version": 6,
+    "changeset": 49424801,
+    "user": "klyk50",
+    "uid": 1063416,
+    "center": {
+      "lat": 34.6753841,
+      "lon": 3.2522555
+    },
+    "nodes": [
+      2773729244,
+      2773729246,
+      2773729248,
+      2773729250,
+      2773729244
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "building:levels": "1",
+      "cuisine": "regional",
+      "name": "Messe des officiers"
+    }
+  },
+  {
+    "type": "way",
+    "id": 608910599,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "center": {
+      "lat": 35.0251383,
+      "lon": 3.6302737
+    },
+    "nodes": [
+      5767961649,
+      5767961650,
+      5767961651,
+      5767961652,
+      5767964153,
+      5767964154,
+      5767964155,
+      5767964156,
+      5767961649
+    ],
+    "tags": {
+      "addr:city": "Medjedel",
+      "addr:postcode": "28016",
+      "addr:street": "العين الكحلة",
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "مطعم مدرسة لقدي اربوح",
+      "name:ar": "مطعم مدرسي",
+      "name:ber": "Tneccit n uɣerbaz",
+      "name:en": "school canteen",
+      "name:fr": "Cantine scolaire"
+    }
+  }
+]

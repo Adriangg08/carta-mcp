@@ -1,0 +1,225 @@
+[
+  {
+    "type": "node",
+    "id": 622478744,
+    "lat": 30.086317,
+    "lon": -6.873883,
+    "timestamp": "2013-08-19T21:14:53Z",
+    "version": 3,
+    "changeset": 17418090,
+    "user": "jecor38",
+    "uid": 179958,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant Chegaga"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2328489840,
+    "lat": 30.086429,
+    "lon": -6.8738272,
+    "timestamp": "2013-06-01T20:48:11Z",
+    "version": 1,
+    "changeset": 16383211,
+    "user": "dromedar61",
+    "uid": 542047,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant Jeunesse"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2328489841,
+    "lat": 30.0865456,
+    "lon": -6.8737926,
+    "timestamp": "2017-11-26T18:20:00Z",
+    "version": 2,
+    "changeset": 54101823,
+    "user": "palimpadum",
+    "uid": 155936,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant La Liberte"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2430267183,
+    "lat": 30.0774309,
+    "lon": -6.8700696,
+    "timestamp": "2013-08-24T17:01:13Z",
+    "version": 1,
+    "changeset": 17487171,
+    "user": "staehler",
+    "uid": 118856,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Iriki",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2430268850,
+    "lat": 29.901251,
+    "lon": -7.3206411,
+    "timestamp": "2013-08-24T17:01:41Z",
+    "version": 1,
+    "changeset": 17487171,
+    "user": "staehler",
+    "uid": 118856,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Stau Al Amal",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5249170621,
+    "lat": 30.0865981,
+    "lon": -6.8737762,
+    "timestamp": "2017-11-26T18:19:54Z",
+    "version": 1,
+    "changeset": 54101823,
+    "user": "palimpadum",
+    "uid": 155936,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant Chez Rachid"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5499881424,
+    "lat": 29.9023357,
+    "lon": -7.3195227,
+    "timestamp": "2018-03-23T22:08:23Z",
+    "version": 1,
+    "changeset": 57471098,
+    "user": "Whatta",
+    "uid": 7821622,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "african",
+      "name:en": "Diafa Restaurant"
+    }
+  },
+  {
+    "type": "way",
+    "id": 234902511,
+    "timestamp": "2013-08-24T17:01:42Z",
+    "version": 1,
+    "changeset": 17487171,
+    "user": "staehler",
+    "uid": 118856,
+    "center": {
+      "lat": 30.1279717,
+      "lon": -6.8673835
+    },
+    "nodes": [
+      2430268452,
+      2430268447,
+      2430268387,
+      2430268320,
+      2430268296,
+      2430268316,
+      2430268305,
+      2430268312,
+      2430268314,
+      2430268297,
+      2430268326,
+      2430268330,
+      2430268344,
+      2430268452
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Bab Rimal",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "way",
+    "id": 273822475,
+    "timestamp": "2024-05-16T14:19:13Z",
+    "version": 3,
+    "changeset": 151411122,
+    "user": "LuisAmaral",
+    "uid": 9588555,
+    "center": {
+      "lat": 29.9480048,
+      "lon": -6.3662346
+    },
+    "nodes": [
+      2786320687,
+      2786320689,
+      2786320685,
+      2786320684,
+      2786320687
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "regional",
+      "name": "Restaurant Roumaysa et Jade"
+    }
+  },
+  {
+    "type": "way",
+    "id": 542755496,
+    "timestamp": "2019-11-10T18:07:41Z",
+    "version": 2,
+    "changeset": 76875691,
+    "user": "Fourtas",
+    "uid": 359489,
+    "center": {
+      "lat": 29.9355751,
+      "lon": -6.4066213
+    },
+    "nodes": [
+      5247169481,
+      5247169478,
+      5247169479,
+      5247169480,
+      5247169481
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "building:levels": "1",
+      "name": "Auberge Etoile Iriki",
+      "phone": "+212 653 84 25 25"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1283642116,
+    "timestamp": "2024-05-16T14:19:13Z",
+    "version": 1,
+    "changeset": 151411122,
+    "user": "LuisAmaral",
+    "uid": 9588555,
+    "center": {
+      "lat": 29.9517195,
+      "lon": -6.3574662
+    },
+    "nodes": [
+      11910041460,
+      11910041461,
+      11910041462,
+      11910041463,
+      11910041460
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Restaurant Rimal Lac Iiriki"
+    }
+  }
+]

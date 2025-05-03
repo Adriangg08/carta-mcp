@@ -1,0 +1,132 @@
+[
+  {
+    "type": "node",
+    "id": 3376287899,
+    "lat": 35.396958,
+    "lon": 0.1402703,
+    "timestamp": "2018-06-13T17:53:35Z",
+    "version": 4,
+    "changeset": 59818370,
+    "user": "ButterflyOfFire_",
+    "uid": 2842609,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "Pizzeria Malak"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4425280793,
+    "lat": 34.8289989,
+    "lon": 0.1477259,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5025342523,
+    "lat": 35.4101206,
+    "lon": 0.1310943,
+    "timestamp": "2018-06-13T17:54:55Z",
+    "version": 2,
+    "changeset": 59818370,
+    "user": "ButterflyOfFire_",
+    "uid": 2842609,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "مطعم بن حواء",
+      "name:ar": "مطعم بن حواء",
+      "name:fr": "Restaurant ben haoua"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5025342628,
+    "lat": 35.4117966,
+    "lon": 0.1318688,
+    "timestamp": "2018-06-13T17:54:55Z",
+    "version": 2,
+    "changeset": 59818370,
+    "user": "ButterflyOfFire_",
+    "uid": 2842609,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name:fr": "Pizziaria passiflore"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6961100458,
+    "lat": 34.8417212,
+    "lon": 0.1460128,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 2,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:city": "سعيدة",
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "مطعم بيتزا سويفت",
+      "name:ar": "مطعم بيتزا سويفت",
+      "name:fr": "Restaurant Pizza Swift",
+      "phone": "+213 667 35 29 59"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11365218425,
+    "lat": 34.8309856,
+    "lon": 0.1484211,
+    "timestamp": "2023-11-20T23:21:54Z",
+    "version": 1,
+    "changeset": 144265965,
+    "user": "Mus Ben",
+    "uid": 7240567,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Moonlight & Lounges"
+    }
+  },
+  {
+    "type": "way",
+    "id": 858206476,
+    "timestamp": "2020-10-12T15:11:41Z",
+    "version": 1,
+    "changeset": 92363097,
+    "user": "bachounda",
+    "uid": 427809,
+    "center": {
+      "lat": 35.4063286,
+      "lon": 0.1367949
+    },
+    "nodes": [
+      8000560355,
+      8000560356,
+      8000560357,
+      8000560358,
+      8000560355
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "italian",
+      "name": "soltane"
+    }
+  }
+]

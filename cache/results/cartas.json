@@ -1,0 +1,3130 @@
+{
+  "restaurants": [
+    {
+      "type": "node",
+      "id": 1364708479,
+      "lat": 43.2525529,
+      "lon": -5.7757629,
+      "timestamp": "2014-08-21T14:51:53Z",
+      "version": 6,
+      "changeset": 24911182,
+      "user": "nokutu",
+      "uid": 2257299,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Kinos",
+        "opening_hours": "Mo-Sa 07:30-23:00"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 1364716627,
+      "lat": 43.251328,
+      "lon": -5.7752619,
+      "timestamp": "2024-02-07T22:36:28Z",
+      "version": 4,
+      "changeset": 147195289,
+      "user": "kapazao_import",
+      "uid": 8770019,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "asturian",
+        "name": "Sidrería La Violeta"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 1364726288,
+      "lat": 43.2518266,
+      "lon": -5.7748145,
+      "timestamp": "2024-02-07T22:36:28Z",
+      "version": 7,
+      "changeset": 147195289,
+      "user": "kapazao_import",
+      "uid": 8770019,
+      "tags": {
+        "amenity": "bar",
+        "name": "Madreselva",
+        "voltage": "400"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 1364732942,
+      "lat": 43.2514946,
+      "lon": -5.7729622,
+      "timestamp": "2014-08-16T16:09:22Z",
+      "version": 3,
+      "changeset": 24789942,
+      "user": "nokutu",
+      "uid": 2257299,
+      "tags": {
+        "amenity": "food_court",
+        "name": "La Bodeguina"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 1364732943,
+      "lat": 43.252016,
+      "lon": -5.7728732,
+      "timestamp": "2024-02-07T22:36:28Z",
+      "version": 4,
+      "changeset": 147195289,
+      "user": "kapazao_import",
+      "uid": 8770019,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "galician",
+        "name": "Pulpería"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 1364732944,
+      "lat": 43.2515479,
+      "lon": -5.7729558,
+      "timestamp": "2014-08-16T16:09:22Z",
+      "version": 2,
+      "changeset": 24789942,
+      "user": "nokutu",
+      "uid": 2257299,
+      "tags": {
+        "amenity": "pub",
+        "name": "Café Habana"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 2704013727,
+      "lat": 43.2526718,
+      "lon": -5.7717882,
+      "timestamp": "2014-10-18T11:57:27Z",
+      "version": 3,
+      "changeset": 26168751,
+      "user": "nokutu",
+      "uid": 2257299,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Sidrería Valles Mineros"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 2704013736,
+      "lat": 43.2527273,
+      "lon": -5.7717814,
+      "timestamp": "2019-07-10T12:03:16Z",
+      "version": 5,
+      "changeset": 72091803,
+      "user": "sanchi",
+      "uid": 170106,
+      "tags": {
+        "addr:city": "Mieres",
+        "addr:housenumber": "7",
+        "addr:postcode": "33600",
+        "addr:street": "Plaza de San Juan",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Casa Flora",
+        "phone": "+34 984 289 279"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 2761351159,
+      "lat": 43.2528728,
+      "lon": -5.771815,
+      "timestamp": "2014-10-18T11:57:27Z",
+      "version": 2,
+      "changeset": 26168751,
+      "user": "nokutu",
+      "uid": 2257299,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Sidrería El Rinconín"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 2761351167,
+      "lat": 43.2527797,
+      "lon": -5.7717424,
+      "timestamp": "2014-10-18T11:57:27Z",
+      "version": 2,
+      "changeset": 26168751,
+      "user": "nokutu",
+      "uid": 2257299,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Casa Fulgencio"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 2761351172,
+      "lat": 43.2528621,
+      "lon": -5.7719088,
+      "timestamp": "2014-04-02T16:23:17Z",
+      "version": 1,
+      "changeset": 21461299,
+      "user": "Osmand+",
+      "uid": 1433092,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Mesón del Cordero"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 2761386265,
+      "lat": 43.2491361,
+      "lon": -5.772133,
+      "timestamp": "2024-08-03T18:31:00Z",
+      "version": 2,
+      "changeset": 154785327,
+      "user": "ivansanchez",
+      "uid": 5265,
+      "tags": {
+        "addr:city": "Mieres del Camín",
+        "addr:housenumber": "1",
+        "addr:postcode": "33600",
+        "addr:street": "Calle Teodoro Cuesta",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "L'Albar",
+        "phone": "+34 985468445"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 2761405697,
+      "lat": 43.2548621,
+      "lon": -5.7800368,
+      "timestamp": "2023-11-10T11:24:42Z",
+      "version": 11,
+      "changeset": 143858754,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:city": "Mieres del Camín",
+        "addr:housenumber": "30",
+        "addr:postcode": "33600",
+        "addr:street": "Avenida de México",
+        "amenity": "fast_food",
+        "cuisine": "burger;pizza",
+        "delivery": "yes",
+        "email": "info@mccharlycompany.com",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McCharly & Company Café",
+        "opening_hours": "8:30-23:00",
+        "phone": "+34 985453242",
+        "smoking": "no",
+        "takeaway": "yes",
+        "website": "https://mccharlycompany.com/"
+      },
+      "urlsToScrape": [
+        "https://mccharlycompany.com/domicilio/",
+        "https://mccharlycompany.com/nuestra-carta/",
+        "https://mccharlycompany.com/nuestracarta/",
+        "https://mccharlycompany.com/nuestracarta/declaracion-de-accesibilidad/",
+        "https://mccharlycompany.com/nuestracarta/declaracion-de-accesibilidad/declaracion-de-accesibilidad/",
+        "https://mccharlycompany.com/nuestracarta/declaracion-de-accesibilidad/politica-privacidad-cookies/",
+        "https://mccharlycompany.com/nuestracarta/declaracion-de-accesibilidad/politica-privacidad/",
+        "https://mccharlycompany.com/nuestracarta/politica-privacidad-cookies/",
+        "https://mccharlycompany.com/nuestracarta/politica-privacidad-cookies/declaracion-de-accesibilidad/",
+        "https://mccharlycompany.com/nuestracarta/politica-privacidad-cookies/politica-privacidad-cookies/",
+        "https://mccharlycompany.com/nuestracarta/politica-privacidad-cookies/politica-privacidad/",
+        "https://mccharlycompany.com/nuestracarta/politica-privacidad/",
+        "https://mccharlycompany.com/nuestracarta/politica-privacidad/declaracion-de-accesibilidad/",
+        "https://mccharlycompany.com/nuestracarta/politica-privacidad/politica-privacidad-cookies/",
+        "https://mccharlycompany.com/nuestracarta/politica-privacidad/politica-privacidad/"
+      ],
+      "resources": [
+        "https://mccharlycompany.com/wp-content/uploads/2021/12/LogoWeb_small2.png",
+        "https://mccharlycompany.com/wp-content/uploads/2021/12/fries_blue.png",
+        "https://mccharlycompany.com/wp-content/uploads/2021/12/3.png",
+        "https://mccharlycompany.com/wp-content/uploads/2021/12/hotdogs.png",
+        "https://mccharlycompany.com/wp-content/uploads/2021/12/4.png",
+        "https://mccharlycompany.com/wp-content/uploads/2021/12/5.png",
+        "https://mccharlycompany.com/wp-content/uploads/2021/12/6.png",
+        "https://mccharlycompany.com/wp-content/uploads/2021/12/7.png",
+        "https://mccharlycompany.com/wp-content/uploads/2021/12/9.png",
+        "https://mccharlycompany.com/wp-content/uploads/2024/11/portcharly-scaled.jpg",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/1.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/2-1.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/3.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/5.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/6.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/7.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/1-162x300.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/2-1-162x300.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/3-162x300.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/5-162x300.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/6-162x300.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/7-162x300.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/8.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/9.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/10.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/11.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/12.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/14.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/13-1.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/15.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/16.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/17.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/18.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/19.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/20.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/21.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/22.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/23.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/25.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/26.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/8-98x300.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/9-98x300.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/10-98x300.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/11-98x300.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/12-98x300.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/14-98x300.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/13-1-98x300.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/15-98x300.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/16-98x300.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/17-98x300.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/18-98x300.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/19-98x300.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/20-98x300.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/23-98x300.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/22-98x300.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/21-98x300.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/25-98x300.png",
+        "https://mccharlycompany.com/wp-content/uploads/2022/01/26-98x300.png",
+        "https://mccharlycompany.com/wp-content/uploads/2021/12/logo2.png",
+        "https://mccharlycompany.com/wp-content/uploads/2024/10/Footer_Kit.png"
+      ],
+      "cartas": [
+        {
+          "nombre": "Carta de productos",
+          "categorias": [
+            {
+              "nombre": "Pizzas artesanales",
+              "platos": [
+                {
+                  "nombre": "Pizza especial de temporada",
+                  "precios": [
+                    {
+                      "precio": "a consultar"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nombre": "Hamburguesas",
+              "platos": [
+                {
+                  "nombre": "Hamburguesa de ternera 100% fresca",
+                  "precios": [
+                    {
+                      "precio": "a consultar"
+                    }
+                  ]
+                },
+                {
+                  "nombre": "Hamburguesa de pollo",
+                  "precios": [
+                    {
+                      "precio": "a consultar"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nombre": "Sandwiches",
+              "platos": [
+                {
+                  "nombre": "Sandwich mixto",
+                  "precios": [
+                    {
+                      "precio": "a consultar"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nombre": "Perritos calientes",
+              "platos": [
+                {
+                  "nombre": "Perrito caliente clásico",
+                  "precios": [
+                    {
+                      "precio": "a consultar"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nombre": "Nuggets de pollo",
+              "platos": [
+                {
+                  "nombre": "Nuggets de pollo",
+                  "precios": [
+                    {
+                      "precio": "a consultar"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nombre": "Acompañamientos y otros",
+              "platos": [
+                {
+                  "nombre": "Jalapeños",
+                  "precios": [
+                    {
+                      "precio": "a consultar"
+                    }
+                  ]
+                },
+                {
+                  "nombre": "Aros de cebolla",
+                  "precios": [
+                    {
+                      "precio": "a consultar"
+                    }
+                  ]
+                },
+                {
+                  "nombre": "Patatas fritas",
+                  "precios": [
+                    {
+                      "precio": "a consultar"
+                    }
+                  ]
+                },
+                {
+                  "nombre": "Ensaladas",
+                  "precios": [
+                    {
+                      "precio": "a consultar"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nombre": "Postres y dulces",
+              "platos": [
+                {
+                  "nombre": "Gofres",
+                  "precios": [
+                    {
+                      "precio": "a consultar"
+                    }
+                  ]
+                },
+                {
+                  "nombre": "Helados",
+                  "precios": [
+                    {
+                      "precio": "a consultar"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "menus": []
+    },
+    {
+      "type": "node",
+      "id": 2761502699,
+      "lat": 43.2541058,
+      "lon": -5.7770937,
+      "timestamp": "2016-11-27T12:21:44Z",
+      "version": 3,
+      "changeset": 43982293,
+      "user": "sanchi",
+      "uid": 170106,
+      "tags": {
+        "addr:city": "Mieres del Camín",
+        "addr:housenumber": "51",
+        "addr:postcode": "33600",
+        "addr:street": "Cai Ayer",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "El Cenador del Azul",
+        "opening_hours": "13:00-16:00",
+        "phone": "+34 985453547"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 2780067358,
+      "lat": 43.2555392,
+      "lon": -5.7796134,
+      "timestamp": "2016-01-25T10:26:00Z",
+      "version": 4,
+      "changeset": 36792950,
+      "user": "nokutu",
+      "uid": 2257299,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Bar Platas"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 2883901603,
+      "lat": 43.2526642,
+      "lon": -5.7775479,
+      "timestamp": "2016-07-26T23:39:49Z",
+      "version": 3,
+      "changeset": 41050744,
+      "user": "Alberto Fraiz",
+      "uid": 4324395,
+      "tags": {
+        "addr:housenumber": "58",
+        "addr:postcode": "33600",
+        "addr:street": "Calle Carreño Miranda",
+        "amenity": "restaurant",
+        "cuisine": "local",
+        "internet_access": "wlan",
+        "name": "La Taberna",
+        "opening_hours": "Mo-Su 08:30-00:30",
+        "phone": "+34 985460132"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 2883905402,
+      "lat": 43.2512844,
+      "lon": -5.7728544,
+      "timestamp": "2021-02-07T21:59:51Z",
+      "version": 3,
+      "changeset": 98867097,
+      "user": "Johnbo",
+      "uid": 915796,
+      "tags": {
+        "addr:city": "Mieres",
+        "addr:housenumber": "12",
+        "addr:postcode": "33600",
+        "addr:street": "Calle Jerónimo Ibrán",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "facebook": "https://www.facebook.com/ElToresano",
+        "name": "El Toresano"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 3007031236,
+      "lat": 43.2700817,
+      "lon": -5.8310914,
+      "timestamp": "2014-08-09T15:35:33Z",
+      "version": 1,
+      "changeset": 24636318,
+      "user": "elemeje_01",
+      "uid": 2243306,
+      "tags": {
+        "amenity": "cafe"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 3013986570,
+      "lat": 43.2570228,
+      "lon": -5.779356,
+      "timestamp": "2014-08-16T16:28:49Z",
+      "version": 3,
+      "changeset": 24790299,
+      "user": "nokutu",
+      "uid": 2257299,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Bar Campus"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 3014129924,
+      "lat": 43.2552364,
+      "lon": -5.7784081,
+      "timestamp": "2014-08-28T22:26:28Z",
+      "version": 2,
+      "changeset": 25084802,
+      "user": "nokutu",
+      "uid": 2257299,
+      "tags": {
+        "amenity": "cafe",
+        "name": "La Maniega"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 3014308921,
+      "lat": 43.250926,
+      "lon": -5.7770601,
+      "timestamp": "2014-08-13T13:39:44Z",
+      "version": 2,
+      "changeset": 24723757,
+      "user": "nokutu",
+      "uid": 2257299,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Cafetería Lord"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 3014312686,
+      "lat": 43.2507622,
+      "lon": -5.7770653,
+      "timestamp": "2021-04-03T21:45:29Z",
+      "version": 4,
+      "changeset": 102252308,
+      "user": "bermiego",
+      "uid": 3699758,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Taxi bar Palma"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 3014323919,
+      "lat": 43.2512281,
+      "lon": -5.777028,
+      "timestamp": "2014-10-04T14:09:17Z",
+      "version": 3,
+      "changeset": 25851969,
+      "user": "nokutu",
+      "uid": 2257299,
+      "tags": {
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "La Brújula"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 3014333037,
+      "lat": 43.2518011,
+      "lon": -5.7769736,
+      "timestamp": "2014-08-13T13:55:48Z",
+      "version": 1,
+      "changeset": 24724071,
+      "user": "nokutu",
+      "uid": 2257299,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Esquina 19"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 3017150345,
+      "lat": 43.254625,
+      "lon": -5.7790701,
+      "timestamp": "2024-08-03T18:32:39Z",
+      "version": 3,
+      "changeset": 154785326,
+      "user": "ivansanchez",
+      "uid": 5265,
+      "tags": {
+        "amenity": "cafe",
+        "check_date": "2024-08-03",
+        "name": "El Elma"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 3017150346,
+      "lat": 43.2526,
+      "lon": -5.7723448,
+      "timestamp": "2024-08-03T18:30:45Z",
+      "version": 3,
+      "changeset": 154785327,
+      "user": "ivansanchez",
+      "uid": 5265,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Bobela"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 3020572643,
+      "lat": 43.251469,
+      "lon": -5.7731522,
+      "timestamp": "2014-08-28T22:04:40Z",
+      "version": 2,
+      "changeset": 25084518,
+      "user": "nokutu",
+      "uid": 2257299,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Las Novedades"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 3045383997,
+      "lat": 43.2519161,
+      "lon": -5.7769695,
+      "timestamp": "2014-08-27T09:54:36Z",
+      "version": 1,
+      "changeset": 25047565,
+      "user": "nokutu",
+      "uid": 2257299,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Vigil"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 3048206557,
+      "lat": 43.2519519,
+      "lon": -5.7793531,
+      "timestamp": "2014-08-28T22:13:25Z",
+      "version": 1,
+      "changeset": 25084626,
+      "user": "nokutu",
+      "uid": 2257299,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Bar Playa"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 3048206558,
+      "lat": 43.2516452,
+      "lon": -5.7731171,
+      "timestamp": "2014-08-28T22:13:25Z",
+      "version": 1,
+      "changeset": 25084626,
+      "user": "nokutu",
+      "uid": 2257299,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "El Tornillos II"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 3128062984,
+      "lat": 43.2524997,
+      "lon": -5.7797887,
+      "timestamp": "2014-10-13T16:45:53Z",
+      "version": 1,
+      "changeset": 26052893,
+      "user": "nokutu",
+      "uid": 2257299,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Bar Mary"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 3128089533,
+      "lat": 43.2500129,
+      "lon": -5.7731154,
+      "timestamp": "2024-08-03T18:31:08Z",
+      "version": 5,
+      "changeset": 154785326,
+      "user": "ivansanchez",
+      "uid": 5265,
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Telepizza",
+        "brand:wikidata": "Q2699863",
+        "brand:wikipedia": "es:Telepizza",
+        "check_date": "2024-08-03",
+        "cuisine": "pizza",
+        "name": "Telepizza",
+        "takeaway": "yes"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 3129589273,
+      "lat": 43.2555225,
+      "lon": -5.779565,
+      "timestamp": "2014-10-14T16:55:48Z",
+      "version": 1,
+      "changeset": 26076651,
+      "user": "nokutu",
+      "uid": 2257299,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Bar el Horreo"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 3129589724,
+      "lat": 43.2548173,
+      "lon": -5.7784457,
+      "timestamp": "2024-07-12T21:15:22Z",
+      "version": 2,
+      "changeset": 153872590,
+      "user": "jorgeyp",
+      "uid": 2089491,
+      "tags": {
+        "amenity": "bar",
+        "name": "El Chigrín"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 3136056907,
+      "lat": 43.2480838,
+      "lon": -5.7733881,
+      "timestamp": "2016-01-25T12:22:39Z",
+      "version": 2,
+      "changeset": 36795175,
+      "user": "nokutu",
+      "uid": 2257299,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Paraninfo"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 3136059281,
+      "lat": 43.2510903,
+      "lon": -5.7782955,
+      "timestamp": "2014-10-18T09:36:20Z",
+      "version": 2,
+      "changeset": 26166679,
+      "user": "nokutu",
+      "uid": 2257299,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Restaurante Gran Muralla"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 3136061835,
+      "lat": 43.247993,
+      "lon": -5.7738825,
+      "timestamp": "2014-12-18T17:05:54Z",
+      "version": 2,
+      "changeset": 27554373,
+      "user": "nokutu",
+      "uid": 2257299,
+      "tags": {
+        "amenity": "pub",
+        "name": "McGuilicudy"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 3136062545,
+      "lat": 43.2478609,
+      "lon": -5.7738019,
+      "timestamp": "2014-12-18T17:05:54Z",
+      "version": 2,
+      "changeset": 27554373,
+      "user": "nokutu",
+      "uid": 2257299,
+      "tags": {
+        "amenity": "bar",
+        "name": "Horus"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 3136062872,
+      "lat": 43.2467516,
+      "lon": -5.7727478,
+      "timestamp": "2016-06-23T13:40:18Z",
+      "version": 2,
+      "changeset": 40233789,
+      "user": "nokutu",
+      "uid": 2257299,
+      "tags": {
+        "amenity": "bar",
+        "name": "El Mausoleo"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 3136062977,
+      "lat": 43.245046,
+      "lon": -5.7734203,
+      "timestamp": "2014-10-17T23:22:59Z",
+      "version": 1,
+      "changeset": 26160987,
+      "user": "nokutu",
+      "uid": 2257299,
+      "tags": {
+        "amenity": "bar",
+        "name": "El Llagarón"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 3154831531,
+      "lat": 43.2531973,
+      "lon": -5.7777972,
+      "timestamp": "2014-10-29T21:45:58Z",
+      "version": 2,
+      "changeset": 26423837,
+      "user": "nokutu",
+      "uid": 2257299,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Café Snoopy"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 3155819768,
+      "lat": 43.2544431,
+      "lon": -5.779075,
+      "timestamp": "2014-10-29T07:01:13Z",
+      "version": 1,
+      "changeset": 26405654,
+      "user": "nokutu",
+      "uid": 2257299,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Cafetería Rian"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 3894999704,
+      "lat": 43.2044436,
+      "lon": -5.7915964,
+      "timestamp": "2024-07-31T10:45:18Z",
+      "version": 2,
+      "changeset": 154642660,
+      "user": "ivansanchez",
+      "uid": 5265,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-07-29",
+        "name": "Bar Casa Jamin"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 3894999706,
+      "lat": 43.2043109,
+      "lon": -5.7916256,
+      "timestamp": "2015-12-16T12:01:41Z",
+      "version": 1,
+      "changeset": 35986659,
+      "user": "Maurizio Melani (forwalk)",
+      "uid": 1669056,
+      "tags": {
+        "amenity": "bar",
+        "name": "Sidereria Bar Platas"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 3964135484,
+      "lat": 43.243866,
+      "lon": -5.7766211,
+      "timestamp": "2016-01-24T12:27:49Z",
+      "version": 1,
+      "changeset": 36775000,
+      "user": "nokutu",
+      "uid": 2257299,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Cafetería de la Universidad"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 3964275564,
+      "lat": 43.2671405,
+      "lon": -5.8053417,
+      "timestamp": "2016-01-24T13:50:19Z",
+      "version": 1,
+      "changeset": 36776239,
+      "user": "ddsaimon",
+      "uid": 1893271,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Bar La Cantina"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 5254867141,
+      "lat": 43.2505219,
+      "lon": -5.7770695,
+      "timestamp": "2019-06-18T16:07:33Z",
+      "version": 2,
+      "changeset": 71371910,
+      "user": "Osmand+",
+      "uid": 1433092,
+      "tags": {
+        "addr:city": "Mieres",
+        "addr:postcode": "33600",
+        "addr:street": "Cai Ayer",
+        "amenity": "cafe",
+        "description": "9:00 a 15:00\n17:00 a 21:00\n",
+        "name": "Llibrería-Café La Llocura"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 5471773522,
+      "lat": 43.2574478,
+      "lon": -5.7877258,
+      "timestamp": "2018-03-11T22:23:23Z",
+      "version": 1,
+      "changeset": 57094925,
+      "user": "ddsaimon",
+      "uid": 1893271,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Bar Prau Ferrera"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 6563415184,
+      "lat": 43.2500358,
+      "lon": -5.7750212,
+      "timestamp": "2019-06-21T17:38:25Z",
+      "version": 1,
+      "changeset": 71490838,
+      "user": "Osmand+",
+      "uid": 1433092,
+      "tags": {
+        "amenity": "cafe"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 6563455489,
+      "lat": 43.2502355,
+      "lon": -5.7762612,
+      "timestamp": "2024-08-03T18:31:38Z",
+      "version": 3,
+      "changeset": 154785326,
+      "user": "ivansanchez",
+      "uid": 5265,
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "check_date": "2024-08-03",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "takeaway": "yes"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 7139759527,
+      "lat": 43.2547279,
+      "lon": -5.78056,
+      "timestamp": "2020-12-20T01:17:48Z",
+      "version": 2,
+      "changeset": 96126605,
+      "user": "nokutu",
+      "uid": 2257299,
+      "tags": {
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Continental",
+        "outdoor_seating": "yes"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 7139877727,
+      "lat": 43.2048864,
+      "lon": -5.7907261,
+      "timestamp": "2023-09-20T09:33:58Z",
+      "version": 3,
+      "changeset": 141504070,
+      "user": "Agamenon",
+      "uid": 1976143,
+      "tags": {
+        "addr:city": "Uxo",
+        "addr:postcode": "33640",
+        "addr:street": "Dr. Julio Rodríguez Vigil",
+        "amenity": "cafe",
+        "name": "Sandra's Cafe",
+        "outdoor_seating": "yes"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 7139877728,
+      "lat": 43.2049164,
+      "lon": -5.7909664,
+      "timestamp": "2024-07-31T10:46:36Z",
+      "version": 2,
+      "changeset": 154642660,
+      "user": "ivansanchez",
+      "uid": 5265,
+      "tags": {
+        "amenity": "cafe",
+        "check_date": "2024-07-30",
+        "name": "Bar el Patio"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 7139877729,
+      "lat": 43.2047745,
+      "lon": -5.790754,
+      "timestamp": "2024-07-31T10:46:36Z",
+      "version": 2,
+      "changeset": 154642661,
+      "user": "ivansanchez",
+      "uid": 5265,
+      "tags": {
+        "amenity": "cafe",
+        "name": "El mayán"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 7139877730,
+      "lat": 43.2047994,
+      "lon": -5.7920438,
+      "timestamp": "2024-07-31T10:45:17Z",
+      "version": 3,
+      "changeset": 154642661,
+      "user": "ivansanchez",
+      "uid": 5265,
+      "tags": {
+        "amenity": "cafe",
+        "check_date": "2024-07-29",
+        "name": "La Artesa"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 9147417031,
+      "lat": 43.2468953,
+      "lon": -5.7720095,
+      "timestamp": "2021-10-05T05:51:01Z",
+      "version": 1,
+      "changeset": 112104035,
+      "user": "enolp",
+      "uid": 3484239,
+      "tags": {
+        "addr:city": "Mieres del Camín",
+        "addr:housenumber": "13",
+        "addr:postcode": "33600",
+        "addr:street": "Cai Ramón y Cajal",
+        "amenity": "pub",
+        "contact:phone": "+34 985462748",
+        "name": "L'Abellugu"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 9454985026,
+      "lat": 43.2490672,
+      "lon": -5.7761344,
+      "timestamp": "2022-01-28T09:36:30Z",
+      "version": 1,
+      "changeset": 116699341,
+      "user": "sanchi",
+      "uid": 170106,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Restaurante La Mayacina",
+        "phone": "+34 985 451 000"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 9524813581,
+      "lat": 43.2537273,
+      "lon": -5.7734424,
+      "timestamp": "2022-02-21T16:13:35Z",
+      "version": 1,
+      "changeset": 117689277,
+      "user": "sergius02",
+      "uid": 15131704,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Xiarricu"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 9524813582,
+      "lat": 43.2528453,
+      "lon": -5.7736784,
+      "timestamp": "2022-02-21T16:13:35Z",
+      "version": 1,
+      "changeset": 117689277,
+      "user": "sergius02",
+      "uid": 15131704,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar La vía"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 9524813583,
+      "lat": 43.2529635,
+      "lon": -5.7732077,
+      "timestamp": "2022-02-21T16:13:35Z",
+      "version": 1,
+      "changeset": 117689277,
+      "user": "sergius02",
+      "uid": 15131704,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Bar La ardura"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 9555691167,
+      "lat": 43.2528478,
+      "lon": -5.7736972,
+      "timestamp": "2022-03-05T10:05:26Z",
+      "version": 1,
+      "changeset": 118119991,
+      "user": "sergius02",
+      "uid": 15131704,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar La vía"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 9555708293,
+      "lat": 43.2529705,
+      "lon": -5.7732296,
+      "timestamp": "2022-03-05T10:05:26Z",
+      "version": 1,
+      "changeset": 118119991,
+      "user": "sergius02",
+      "uid": 15131704,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar La ardura"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 9555742311,
+      "lat": 43.2536412,
+      "lon": -5.7734475,
+      "timestamp": "2022-03-05T10:05:26Z",
+      "version": 1,
+      "changeset": 118119991,
+      "user": "sergius02",
+      "uid": 15131704,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar El Xiarricu"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 9651415861,
+      "lat": 43.2096317,
+      "lon": -5.7420617,
+      "timestamp": "2024-07-12T21:15:22Z",
+      "version": 4,
+      "changeset": 153872590,
+      "user": "jorgeyp",
+      "uid": 2089491,
+      "tags": {
+        "addr:street": "El Parque",
+        "amenity": "restaurant",
+        "name": "Casa Chuchu",
+        "opening_hours": "Mo 10:00-16:30; We, Th 10:00-00:00; Fr 10:00-01:00; Sa 11:30-01:00; Su 11:30-00:00",
+        "phone": "+34 985 43 02 26",
+        "website": "https://www.casachuchu.com/"
+      },
+      "urlsToScrape": [],
+      "resources": [
+        "https://casachuchu.com/wp-content/uploads/2024/06/mt-sample-background.jpg"
+      ],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 9651539451,
+      "lat": 43.2479538,
+      "lon": -5.7725219,
+      "timestamp": "2023-11-10T11:25:01Z",
+      "version": 4,
+      "changeset": 143858785,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:housenumber": "10",
+        "addr:street": "Cai Alfonso Camín",
+        "amenity": "restaurant",
+        "name": "El Alambique Gastrobar",
+        "opening_hours": "Mo-Fr 07:00-23:00; Sa 10:00-23:45; Su 12:00-23:00",
+        "phone": "+34 984 70 68 41",
+        "website": "https://www.alambiquegastrobar.es/"
+      },
+      "urlsToScrape": [
+        "https://www.alambiquegastrobar.es/",
+        "https://www.alambiquegastrobar.es/burritos",
+        "https://www.alambiquegastrobar.es/carta",
+        "https://www.alambiquegastrobar.es/entrantes",
+        "https://www.alambiquegastrobar.es/hamburguesas",
+        "https://www.alambiquegastrobar.es/pizzas",
+        "https://www.alambiquegastrobar.es/reservas-y-pedidos",
+        "https://www.alambiquegastrobar.es/sandwiches"
+      ],
+      "resources": [
+        "https://www.alambiquegastrobar.es/wp-content/uploads/go-x/u/387c4363-c039-46f7-bf5b-4b3de407cb4b/image-384x107.png",
+        "https://www.alambiquegastrobar.es/wp-content/uploads/go-x/u/6ab5d7f0-18b0-4463-913e-100accd11f1d/l39,t21,w1003,h557/image-768x426.png",
+        "https://www.alambiquegastrobar.es/wp-content/uploads/go-x/u/3cba2d05-6291-42dc-a08e-a6ea4d4a4cfa/l0,t175,w2000,h1124/image-768x432.jpg",
+        "https://www.alambiquegastrobar.es/wp-content/uploads/go-x/u/ca4910bc-a442-43be-852c-8c8f2a9e6962/l0,t25,w360,h202/image.png",
+        "https://www.alambiquegastrobar.es/wp-content/uploads/go-x/u/972cd04e-bc3a-4e2c-80f3-eed06763723a/l127,t0,w1347,h757/image-768x432.jpg",
+        "https://www.alambiquegastrobar.es/wp-content/uploads/go-x/u/1e6a4f4a-bb59-4e5e-9ffd-11893e920c2c/l0,t2,w1272,h267/image-768x161.png",
+        "https://www.alambiquegastrobar.es/wp-content/uploads/go-x/u/387c4363-c039-46f7-bf5b-4b3de407cb4b/image-228x64.png"
+      ],
+      "cartas": [
+        {
+          "nombre": "Carta Reservas y Pedidos",
+          "categorias": [
+            {
+              "nombre": "Entrantes",
+              "platos": [
+                {
+                  "nombre": "Hamburguesas gourmet en el centro de Mieres",
+                  "precios": []
+                }
+              ]
+            },
+            {
+              "nombre": "Burritos",
+              "platos": [
+                {
+                  "nombre": "Burrito de cochinita o pollo",
+                  "precios": [
+                    {
+                      "precio": "8,50€"
+                    }
+                  ]
+                },
+                {
+                  "nombre": "Burrito vegetal",
+                  "precios": [
+                    {
+                      "precio": "7,50€"
+                    }
+                  ]
+                },
+                {
+                  "nombre": "Burrito vegano",
+                  "precios": [
+                    {
+                      "precio": "7,50€"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nombre": "Entrantes",
+              "platos": [
+                {
+                  "nombre": "Patatas",
+                  "precios": [
+                    {
+                      "precio": "4,50€"
+                    }
+                  ]
+                },
+                {
+                  "nombre": "Patatas diablo",
+                  "precios": [
+                    {
+                      "precio": "6,50€"
+                    }
+                  ]
+                },
+                {
+                  "nombre": "Pan bao relleno de carrilleras y pimientos",
+                  "precios": [
+                    {
+                      "precio": "9,50€"
+                    }
+                  ]
+                },
+                {
+                  "nombre": "Crujiente de pollo",
+                  "precios": [
+                    {
+                      "precio": "10,00€"
+                    }
+                  ]
+                },
+                {
+                  "nombre": "Patatas con virutas de queso y bacon",
+                  "precios": [
+                    {
+                      "precio": "7,50€"
+                    }
+                  ]
+                },
+                {
+                  "nombre": "Jalapeños con alioli de limón",
+                  "precios": [
+                    {
+                      "precio": "7,50€"
+                    }
+                  ]
+                },
+                {
+                  "nombre": "Nachos con guacamole y pisto picante",
+                  "precios": [
+                    {
+                      "precio": "6,50€"
+                    }
+                  ]
+                },
+                {
+                  "nombre": "Nachos con vinagreta de tomate con mostaza, miel, soja, pepinillo y guacamole",
+                  "precios": [
+                    {
+                      "precio": "8,50€"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nombre": "Hamburguesas",
+              "platos": [
+                {
+                  "nombre": "Hamburguesa Leny’s",
+                  "precios": [
+                    {
+                      "precio": "12,50€"
+                    }
+                  ]
+                },
+                {
+                  "nombre": "Hamburguesa normal",
+                  "precios": [
+                    {
+                      "precio": "6,50€"
+                    }
+                  ]
+                },
+                {
+                  "nombre": "Hamburguesa normal con queso",
+                  "precios": [
+                    {
+                      "precio": "7,50€"
+                    }
+                  ]
+                },
+                {
+                  "nombre": "Hamburguesa Faedo's",
+                  "precios": [
+                    {
+                      "precio": "9,50€"
+                    }
+                  ]
+                },
+                {
+                  "nombre": "Hamburguesa rústica",
+                  "precios": [
+                    {
+                      "precio": "8,50€"
+                    }
+                  ]
+                },
+                {
+                  "nombre": "Hamburguesa Alambique",
+                  "precios": [
+                    {
+                      "precio": "8,50€"
+                    }
+                  ]
+                },
+                {
+                  "nombre": "Hamburguesa bodeguera",
+                  "precios": [
+                    {
+                      "precio": "10,50€"
+                    }
+                  ]
+                },
+                {
+                  "nombre": "Hamburguesa de Maverick",
+                  "precios": [
+                    {
+                      "precio": "12,50€"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nombre": "Pizzas",
+              "platos": [
+                {
+                  "nombre": "La pizza de Carlota",
+                  "precios": [
+                    {
+                      "precio": "20,00€"
+                    }
+                  ]
+                },
+                {
+                  "nombre": "Pollo a la diabla",
+                  "precios": [
+                    {
+                      "precio": "18,00€"
+                    }
+                  ]
+                },
+                {
+                  "nombre": "De bonito",
+                  "precios": [
+                    {
+                      "precio": "18,00€"
+                    }
+                  ]
+                },
+                {
+                  "nombre": "De cecina",
+                  "precios": [
+                    {
+                      "precio": "18,00€"
+                    }
+                  ]
+                },
+                {
+                  "nombre": "Rústica",
+                  "precios": [
+                    {
+                      "precio": "18,00€"
+                    }
+                  ]
+                },
+                {
+                  "nombre": "De quesos",
+                  "precios": [
+                    {
+                      "precio": "20,00€"
+                    }
+                  ]
+                },
+                {
+                  "nombre": "Vegetal",
+                  "precios": [
+                    {
+                      "precio": "18,00€"
+                    }
+                  ]
+                },
+                {
+                  "nombre": "De carrilleras",
+                  "precios": [
+                    {
+                      "precio": "20,00€"
+                    }
+                  ]
+                },
+                {
+                  "nombre": "Sencilla",
+                  "precios": [
+                    {
+                      "precio": "16,00€"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nombre": "Sándwiches",
+              "platos": [
+                {
+                  "nombre": "Sándwich sencillo",
+                  "precios": [
+                    {
+                      "precio": "4,50€"
+                    }
+                  ]
+                },
+                {
+                  "nombre": "Sándwich tres en uno",
+                  "precios": [
+                    {
+                      "precio": "5,50€"
+                    }
+                  ]
+                },
+                {
+                  "nombre": "Sándwich vegetal",
+                  "precios": [
+                    {
+                      "precio": "8,50€"
+                    }
+                  ]
+                },
+                {
+                  "nombre": "El sándwich de Rebor",
+                  "precios": [
+                    {
+                      "precio": "10,50€"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "menus": []
+    },
+    {
+      "type": "node",
+      "id": 10764799637,
+      "lat": 43.2450701,
+      "lon": -5.7769273,
+      "timestamp": "2023-03-26T23:53:03Z",
+      "version": 2,
+      "changeset": 134154433,
+      "user": "bermiego",
+      "uid": 3699758,
+      "tags": {
+        "amenity": "cafe"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 11742651891,
+      "lat": 43.2342338,
+      "lon": -5.7797083,
+      "timestamp": "2024-07-01T17:15:37Z",
+      "version": 2,
+      "changeset": 153421518,
+      "user": "Oviedo1997",
+      "uid": 17349438,
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 12041292069,
+      "lat": 43.251477,
+      "lon": -5.7796167,
+      "timestamp": "2024-07-08T09:04:21Z",
+      "version": 1,
+      "changeset": 153693348,
+      "user": "unheh",
+      "uid": 19443614,
+      "tags": {
+        "amenity": "bar",
+        "name": "El Bodegon"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 12052719843,
+      "lat": 43.2492401,
+      "lon": -5.7724332,
+      "timestamp": "2024-07-14T09:01:58Z",
+      "version": 1,
+      "changeset": 153921465,
+      "user": "jorgeyp",
+      "uid": 2089491,
+      "tags": {
+        "amenity": "bar",
+        "fixme": "resurvey",
+        "name": "El Museo"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 12052719844,
+      "lat": 43.2490185,
+      "lon": -5.772349,
+      "timestamp": "2024-07-14T09:01:58Z",
+      "version": 1,
+      "changeset": 153921465,
+      "user": "jorgeyp",
+      "uid": 2089491,
+      "tags": {
+        "amenity": "bar",
+        "fixme": "resurvey",
+        "name": "Rodapié"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 12052719845,
+      "lat": 43.2492582,
+      "lon": -5.7732362,
+      "timestamp": "2024-07-14T09:01:58Z",
+      "version": 1,
+      "changeset": 153921465,
+      "user": "jorgeyp",
+      "uid": 2089491,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "fixme": "resurvey",
+        "name": "Café Yaracuy"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 12052719846,
+      "lat": 43.2490203,
+      "lon": -5.7722042,
+      "timestamp": "2024-07-14T09:01:58Z",
+      "version": 1,
+      "changeset": 153921465,
+      "user": "jorgeyp",
+      "uid": 2089491,
+      "tags": {
+        "amenity": "restaurant",
+        "fixme": "resurvey",
+        "name": "La Mendiga"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 12054677882,
+      "lat": 43.2478254,
+      "lon": -5.7731191,
+      "timestamp": "2024-07-15T08:50:16Z",
+      "version": 1,
+      "changeset": 153961034,
+      "user": "jorgeyp",
+      "uid": 2089491,
+      "tags": {
+        "amenity": "bar",
+        "fixme": "resurvey",
+        "name": "Meca",
+        "smoking": "no"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 12084831954,
+      "lat": 43.2084202,
+      "lon": -5.7906423,
+      "timestamp": "2024-07-31T10:45:58Z",
+      "version": 1,
+      "changeset": 154642661,
+      "user": "ivansanchez",
+      "uid": 5265,
+      "tags": {
+        "amenity": "pub",
+        "name": "El poli"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 12084935834,
+      "lat": 43.2071521,
+      "lon": -5.7898962,
+      "timestamp": "2024-07-31T10:45:34Z",
+      "version": 1,
+      "changeset": 154642661,
+      "user": "ivansanchez",
+      "uid": 5265,
+      "tags": {
+        "amenity": "pub",
+        "name": "La vega"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 12084944187,
+      "lat": 43.2051479,
+      "lon": -5.7911032,
+      "timestamp": "2024-07-31T10:46:30Z",
+      "version": 1,
+      "changeset": 154642661,
+      "user": "ivansanchez",
+      "uid": 5265,
+      "tags": {
+        "amenity": "pub",
+        "name": "L' ultimu"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 12089165559,
+      "lat": 43.2042923,
+      "lon": -5.7914201,
+      "timestamp": "2024-08-02T15:23:34Z",
+      "version": 1,
+      "changeset": 154741524,
+      "user": "ivansanchez",
+      "uid": 5265,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "El rincón de Cucu"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 12089604045,
+      "lat": 43.2036013,
+      "lon": -5.7898674,
+      "timestamp": "2024-08-02T21:35:47Z",
+      "version": 1,
+      "changeset": 154754139,
+      "user": "ivansanchez",
+      "uid": 5265,
+      "tags": {
+        "amenity": "pub",
+        "name": "Hogar del pensionista"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 12090780149,
+      "lat": 43.250031,
+      "lon": -5.7729941,
+      "timestamp": "2024-08-03T18:31:06Z",
+      "version": 1,
+      "changeset": 154785327,
+      "user": "ivansanchez",
+      "uid": 5265,
+      "tags": {
+        "amenity": "pub",
+        "name": "Carolina"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 12090780150,
+      "lat": 43.2502242,
+      "lon": -5.7759232,
+      "timestamp": "2024-08-03T18:31:35Z",
+      "version": 1,
+      "changeset": 154785327,
+      "user": "ivansanchez",
+      "uid": 5265,
+      "tags": {
+        "amenity": "ice_cream",
+        "name": "Los valencianos"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 12090799943,
+      "lat": 43.2484566,
+      "lon": -5.7720708,
+      "timestamp": "2024-08-03T18:30:49Z",
+      "version": 1,
+      "changeset": 154785327,
+      "user": "ivansanchez",
+      "uid": 5265,
+      "tags": {
+        "amenity": "pub",
+        "name": "Del camín"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 12090811576,
+      "lat": 43.2501728,
+      "lon": -5.7752543,
+      "timestamp": "2024-08-03T18:31:54Z",
+      "version": 1,
+      "changeset": 154785327,
+      "user": "ivansanchez",
+      "uid": 5265,
+      "tags": {
+        "amenity": "cafe",
+        "name": "El palau"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 12090815592,
+      "lat": 43.2654879,
+      "lon": -5.7381236,
+      "timestamp": "2024-08-03T18:32:28Z",
+      "version": 1,
+      "changeset": 154785327,
+      "user": "ivansanchez",
+      "uid": 5265,
+      "tags": {
+        "amenity": "pub",
+        "name": "Baturicio"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 12090816451,
+      "lat": 43.2653209,
+      "lon": -5.7379328,
+      "timestamp": "2024-08-03T18:32:03Z",
+      "version": 1,
+      "changeset": 154785327,
+      "user": "ivansanchez",
+      "uid": 5265,
+      "tags": {
+        "amenity": "pub",
+        "name": "La parra"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 12090819246,
+      "lat": 43.2499882,
+      "lon": -5.7724961,
+      "timestamp": "2024-08-03T18:31:04Z",
+      "version": 1,
+      "changeset": 154785327,
+      "user": "ivansanchez",
+      "uid": 5265,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "kebab",
+        "name": "Estanbul"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 12090819504,
+      "lat": 43.2501949,
+      "lon": -5.7726525,
+      "timestamp": "2024-08-03T18:31:05Z",
+      "version": 1,
+      "changeset": 154785327,
+      "user": "ivansanchez",
+      "uid": 5265,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Santa Bárbara"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 12090819601,
+      "lat": 43.2501824,
+      "lon": -5.7772192,
+      "timestamp": "2024-08-03T18:31:51Z",
+      "version": 1,
+      "changeset": 154785327,
+      "user": "ivansanchez",
+      "uid": 5265,
+      "tags": {
+        "amenity": "pub",
+        "name": "Seattle Garden"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 12090819604,
+      "lat": 43.2284586,
+      "lon": -5.7820145,
+      "timestamp": "2024-08-03T18:33:07Z",
+      "version": 1,
+      "changeset": 154785327,
+      "user": "ivansanchez",
+      "uid": 5265,
+      "tags": {
+        "amenity": "cafe",
+        "name": "La huella"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 12148729912,
+      "lat": 43.2428931,
+      "lon": -5.7787609,
+      "timestamp": "2024-08-31T23:08:16Z",
+      "version": 1,
+      "changeset": 156034749,
+      "user": "Oviedo1997",
+      "uid": 17349438,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Cafetería Barjola"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 12148729913,
+      "lat": 43.2426345,
+      "lon": -5.7790509,
+      "timestamp": "2024-08-31T23:08:16Z",
+      "version": 1,
+      "changeset": 156034749,
+      "user": "Oviedo1997",
+      "uid": 17349438,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Puerto Pinos"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 12148729914,
+      "lat": 43.2424469,
+      "lon": -5.7790094,
+      "timestamp": "2024-08-31T23:08:16Z",
+      "version": 1,
+      "changeset": 156034749,
+      "user": "Oviedo1997",
+      "uid": 17349438,
+      "tags": {
+        "amenity": "pub",
+        "name": "Xareu"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 12186793894,
+      "lat": 43.2485619,
+      "lon": -5.7761658,
+      "timestamp": "2024-09-19T18:51:31Z",
+      "version": 1,
+      "changeset": 156835455,
+      "user": "sanchi",
+      "uid": 170106,
+      "tags": {
+        "amenity": "pub",
+        "name": "Cafe-Bar Cafe's",
+        "phone": "+34985462366"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 12186793895,
+      "lat": 43.2512468,
+      "lon": -5.77186,
+      "timestamp": "2024-09-19T18:51:31Z",
+      "version": 1,
+      "changeset": 156835455,
+      "user": "sanchi",
+      "uid": 170106,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Bar Restaurante TC28",
+        "phone": "+34 984187129",
+        "website": "https://tc28.es/"
+      },
+      "urlsToScrape": [
+        "https://tc28.es/carta/carta/",
+        "mailto:hola@tc28.es"
+      ],
+      "resources": [
+        "https://tc28.es/wp-content/uploads/2024/03/logo.webp",
+        "https://tc28.es/wp-content/themes/plantilla/imagenes/facebook_negro.svg",
+        "https://tc28.es/wp-content/themes/plantilla/imagenes/instagram_negro.svg",
+        "https://tc28.es/wp-content/uploads/2024/03/chester-tc28-beber-y-comer.jpeg-768x576.webp",
+        "https://tc28.es/wp-content/uploads/2024/03/equipo-tc28.jpeg-1200x573.webp",
+        "https://tc28.es/wp-content/uploads/2024/03/steak-tartar-tc28-768x768.webp",
+        "https://tc28.es/wp-content/uploads/2024/03/pescado-tc28-768x768.webp",
+        "https://tc28.es/wp-content/uploads/2024/03/pincho-el-mundo-es-un-bunuelo-final-campeonato-espana-768x768.webp",
+        "https://tc28.es/wp-content/uploads/2024/03/carne-tc28-768x768.webp",
+        "https://tc28.es/wp-content/uploads/2024/03/pasta-tc28-768x768.webp",
+        "https://tc28.es/wp-content/uploads/2024/03/logo-footer.png",
+        "https://tc28.es/wp-content/themes/plantilla/imagenes/subvencion-kit-digital/UE.webp",
+        "https://tc28.es/wp-content/themes/plantilla/imagenes/subvencion-kit-digital/plan_es.webp",
+        "https://tc28.es/wp-content/themes/plantilla/imagenes/regala_restaurantes.svg"
+      ],
+      "cartas": [
+        {
+          "nombre": "Carta de TC28",
+          "categorias": [
+            {
+              "nombre": "Entrantes",
+              "platos": [
+                {
+                  "nombre": "BUÑUELO AL PASTOR",
+                  "precios": [
+                    {
+                      "precio": ""
+                    }
+                  ]
+                },
+                {
+                  "nombre": "SOBRA BRAVA",
+                  "precios": [
+                    {
+                      "precio": ""
+                    }
+                  ]
+                },
+                {
+                  "nombre": "CROQUETAS",
+                  "precios": [
+                    {
+                      "precio": ""
+                    }
+                  ]
+                },
+                {
+                  "nombre": "ENSALADILLA RUSA",
+                  "precios": [
+                    {
+                      "precio": ""
+                    }
+                  ]
+                },
+                {
+                  "nombre": "NIGIRI DE LANGOSTINOS AL AJILLO",
+                  "precios": [
+                    {
+                      "precio": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nombre": "Platos principales",
+              "platos": [
+                {
+                  "nombre": "PULPO Y ARROZ",
+                  "precios": [
+                    {
+                      "precio": ""
+                    }
+                  ]
+                },
+                {
+                  "nombre": "BRIOCHE DE CHIPIRONES Y Mayonesa de Kimchi",
+                  "precios": [
+                    {
+                      "precio": ""
+                    }
+                  ]
+                },
+                {
+                  "nombre": "ALCACHOFA CONFITADA",
+                  "precios": [
+                    {
+                      "precio": ""
+                    }
+                  ]
+                },
+                {
+                  "nombre": "LOS CALLOS DEL TC",
+                  "precios": [
+                    {
+                      "precio": ""
+                    }
+                  ]
+                },
+                {
+                  "nombre": "WOK DE FIDEOS UDON",
+                  "precios": [
+                    {
+                      "precio": ""
+                    }
+                  ]
+                },
+                {
+                  "nombre": "COCHINILLO",
+                  "precios": [
+                    {
+                      "precio": ""
+                    }
+                  ]
+                },
+                {
+                  "nombre": "LOMO DE VACUNO PREMIUM",
+                  "precios": [
+                    {
+                      "precio": ""
+                    }
+                  ]
+                },
+                {
+                  "nombre": "ESCALOPE ESTILO FISMULER",
+                  "precios": [
+                    {
+                      "precio": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "menus": []
+    },
+    {
+      "type": "node",
+      "id": 12190020026,
+      "lat": 43.1945832,
+      "lon": -5.7758089,
+      "timestamp": "2024-09-21T14:38:15Z",
+      "version": 1,
+      "changeset": 156915116,
+      "user": "Oviedo1997",
+      "uid": 17349438,
+      "tags": {
+        "amenity": "cafe"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "node",
+      "id": 12496172029,
+      "lat": 43.2432809,
+      "lon": -5.778815,
+      "timestamp": "2025-01-12T16:46:32Z",
+      "version": 1,
+      "changeset": 161280017,
+      "user": "Oviedo1997",
+      "uid": 17349438,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "El Cajonín"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "way",
+      "id": 135514525,
+      "timestamp": "2024-02-07T22:36:28Z",
+      "version": 6,
+      "changeset": 147195289,
+      "user": "kapazao_import",
+      "uid": 8770019,
+      "center": {
+        "lat": 43.2485412,
+        "lon": -5.7721559
+      },
+      "nodes": [
+        1488378853,
+        3965903728,
+        3965903726,
+        3965903724,
+        1488378842,
+        1488378855,
+        1488378853
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "building:levels": "3",
+        "cuisine": "asturian",
+        "internet_access": "no",
+        "name": "La Consistorial Sidreria",
+        "outdoor_seating": "yes",
+        "phone": "+34 985 451990",
+        "smoking": "no",
+        "website": "https://laconsistorial.com/",
+        "wheelchair": "yes"
+      },
+      "urlsToScrape": [
+        "https://laconsistorial.com/nuestra-carta/",
+        "https://laconsistorial.com/sidreria-y-restaurante/"
+      ],
+      "resources": [
+        "https://laconsistorial.com/wp-content/uploads/2023/01/ConsistorialLogo_w.png",
+        "https://laconsistorial.com/wp-content/uploads/2023/01/Consistorial_logo_w.png",
+        "https://laconsistorial.com/wp-content/uploads/2023/02/LogoTradiccion.png",
+        "https://laconsistorial.com/wp-content/uploads/2023/02/LogoCalidad.png",
+        "https://laconsistorial.com/wp-content/uploads/2023/02/Logollevar.png",
+        "https://laconsistorial.com/wp-content/uploads/2023/02/MejorFabadaMundoAsturias.jpg",
+        "https://laconsistorial.com/wp-content/uploads/2023/02/FamiliaConsistorialMieres.jpg",
+        "https://laconsistorial.com/wp-content/uploads/2023/03/Footer_Kit.png"
+      ],
+      "cartas": [
+        {
+          "nombre": "Restaurante La Consistorial",
+          "categorias": [
+            {
+              "nombre": "Platos tradicionales",
+              "platos": [
+                {
+                  "nombre": "Especial de cerdo ibérico de Joselito",
+                  "precios": []
+                },
+                {
+                  "nombre": "Bacalao",
+                  "precios": []
+                },
+                {
+                  "nombre": "Setas",
+                  "precios": []
+                },
+                {
+                  "nombre": "Merluza",
+                  "precios": []
+                },
+                {
+                  "nombre": "Bonito",
+                  "precios": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Sidrería La Consistorial",
+          "categorias": [
+            {
+              "nombre": "Tapas",
+              "platos": [
+                {
+                  "nombre": "Patatas bravas",
+                  "precios": []
+                },
+                {
+                  "nombre": "Croquetas",
+                  "precios": []
+                },
+                {
+                  "nombre": "Pastel de cabracho",
+                  "precios": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Restaurante La Consistorial",
+          "categorias": [
+            {
+              "nombre": "Menú diario",
+              "platos": []
+            },
+            {
+              "nombre": "Menú especial fin de semana y festivos",
+              "platos": []
+            }
+          ]
+        }
+      ],
+      "menus": []
+    },
+    {
+      "type": "way",
+      "id": 266360863,
+      "timestamp": "2014-03-15T15:49:16Z",
+      "version": 1,
+      "changeset": 21119249,
+      "user": "Osmand+",
+      "uid": 1433092,
+      "center": {
+        "lat": 43.218125,
+        "lon": -5.6553455
+      },
+      "nodes": [
+        2719344632,
+        2719344636,
+        2719344639,
+        2719344643,
+        2719344632
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "regional",
+        "name": "Casa Migio"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "way",
+      "id": 277660121,
+      "timestamp": "2022-11-12T18:01:39Z",
+      "version": 2,
+      "changeset": 128822643,
+      "user": "Oviedo1997",
+      "uid": 17349438,
+      "center": {
+        "lat": 43.2321845,
+        "lon": -5.7790898
+      },
+      "nodes": [
+        2821432025,
+        2821432027,
+        2821432028,
+        2821432026,
+        2821432025
+      ],
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Burger King",
+        "brand:wikidata": "Q177054",
+        "building": "industrial",
+        "cuisine": "burger",
+        "name": "Burger King",
+        "takeaway": "yes"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "way",
+      "id": 309791959,
+      "timestamp": "2021-04-08T22:34:14Z",
+      "version": 3,
+      "changeset": 102592593,
+      "user": "bermiego",
+      "uid": 3699758,
+      "center": {
+        "lat": 43.2870694,
+        "lon": -5.8095446
+      },
+      "nodes": [
+        3151371314,
+        3151371312,
+        3151371313,
+        8608497405,
+        3151371316,
+        3151371315,
+        3151371314
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Sidreria Angel"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "way",
+      "id": 372425374,
+      "timestamp": "2015-09-26T05:44:57Z",
+      "version": 1,
+      "changeset": 34256515,
+      "user": "pedrobv",
+      "uid": 581863,
+      "center": {
+        "lat": 43.2742018,
+        "lon": -5.8305052
+      },
+      "nodes": [
+        3759837060,
+        3759837057,
+        3759836755,
+        3759836754,
+        3759836756,
+        3759837059,
+        3759837062,
+        3759837061,
+        3759837060
+      ],
+      "tags": {
+        "addr:housenumber": "44",
+        "addr:street": "Calle Baiña",
+        "amenity": "restaurant",
+        "contact:phone": "+34 985446127",
+        "contact:website": "http://llagarbaina.sociosg.com",
+        "cuisine": "regional",
+        "name": "El llagar de Baiña",
+        "opening_hours": "Mo 12:00-17:00; Tu-Su 12:00-24:00"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "way",
+      "id": 423731344,
+      "timestamp": "2016-06-09T03:29:00Z",
+      "version": 1,
+      "changeset": 39898057,
+      "user": "Xuacu",
+      "uid": 7045,
+      "center": {
+        "lat": 43.217319,
+        "lon": -5.8184699
+      },
+      "nodes": [
+        4232983460,
+        4232983459,
+        4232983410,
+        4232983412,
+        4232983430,
+        4232983460
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "regional",
+        "name": "El Llagar de Cenera"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "way",
+      "id": 423731345,
+      "timestamp": "2016-06-09T03:29:00Z",
+      "version": 1,
+      "changeset": 39898057,
+      "user": "Xuacu",
+      "uid": 7045,
+      "center": {
+        "lat": 43.2218001,
+        "lon": -5.7990904
+      },
+      "nodes": [
+        4232983724,
+        4232983709,
+        4232983707,
+        4232983716,
+        4232983715,
+        4232983706,
+        4232983699,
+        4232983704,
+        4232983701,
+        4232983710,
+        4232983712,
+        4232983718,
+        4232983720,
+        4232983721,
+        4232983724
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "spanish",
+        "name": "El Molín de Valdés",
+        "outdoor_seating": "yes",
+        "smoking": "outside"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "way",
+      "id": 423731346,
+      "timestamp": "2016-06-09T03:29:00Z",
+      "version": 1,
+      "changeset": 39898057,
+      "user": "Xuacu",
+      "uid": 7045,
+      "center": {
+        "lat": 43.2186014,
+        "lon": -5.8186605
+      },
+      "nodes": [
+        4232983628,
+        4232983626,
+        4232983616,
+        4232983618,
+        4232983628
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "spanish",
+        "name": "El Palacio de Arriba",
+        "outdoor_seating": "yes",
+        "smoking": "outside"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "way",
+      "id": 423731348,
+      "timestamp": "2017-07-18T19:36:23Z",
+      "version": 2,
+      "changeset": 50388000,
+      "user": "Xuacu",
+      "uid": 7045,
+      "center": {
+        "lat": 43.2173286,
+        "lon": -5.8180146
+      },
+      "nodes": [
+        4232983472,
+        4232983435,
+        4232983394,
+        4232983393,
+        4232983406,
+        4232983443,
+        4978023966,
+        4232983472
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "spanish",
+        "name": "La Panoya",
+        "outdoor_seating": "yes",
+        "smoking": "outside"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "way",
+      "id": 423731349,
+      "timestamp": "2016-06-09T03:29:01Z",
+      "version": 1,
+      "changeset": 39898057,
+      "user": "Xuacu",
+      "uid": 7045,
+      "center": {
+        "lat": 43.2181059,
+        "lon": -5.80896
+      },
+      "nodes": [
+        4232983570,
+        4232983586,
+        4232983562,
+        4232983549,
+        4232983570
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "spanish",
+        "name": "La Viña",
+        "outdoor_seating": "yes",
+        "smoking": "outside"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "way",
+      "id": 547430050,
+      "timestamp": "2017-12-17T12:02:06Z",
+      "version": 1,
+      "changeset": 54701385,
+      "user": "bermiego",
+      "uid": 3699758,
+      "center": {
+        "lat": 43.2318015,
+        "lon": -5.760368
+      },
+      "nodes": [
+        5289582570,
+        5289582571,
+        5289582572,
+        5289582573,
+        5289582570
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "house",
+        "name": "Restaurante El Rancho"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "way",
+      "id": 799308630,
+      "timestamp": "2020-05-03T09:22:53Z",
+      "version": 1,
+      "changeset": 84554582,
+      "user": "ddsaimon",
+      "uid": 1893271,
+      "center": {
+        "lat": 43.2117802,
+        "lon": -5.7299792
+      },
+      "nodes": [
+        7475511733,
+        7475511737,
+        7475511736,
+        7475511735,
+        7475511734,
+        7475511733
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "name": "Cafeteria San Jose"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "way",
+      "id": 1118665468,
+      "timestamp": "2022-12-01T15:34:33Z",
+      "version": 1,
+      "changeset": 129608914,
+      "user": "carmen_viesca",
+      "uid": 12522996,
+      "center": {
+        "lat": 43.2225691,
+        "lon": -5.7957494
+      },
+      "nodes": [
+        10231044700,
+        10231044701,
+        10231044702,
+        10231044703,
+        10231044704,
+        10231044705,
+        10231044700
+      ],
+      "tags": {
+        "addr:city": "Cuna",
+        "addr:housenumber": "26",
+        "addr:postcode": "33615",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "regional",
+        "name": "Restaurante Casa Fernández"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    },
+    {
+      "type": "way",
+      "id": 1298159267,
+      "timestamp": "2025-03-02T09:07:46Z",
+      "version": 2,
+      "changeset": 163113052,
+      "user": "Agamenon",
+      "uid": 1976143,
+      "center": {
+        "lat": 43.2342426,
+        "lon": -5.7796889
+      },
+      "nodes": [
+        12026468629,
+        12026468630,
+        12026468631,
+        12026468632,
+        12026468629
+      ],
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "urlsToScrape": [],
+      "resources": [],
+      "cartas": null,
+      "menus": null
+    }
+  ]
+}

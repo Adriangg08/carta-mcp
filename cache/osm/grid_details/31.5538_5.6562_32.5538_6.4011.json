@@ -1,0 +1,184 @@
+[
+  {
+    "type": "node",
+    "id": 4416374794,
+    "lat": 31.6898306,
+    "lon": 6.0642714,
+    "timestamp": "2018-12-02T17:06:49Z",
+    "version": 5,
+    "changeset": 65100356,
+    "user": "Hechame Tamerhoulet",
+    "uid": 5387059,
+    "tags": {
+      "addr:country": "DZ",
+      "addr:housenumber": "213796949820",
+      "addr:postcode": "30001",
+      "addr:street": "شارع مستشفى حسين ايت احمد",
+      "amenity": "restaurant",
+      "cuisine": "arab",
+      "name": "The Diner",
+      "name:en": "The Dinner",
+      "phone": "+213796949820"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4753042322,
+    "lat": 31.6905109,
+    "lon": 6.0633728,
+    "timestamp": "2022-09-10T21:26:40Z",
+    "version": 5,
+    "changeset": 126030530,
+    "user": "woy_cb",
+    "uid": 284094,
+    "tags": {
+      "addr:city": "حاسي مسعود",
+      "addr:city:ar": "حاسي مسعود",
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4814115221,
+    "lat": 31.6901177,
+    "lon": 6.0620651,
+    "timestamp": "2018-06-13T17:54:49Z",
+    "version": 4,
+    "changeset": 59818370,
+    "user": "ButterflyOfFire_",
+    "uid": 2842609,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "مطعم الخيمة",
+      "name:ar": "مطعم الخيمة",
+      "name:en": "Khayma restaurant",
+      "name:fr": "Restaurant el Khayma"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5825911240,
+    "lat": 31.7371045,
+    "lon": 6.051943,
+    "timestamp": "2018-08-11T21:52:42Z",
+    "version": 1,
+    "changeset": 61575670,
+    "user": "SMAOUH",
+    "uid": 4292200,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurent"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5885455049,
+    "lat": 31.6861541,
+    "lon": 6.0689382,
+    "timestamp": "2018-09-05T19:48:59Z",
+    "version": 1,
+    "changeset": 62323061,
+    "user": "SMAOUH",
+    "uid": 4292200,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Bourek Annabi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9521467317,
+    "lat": 31.6898082,
+    "lon": 6.0631283,
+    "timestamp": "2022-02-20T11:42:21Z",
+    "version": 1,
+    "changeset": 117634744,
+    "user": "Karim Remili",
+    "uid": 11965709,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "El Baraka"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11171568437,
+    "lat": 31.6962202,
+    "lon": 6.0550895,
+    "timestamp": "2023-09-06T10:29:33Z",
+    "version": 1,
+    "changeset": 140888461,
+    "user": "yamada-as",
+    "uid": 346585,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "way",
+    "id": 276961454,
+    "timestamp": "2014-06-24T02:41:47Z",
+    "version": 2,
+    "changeset": 23114076,
+    "user": "René Hammoudi",
+    "uid": 2037600,
+    "center": {
+      "lat": 31.7370793,
+      "lon": 6.0519674
+    },
+    "nodes": [
+      2815156020,
+      2815156021,
+      2815156022,
+      2815156023,
+      2815156020
+    ],
+    "tags": {
+      "addr:city": "Hassi messaoud",
+      "addr:postcode": "30500",
+      "addr:street": "Base du 24 Fevrier",
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Complexe Restauration"
+    }
+  },
+  {
+    "type": "way",
+    "id": 432963015,
+    "timestamp": "2016-07-24T22:55:29Z",
+    "version": 1,
+    "changeset": 41000328,
+    "user": "The Gisist",
+    "uid": 2421058,
+    "center": {
+      "lat": 31.6669141,
+      "lon": 6.1464191
+    },
+    "nodes": [
+      4318884217,
+      4318884218,
+      4318884214,
+      4318884213,
+      4318884212,
+      4318884211,
+      4318884210,
+      4318884209,
+      4318884205,
+      4318884206,
+      4318884201,
+      4318884202,
+      4318884203,
+      4318884204,
+      4318884207,
+      4318884208,
+      4318884215,
+      4318884216,
+      4318884217
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Complexe Restauration"
+    }
+  }
+]

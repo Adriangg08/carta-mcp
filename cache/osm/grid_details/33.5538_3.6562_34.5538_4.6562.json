@@ -1,0 +1,33 @@
+[
+  {
+    "type": "node",
+    "id": 10809412605,
+    "lat": 33.7203476,
+    "lon": 4.5289009,
+    "timestamp": "2023-04-13T23:17:57Z",
+    "version": 1,
+    "changeset": 134881404,
+    "user": "عمر ابو بكر",
+    "uid": 18943752,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "مطعم وسط المدينة"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10980259505,
+    "lat": 33.7202293,
+    "lon": 4.5289689,
+    "timestamp": "2023-06-16T08:22:22Z",
+    "version": 1,
+    "changeset": 137403279,
+    "user": "عمر ابو بكر",
+    "uid": 18943752,
+    "tags": {
+      "addr:postcode": "17024",
+      "addr:street": "شارع هواري بومدين",
+      "amenity": "restaurant"
+    }
+  }
+]

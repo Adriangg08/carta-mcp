@@ -1,0 +1,849 @@
+[
+  {
+    "type": "node",
+    "id": 622497323,
+    "lat": 29.7208075,
+    "lon": -8.9727766,
+    "timestamp": "2017-06-29T09:51:07Z",
+    "version": 5,
+    "changeset": 49913707,
+    "user": "ickeberlin",
+    "uid": 3571559,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Hotel, Restaurant Tanger",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 913515201,
+    "lat": 30.4691365,
+    "lon": -8.8833289,
+    "timestamp": "2019-09-22T11:44:46Z",
+    "version": 5,
+    "changeset": 74770123,
+    "user": "mikebond",
+    "uid": 6396199,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Café Restaurant Oasis"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1109134648,
+    "lat": 30.3857415,
+    "lon": -8.694872,
+    "timestamp": "2012-11-17T20:51:58Z",
+    "version": 2,
+    "changeset": 13910896,
+    "user": "staehler",
+    "uid": 118856,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Kasbah Tiout",
+      "phone": "+212 528550575",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1109136009,
+    "lat": 30.3823509,
+    "lon": -8.6986977,
+    "timestamp": "2012-11-17T20:52:01Z",
+    "version": 2,
+    "changeset": 13910896,
+    "user": "staehler",
+    "uid": 118856,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1687605611,
+    "lat": 30.4760781,
+    "lon": -8.9406863,
+    "timestamp": "2012-03-23T20:18:29Z",
+    "version": 2,
+    "changeset": 11077955,
+    "user": "Jardinauxetoiles",
+    "uid": 636126,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Riad El Aissi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2081443066,
+    "lat": 29.7546308,
+    "lon": -8.9595707,
+    "timestamp": "2012-12-24T18:18:00Z",
+    "version": 1,
+    "changeset": 14393630,
+    "user": "staehler",
+    "uid": 118856,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "A Tete Du Lion",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2081443067,
+    "lat": 29.7165468,
+    "lon": -8.9700087,
+    "timestamp": "2012-12-24T18:18:00Z",
+    "version": 1,
+    "changeset": 14393630,
+    "user": "staehler",
+    "uid": 118856,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Argana",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2081443069,
+    "lat": 29.7558743,
+    "lon": -8.962183,
+    "timestamp": "2018-10-15T23:44:19Z",
+    "version": 2,
+    "changeset": 63558545,
+    "user": "BegbertBiggs",
+    "uid": 6147159,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Camp L'arganier D'almmelne",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2081445864,
+    "lat": 29.720405,
+    "lon": -8.9724932,
+    "timestamp": "2012-12-24T18:18:58Z",
+    "version": 1,
+    "changeset": 14393630,
+    "user": "staehler",
+    "uid": 118856,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Redouane",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2081445867,
+    "lat": 29.7199995,
+    "lon": -8.9718471,
+    "timestamp": "2012-12-24T18:18:58Z",
+    "version": 1,
+    "changeset": 14393630,
+    "user": "staehler",
+    "uid": 118856,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Tafraout",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2298158223,
+    "lat": 29.7196591,
+    "lon": -8.9743551,
+    "timestamp": "2016-04-04T16:21:49Z",
+    "version": 2,
+    "changeset": 38295291,
+    "user": "altmetallfanatiker",
+    "uid": 2201722,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Cafe Restaurant Atlas"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2298158227,
+    "lat": 29.7207591,
+    "lon": -8.9751465,
+    "timestamp": "2013-05-10T11:54:25Z",
+    "version": 1,
+    "changeset": 16063029,
+    "user": "staehler",
+    "uid": 118856,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "L'Etoile Du Sud"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4485500490,
+    "lat": 30.4688263,
+    "lon": -8.8775461,
+    "timestamp": "2016-11-06T15:19:30Z",
+    "version": 1,
+    "changeset": 43443669,
+    "user": "Mike J J Keogh",
+    "uid": 4809146,
+    "tags": {
+      "addr:postcode": "83000",
+      "addr:street": "Ave de Prince Héritier",
+      "amenity": "restaurant",
+      "cuisine": "moroccan",
+      "name:en": "cafe restaurant/snack Al Masjid",
+      "phone": "0528853712"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4583630059,
+    "lat": 30.4725669,
+    "lon": -8.8751794,
+    "timestamp": "2023-09-21T14:36:31Z",
+    "version": 2,
+    "changeset": 141562889,
+    "user": "mbank",
+    "uid": 319920,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4735348728,
+    "lat": 30.5070179,
+    "lon": -8.7911504,
+    "timestamp": "2017-03-15T03:02:34Z",
+    "version": 1,
+    "changeset": 46857803,
+    "user": "Petroc2",
+    "uid": 4805834,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4735348730,
+    "lat": 30.5044271,
+    "lon": -8.7982721,
+    "timestamp": "2017-03-15T03:02:51Z",
+    "version": 1,
+    "changeset": 46857803,
+    "user": "Petroc2",
+    "uid": 4805834,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4737321421,
+    "lat": 30.5070696,
+    "lon": -8.7908753,
+    "timestamp": "2017-03-16T01:29:50Z",
+    "version": 1,
+    "changeset": 46885423,
+    "user": "Petroc2",
+    "uid": 4805834,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4773696682,
+    "lat": 30.4706957,
+    "lon": -8.8797108,
+    "timestamp": "2017-04-06T20:57:48Z",
+    "version": 2,
+    "changeset": 47521050,
+    "user": "alex1974",
+    "uid": 664377,
+    "tags": {
+      "amenity": "restaurant",
+      "fixme": "correct position?",
+      "name": "Pâtisserie Oumnia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4786077392,
+    "lat": 30.4641595,
+    "lon": -8.88225,
+    "timestamp": "2017-04-10T11:46:44Z",
+    "version": 1,
+    "changeset": 47619785,
+    "user": "alex1974",
+    "uid": 664377,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Café Restaurant Jnan Soussia",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4788946555,
+    "lat": 30.4714334,
+    "lon": -8.8694667,
+    "timestamp": "2017-04-11T20:35:17Z",
+    "version": 1,
+    "changeset": 47669463,
+    "user": "alex1974",
+    "uid": 664377,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant Anas",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4941926076,
+    "lat": 29.7211857,
+    "lon": -8.9738272,
+    "timestamp": "2017-06-29T10:15:06Z",
+    "version": 1,
+    "changeset": 49914283,
+    "user": "ickeberlin",
+    "uid": 3571559,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4941926077,
+    "lat": 29.7213036,
+    "lon": -8.9739922,
+    "timestamp": "2017-06-29T10:15:06Z",
+    "version": 1,
+    "changeset": 49914283,
+    "user": "ickeberlin",
+    "uid": 3571559,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4941926082,
+    "lat": 29.7199097,
+    "lon": -8.9714407,
+    "timestamp": "2017-06-29T10:15:06Z",
+    "version": 1,
+    "changeset": 49914283,
+    "user": "ickeberlin",
+    "uid": 3571559,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5006491621,
+    "lat": 30.4729138,
+    "lon": -8.8773892,
+    "timestamp": "2017-08-01T07:06:33Z",
+    "version": 1,
+    "changeset": 50740297,
+    "user": "まさる2000",
+    "uid": 6056376,
+    "tags": {
+      "amenity": "restaurant",
+      "name:en": "chez NADA"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5109731222,
+    "lat": 29.7207172,
+    "lon": -8.9740185,
+    "timestamp": "2017-09-20T23:06:08Z",
+    "version": 2,
+    "changeset": 52227290,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Le Marrakech",
+      "name:fr": "Le Marrakech"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5254824873,
+    "lat": 30.4691908,
+    "lon": -8.8764247,
+    "timestamp": "2017-11-29T22:05:39Z",
+    "version": 1,
+    "changeset": 54190381,
+    "user": "palimpadum",
+    "uid": 155936,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5316911097,
+    "lat": 30.3000765,
+    "lon": -8.524873,
+    "timestamp": "2018-01-02T19:09:21Z",
+    "version": 1,
+    "changeset": 55109396,
+    "user": "ratrun",
+    "uid": 474183,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "imi n'talat"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5544895246,
+    "lat": 29.7186957,
+    "lon": -8.9711798,
+    "timestamp": "2018-04-11T10:34:31Z",
+    "version": 1,
+    "changeset": 57999017,
+    "user": "jean SIBIEUDE",
+    "uid": 8078698,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "La KASBAH"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5602665724,
+    "lat": 29.7187037,
+    "lon": -8.9713265,
+    "timestamp": "2018-05-18T02:39:59Z",
+    "version": 4,
+    "changeset": 59065781,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:postcode": "85450",
+      "addr:street": "Rue Aguerd-Oudad",
+      "amenity": "restaurant",
+      "cuisine": "arab",
+      "internet_access": "wlan",
+      "name": "La Kasbah",
+      "phone": "+212672303909"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5838989685,
+    "lat": 29.7181118,
+    "lon": -8.9781792,
+    "timestamp": "2024-07-19T08:52:36Z",
+    "version": 2,
+    "changeset": 154133270,
+    "user": "guerda",
+    "uid": 45215,
+    "tags": {
+      "addr:street": "boulevard Moukhtar Soussi",
+      "amenity": "restaurant",
+      "cuisine": "moroccan",
+      "name": "Chez Nadia",
+      "phone": "+212648776473",
+      "website": "https://www.google.com/maps?cid=5662910168897258212"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6017398652,
+    "lat": 30.4694414,
+    "lon": -8.8823356,
+    "timestamp": "2018-10-27T09:35:26Z",
+    "version": 1,
+    "changeset": 63923208,
+    "user": "rauminet35",
+    "uid": 1215153,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Yassmina"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6198108891,
+    "lat": 30.3896415,
+    "lon": -8.6929711,
+    "timestamp": "2019-01-10T11:44:57Z",
+    "version": 1,
+    "changeset": 66192527,
+    "user": "MrErgaster",
+    "uid": 1298278,
+    "tags": {
+      "amenity": "restaurant",
+      "name:fr": "Chez l’habitant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6310840686,
+    "lat": 30.4690328,
+    "lon": -8.8824972,
+    "timestamp": "2019-03-01T13:24:06Z",
+    "version": 1,
+    "changeset": 67686052,
+    "user": "Alexandre Paquin",
+    "uid": 9466395,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "steak_house;moroccan;sandwich;local",
+      "name": "Restaurant Azzar",
+      "name:ar": "Restaurant Azzarda",
+      "name:en": "Restaurant Azzarda"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6385442685,
+    "lat": 30.0716065,
+    "lon": -9.1541016,
+    "timestamp": "2019-04-05T11:23:16Z",
+    "version": 1,
+    "changeset": 68917721,
+    "user": "Byron512",
+    "uid": 5672340,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "café tizi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6574859586,
+    "lat": 29.7535855,
+    "lon": -9.0054626,
+    "timestamp": "2019-06-27T18:04:34Z",
+    "version": 2,
+    "changeset": 71682303,
+    "user": "zweijobo",
+    "uid": 10114823,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "moroccan",
+      "name:de": "Bio Beldi",
+      "name:en": "Bio Beldi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7244310485,
+    "lat": 29.7179798,
+    "lon": -8.9785115,
+    "timestamp": "2020-02-26T07:58:53Z",
+    "version": 1,
+    "changeset": 81490364,
+    "user": "Colin Knowles",
+    "uid": 4725024,
+    "tags": {
+      "addr:street": "Boulevard Moukhtar Soussi",
+      "amenity": "restaurant",
+      "name:en": "Chez Nadia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10282835810,
+    "lat": 29.7216264,
+    "lon": -8.9745454,
+    "timestamp": "2022-12-23T19:39:48Z",
+    "version": 1,
+    "changeset": 130434685,
+    "user": "R3gi",
+    "uid": 873469,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "burger;chicken;coffee_shop;diner;friture;local;moroccan",
+      "email": "espaceharbaz@gmail.com",
+      "name:en": "Espace Harbaz",
+      "phone": "+212 06 70 80 31 51"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10285205009,
+    "lat": 30.4687819,
+    "lon": -8.8793387,
+    "timestamp": "2022-12-25T16:57:53Z",
+    "version": 2,
+    "changeset": 130488404,
+    "user": "R3gi",
+    "uid": 873469,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "chicken;friture;sandwich",
+      "name:en": "Snack Immim"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10300723512,
+    "lat": 30.4977616,
+    "lon": -8.8177075,
+    "timestamp": "2023-01-02T16:13:49Z",
+    "version": 1,
+    "changeset": 130794064,
+    "user": "rriemann",
+    "uid": 2066198,
+    "tags": {
+      "amenity": "restaurant",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10559741609,
+    "lat": 30.4690869,
+    "lon": -8.8790607,
+    "timestamp": "2023-01-16T15:51:24Z",
+    "version": 1,
+    "changeset": 131343646,
+    "user": "Mark Stanley",
+    "uid": 5374425,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Snack Itran",
+      "name:en": "Good chicken 25dhm"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10855850806,
+    "lat": 30.0896395,
+    "lon": -8.4604643,
+    "timestamp": "2023-04-29T12:09:12Z",
+    "version": 1,
+    "changeset": 135501481,
+    "user": "Alexski52",
+    "uid": 10134238,
+    "tags": {
+      "amenity": "restaurant",
+      "name:fr": "Al Mawid"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11750898584,
+    "lat": 30.4686162,
+    "lon": -8.8800459,
+    "timestamp": "2024-10-13T08:41:03Z",
+    "version": 2,
+    "changeset": 157824581,
+    "user": "Claudius Henrichs",
+    "uid": 18069,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "moroccan;regional"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11750898585,
+    "lat": 30.4695498,
+    "lon": -8.8832198,
+    "timestamp": "2024-03-21T17:56:18Z",
+    "version": 1,
+    "changeset": 148976839,
+    "user": "Marcoh44",
+    "uid": 3226231,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12270889104,
+    "lat": 30.0722218,
+    "lon": -9.1685196,
+    "timestamp": "2024-10-20T12:15:52Z",
+    "version": 1,
+    "changeset": 158125784,
+    "user": "Michun",
+    "uid": 13458,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Asdim cooperative Bio"
+    }
+  },
+  {
+    "type": "way",
+    "id": 191546571,
+    "timestamp": "2020-11-22T21:45:48Z",
+    "version": 3,
+    "changeset": 94599675,
+    "user": "MustafaQasim",
+    "uid": 9535554,
+    "center": {
+      "lat": 29.7172754,
+      "lon": -8.9768286
+    },
+    "nodes": [
+      2021307644,
+      2021307643,
+      2021307630,
+      2021307633,
+      2021307644
+    ],
+    "tags": {
+      "addr:city": "Tafraoute",
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "regional",
+      "internet_access": "wlan",
+      "internet_access:fee": "no",
+      "name": "Les Rochers Peints",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "way",
+    "id": 644941964,
+    "timestamp": "2023-09-29T02:15:23Z",
+    "version": 3,
+    "changeset": 141892699,
+    "user": "cjunge",
+    "uid": 15159256,
+    "center": {
+      "lat": 30.4711774,
+      "lon": -8.8746698
+    },
+    "nodes": [
+      6063896832,
+      6063896830,
+      6063896831,
+      6063896833,
+      6063896829,
+      6063896836,
+      6063896832
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "building:levels": "2",
+      "building:use": "foodservice",
+      "check_date": "2023-05-09",
+      "cuisine": "regional",
+      "internet_access": "wlan",
+      "internet_access:fee": "no",
+      "name": "Complexe El Kasbah",
+      "opening_hours": "Mo-Su 08:00-22:00",
+      "outdoor_seating": "yes",
+      "roof:levels": "1",
+      "roof:shape": "flat",
+      "smoking": "no",
+      "toilets": "yes",
+      "toilets:access": "customers",
+      "toilets:wheelchair": "limited",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "way",
+    "id": 743094351,
+    "timestamp": "2023-09-15T16:56:06Z",
+    "version": 2,
+    "changeset": 141311961,
+    "user": "tonybendell",
+    "uid": 3620803,
+    "center": {
+      "lat": 30.4780302,
+      "lon": -8.8308551
+    },
+    "nodes": [
+      6955700513,
+      6955700415,
+      6955700409,
+      6955700407,
+      11194148962,
+      11194148963,
+      6955700513
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Riad le Jasmin",
+      "source": "survey"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1209497408,
+    "timestamp": "2023-09-20T18:10:53Z",
+    "version": 1,
+    "changeset": 141526141,
+    "user": "tschub",
+    "uid": 20291588,
+    "center": {
+      "lat": 30.4729381,
+      "lon": -8.8778903
+    },
+    "nodes": [
+      11205876115,
+      11205876118,
+      11205876119,
+      11205876120,
+      11205876121,
+      11205876122,
+      11205876123,
+      11205876115
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 7568967,
+    "timestamp": "2023-09-22T14:46:42Z",
+    "version": 4,
+    "changeset": 141608541,
+    "user": "Aradrin",
+    "uid": 5733202,
+    "center": {
+      "lat": 30.4677146,
+      "lon": -8.8838155
+    },
+    "members": [
+      {
+        "type": "way",
+        "ref": 523821481,
+        "role": "outer"
+      }
+    ],
+    "tags": {
+      "addr:city": "Taroudant",
+      "addr:housenumber": "73",
+      "addr:postcode": "83000",
+      "addr:street": "Derb Akka",
+      "amenity": "restaurant",
+      "building": "yes",
+      "building:levels": "1",
+      "cuisine": "regional;pizza;international",
+      "name": "Riad dar Dzahra",
+      "type": "multipolygon"
+    }
+  }
+]

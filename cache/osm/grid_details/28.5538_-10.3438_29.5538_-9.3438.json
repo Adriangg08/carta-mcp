@@ -1,0 +1,448 @@
+[
+  {
+    "type": "node",
+    "id": 1712890071,
+    "lat": 29.4463848,
+    "lon": -10.1156869,
+    "timestamp": "2012-04-12T16:01:15Z",
+    "version": 1,
+    "changeset": 11277960,
+    "user": "spuhler",
+    "uid": 239944,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1797630906,
+    "lat": 29.4467665,
+    "lon": -10.1154264,
+    "timestamp": "2012-06-21T21:11:03Z",
+    "version": 1,
+    "changeset": 11973136,
+    "user": "dromedar61",
+    "uid": 542047,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1797630909,
+    "lat": 29.4468389,
+    "lon": -10.1153591,
+    "timestamp": "2012-06-21T21:11:03Z",
+    "version": 1,
+    "changeset": 11973136,
+    "user": "dromedar61",
+    "uid": 542047,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1834109753,
+    "lat": 29.0820814,
+    "lon": -10.3314026,
+    "timestamp": "2012-11-15T09:44:27Z",
+    "version": 2,
+    "changeset": 13880948,
+    "user": "staehler",
+    "uid": 118856,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Fort Bou Jerif",
+      "tourism": "hotel;camp_site"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1834181788,
+    "lat": 29.3793119,
+    "lon": -10.174013,
+    "timestamp": "2022-07-30T13:49:20Z",
+    "version": 2,
+    "changeset": 124269162,
+    "user": "Kadubei",
+    "uid": 16642036,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Lanzarote",
+      "name:es": "Lanzarote"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1834181792,
+    "lat": 29.3786011,
+    "lon": -10.1731076,
+    "timestamp": "2022-07-30T14:45:05Z",
+    "version": 2,
+    "changeset": 124271059,
+    "user": "Kadubei",
+    "uid": 16642036,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurante Laroussi",
+      "name:ar": "مطعم لعروسي",
+      "name:es": "Restaurante Laroussi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2014336881,
+    "lat": 29.059297,
+    "lon": -9.4121651,
+    "timestamp": "2012-11-14T21:08:18Z",
+    "version": 1,
+    "changeset": 13876795,
+    "user": "staehler",
+    "uid": 118856,
+    "tags": {
+      "amenity": "restaurant",
+      "tourism": "camp_site;hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2014792535,
+    "lat": 29.3829423,
+    "lon": -10.173028,
+    "timestamp": "2020-06-03T17:10:10Z",
+    "version": 5,
+    "changeset": 86146903,
+    "user": "magma18",
+    "uid": 4502856,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Ocean Miramar"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3192099528,
+    "lat": 29.3806537,
+    "lon": -9.7456695,
+    "timestamp": "2014-11-17T20:42:35Z",
+    "version": 1,
+    "changeset": 26850733,
+    "user": "alain2003",
+    "uid": 578772,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3192099535,
+    "lat": 29.3694157,
+    "lon": -9.7492154,
+    "timestamp": "2014-11-17T20:42:35Z",
+    "version": 1,
+    "changeset": 26850733,
+    "user": "alain2003",
+    "uid": 578772,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4111841780,
+    "lat": 29.3823386,
+    "lon": -10.1752968,
+    "timestamp": "2022-07-30T13:49:20Z",
+    "version": 2,
+    "changeset": 124269162,
+    "user": "Kadubei",
+    "uid": 16642036,
+    "tags": {
+      "addr:city": "Sidi Ifni",
+      "amenity": "restaurant",
+      "name": "Mar Pequeño",
+      "name:es": "Mar Pequeño"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4324250589,
+    "lat": 29.3833848,
+    "lon": -10.1741911,
+    "timestamp": "2021-03-21T19:03:44Z",
+    "version": 2,
+    "changeset": 101453548,
+    "user": "Baxe Nafarroa",
+    "uid": 6672338,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Ocean Miramar"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4507327578,
+    "lat": 28.9853227,
+    "lon": -9.8257086,
+    "timestamp": "2020-12-02T22:57:33Z",
+    "version": 2,
+    "changeset": 95180667,
+    "user": "Remi tada",
+    "uid": 8869680,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant et Cafe sud"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5159084026,
+    "lat": 28.9892002,
+    "lon": -10.0565685,
+    "timestamp": "2020-11-22T21:45:48Z",
+    "version": 2,
+    "changeset": 94599675,
+    "user": "MustafaQasim",
+    "uid": 9535554,
+    "tags": {
+      "addr:housenumber": "56",
+      "addr:street": "Avenue Mohammed VI",
+      "amenity": "restaurant",
+      "name": "مطعم الجزيرة",
+      "name:ar": "مطعم الجزيرة",
+      "name:en": "Restaurant aljazera"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5280176043,
+    "lat": 29.3781936,
+    "lon": -10.1741928,
+    "timestamp": "2022-07-30T13:49:20Z",
+    "version": 4,
+    "changeset": 124269162,
+    "user": "Kadubei",
+    "uid": 16642036,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "internet_access": "wlan",
+      "level": "0;1",
+      "name": "Gran Canaria",
+      "name:es": "Gran Canaria"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5280176044,
+    "lat": 29.3778816,
+    "lon": -10.1749304,
+    "timestamp": "2017-12-12T23:16:26Z",
+    "version": 3,
+    "changeset": 54580118,
+    "user": "CRCulver",
+    "uid": 340741,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "La Tour d'Ifni"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5286732670,
+    "lat": 29.3643829,
+    "lon": -10.1783931,
+    "timestamp": "2017-12-15T23:31:34Z",
+    "version": 1,
+    "changeset": 54668362,
+    "user": "CRCulver",
+    "uid": 340741,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Pesca del Día"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5899238457,
+    "lat": 29.38206,
+    "lon": -10.1750622,
+    "timestamp": "2018-09-11T12:13:23Z",
+    "version": 1,
+    "changeset": 62486486,
+    "user": "Larifari77",
+    "uid": 423330,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Nomad"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6016394882,
+    "lat": 29.4464436,
+    "lon": -10.1155903,
+    "timestamp": "2018-10-26T21:17:09Z",
+    "version": 1,
+    "changeset": 63914993,
+    "user": "rauminet35",
+    "uid": 1215153,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant \"Chez Abdoul\""
+    }
+  },
+  {
+    "type": "node",
+    "id": 6123839687,
+    "lat": 29.3772928,
+    "lon": -10.1738276,
+    "timestamp": "2023-03-18T18:11:50Z",
+    "version": 3,
+    "changeset": 133833297,
+    "user": "Kadubei",
+    "uid": 16642036,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Aït Baâmrane",
+      "name:fr": "Aït Baâmrane"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6123839691,
+    "lat": 29.382095,
+    "lon": -10.1755366,
+    "timestamp": "2018-12-07T18:03:48Z",
+    "version": 1,
+    "changeset": 65275537,
+    "user": "Jaapwhf",
+    "uid": 4497135,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Cafe Restaurant Tagoute"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6981517785,
+    "lat": 29.3818222,
+    "lon": -10.1752904,
+    "timestamp": "2019-11-15T21:17:34Z",
+    "version": 1,
+    "changeset": 77147685,
+    "user": "Giglio Rosso",
+    "uid": 4101072,
+    "tags": {
+      "addr:street": "Av. Moulay Youssef",
+      "amenity": "restaurant",
+      "cuisine": "barbecue;crepe;fish;pasta;international;grill;arab",
+      "email": "abdellahnomad@gmail.com",
+      "name:it": "Nomad",
+      "phone": "00212662173308"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9617175018,
+    "lat": 28.9857782,
+    "lon": -10.0570191,
+    "timestamp": "2022-03-28T21:33:17Z",
+    "version": 1,
+    "changeset": 119041103,
+    "user": "Ciclo-Via",
+    "uid": 168468,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Snack Almazraa"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10604388944,
+    "lat": 29.3822637,
+    "lon": -10.1742522,
+    "timestamp": "2023-02-03T16:08:47Z",
+    "version": 1,
+    "changeset": 132048412,
+    "user": "GullibleMappazo",
+    "uid": 18055370,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "seafood",
+      "name": "Ilel seafood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10673458005,
+    "lat": 29.378388,
+    "lon": -10.1746705,
+    "timestamp": "2023-02-17T13:26:24Z",
+    "version": 1,
+    "changeset": 132675652,
+    "user": "Mo_Wlhlm",
+    "uid": 17448794,
+    "tags": {
+      "amenity": "restaurant",
+      "name:de": "Restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11508481215,
+    "lat": 29.3776797,
+    "lon": -10.174287,
+    "timestamp": "2024-01-11T12:52:35Z",
+    "version": 1,
+    "changeset": 146141998,
+    "user": "tuxti",
+    "uid": 1371978,
+    "tags": {
+      "amenity": "restaurant",
+      "description": "Restaurant & Snack ( mehr Fastfood)",
+      "name": "Boto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11528349579,
+    "lat": 28.6132693,
+    "lon": -9.434266,
+    "timestamp": "2024-01-18T16:31:24Z",
+    "version": 1,
+    "changeset": 146412432,
+    "user": "tuxti",
+    "uid": 1371978,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Pizzaria Snack Restaurant Venezia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12009077901,
+    "lat": 29.381709,
+    "lon": -10.1751096,
+    "timestamp": "2024-06-25T07:24:18Z",
+    "version": 1,
+    "changeset": 153142981,
+    "user": "Tobias235",
+    "uid": 14827393,
+    "tags": {
+      "addr:city": "Sidi Ifni",
+      "addr:postcode": "85200",
+      "addr:street": "Boulevard El Mourabitine شارع المورابطين",
+      "amenity": "restaurant",
+      "cuisine": "seafood",
+      "name": "Ilel Resto",
+      "opening_hours": "Mo-Th 12:00-17:00,19:00-23:00; Fr off; Sa-Su 12:00-17:00,19:00-23:00",
+      "phone": "+212617887045"
+    }
+  }
+]

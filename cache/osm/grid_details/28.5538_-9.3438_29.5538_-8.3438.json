@@ -1,0 +1,81 @@
+[
+  {
+    "type": "node",
+    "id": 600289815,
+    "lat": 29.5494272,
+    "lon": -9.3397743,
+    "timestamp": "2018-08-12T19:32:36Z",
+    "version": 2,
+    "changeset": 61598039,
+    "user": "stefanschauer",
+    "uid": 3925985,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "moroccan;coffee_shop",
+      "name": "Kerdous"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1083635723,
+    "lat": 29.2429153,
+    "lon": -9.1858835,
+    "timestamp": "2011-01-05T15:55:12Z",
+    "version": 1,
+    "changeset": 6873125,
+    "user": "sdos77",
+    "uid": 26252,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2298158226,
+    "lat": 29.5265104,
+    "lon": -9.2405908,
+    "timestamp": "2013-05-10T11:54:25Z",
+    "version": 1,
+    "changeset": 16063029,
+    "user": "staehler",
+    "uid": 118856,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Ioaousmlal"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2955108310,
+    "lat": 29.5349602,
+    "lon": -8.7906122,
+    "timestamp": "2023-02-21T07:53:15Z",
+    "version": 2,
+    "changeset": 132822284,
+    "user": "Pan Perníček",
+    "uid": 9641379,
+    "tags": {
+      "amenity": "restaurant",
+      "contact:facebook": "https://www.facebook.com/profile.php?id=100063927223101",
+      "contact:phone": "+212 667 095376",
+      "name": "Auberge Sahnoun",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5981899686,
+    "lat": 29.2414125,
+    "lon": -9.1823585,
+    "timestamp": "2018-10-13T20:41:25Z",
+    "version": 1,
+    "changeset": 63494567,
+    "user": "Richard13840",
+    "uid": 8946722,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Oasis restaurant"
+    }
+  }
+]

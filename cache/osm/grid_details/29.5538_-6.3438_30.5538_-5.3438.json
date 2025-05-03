@@ -1,0 +1,486 @@
+[
+  {
+    "type": "node",
+    "id": 439366801,
+    "lat": 30.3194888,
+    "lon": -5.8304608,
+    "timestamp": "2012-07-09T18:30:33Z",
+    "version": 3,
+    "changeset": 12165258,
+    "user": "staehler",
+    "uid": 118856,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Hôtel Restaurant Kasbah Asmaa"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1920943858,
+    "lat": 29.8285059,
+    "lon": -5.732729,
+    "timestamp": "2012-09-18T22:45:59Z",
+    "version": 1,
+    "changeset": 13163553,
+    "user": "gafrol",
+    "uid": 883471,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2039103779,
+    "lat": 30.4416188,
+    "lon": -5.8962634,
+    "timestamp": "2012-11-28T22:02:04Z",
+    "version": 1,
+    "changeset": 14079921,
+    "user": "baluard",
+    "uid": 244514,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2257967886,
+    "lat": 30.5045057,
+    "lon": -6.102185,
+    "timestamp": "2013-04-08T11:10:08Z",
+    "version": 1,
+    "changeset": 15653127,
+    "user": "staehler",
+    "uid": 118856,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Cafe Restaurant Draa"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2261842355,
+    "lat": 30.318832,
+    "lon": -5.8273747,
+    "timestamp": "2013-04-10T17:52:12Z",
+    "version": 1,
+    "changeset": 15680833,
+    "user": "staehler",
+    "uid": 118856,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Zagour",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2274762404,
+    "lat": 29.9786652,
+    "lon": -5.5828763,
+    "timestamp": "2013-04-21T07:35:34Z",
+    "version": 1,
+    "changeset": 15807081,
+    "user": "staehler",
+    "uid": 118856,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Belle Ville",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2274762411,
+    "lat": 29.8300011,
+    "lon": -5.6546672,
+    "timestamp": "2020-07-11T23:20:43Z",
+    "version": 2,
+    "changeset": 87865709,
+    "user": "MustafaQasim",
+    "uid": 9535554,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Cafe Restaurant La Kasbah مقهى ومطعم القصبة",
+      "name:ar": "مقهى ومطعم القصبة",
+      "name:fr": "Cafe Restaurant La Kasbah"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2274762418,
+    "lat": 30.314746,
+    "lon": -5.829832,
+    "timestamp": "2018-03-07T11:38:30Z",
+    "version": 2,
+    "changeset": 56965573,
+    "user": "winniae",
+    "uid": 7722111,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Camping Palmerie d'Amezrou",
+      "tourism": "camp_site"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2274762432,
+    "lat": 29.8253451,
+    "lon": -5.7200764,
+    "timestamp": "2013-04-21T07:35:35Z",
+    "version": 1,
+    "changeset": 15807081,
+    "user": "staehler",
+    "uid": 118856,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Dunes Dor",
+      "tourism": "guest_house"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2274762439,
+    "lat": 29.8251328,
+    "lon": -5.7211374,
+    "timestamp": "2013-04-21T07:35:35Z",
+    "version": 1,
+    "changeset": 15807081,
+    "user": "staehler",
+    "uid": 118856,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Elghizlane",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2274762458,
+    "lat": 29.9759563,
+    "lon": -5.5824442,
+    "timestamp": "2013-04-21T07:35:35Z",
+    "version": 1,
+    "changeset": 15807081,
+    "user": "staehler",
+    "uid": 118856,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "internet_access": "wlan",
+      "name": "L'Oasis",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2274765032,
+    "lat": 29.8253897,
+    "lon": -5.7202471,
+    "timestamp": "2013-04-21T07:36:14Z",
+    "version": 1,
+    "changeset": 15807081,
+    "user": "staehler",
+    "uid": 118856,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Snack Cafe Restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4242837720,
+    "lat": 30.3313372,
+    "lon": -5.8372385,
+    "timestamp": "2016-06-14T13:09:06Z",
+    "version": 1,
+    "changeset": 40017053,
+    "user": "JohHerrm",
+    "uid": 3048468,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Pizzeria Omar"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4242840479,
+    "lat": 30.3311259,
+    "lon": -5.8355723,
+    "timestamp": "2017-11-18T16:57:10Z",
+    "version": 2,
+    "changeset": 53906059,
+    "user": "occitan",
+    "uid": 1450757,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Laitiére Islam"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5310003302,
+    "lat": 30.330828,
+    "lon": -5.8375995,
+    "timestamp": "2017-12-29T10:19:34Z",
+    "version": 1,
+    "changeset": 55005516,
+    "user": "mountenjoy",
+    "uid": 4818766,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5310003427,
+    "lat": 30.3305738,
+    "lon": -5.8376425,
+    "timestamp": "2017-12-29T10:19:34Z",
+    "version": 1,
+    "changeset": 55005516,
+    "user": "mountenjoy",
+    "uid": 4818766,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5318827324,
+    "lat": 30.3457462,
+    "lon": -5.8379017,
+    "timestamp": "2024-01-02T14:11:52Z",
+    "version": 2,
+    "changeset": 145800035,
+    "user": "Langenb1",
+    "uid": 20134577,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Dromadaire Gourmand"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5320637521,
+    "lat": 29.8301494,
+    "lon": -5.6544955,
+    "timestamp": "2020-07-11T23:20:43Z",
+    "version": 2,
+    "changeset": 87865709,
+    "user": "MustafaQasim",
+    "uid": 9535554,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "La belle vue Chez Mustapha المنظر الجميل عند مصطفى",
+      "name:ar": "المنظر الجميل عند مصطفى",
+      "name:fr": "La belle vue Chez Mustapha"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5332908121,
+    "lat": 30.3357888,
+    "lon": -5.8373209,
+    "timestamp": "2018-01-11T09:38:32Z",
+    "version": 1,
+    "changeset": 55346915,
+    "user": "aaronspring",
+    "uid": 3885419,
+    "tags": {
+      "amenity": "restaurant",
+      "name:en": "Marwa Café Réstaurant Snack"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5473830099,
+    "lat": 29.8254775,
+    "lon": -5.7204993,
+    "timestamp": "2018-03-12T19:14:57Z",
+    "version": 1,
+    "changeset": 57121689,
+    "user": "gonethou",
+    "uid": 2015250,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Caravane de reves",
+      "phone": "+212670020033",
+      "website": "www.caravane-de-reves.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6121856277,
+    "lat": 30.3258414,
+    "lon": -5.8391316,
+    "timestamp": "2018-12-06T16:26:28Z",
+    "version": 1,
+    "changeset": 65244111,
+    "user": "roamingbecki",
+    "uid": 680482,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Asaada"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6121857202,
+    "lat": 30.3255557,
+    "lon": -5.8393065,
+    "timestamp": "2021-10-07T16:48:15Z",
+    "version": 2,
+    "changeset": 112225811,
+    "user": "Yamílo",
+    "uid": 11332999,
+    "tags": {
+      "addr:city": "زاكورة",
+      "addr:city:ar": "زاكورة",
+      "addr:city:es": "Zagora",
+      "amenity": "restaurant",
+      "name": "Tombouctou تمبكتو",
+      "name:ar": "تمبكتو",
+      "name:de": "Timbuktu",
+      "name:es": "Tombuctú",
+      "name:fr": "Tombouctou"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6187440886,
+    "lat": 30.3303738,
+    "lon": -5.8384504,
+    "timestamp": "2019-01-06T09:05:30Z",
+    "version": 1,
+    "changeset": 66064857,
+    "user": "Jaapwhf",
+    "uid": 4497135,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6448611391,
+    "lat": 30.2608792,
+    "lon": -5.6823656,
+    "timestamp": "2019-05-08T13:47:29Z",
+    "version": 2,
+    "changeset": 70029245,
+    "user": "b-jazz-bot",
+    "uid": 9451067,
+    "tags": {
+      "addr:postcode": "45600",
+      "addr:street": "laagba",
+      "amenity": "restaurant",
+      "cuisine": "arab",
+      "email": "traveljnanedar@gmail.com",
+      "internet_access": "wlan",
+      "name": "Jnanedardiafa",
+      "website": "https://www.jnane-dardiafa.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10274163009,
+    "lat": 30.3311511,
+    "lon": -5.8375512,
+    "timestamp": "2022-12-19T20:07:58Z",
+    "version": 1,
+    "changeset": 130262447,
+    "user": "R3gi",
+    "uid": 873469,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "moroccan;pasta;pizza;sandwich",
+      "level": "0",
+      "name": "Texas"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10846021805,
+    "lat": 30.2610326,
+    "lon": -5.6821252,
+    "timestamp": "2023-04-27T11:31:44Z",
+    "version": 1,
+    "changeset": 135424171,
+    "user": "Alexski52",
+    "uid": 10134238,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12468600725,
+    "lat": 29.8385588,
+    "lon": -5.7381734,
+    "timestamp": "2025-01-02T11:12:41Z",
+    "version": 1,
+    "changeset": 160902070,
+    "user": "Michau78",
+    "uid": 22341115,
+    "tags": {
+      "addr:city": "M'hamid El Ghizlane",
+      "addr:postcode": "47402",
+      "addr:street": "Road to Desert Camp",
+      "amenity": "restaurant",
+      "cuisine": "regional;moroccan",
+      "diet:meat": "yes",
+      "diet:vegetarian": "yes",
+      "name": "Desert Camp Chraika",
+      "opening_hours": "06:00-22:00",
+      "phone": "+212 645 020 842",
+      "website": "https://desert-stories.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12724291189,
+    "lat": 30.3300814,
+    "lon": -5.8361049,
+    "timestamp": "2025-04-02T21:19:10Z",
+    "version": 1,
+    "changeset": 164440210,
+    "user": "mikr2019",
+    "uid": 9485264,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Pizzeria"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1127837145,
+    "timestamp": "2023-01-06T16:47:08Z",
+    "version": 1,
+    "changeset": 130955386,
+    "user": "Titsta",
+    "uid": 10105272,
+    "center": {
+      "lat": 29.8825604,
+      "lon": -6.1186317
+    },
+    "nodes": [
+      10311401559,
+      10311401560,
+      10311401561,
+      10311401562,
+      10311401559
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes"
+    }
+  }
+]

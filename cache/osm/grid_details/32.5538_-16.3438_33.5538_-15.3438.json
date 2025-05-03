@@ -1,0 +1,363 @@
+[
+  {
+    "type": "node",
+    "id": 1356617443,
+    "lat": 33.0559885,
+    "lon": -16.3379337,
+    "timestamp": "2024-05-13T10:30:26Z",
+    "version": 4,
+    "changeset": 151260275,
+    "user": "NunoCaldeira",
+    "uid": 655766,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "internet_access": "no",
+      "name": "Pizza na Areia",
+      "smoking": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1356617487,
+    "lat": 33.0560007,
+    "lon": -16.3379772,
+    "timestamp": "2024-05-13T10:30:26Z",
+    "version": 4,
+    "changeset": 151260275,
+    "user": "NunoCaldeira",
+    "uid": 655766,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "internet_access": "no",
+      "name": "Salinas",
+      "smoking": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1361275246,
+    "lat": 33.0704016,
+    "lon": -16.2995476,
+    "timestamp": "2024-01-30T14:12:02Z",
+    "version": 5,
+    "changeset": 146865994,
+    "user": "Mahe_Ke",
+    "uid": 13155408,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "microbrewery": "yes",
+      "name": "Porto dos Frades",
+      "phone": "+351291982610"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1815316149,
+    "lat": 33.0590762,
+    "lon": -16.332118,
+    "timestamp": "2024-05-14T19:20:05Z",
+    "version": 6,
+    "changeset": 151328862,
+    "user": "NunoCaldeira",
+    "uid": 655766,
+    "tags": {
+      "addr:city": "Porto Santo",
+      "addr:postcode": "9400-166",
+      "addr:street": "Rua João Gonçalves Zarco - Vila Baleira,",
+      "amenity": "restaurant",
+      "check_date": "2024-05-12",
+      "cuisine": "mediterranean",
+      "name": "La Siesta",
+      "note": "Mediterranean Food! Simple and refined, a must when in Porto Santo.",
+      "phone": "+351 914 694 474"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3891540358,
+    "lat": 33.059192,
+    "lon": -16.3353536,
+    "timestamp": "2024-10-15T10:48:40Z",
+    "version": 4,
+    "changeset": 157914846,
+    "user": "NunoCaldeira",
+    "uid": 655766,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date": "2024-10-15",
+      "cuisine": "regional",
+      "name": "A Baiana",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4139431074,
+    "lat": 33.0591757,
+    "lon": -16.3354872,
+    "timestamp": "2024-10-15T10:48:40Z",
+    "version": 2,
+    "changeset": 157914846,
+    "user": "NunoCaldeira",
+    "uid": 655766,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date": "2024-10-15",
+      "name": "Apolo 14",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4139431075,
+    "lat": 33.0585226,
+    "lon": -16.3370697,
+    "timestamp": "2016-06-15T15:54:21Z",
+    "version": 2,
+    "changeset": 40041492,
+    "user": "choccymon",
+    "uid": 4123706,
+    "tags": {
+      "addr:housenumber": "16 A",
+      "addr:postcode": "9400-172",
+      "addr:street": "Rua Manuel Gregório Pestana",
+      "amenity": "restaurant",
+      "cuisine": "fish;portuguese",
+      "internet_access": "wlan",
+      "name": "Casa do Velho Dragoeiro",
+      "tourism": "hotel",
+      "website": "http://www.casadovelhodragoeiro.com/",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4922686943,
+    "lat": 33.0592132,
+    "lon": -16.3329807,
+    "timestamp": "2024-05-15T14:13:33Z",
+    "version": 5,
+    "changeset": 151363499,
+    "user": "NunoCaldeira",
+    "uid": 655766,
+    "tags": {
+      "addr:city": "Porto Santo",
+      "addr:postcode": "9400-166",
+      "addr:street": "Rua João Gonçalvez Zarco",
+      "amenity": "restaurant",
+      "check_date": "2024-05-12",
+      "name": "Tábua Rasa"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4930548831,
+    "lat": 33.0591847,
+    "lon": -16.3340804,
+    "timestamp": "2024-05-27T11:28:54Z",
+    "version": 6,
+    "changeset": 151893632,
+    "user": "RedAuburn",
+    "uid": 13666626,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date": "2024-05-13",
+      "cuisine": "burger;hotdog;sandwich",
+      "internet_access": "wlan",
+      "level": "0",
+      "name": "Mais Sabor",
+      "name:en": "Snack-bar +Sabor",
+      "opening_hours": "08:00-20:00",
+      "payment:cash": "yes",
+      "payment:credit_cards": "yes",
+      "payment:debit_cards": "yes",
+      "shop": "bakery",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8045031775,
+    "lat": 33.0572403,
+    "lon": -16.3391383,
+    "timestamp": "2020-10-25T20:25:35Z",
+    "version": 1,
+    "changeset": 93028407,
+    "user": "TorstenRo",
+    "uid": 291419,
+    "tags": {
+      "addr:street": "Avenida Henrique Vieira de Castro",
+      "amenity": "restaurant",
+      "cuisine": "portuguese",
+      "delivery": "no",
+      "name": "O Forno",
+      "opening_hours": "Mo-Sa 10:00-15:00, 18:00-22:00",
+      "outdoor_seating": "no",
+      "phone": "+351 291 984 035",
+      "smoking": "no",
+      "takeaway": "yes",
+      "website": "https://www.facebook.com/oforno.oforno.9/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11191412237,
+    "lat": 33.0752084,
+    "lon": -16.3139024,
+    "timestamp": "2024-01-31T11:00:28Z",
+    "version": 2,
+    "changeset": 146899145,
+    "user": "Mahe_Ke",
+    "uid": 13155408,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Teodorico",
+      "phone": "+351965012650"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11899594650,
+    "lat": 33.0866798,
+    "lon": -16.342671,
+    "timestamp": "2024-05-12T23:34:39Z",
+    "version": 1,
+    "changeset": 151245009,
+    "user": "NunoCaldeira",
+    "uid": 655766,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "PXO Grills"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11902039811,
+    "lat": 33.0600421,
+    "lon": -16.3334935,
+    "timestamp": "2024-05-13T20:22:52Z",
+    "version": 1,
+    "changeset": 151284672,
+    "user": "NunoCaldeira",
+    "uid": 655766,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date": "2024-05-13",
+      "cuisine": "pizza",
+      "name": "Di Lorenzo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11919716997,
+    "lat": 33.0591528,
+    "lon": -16.3347749,
+    "timestamp": "2024-10-16T20:28:48Z",
+    "version": 3,
+    "changeset": 157982655,
+    "user": "NunoCaldeira",
+    "uid": 655766,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date": "2024-10-16",
+      "name": "O Rochedo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12252683621,
+    "lat": 33.0582864,
+    "lon": -16.3346381,
+    "timestamp": "2024-10-15T10:57:09Z",
+    "version": 1,
+    "changeset": 157915196,
+    "user": "NunoCaldeira",
+    "uid": 655766,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date": "2024-10-15",
+      "name": "Tia Maria"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12790123301,
+    "lat": 33.085965,
+    "lon": -16.3410635,
+    "timestamp": "2025-04-26T19:01:37Z",
+    "version": 1,
+    "changeset": 165479589,
+    "user": "Lucky_Joe",
+    "uid": 22171067,
+    "tags": {
+      "addr:housenumber": "14",
+      "addr:street": "Estrada Velha da Camacha",
+      "amenity": "restaurant",
+      "contact:instagram": "rafaela.foodexperience",
+      "name": "Rafaela",
+      "phone": "+351291656956"
+    }
+  },
+  {
+    "type": "way",
+    "id": 121115954,
+    "timestamp": "2024-01-18T12:33:07Z",
+    "version": 4,
+    "changeset": 146403379,
+    "user": "ivanbranco",
+    "uid": 11220113,
+    "center": {
+      "lat": 33.0540337,
+      "lon": -16.3413702
+    },
+    "nodes": [
+      1356617421,
+      4139412747,
+      4139412746,
+      1356617469,
+      1356617309,
+      1356617398,
+      1356617421
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "regional",
+      "internet_access": "no",
+      "name": "Pé na Água",
+      "wikidata": "Q107580110"
+    }
+  },
+  {
+    "type": "way",
+    "id": 385794116,
+    "timestamp": "2018-07-28T15:57:22Z",
+    "version": 2,
+    "changeset": 61145950,
+    "user": "gudson",
+    "uid": 7428431,
+    "center": {
+      "lat": 33.0688818,
+      "lon": -16.320794
+    },
+    "nodes": [
+      3891267160,
+      3891267457,
+      3891267057,
+      3891267258,
+      3891267160
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "regional",
+      "name": "Panorama",
+      "outdoor_seating": "no",
+      "phone": "+351966789680",
+      "website": "www.panorama-restaurante.pt"
+    }
+  }
+]

@@ -1,0 +1,1790 @@
+[
+  {
+    "type": "node",
+    "id": 365054345,
+    "lat": 30.7575376,
+    "lon": -7.3724032,
+    "timestamp": "2009-03-23T16:10:36Z",
+    "version": 1,
+    "changeset": 848842,
+    "user": "vdb",
+    "uid": 4422,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "GTAM (chez Mohammed)",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1177463079,
+    "lat": 31.2383304,
+    "lon": -7.413853,
+    "timestamp": "2018-01-04T22:10:54Z",
+    "version": 2,
+    "changeset": 55171632,
+    "user": "dromedar61",
+    "uid": 542047,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Bab Tichka"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1178016405,
+    "lat": 31.3080294,
+    "lon": -7.373596,
+    "timestamp": "2025-01-13T12:51:51Z",
+    "version": 4,
+    "changeset": 161308569,
+    "user": "Tobias235",
+    "uid": 14827393,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Assanfou",
+      "phone": "+212668265419"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1186286424,
+    "lat": 31.3727742,
+    "lon": -7.4109476,
+    "timestamp": "2020-03-15T22:12:34Z",
+    "version": 2,
+    "changeset": 82229153,
+    "user": "keithonearth",
+    "uid": 154287,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Sanfouca",
+      "source": "survey"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1197205705,
+    "lat": 31.4801818,
+    "lon": -7.4331474,
+    "timestamp": "2016-12-11T17:19:18Z",
+    "version": 2,
+    "changeset": 44327550,
+    "user": "YuFen Cheng",
+    "uid": 4872785,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Auberge Toufliht",
+      "name:zh": "咖啡停點",
+      "phone": "05 24 48 48 61",
+      "source": "survey",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1544798794,
+    "lat": 31.3516216,
+    "lon": -8.1415783,
+    "timestamp": "2011-12-13T20:09:28Z",
+    "version": 1,
+    "changeset": 10110473,
+    "user": "Melwin",
+    "uid": 60940,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2138956992,
+    "lat": 31.1356388,
+    "lon": -7.9166943,
+    "timestamp": "2019-08-06T09:02:58Z",
+    "version": 4,
+    "changeset": 73055524,
+    "user": "thetornado76",
+    "uid": 1624486,
+    "tags": {
+      "addr:city": "Imlil",
+      "amenity": "restaurant",
+      "cuisine": "moroccan",
+      "name": "Restaurant Dar Assarou"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2353384568,
+    "lat": 31.1576272,
+    "lon": -7.9242431,
+    "timestamp": "2013-09-03T12:06:39Z",
+    "version": 2,
+    "changeset": 17652210,
+    "user": "ajk",
+    "uid": 227502,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2411970728,
+    "lat": 31.2110551,
+    "lon": -8.2514231,
+    "timestamp": "2024-11-20T21:27:25Z",
+    "version": 2,
+    "changeset": 159385420,
+    "user": "skifans",
+    "uid": 2800603,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Piscine Auberge Restaurant La Source Bleue",
+      "phone": "+212670105714",
+      "source": "survey"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2517606936,
+    "lat": 31.5369194,
+    "lon": -7.4970506,
+    "timestamp": "2024-06-12T04:30:34Z",
+    "version": 2,
+    "changeset": 152568772,
+    "user": "Lost in Time and Space",
+    "uid": 21324962,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Dar Oudar"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2517608238,
+    "lat": 31.3582844,
+    "lon": -7.3916074,
+    "timestamp": "2013-11-02T17:43:22Z",
+    "version": 1,
+    "changeset": 18679230,
+    "user": "RotBlau",
+    "uid": 357344,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3912994761,
+    "lat": 31.3421435,
+    "lon": -8.1471843,
+    "timestamp": "2015-12-27T17:34:55Z",
+    "version": 2,
+    "changeset": 36201437,
+    "user": "krafttom",
+    "uid": 276615,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Relais Du Lac"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3913083189,
+    "lat": 31.4585993,
+    "lon": -8.1943208,
+    "timestamp": "2021-11-05T14:08:57Z",
+    "version": 3,
+    "changeset": 113411207,
+    "user": "Traktorbek",
+    "uid": 7370308,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Terre des étoiles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3917617579,
+    "lat": 31.0975761,
+    "lon": -7.9129692,
+    "timestamp": "2023-07-17T18:08:47Z",
+    "version": 3,
+    "changeset": 138633438,
+    "user": "ironspock",
+    "uid": 10728241,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Café Ouissemeln",
+      "outdoor_seating": "yes",
+      "phone": "+212 06 50 54 76 74"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3966792874,
+    "lat": 30.985675,
+    "lon": -8.1499361,
+    "timestamp": "2023-09-10T04:13:29Z",
+    "version": 2,
+    "changeset": 141046328,
+    "user": "AngocA",
+    "uid": 89128,
+    "tags": {
+      "addr:city": "Ijoukak",
+      "amenity": "restaurant",
+      "capacity": "20",
+      "cuisine": "regional",
+      "name": "Tigmi N'Tmazirte",
+      "note": "Demander El Housseine de la part de Marc",
+      "phone": "+212 6 33 55 21 29"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4197458746,
+    "lat": 31.551178,
+    "lon": -7.5824884,
+    "timestamp": "2020-03-15T16:00:26Z",
+    "version": 3,
+    "changeset": 82220948,
+    "user": "keithonearth",
+    "uid": 154287,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant Oued Ezzat"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4383620969,
+    "lat": 31.097801,
+    "lon": -7.912766,
+    "timestamp": "2016-09-04T12:58:47Z",
+    "version": 1,
+    "changeset": 41907194,
+    "user": "andi_osm",
+    "uid": 3186104,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Cafe Chamharouch"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4548245801,
+    "lat": 31.1454164,
+    "lon": -7.4171157,
+    "timestamp": "2024-05-09T14:31:32Z",
+    "version": 4,
+    "changeset": 151103534,
+    "user": "pieleric",
+    "uid": 352940,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Targa"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4591259544,
+    "lat": 31.376553,
+    "lon": -7.8035936,
+    "timestamp": "2017-01-05T19:07:38Z",
+    "version": 1,
+    "changeset": 44933008,
+    "user": "morray",
+    "uid": 91790,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4591259724,
+    "lat": 31.2291935,
+    "lon": -7.6690662,
+    "timestamp": "2017-01-05T19:07:38Z",
+    "version": 1,
+    "changeset": 44933008,
+    "user": "morray",
+    "uid": 91790,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4688818289,
+    "lat": 31.1974582,
+    "lon": -8.0484304,
+    "timestamp": "2022-12-26T21:39:54Z",
+    "version": 5,
+    "changeset": 130531779,
+    "user": "Kristjan ESPERANTO",
+    "uid": 77904,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "african;arab;barbecue;breakfast;kebab;regional;tea;turkish",
+      "diet:vegetarian": "yes",
+      "name": "Atri اتري",
+      "name:ar": "اتري",
+      "name:en": "Atri",
+      "name:fr": "Atri",
+      "opening_hours": "Mo-Su 08:00-23:30",
+      "phone": "+212 696 202257"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4763620661,
+    "lat": 31.1521448,
+    "lon": -8.0971948,
+    "timestamp": "2017-03-30T07:15:49Z",
+    "version": 1,
+    "changeset": 47283202,
+    "user": "alex1974",
+    "uid": 664377,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Tagadirt Bour",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4872599550,
+    "lat": 30.9998066,
+    "lon": -8.1581341,
+    "timestamp": "2017-05-23T17:54:09Z",
+    "version": 1,
+    "changeset": 48923898,
+    "user": "Fred L",
+    "uid": 1756586,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Cafe Ijoukak",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4966274607,
+    "lat": 31.2815027,
+    "lon": -7.6965523,
+    "timestamp": "2017-07-12T15:07:35Z",
+    "version": 1,
+    "changeset": 50233196,
+    "user": "leoplop",
+    "uid": 1562942,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Café Restaurant Iziki"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5066644779,
+    "lat": 31.533511,
+    "lon": -7.965692,
+    "timestamp": "2017-08-29T13:31:13Z",
+    "version": 1,
+    "changeset": 51543933,
+    "user": "cbeddow",
+    "uid": 2611295,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Cafe Restaurant Cherine"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5301799869,
+    "lat": 31.1395022,
+    "lon": -7.9114203,
+    "timestamp": "2023-10-17T02:45:20Z",
+    "version": 3,
+    "changeset": 142690387,
+    "user": "b-jazz-bot",
+    "uid": 9451067,
+    "tags": {
+      "addr:postcode": "42152",
+      "addr:street": "Ait Souka Imlil",
+      "amenity": "restaurant",
+      "email": "lahcenalahiane@yahoo.fr",
+      "internet_access": "wlan",
+      "name": "Dar Atlas",
+      "name:en": "Dar Atlas",
+      "name:nl": "Dar Adous",
+      "opening_hours": "24/7",
+      "operator": "Lahcen Alahiane",
+      "phone": "0666572638",
+      "website": "https://www.gite-dar-adous-guide-trekking.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5318901721,
+    "lat": 31.3622322,
+    "lon": -7.9468456,
+    "timestamp": "2020-11-24T01:06:46Z",
+    "version": 4,
+    "changeset": 94668480,
+    "user": "MustafaQasim",
+    "uid": 9535554,
+    "tags": {
+      "addr:city": "Tahannaout تحناوت",
+      "amenity": "restaurant",
+      "cuisine": "regional;pizza",
+      "name": "Café Restaurant Nzaha",
+      "name:fr": "Café Restaurant Nzaha",
+      "outdoor_seating": "yes",
+      "phone": "+212-5 24 48 51 70/71"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5321075258,
+    "lat": 31.5056878,
+    "lon": -7.4664044,
+    "timestamp": "2020-03-15T19:16:51Z",
+    "version": 2,
+    "changeset": 82225823,
+    "user": "keithonearth",
+    "uid": 154287,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Ouiskdou",
+      "outdoor_seating": "yes",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5321075455,
+    "lat": 31.4411735,
+    "lon": -7.4030739,
+    "timestamp": "2020-03-15T22:01:30Z",
+    "version": 3,
+    "changeset": 82228969,
+    "user": "keithonearth",
+    "uid": 154287,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5459357216,
+    "lat": 31.2298305,
+    "lon": -7.6687146,
+    "timestamp": "2018-03-06T13:45:50Z",
+    "version": 1,
+    "changeset": 56936399,
+    "user": "myxor",
+    "uid": 1183974,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5459364105,
+    "lat": 31.3012536,
+    "lon": -7.7223534,
+    "timestamp": "2018-03-06T13:45:59Z",
+    "version": 1,
+    "changeset": 56936399,
+    "user": "myxor",
+    "uid": 1183974,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5459364158,
+    "lat": 31.2297502,
+    "lon": -7.6685807,
+    "timestamp": "2018-03-06T13:45:51Z",
+    "version": 1,
+    "changeset": 56936399,
+    "user": "myxor",
+    "uid": 1183974,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5579255791,
+    "lat": 31.4440701,
+    "lon": -8.0815499,
+    "timestamp": "2018-04-25T21:28:25Z",
+    "version": 1,
+    "changeset": 58423443,
+    "user": "alain2003",
+    "uid": 578772,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5649594821,
+    "lat": 31.3584803,
+    "lon": -7.391407,
+    "timestamp": "2018-06-03T18:33:50Z",
+    "version": 3,
+    "changeset": 59514601,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:street": "principale n9",
+      "amenity": "restaurant",
+      "cuisine": "moroccan",
+      "name": "restaurant le jardin chez ahmed",
+      "name:fr": "restaurant le jardin chez ahmed"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5649867722,
+    "lat": 31.4758066,
+    "lon": -7.4239831,
+    "timestamp": "2019-11-30T20:56:34Z",
+    "version": 2,
+    "changeset": 77767230,
+    "user": "PKla",
+    "uid": 200382,
+    "tags": {
+      "addr:street": "RN9",
+      "amenity": "restaurant",
+      "name": "Café Restaurant Tagdalt"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5779208454,
+    "lat": 31.4926782,
+    "lon": -7.9177642,
+    "timestamp": "2018-10-25T19:18:43Z",
+    "version": 3,
+    "changeset": 63879158,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "grill;tea;moroccan;local;coffee_shop;steak_house;chicken;barbecue",
+      "name": "Elmtaai",
+      "name:fr": "Elmtaai",
+      "opening_hours": "Mo-Su 08:00-21:31"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5786520655,
+    "lat": 31.535603,
+    "lon": -7.495983,
+    "timestamp": "2020-03-15T16:14:17Z",
+    "version": 2,
+    "changeset": 82221277,
+    "user": "keithonearth",
+    "uid": 154287,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Cafe Restaurant Espace Olives",
+      "name:en": "Cafe Restaurant Espace Olives",
+      "phone": "0666481623"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5904015254,
+    "lat": 31.1616311,
+    "lon": -7.4650365,
+    "timestamp": "2018-09-13T13:34:33Z",
+    "version": 1,
+    "changeset": 62552316,
+    "user": "Larifari77",
+    "uid": 423330,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6034547286,
+    "lat": 30.8612691,
+    "lon": -7.901232,
+    "timestamp": "2024-02-12T19:30:40Z",
+    "version": 3,
+    "changeset": 147381803,
+    "user": "tonybendell",
+    "uid": 3620803,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6034634266,
+    "lat": 30.6713985,
+    "lon": -8.1781308,
+    "timestamp": "2018-11-03T18:01:26Z",
+    "version": 1,
+    "changeset": 64147146,
+    "user": "Traumschiffkapitän",
+    "uid": 585795,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6034657693,
+    "lat": 31.3286591,
+    "lon": -7.377247,
+    "timestamp": "2020-03-15T22:12:34Z",
+    "version": 2,
+    "changeset": 82229153,
+    "user": "keithonearth",
+    "uid": 154287,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6034719682,
+    "lat": 30.9935283,
+    "lon": -7.8149807,
+    "timestamp": "2018-11-03T18:28:47Z",
+    "version": 1,
+    "changeset": 64147865,
+    "user": "Traumschiffkapitän",
+    "uid": 585795,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6074038385,
+    "lat": 31.1917885,
+    "lon": -8.0543601,
+    "timestamp": "2018-11-19T17:19:55Z",
+    "version": 1,
+    "changeset": 64666000,
+    "user": "Willem de Laat",
+    "uid": 8065684,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6143472442,
+    "lat": 30.5603794,
+    "lon": -8.0261739,
+    "timestamp": "2020-11-22T21:45:48Z",
+    "version": 2,
+    "changeset": 94599675,
+    "user": "MustafaQasim",
+    "uid": 9535554,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "اساكي مقهى",
+      "name:ar": "اساكي مقهى"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6295405385,
+    "lat": 31.2287085,
+    "lon": -7.6700973,
+    "timestamp": "2019-02-22T11:13:19Z",
+    "version": 1,
+    "changeset": 67462136,
+    "user": "Alexandre Paquin",
+    "uid": 9466395,
+    "tags": {
+      "addr:postcode": "42452",
+      "addr:street": "Douar Aagaour Setti-Fadma - Ourika",
+      "amenity": "restaurant",
+      "cuisine": "moroccan;local",
+      "email": "omar.12.chiboub@gmail.com",
+      "internet_access": "wlan",
+      "name": "Hotel cafe restaurant Azilal",
+      "opening_hours": "Mo-Su 09:00-22:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6310355086,
+    "lat": 31.2861624,
+    "lon": -7.3807243,
+    "timestamp": "2020-11-23T00:44:02Z",
+    "version": 2,
+    "changeset": 94602979,
+    "user": "MustafaQasim",
+    "uid": 9535554,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6430071500,
+    "lat": 31.3714784,
+    "lon": -7.3990409,
+    "timestamp": "2019-04-26T07:57:38Z",
+    "version": 1,
+    "changeset": 69590538,
+    "user": "Hans010",
+    "uid": 9381950,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "moroccan",
+      "name": "C",
+      "name:ar": "Café el Glaoui"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6459216786,
+    "lat": 31.134075,
+    "lon": -7.377715,
+    "timestamp": "2019-05-08T17:03:39Z",
+    "version": 1,
+    "changeset": 70038258,
+    "user": "Madani2020",
+    "uid": 9863651,
+    "tags": {
+      "amenity": "restaurant",
+      "name:fr": "Asenfou"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6984959972,
+    "lat": 31.3724918,
+    "lon": -7.4107235,
+    "timestamp": "2019-11-17T14:45:42Z",
+    "version": 1,
+    "changeset": 77190773,
+    "user": "+++++",
+    "uid": 290537,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "int_name": "Agrs Sife",
+      "name": "Agrs Sife"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7022371252,
+    "lat": 31.2654244,
+    "lon": -7.4069062,
+    "timestamp": "2019-11-30T20:48:20Z",
+    "version": 1,
+    "changeset": 77767059,
+    "user": "PKla",
+    "uid": 200382,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7022379848,
+    "lat": 31.2284326,
+    "lon": -7.4239119,
+    "timestamp": "2019-11-30T20:48:03Z",
+    "version": 1,
+    "changeset": 77767053,
+    "user": "PKla",
+    "uid": 200382,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7022380402,
+    "lat": 31.2375872,
+    "lon": -7.4139805,
+    "timestamp": "2019-11-30T20:48:10Z",
+    "version": 1,
+    "changeset": 77767055,
+    "user": "PKla",
+    "uid": 200382,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7022385179,
+    "lat": 31.3442074,
+    "lon": -7.3926726,
+    "timestamp": "2019-11-30T20:53:09Z",
+    "version": 1,
+    "changeset": 77767145,
+    "user": "PKla",
+    "uid": 200382,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7022397362,
+    "lat": 31.3585033,
+    "lon": -7.3912841,
+    "timestamp": "2019-11-30T20:53:16Z",
+    "version": 1,
+    "changeset": 77767149,
+    "user": "PKla",
+    "uid": 200382,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7022399091,
+    "lat": 31.2287244,
+    "lon": -7.4208809,
+    "timestamp": "2019-11-30T20:47:51Z",
+    "version": 1,
+    "changeset": 77767050,
+    "user": "PKla",
+    "uid": 200382,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7022400375,
+    "lat": 31.1613391,
+    "lon": -7.4643009,
+    "timestamp": "2019-11-30T20:51:07Z",
+    "version": 1,
+    "changeset": 77767117,
+    "user": "PKla",
+    "uid": 200382,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant Atlas"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7025510092,
+    "lat": 31.3392793,
+    "lon": -8.1519214,
+    "timestamp": "2021-03-09T12:38:22Z",
+    "version": 2,
+    "changeset": 100711294,
+    "user": "Traktorbek",
+    "uid": 7370308,
+    "tags": {
+      "addr:street": "Lac De Lalla Takarkoust",
+      "amenity": "restaurant",
+      "name": "Les Terrasses du Lac Marrakech",
+      "opening_hours": "Mo-Su 12:00-15:00, 19:00-21:00",
+      "phone": "+212614087322",
+      "tourism": "hotel",
+      "website": "https://lesterrassesdulacmarrakech.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7035783278,
+    "lat": 31.2283844,
+    "lon": -7.4239896,
+    "timestamp": "2019-12-05T12:01:13Z",
+    "version": 1,
+    "changeset": 77992155,
+    "user": "sissou",
+    "uid": 13303,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7035786062,
+    "lat": 31.2377949,
+    "lon": -7.4136831,
+    "timestamp": "2019-12-05T12:00:50Z",
+    "version": 1,
+    "changeset": 77992131,
+    "user": "sissou",
+    "uid": 13303,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Palais Tichka"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7035797649,
+    "lat": 31.4279945,
+    "lon": -7.4088032,
+    "timestamp": "2020-03-15T22:01:30Z",
+    "version": 2,
+    "changeset": 82228969,
+    "user": "keithonearth",
+    "uid": 154287,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7158199981,
+    "lat": 30.9852385,
+    "lon": -8.2272216,
+    "timestamp": "2020-01-25T10:19:09Z",
+    "version": 1,
+    "changeset": 80065768,
+    "user": "jacques wallef",
+    "uid": 8979718,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Chez ABDOU",
+      "opening_hours": "Mo-Su 09:00-18:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7223530085,
+    "lat": 31.3669227,
+    "lon": -7.7957421,
+    "timestamp": "2020-02-18T21:03:14Z",
+    "version": 1,
+    "changeset": 81188749,
+    "user": "Heloearthandwonders",
+    "uid": 8433197,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Mamouchthka restaurant (very good French and english speaking) DIVINE FOOD + VIEW"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7297060847,
+    "lat": 31.5502333,
+    "lon": -7.5815964,
+    "timestamp": "2020-03-15T16:00:26Z",
+    "version": 1,
+    "changeset": 82220948,
+    "user": "keithonearth",
+    "uid": 154287,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Cafe Restaurant Ard Salam"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7297442087,
+    "lat": 31.5337708,
+    "lon": -7.488356,
+    "timestamp": "2024-01-29T13:26:34Z",
+    "version": 2,
+    "changeset": 146821967,
+    "user": "Langenb1",
+    "uid": 20134577,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7297454627,
+    "lat": 31.5306996,
+    "lon": -7.4852769,
+    "timestamp": "2020-03-15T19:07:48Z",
+    "version": 1,
+    "changeset": 82225652,
+    "user": "keithonearth",
+    "uid": 154287,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7297455120,
+    "lat": 31.5128404,
+    "lon": -7.4727309,
+    "timestamp": "2020-03-15T19:16:51Z",
+    "version": 1,
+    "changeset": 82225823,
+    "user": "keithonearth",
+    "uid": 154287,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7297712536,
+    "lat": 31.4281882,
+    "lon": -7.4089667,
+    "timestamp": "2020-03-15T22:01:30Z",
+    "version": 1,
+    "changeset": 82228969,
+    "user": "keithonearth",
+    "uid": 154287,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7297712538,
+    "lat": 31.4398702,
+    "lon": -7.404238,
+    "timestamp": "2020-03-15T22:01:30Z",
+    "version": 1,
+    "changeset": 82228969,
+    "user": "keithonearth",
+    "uid": 154287,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7297720925,
+    "lat": 31.4880944,
+    "lon": -7.4452224,
+    "timestamp": "2024-01-29T11:27:41Z",
+    "version": 2,
+    "changeset": 146817340,
+    "user": "Langenb1",
+    "uid": 20134577,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7297720926,
+    "lat": 31.5340607,
+    "lon": -7.4884834,
+    "timestamp": "2024-01-29T13:26:34Z",
+    "version": 2,
+    "changeset": 146821967,
+    "user": "Langenb1",
+    "uid": 20134577,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7297729854,
+    "lat": 31.3175014,
+    "lon": -7.3791459,
+    "timestamp": "2020-03-15T22:12:34Z",
+    "version": 1,
+    "changeset": 82229153,
+    "user": "keithonearth",
+    "uid": 154287,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7297729856,
+    "lat": 31.3438433,
+    "lon": -7.392793,
+    "timestamp": "2020-03-15T22:12:34Z",
+    "version": 1,
+    "changeset": 82229153,
+    "user": "keithonearth",
+    "uid": 154287,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7705143986,
+    "lat": 31.1750417,
+    "lon": -8.083464,
+    "timestamp": "2020-11-22T21:45:48Z",
+    "version": 2,
+    "changeset": 94599675,
+    "user": "MustafaQasim",
+    "uid": 9535554,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "moroccan",
+      "email": "caferestaurant.tazrbit@gmail.com",
+      "name": "مطعم مقهى تزربت",
+      "name:ar": "مطعم مقهى تزربت",
+      "name:en": "Cafe Restaurant Tazrbit",
+      "phone": "+2120626824845"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8388552317,
+    "lat": 31.3668517,
+    "lon": -7.7942029,
+    "timestamp": "2021-02-02T20:52:11Z",
+    "version": 1,
+    "changeset": 98601390,
+    "user": "yann56340",
+    "uid": 7490230,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "La muraille de l'Ourika"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9775473817,
+    "lat": 31.1380575,
+    "lon": -7.9109159,
+    "timestamp": "2022-05-27T16:51:03Z",
+    "version": 1,
+    "changeset": 121585706,
+    "user": "Patrick Zaubitz",
+    "uid": 5574904,
+    "tags": {
+      "amenity": "restaurant",
+      "name:en": "Dar Atlas"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10003073797,
+    "lat": 31.3176302,
+    "lon": -7.3791661,
+    "timestamp": "2022-09-05T21:48:30Z",
+    "version": 1,
+    "changeset": 125832227,
+    "user": "NovaVanta",
+    "uid": 17014690,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant Tifaniwe Afla"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10003083840,
+    "lat": 31.4408508,
+    "lon": -7.402829,
+    "timestamp": "2022-09-05T21:48:26Z",
+    "version": 1,
+    "changeset": 125832227,
+    "user": "NovaVanta",
+    "uid": 17014690,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Cafe Restaurant Zerken"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10003102979,
+    "lat": 31.3586042,
+    "lon": -7.3915722,
+    "timestamp": "2022-09-05T21:49:16Z",
+    "version": 1,
+    "changeset": 125832227,
+    "user": "NovaVanta",
+    "uid": 17014690,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10003105231,
+    "lat": 31.4749797,
+    "lon": -7.4338767,
+    "timestamp": "2024-12-26T15:06:01Z",
+    "version": 2,
+    "changeset": 160641287,
+    "user": "Xadrian",
+    "uid": 21831006,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date": "2024-12-25",
+      "level": "2",
+      "name": "Cafe Restaurant Tafraoute",
+      "outdoor_seating": "yes",
+      "toilets": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10778767137,
+    "lat": 31.2502967,
+    "lon": -7.9783993,
+    "timestamp": "2023-04-01T22:25:36Z",
+    "version": 1,
+    "changeset": 134396827,
+    "user": "pite",
+    "uid": 303142,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Ajiaire tagines"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10778767138,
+    "lat": 31.2503706,
+    "lon": -7.9783316,
+    "timestamp": "2023-04-01T22:25:36Z",
+    "version": 1,
+    "changeset": 134396827,
+    "user": "pite",
+    "uid": 303142,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "CAFE RESTAURANT AWRIK"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10837257105,
+    "lat": 31.1358693,
+    "lon": -7.9200485,
+    "timestamp": "2023-04-24T14:25:50Z",
+    "version": 1,
+    "changeset": 135304924,
+    "user": "Latif ait bahmed",
+    "uid": 19053240,
+    "tags": {
+      "amenity": "restaurant",
+      "internet_access": "wlan",
+      "name:en": "Kasbah Imoula",
+      "opening_hours": "24/7",
+      "phone": "+212661140105",
+      "website": "http://Kasbahimoula.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10871824205,
+    "lat": 31.1367206,
+    "lon": -7.9173602,
+    "timestamp": "2023-05-05T20:12:11Z",
+    "version": 1,
+    "changeset": 135755672,
+    "user": "Alexski52",
+    "uid": 10134238,
+    "tags": {
+      "amenity": "restaurant",
+      "name:fr": "Atlas Tichka"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11052144549,
+    "lat": 31.0173155,
+    "lon": -7.8614022,
+    "timestamp": "2023-07-18T05:24:49Z",
+    "version": 1,
+    "changeset": 138648169,
+    "user": "ironspock",
+    "uid": 10728241,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Café Restaurant Hadj Belaid",
+      "opening_hours:signed": "no",
+      "phone": "+212 678 39 06 48"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11053502955,
+    "lat": 31.1279782,
+    "lon": -7.9193675,
+    "timestamp": "2023-07-18T17:33:42Z",
+    "version": 1,
+    "changeset": 138680759,
+    "user": "ironspock",
+    "uid": 10728241,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Café Restaurant Bab Toubkal"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11270811310,
+    "lat": 31.5023492,
+    "lon": -7.8594193,
+    "timestamp": "2023-10-18T04:04:50Z",
+    "version": 1,
+    "changeset": 142740553,
+    "user": "GEOG281_Jack_Madigan",
+    "uid": 20403078,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "PARC EZZAOUAK"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11584158966,
+    "lat": 31.1444935,
+    "lon": -7.854168,
+    "timestamp": "2024-02-04T12:38:14Z",
+    "version": 1,
+    "changeset": 147052299,
+    "user": "amazigh19",
+    "uid": 20964477,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12061377570,
+    "lat": 31.1369011,
+    "lon": -7.9207488,
+    "timestamp": "2024-07-18T14:32:49Z",
+    "version": 1,
+    "changeset": 154104880,
+    "user": "jmapper07",
+    "uid": 21766289,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "italian_pizza;moroccan",
+      "name": "Les Etoiles de Toubkal"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12061386971,
+    "lat": 31.3716191,
+    "lon": -7.7980311,
+    "timestamp": "2024-07-18T14:32:50Z",
+    "version": 1,
+    "changeset": 154104880,
+    "user": "jmapper07",
+    "uid": 21766289,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Azaghar"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12538512103,
+    "lat": 31.3416308,
+    "lon": -8.1471865,
+    "timestamp": "2025-01-28T05:55:46Z",
+    "version": 1,
+    "changeset": 161844149,
+    "user": "jerarb",
+    "uid": 6527138,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Flouka",
+      "outdoor_seating": "no"
+    }
+  },
+  {
+    "type": "way",
+    "id": 172555418,
+    "timestamp": "2019-12-05T12:01:15Z",
+    "version": 4,
+    "changeset": 77992155,
+    "user": "sissou",
+    "uid": 13303,
+    "center": {
+      "lat": 31.2137216,
+      "lon": -7.4322661
+    },
+    "nodes": [
+      1834472361,
+      1834472359,
+      1834472360,
+      1834472357,
+      1834472358,
+      1834472362,
+      1834472361
+    ],
+    "tags": {
+      "alt_name": "Restaurant Rafik",
+      "amenity": "restaurant",
+      "building": "yes",
+      "cafe": "yes",
+      "cuisine": "regional",
+      "name": "Rafik",
+      "phone": "+212 661469593",
+      "source": "survey"
+    }
+  },
+  {
+    "type": "way",
+    "id": 342208203,
+    "timestamp": "2015-05-01T23:31:06Z",
+    "version": 1,
+    "changeset": 30706915,
+    "user": "seba85",
+    "uid": 607947,
+    "center": {
+      "lat": 31.3088324,
+      "lon": -7.941469
+    },
+    "nodes": [
+      3492277942,
+      3492277943,
+      3492277935,
+      3492277934,
+      3492277942
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 342208213,
+    "timestamp": "2015-05-01T23:31:07Z",
+    "version": 1,
+    "changeset": 30706915,
+    "user": "seba85",
+    "uid": 607947,
+    "center": {
+      "lat": 31.3090721,
+      "lon": -7.9413242
+    },
+    "nodes": [
+      3492277954,
+      3492277949,
+      3492277950,
+      3492277955,
+      3492277954
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 388333162,
+    "timestamp": "2020-11-24T01:06:46Z",
+    "version": 3,
+    "changeset": 94668480,
+    "user": "MustafaQasim",
+    "uid": 9535554,
+    "center": {
+      "lat": 31.546342,
+      "lon": -7.6464638
+    },
+    "nodes": [
+      3915432326,
+      3915432327,
+      3915432328,
+      3915432329,
+      3915432326
+    ],
+    "tags": {
+      "addr:city": "Aït Ourir",
+      "addr:housenumber": "km 38",
+      "addr:street": "Route Marrakesh-Ouarzazate",
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "regional",
+      "email": "lecoqhardi@hotmail.com",
+      "fax": "05 24 48 00 56",
+      "name": "Le Coq Hardi Hotel",
+      "note": "Grade 6,7, good, > 20 EUR",
+      "phone": "05 24 48 00 56",
+      "tourism": "hotel",
+      "website": "www.coqhardi.fr.st"
+    }
+  },
+  {
+    "type": "way",
+    "id": 388333164,
+    "timestamp": "2020-03-15T16:25:19Z",
+    "version": 2,
+    "changeset": 82221513,
+    "user": "keithonearth",
+    "uid": 154287,
+    "center": {
+      "lat": 31.5460822,
+      "lon": -7.6465887
+    },
+    "nodes": [
+      3915432334,
+      3915432335,
+      3915432336,
+      3915432337,
+      3915432334
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Restaurant Menzah Ait Ourir"
+    }
+  },
+  {
+    "type": "way",
+    "id": 477458519,
+    "timestamp": "2023-09-15T12:37:09Z",
+    "version": 2,
+    "changeset": 141301358,
+    "user": "MaëlleKiwi",
+    "uid": 13685589,
+    "center": {
+      "lat": 31.3520817,
+      "lon": -8.1309444
+    },
+    "nodes": [
+      4708100519,
+      11193411022,
+      4708100514,
+      4708100513,
+      4708100518,
+      4708100519
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "regional",
+      "email": "darouzguita@hotmail.com",
+      "name": "Dar Ouzguita",
+      "outdoor_seating": "yes",
+      "phone": "+212 6 62 42 13 11",
+      "smoking": "yes",
+      "website": "http://www.darouzguita.com/"
+    }
+  },
+  {
+    "type": "way",
+    "id": 484214875,
+    "timestamp": "2017-04-01T20:33:08Z",
+    "version": 3,
+    "changeset": 47366904,
+    "user": "alex1974",
+    "uid": 664377,
+    "center": {
+      "lat": 30.9935104,
+      "lon": -8.1828008
+    },
+    "nodes": [
+      4769569549,
+      4769569548,
+      4769569547,
+      4769569546,
+      4769569545,
+      4769569544,
+      4769569549
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "building:levels": "1",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 484374090,
+    "timestamp": "2017-04-02T15:26:27Z",
+    "version": 1,
+    "changeset": 47384896,
+    "user": "alex1974",
+    "uid": 664377,
+    "center": {
+      "lat": 31.2812464,
+      "lon": -7.9604012
+    },
+    "nodes": [
+      4771224248,
+      4771224247,
+      4771224246,
+      4771224245,
+      4771224248
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 550738898,
+    "timestamp": "2018-01-03T23:40:06Z",
+    "version": 1,
+    "changeset": 55142939,
+    "user": "dromedar61",
+    "uid": 542047,
+    "center": {
+      "lat": 31.0983822,
+      "lon": -7.6148664
+    },
+    "nodes": [
+      5319224576,
+      5319224573,
+      5319224574,
+      5319224575,
+      5319224576
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "regional",
+      "name": "Azguer",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 705960589,
+    "timestamp": "2019-07-21T12:41:11Z",
+    "version": 2,
+    "changeset": 72481962,
+    "user": "OSM-Login",
+    "uid": 10032886,
+    "center": {
+      "lat": 31.3634081,
+      "lon": -7.9776862
+    },
+    "nodes": [
+      6633347684,
+      6633347683,
+      6633347682,
+      6633347681,
+      6633347684
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "arab",
+      "name": "Kinderdorf Dar Bouidar"
+    }
+  },
+  {
+    "type": "way",
+    "id": 751139056,
+    "timestamp": "2024-01-29T08:35:31Z",
+    "version": 2,
+    "changeset": 146810443,
+    "user": "Langenb1",
+    "uid": 20134577,
+    "center": {
+      "lat": 31.4900081,
+      "lon": -7.4387487
+    },
+    "nodes": [
+      620388684,
+      7022394147,
+      7022394150,
+      4200180889,
+      620388684
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Cafe Restaurant Tizi Ait Barka",
+      "outdoor_seating": "yes",
+      "phone": "+212 6 77906351"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1189951245,
+    "timestamp": "2023-07-16T09:16:06Z",
+    "version": 1,
+    "changeset": 138570489,
+    "user": "ironspock",
+    "uid": 10728241,
+    "center": {
+      "lat": 31.1567933,
+      "lon": -7.9232492
+    },
+    "nodes": [
+      11049076040,
+      11049076041,
+      11049076042,
+      11049076043,
+      11049076040
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1206734313,
+    "timestamp": "2024-11-19T22:25:36Z",
+    "version": 2,
+    "changeset": 159344817,
+    "user": "skifans",
+    "uid": 2800603,
+    "center": {
+      "lat": 31.2265038,
+      "lon": -8.2401147
+    },
+    "nodes": [
+      11182087035,
+      11182087036,
+      11182091237,
+      11182091238,
+      11182087035
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1211257641,
+    "timestamp": "2024-02-12T19:30:40Z",
+    "version": 2,
+    "changeset": 147381803,
+    "user": "tonybendell",
+    "uid": 3620803,
+    "center": {
+      "lat": 30.8613054,
+      "lon": -7.9012533
+    },
+    "nodes": [
+      6253597763,
+      6253597760,
+      6253597759,
+      6253597764,
+      6253597763
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes"
+    }
+  }
+]

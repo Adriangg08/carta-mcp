@@ -1,0 +1,156 @@
+[
+  {
+    "type": "node",
+    "id": 1025432741,
+    "lat": 31.8568625,
+    "lon": -4.2836239,
+    "timestamp": "2014-10-30T08:03:17Z",
+    "version": 4,
+    "changeset": 26430414,
+    "user": "ulilu",
+    "uid": 16881,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Café Restaurant \"La Source Bleue de Meski\""
+    }
+  },
+  {
+    "type": "node",
+    "id": 1025472477,
+    "lat": 31.7903196,
+    "lon": -4.239105,
+    "timestamp": "2010-12-06T20:42:33Z",
+    "version": 1,
+    "changeset": 6568526,
+    "user": "cdavila",
+    "uid": 26599,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Cafe Restaurant Valle de Ziz"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1125036039,
+    "lat": 31.7517625,
+    "lon": -4.1968042,
+    "timestamp": "2018-10-28T10:54:01Z",
+    "version": 5,
+    "changeset": 63946798,
+    "user": "rauminet35",
+    "uid": 1215153,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Gite \"Dans La Palmeraie\"",
+      "name:fr": "Gite \"Dans La Palmeraie\""
+    }
+  },
+  {
+    "type": "node",
+    "id": 5918513387,
+    "lat": 31.6853021,
+    "lon": -4.1783685,
+    "timestamp": "2023-02-24T17:25:19Z",
+    "version": 2,
+    "changeset": 132977862,
+    "user": "gscholz",
+    "uid": 109705,
+    "tags": {
+      "amenity": "restaurant",
+      "name:en": "Cafe - Restaurant Ennakhil",
+      "name:es": "Cafe - Restaurant Ennakhil"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11738484905,
+    "lat": 31.584697,
+    "lon": -4.1982865,
+    "timestamp": "2024-03-17T10:15:18Z",
+    "version": 1,
+    "changeset": 148764967,
+    "user": "94621",
+    "uid": 8225234,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12539710682,
+    "lat": 31.945557,
+    "lon": -3.6152347,
+    "timestamp": "2025-01-28T19:13:16Z",
+    "version": 1,
+    "changeset": 161870540,
+    "user": "Tootie4Douz",
+    "uid": 14237762,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "moroccan",
+      "name": "Chez François Rekkam"
+    }
+  },
+  {
+    "type": "way",
+    "id": 902824040,
+    "timestamp": "2022-10-27T06:45:35Z",
+    "version": 2,
+    "changeset": 128112962,
+    "user": "Giacomo Luciani",
+    "uid": 3146796,
+    "center": {
+      "lat": 31.5805958,
+      "lon": -4.1429857
+    },
+    "nodes": [
+      8385355007,
+      8385355008,
+      8385355009,
+      8385355010,
+      8385355007
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Cafè Sahara Restaurant"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1331672383,
+    "timestamp": "2024-11-10T10:36:21Z",
+    "version": 3,
+    "changeset": 158961935,
+    "user": "Aya Samir",
+    "uid": 15567285,
+    "center": {
+      "lat": 31.7844261,
+      "lon": -4.2307673
+    },
+    "nodes": [
+      12321052914,
+      1837872720,
+      12321052915,
+      12321052916,
+      12321052917,
+      12321052923,
+      12321052918,
+      12321052919,
+      12321071925,
+      12321052920,
+      12321052921,
+      12321052926,
+      12321052914
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "caravans": "yes",
+      "name": "Camping Tissirt Gite",
+      "tents": "yes",
+      "tourism": "camp_site"
+    }
+  }
+]

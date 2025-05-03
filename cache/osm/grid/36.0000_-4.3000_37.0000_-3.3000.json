@@ -1,0 +1,4789 @@
+[
+  {
+    "osmId": 33515505,
+    "name": "El Tilo",
+    "latitude": 36.9617778,
+    "longitude": -3.3595921
+  },
+  {
+    "osmId": 33515508,
+    "name": "El Jardín de los Sabores",
+    "website": "https://www.eljardindelossabores.com",
+    "latitude": 36.9608186,
+    "longitude": -3.3569562
+  },
+  {
+    "osmId": 292586998,
+    "name": "Restaurante Cueva de Nerja",
+    "latitude": 36.7617169,
+    "longitude": -3.8450181
+  },
+  {
+    "osmId": 304571589,
+    "name": "Bamboo",
+    "latitude": 36.7420704,
+    "longitude": -3.8804621
+  },
+  {
+    "osmId": 304571590,
+    "name": "Mirasol",
+    "latitude": 36.7425909,
+    "longitude": -3.8803417
+  },
+  {
+    "osmId": 304571661,
+    "name": "Jamaica",
+    "latitude": 36.7431962,
+    "longitude": -3.8827996
+  },
+  {
+    "osmId": 304572342,
+    "name": "Mirador de Cerro Gordo",
+    "latitude": 36.7340654,
+    "longitude": -3.7676345
+  },
+  {
+    "osmId": 304572502,
+    "name": "Restaurante El Paraíso",
+    "latitude": 36.7471821,
+    "longitude": -4.0553217
+  },
+  {
+    "osmId": 307845016,
+    "name": "Cochran's Terraza",
+    "latitude": 36.7442752,
+    "longitude": -3.8765846
+  },
+  {
+    "osmId": 307845017,
+    "name": "La Biznaga",
+    "latitude": 36.7447885,
+    "longitude": -3.8765252
+  },
+  {
+    "osmId": 307845880,
+    "name": "La Farola",
+    "latitude": 36.7331772,
+    "longitude": -3.979344
+  },
+  {
+    "osmId": 307951447,
+    "name": "Virtudes",
+    "latitude": 36.7907452,
+    "longitude": -3.8947811
+  },
+  {
+    "osmId": 309862991,
+    "name": "Curry House",
+    "latitude": 36.7428714,
+    "longitude": -3.8841708
+  },
+  {
+    "osmId": 322819007,
+    "name": "La  Restinga Beach",
+    "latitude": 36.7426819,
+    "longitude": -3.9128579
+  },
+  {
+    "osmId": 322819142,
+    "name": "El Puente",
+    "latitude": 36.748371,
+    "longitude": -3.8820203
+  },
+  {
+    "osmId": 322819297,
+    "name": "Moreno y Sol",
+    "latitude": 36.7331742,
+    "longitude": -3.9798502
+  },
+  {
+    "osmId": 322819304,
+    "name": "Las Palmeras",
+    "latitude": 36.7324484,
+    "longitude": -3.9782426
+  },
+  {
+    "osmId": 322820046,
+    "name": "El Pino",
+    "latitude": 36.7396018,
+    "longitude": -3.9499445
+  },
+  {
+    "osmId": 325937110,
+    "name": "Torres de San Juan",
+    "latitude": 36.7657609,
+    "longitude": -3.8674045
+  },
+  {
+    "osmId": 332047676,
+    "name": "Chiringuito Victoria",
+    "latitude": 36.7410978,
+    "longitude": -4.0896542
+  },
+  {
+    "osmId": 332047721,
+    "name": "Chiringuito Varela",
+    "latitude": 36.7425758,
+    "longitude": -4.0879546
+  },
+  {
+    "osmId": 353806242,
+    "name": "Mesón Cantalobos",
+    "latitude": 36.8189583,
+    "longitude": -3.771243
+  },
+  {
+    "osmId": 430805926,
+    "name": "El Cruce",
+    "latitude": 36.8073174,
+    "longitude": -4.1252095
+  },
+  {
+    "osmId": 430878866,
+    "name": "La Raqueta",
+    "latitude": 36.7584793,
+    "longitude": -3.8693374
+  },
+  {
+    "osmId": 430878885,
+    "name": "Alegre",
+    "latitude": 36.7546488,
+    "longitude": -3.8737182
+  },
+  {
+    "osmId": 430878902,
+    "name": "La Puntilla",
+    "latitude": 36.7500007,
+    "longitude": -3.8746883
+  },
+  {
+    "osmId": 430878949,
+    "name": "Lute y Jesus",
+    "latitude": 36.7332787,
+    "longitude": -3.6936367
+  },
+  {
+    "osmId": 430879122,
+    "name": "Chiringuito Alonso \"El Pionero\"",
+    "latitude": 36.7289824,
+    "longitude": -3.9633043
+  },
+  {
+    "osmId": 430879426,
+    "name": "Mirador de Güilche",
+    "latitude": 36.7426897,
+    "longitude": -3.9090396
+  },
+  {
+    "osmId": 430879809,
+    "name": "Chiringuito Laguna",
+    "latitude": 36.7310265,
+    "longitude": -3.9735619
+  },
+  {
+    "osmId": 430879848,
+    "name": "Taberna El Tapeito",
+    "latitude": 36.7290561,
+    "longitude": -3.9631414
+  },
+  {
+    "osmId": 431250005,
+    "name": "Chiringuito Torrecilla 3",
+    "latitude": 36.7421792,
+    "longitude": -3.8819167
+  },
+  {
+    "osmId": 431250007,
+    "name": "Vitaliano",
+    "latitude": 36.7423184,
+    "longitude": -3.8804047
+  },
+  {
+    "osmId": 431250008,
+    "name": "Da Vinci",
+    "latitude": 36.7424618,
+    "longitude": -3.8803715
+  },
+  {
+    "osmId": 431250011,
+    "name": "Tai",
+    "latitude": 36.7432935,
+    "longitude": -3.8803255
+  },
+  {
+    "osmId": 431250023,
+    "name": "conect@.t",
+    "latitude": 36.7453913,
+    "longitude": -3.8813136
+  },
+  {
+    "osmId": 431250046,
+    "name": "Cobos",
+    "latitude": 36.7419691,
+    "longitude": -3.883525
+  },
+  {
+    "osmId": 486718066,
+    "name": "Chambao de Vicente",
+    "latitude": 36.7386675,
+    "longitude": -3.7546089
+  },
+  {
+    "osmId": 535073499,
+    "name": "Tropicana",
+    "latitude": 36.746188,
+    "longitude": -3.9041517
+  },
+  {
+    "osmId": 543661479,
+    "name": "Cafe Paris",
+    "latitude": 36.7472293,
+    "longitude": -3.8798283
+  },
+  {
+    "osmId": 552368653,
+    "name": "Camping Presa del Viñuela",
+    "latitude": 36.8737776,
+    "longitude": -4.1847747
+  },
+  {
+    "osmId": 559944409,
+    "name": "Mesón Poqueira II",
+    "latitude": 36.9612851,
+    "longitude": -3.3588041
+  },
+  {
+    "osmId": 579590817,
+    "name": "Cielito Lindo",
+    "website": "https://cielitolindo.es/",
+    "latitude": 36.7450415,
+    "longitude": -3.8786702
+  },
+  {
+    "osmId": 602664181,
+    "name": "Restaurante Puerto Blanco",
+    "latitude": 36.7491627,
+    "longitude": -4.0729297
+  },
+  {
+    "osmId": 602664184,
+    "name": "Restaurante Eclipse",
+    "latitude": 36.7491515,
+    "longitude": -4.0731042
+  },
+  {
+    "osmId": 602842980,
+    "name": "Bar Virutas",
+    "latitude": 36.7497325,
+    "longitude": -4.0671218
+  },
+  {
+    "osmId": 603365420,
+    "name": "Bar La Prisa",
+    "latitude": 36.7497913,
+    "longitude": -4.0673107
+  },
+  {
+    "osmId": 603365421,
+    "name": "Bar Los Poetas",
+    "latitude": 36.7496721,
+    "longitude": -4.0668339
+  },
+  {
+    "osmId": 603365424,
+    "name": "Restaurante Manolo",
+    "latitude": 36.7499431,
+    "longitude": -4.0672349
+  },
+  {
+    "osmId": 612403213,
+    "name": "Bar Las Tablas",
+    "latitude": 36.7409563,
+    "longitude": -4.0919858
+  },
+  {
+    "osmId": 612403286,
+    "latitude": 36.7484743,
+    "longitude": -4.0630823
+  },
+  {
+    "osmId": 612403343,
+    "name": "La Bodega",
+    "latitude": 36.7450306,
+    "longitude": -4.0463531
+  },
+  {
+    "osmId": 612403345,
+    "name": "Arrocería Varadero",
+    "latitude": 36.7448063,
+    "longitude": -4.0450478
+  },
+  {
+    "osmId": 612403348,
+    "name": "La Viuda",
+    "latitude": 36.7446199,
+    "longitude": -4.0418975
+  },
+  {
+    "osmId": 726810355,
+    "name": "La Sorpresa",
+    "latitude": 36.7281485,
+    "longitude": -3.9607261
+  },
+  {
+    "osmId": 726810364,
+    "name": "Bella Vista Restaurant",
+    "website": "https://bellavistarestaurantecom.wordpress.com",
+    "latitude": 36.7292822,
+    "longitude": -3.9641093
+  },
+  {
+    "osmId": 726810392,
+    "name": "Restaurante El Picadero",
+    "latitude": 36.7285711,
+    "longitude": -3.9619163
+  },
+  {
+    "osmId": 726810406,
+    "name": "La Blanca Paloma",
+    "latitude": 36.7278999,
+    "longitude": -3.9597121
+  },
+  {
+    "osmId": 726810407,
+    "name": "Restaurante Holiday Lounge",
+    "latitude": 36.7288364,
+    "longitude": -3.9627498
+  },
+  {
+    "osmId": 726810411,
+    "name": "Restaurante Pepe Rico",
+    "latitude": 36.7279965,
+    "longitude": -3.9602738
+  },
+  {
+    "osmId": 775371421,
+    "name": "El Nino",
+    "latitude": 36.7491921,
+    "longitude": -3.8755807
+  },
+  {
+    "osmId": 775371428,
+    "name": "Dal Toscana moved to Pintada",
+    "latitude": 36.7477239,
+    "longitude": -3.8758235
+  },
+  {
+    "osmId": 775715096,
+    "name": "Moraima",
+    "latitude": 36.9610655,
+    "longitude": -3.3583008
+  },
+  {
+    "osmId": 778689116,
+    "name": "El Mirador",
+    "website": "http://mirador-frigiliana.com",
+    "latitude": 36.7923447,
+    "longitude": -3.8962155
+  },
+  {
+    "osmId": 778689121,
+    "name": "La Bodeguilla",
+    "latitude": 36.793302,
+    "longitude": -3.8991582
+  },
+  {
+    "osmId": 783252930,
+    "name": "Pizzeria Roima",
+    "latitude": 36.7400696,
+    "longitude": -3.9508613
+  },
+  {
+    "osmId": 833418421,
+    "name": "Carlos Molineta",
+    "latitude": 36.7793297,
+    "longitude": -3.896209
+  },
+  {
+    "osmId": 874188672,
+    "name": "Mesón del Jamón",
+    "latitude": 36.7046829,
+    "longitude": -3.4913462
+  },
+  {
+    "osmId": 884888417,
+    "name": "Venta Luciano",
+    "latitude": 36.75596,
+    "longitude": -3.6893311
+  },
+  {
+    "osmId": 920130070,
+    "name": "MarBella",
+    "latitude": 36.7449294,
+    "longitude": -3.8774488
+  },
+  {
+    "osmId": 937064577,
+    "name": "Perico",
+    "latitude": 36.8329855,
+    "longitude": -3.9747832
+  },
+  {
+    "osmId": 937064763,
+    "name": "Cortijo Paco",
+    "latitude": 36.835304,
+    "longitude": -3.9774976
+  },
+  {
+    "osmId": 937078622,
+    "name": "Cantueso",
+    "latitude": 36.9247356,
+    "longitude": -4.1736806
+  },
+  {
+    "osmId": 976510920,
+    "name": "Restaurante Puente Aguila",
+    "latitude": 36.7613994,
+    "longitude": -3.8473925
+  },
+  {
+    "osmId": 978011951,
+    "name": "Las piedras",
+    "latitude": 36.7446562,
+    "longitude": -3.788042
+  },
+  {
+    "osmId": 978445260,
+    "name": "El Molino",
+    "latitude": 36.7431293,
+    "longitude": -4.0163468
+  },
+  {
+    "osmId": 997700806,
+    "name": "La Taberna",
+    "latitude": 36.7460747,
+    "longitude": -3.8757713
+  },
+  {
+    "osmId": 997703611,
+    "name": "El Pulguilla",
+    "latitude": 36.7466106,
+    "longitude": -3.8755106
+  },
+  {
+    "osmId": 997711463,
+    "name": "Paco Mari",
+    "latitude": 36.7470722,
+    "longitude": -3.8760062
+  },
+  {
+    "osmId": 997717639,
+    "name": "Sevillano",
+    "website": "https://www.sevillanonerja.es/",
+    "latitude": 36.7469916,
+    "longitude": -3.8755778
+  },
+  {
+    "osmId": 997719653,
+    "name": "Pepe Rico",
+    "latitude": 36.7468256,
+    "longitude": -3.8754724
+  },
+  {
+    "osmId": 1057385149,
+    "name": "La Marina Marisqueria",
+    "website": "https://la-marina-marisqueria.negocio.site/",
+    "latitude": 36.7457998,
+    "longitude": -3.8799619
+  },
+  {
+    "osmId": 1107551368,
+    "name": "Cacola",
+    "latitude": 36.7368054,
+    "longitude": -3.9889799
+  },
+  {
+    "osmId": 1119698098,
+    "name": "First",
+    "website": "http://www.firstnerja.com/",
+    "latitude": 36.7447399,
+    "longitude": -3.9003772
+  },
+  {
+    "osmId": 1119700645,
+    "name": "Jose Cruz",
+    "latitude": 36.750163,
+    "longitude": -3.8681676
+  },
+  {
+    "osmId": 1129254190,
+    "name": "Jing",
+    "latitude": 36.7304498,
+    "longitude": -3.9689379
+  },
+  {
+    "osmId": 1129254227,
+    "name": "Chiringuito Mambo",
+    "latitude": 36.7313905,
+    "longitude": -3.9749346
+  },
+  {
+    "osmId": 1130987597,
+    "name": "Almanzor",
+    "latitude": 36.7329628,
+    "longitude": -3.9401778
+  },
+  {
+    "osmId": 1281313922,
+    "name": "Sal y Pimienta",
+    "latitude": 36.7906832,
+    "longitude": -3.8963509
+  },
+  {
+    "osmId": 1290221483,
+    "name": "Made in Italy",
+    "latitude": 36.7425296,
+    "longitude": -3.8839305
+  },
+  {
+    "osmId": 1309281374,
+    "name": "Bar Restaurante El Molino",
+    "latitude": 36.8417599,
+    "longitude": -4.2721572
+  },
+  {
+    "osmId": 1341065739,
+    "name": "Mesón El Corzo",
+    "latitude": 36.7342592,
+    "longitude": -3.6860891
+  },
+  {
+    "osmId": 1383033708,
+    "name": "La Plata. Casa Matilde",
+    "latitude": 36.7160544,
+    "longitude": -4.1798073
+  },
+  {
+    "osmId": 1383084694,
+    "name": "Esperanza",
+    "latitude": 36.7154403,
+    "longitude": -4.2006902
+  },
+  {
+    "osmId": 1386079324,
+    "name": "Puero Nizza",
+    "latitude": 36.7184815,
+    "longitude": -4.1684797
+  },
+  {
+    "osmId": 1400856597,
+    "name": "Bar Ramón",
+    "latitude": 36.9726386,
+    "longitude": -4.1414452
+  },
+  {
+    "osmId": 1404652362,
+    "name": "The Escape",
+    "latitude": 36.7432574,
+    "longitude": -3.8830465
+  },
+  {
+    "osmId": 1428655847,
+    "name": "La Pizzería",
+    "latitude": 36.9614831,
+    "longitude": -3.3596703
+  },
+  {
+    "osmId": 1429789532,
+    "name": "El Corral del Castaño",
+    "latitude": 36.9619847,
+    "longitude": -3.3597714
+  },
+  {
+    "osmId": 1482521570,
+    "name": "El Oasis",
+    "latitude": 36.7109433,
+    "longitude": -4.2528718
+  },
+  {
+    "osmId": 1507673489,
+    "name": "Restaurante El Yantar",
+    "latitude": 36.7452613,
+    "longitude": -4.0438867
+  },
+  {
+    "osmId": 1550930452,
+    "name": "Bar La Pena",
+    "latitude": 36.8385339,
+    "longitude": -3.9912505
+  },
+  {
+    "osmId": 1620257811,
+    "name": "Restaurante Bracamonte",
+    "latitude": 36.7492442,
+    "longitude": -4.0958939
+  },
+  {
+    "osmId": 1660330218,
+    "latitude": 36.7359374,
+    "longitude": -3.6864871
+  },
+  {
+    "osmId": 1660330248,
+    "latitude": 36.7356149,
+    "longitude": -3.684395
+  },
+  {
+    "osmId": 1661409094,
+    "latitude": 36.7325397,
+    "longitude": -3.6892212
+  },
+  {
+    "osmId": 1668473976,
+    "latitude": 36.7388899,
+    "longitude": -3.6893986
+  },
+  {
+    "osmId": 1707442620,
+    "name": "Restaurante Real Club Náutico de Motril",
+    "latitude": 36.7244896,
+    "longitude": -3.5287363
+  },
+  {
+    "osmId": 1714143878,
+    "name": "Mulse",
+    "website": "https://www.mulse.es/",
+    "latitude": 36.7149877,
+    "longitude": -4.2933986
+  },
+  {
+    "osmId": 1714592298,
+    "name": "La Carreta",
+    "latitude": 36.7122536,
+    "longitude": -4.2507444
+  },
+  {
+    "osmId": 1714767795,
+    "name": "Mira Sol",
+    "latitude": 36.7148596,
+    "longitude": -4.2800341
+  },
+  {
+    "osmId": 1714796060,
+    "name": "Katogui",
+    "latitude": 36.714937,
+    "longitude": -4.2842345
+  },
+  {
+    "osmId": 1718120521,
+    "name": "Rincon de Miguel",
+    "latitude": 36.7124904,
+    "longitude": -4.2642967
+  },
+  {
+    "osmId": 1724398052,
+    "name": "Casa Paca",
+    "latitude": 36.7132645,
+    "longitude": -4.2706967
+  },
+  {
+    "osmId": 1739162249,
+    "name": "El Merendón",
+    "latitude": 36.7452309,
+    "longitude": -3.8767605
+  },
+  {
+    "osmId": 1753943507,
+    "name": "Meson Andaluz Vicente",
+    "latitude": 36.743917,
+    "longitude": -3.8790994
+  },
+  {
+    "osmId": 1818868447,
+    "name": "Casa Paco",
+    "latitude": 36.8329168,
+    "longitude": -3.974864
+  },
+  {
+    "osmId": 1825348442,
+    "name": "Bar Ortega",
+    "latitude": 36.8793209,
+    "longitude": -4.2523844
+  },
+  {
+    "osmId": 1834376214,
+    "name": "Bar Marin",
+    "latitude": 36.8657315,
+    "longitude": -4.2353501
+  },
+  {
+    "osmId": 1846832606,
+    "name": "Venta El Charco",
+    "latitude": 36.8667244,
+    "longitude": -4.1905266
+  },
+  {
+    "osmId": 1865768080,
+    "name": "Aljibe",
+    "latitude": 36.929777,
+    "longitude": -3.3229123
+  },
+  {
+    "osmId": 1919978135,
+    "name": "El Paso",
+    "latitude": 36.7334408,
+    "longitude": -4.1750923
+  },
+  {
+    "osmId": 1979022133,
+    "name": "Safari Lounge",
+    "latitude": 36.740073,
+    "longitude": -4.0920652
+  },
+  {
+    "osmId": 1983865272,
+    "name": "Pippo",
+    "latitude": 36.74617,
+    "longitude": -4.0533687
+  },
+  {
+    "osmId": 2030037241,
+    "name": "Restaurante Bar Cerezo",
+    "latitude": 36.8456103,
+    "longitude": -3.9870129
+  },
+  {
+    "osmId": 2030225628,
+    "name": "Las Gemelas",
+    "latitude": 36.8321718,
+    "longitude": -3.9724851
+  },
+  {
+    "osmId": 2102550833,
+    "name": "Cafe & Bar Alhambra",
+    "latitude": 36.8144966,
+    "longitude": -4.0456201
+  },
+  {
+    "osmId": 2114139257,
+    "name": "La Parrala \"Ayo\"",
+    "website": "https://www.ayonerja.com",
+    "latitude": 36.7512072,
+    "longitude": -3.8658884
+  },
+  {
+    "osmId": 2117687600,
+    "name": "Venta los Morenos",
+    "latitude": 36.725176,
+    "longitude": -4.2708452
+  },
+  {
+    "osmId": 2117689329,
+    "name": "Meson Casa de la Abuela",
+    "latitude": 36.726266,
+    "longitude": -4.258161
+  },
+  {
+    "osmId": 2117694952,
+    "name": "Restaurante El Reservado de Toni",
+    "latitude": 36.7255243,
+    "longitude": -4.2548914
+  },
+  {
+    "osmId": 2119131132,
+    "name": "Marina Playa",
+    "latitude": 36.7107487,
+    "longitude": -4.2516156
+  },
+  {
+    "osmId": 2119132178,
+    "name": "Mar de Fondo",
+    "latitude": 36.7126151,
+    "longitude": -4.2696802
+  },
+  {
+    "osmId": 2154168776,
+    "name": "Santo",
+    "latitude": 36.7508418,
+    "longitude": -3.8676096
+  },
+  {
+    "osmId": 2154168777,
+    "name": "Paco \"El Churretero\"",
+    "latitude": 36.7506718,
+    "longitude": -3.8679317
+  },
+  {
+    "osmId": 2154168784,
+    "name": "Raw",
+    "latitude": 36.7511922,
+    "longitude": -3.8668347
+  },
+  {
+    "osmId": 2154168791,
+    "name": "La Gastronomia",
+    "latitude": 36.750645,
+    "longitude": -3.8680299
+  },
+  {
+    "osmId": 2159764101,
+    "name": "Casa Juan",
+    "latitude": 36.7954838,
+    "longitude": -3.6678591
+  },
+  {
+    "osmId": 2159768857,
+    "name": "La Barraca",
+    "website": "https://www.restaurantelabarraca.es",
+    "latitude": 36.7381619,
+    "longitude": -3.7765744
+  },
+  {
+    "osmId": 2262640556,
+    "name": "Los Campanillas",
+    "latitude": 36.7149561,
+    "longitude": -4.2844119
+  },
+  {
+    "osmId": 2368321887,
+    "name": "China House",
+    "latitude": 36.7493731,
+    "longitude": -3.8725386
+  },
+  {
+    "osmId": 2368321890,
+    "name": "Mogador",
+    "latitude": 36.731628,
+    "longitude": -3.9443548
+  },
+  {
+    "osmId": 2368321987,
+    "name": "La Taberna de Pepe Moles",
+    "latitude": 36.7448363,
+    "longitude": -3.8826788
+  },
+  {
+    "osmId": 2368321989,
+    "name": "Malibu",
+    "latitude": 36.7435834,
+    "longitude": -3.8794076
+  },
+  {
+    "osmId": 2368321991,
+    "name": "Meson Jose y Victoria",
+    "latitude": 36.7434709,
+    "longitude": -3.8794827
+  },
+  {
+    "osmId": 2368322083,
+    "name": "Sekai",
+    "latitude": 36.745315,
+    "longitude": -3.880046
+  },
+  {
+    "osmId": 2368322223,
+    "name": "oliva",
+    "website": "http://www.restauranteoliva.com",
+    "latitude": 36.745684,
+    "longitude": -3.8763143
+  },
+  {
+    "osmId": 2370695047,
+    "name": "El Capricho",
+    "latitude": 36.7425933,
+    "longitude": -3.8839469
+  },
+  {
+    "osmId": 2385104101,
+    "latitude": 36.7394427,
+    "longitude": -3.9947591
+  },
+  {
+    "osmId": 2431495946,
+    "name": "Restaurante Abuxarra",
+    "latitude": 36.9614632,
+    "longitude": -3.3575826
+  },
+  {
+    "osmId": 2431495951,
+    "name": "Ruta de las Nieves",
+    "latitude": 36.9621633,
+    "longitude": -3.3582924
+  },
+  {
+    "osmId": 2431495954,
+    "name": "El Asador",
+    "latitude": 36.9617461,
+    "longitude": -3.3587332
+  },
+  {
+    "osmId": 2431495956,
+    "name": "El Cascapeñas",
+    "website": "https://www.elcascapenas.com/",
+    "latitude": 36.9615919,
+    "longitude": -3.3586203
+  },
+  {
+    "osmId": 2431510192,
+    "latitude": 36.9390056,
+    "longitude": -3.3299317
+  },
+  {
+    "osmId": 2467652436,
+    "name": "Restaurante L'Atelier",
+    "website": "https://www.tripadvisor.es/Restaurant_Review-g1937614-d3486886-Reviews-L_Atelier-Mecina_Fondales_La_Taha_Province_of_Granada_Andalucia.html",
+    "latitude": 36.9293244,
+    "longitude": -3.3211142
+  },
+  {
+    "osmId": 2480425216,
+    "name": "Richi Asador de Pollos",
+    "latitude": 36.729509,
+    "longitude": -3.9597826
+  },
+  {
+    "osmId": 2480425226,
+    "name": "Cafeteria Javier",
+    "latitude": 36.7300519,
+    "longitude": -3.9607561
+  },
+  {
+    "osmId": 2506844492,
+    "latitude": 36.7916596,
+    "longitude": -3.8963722
+  },
+  {
+    "osmId": 2506844552,
+    "name": "el casino",
+    "latitude": 36.7921374,
+    "longitude": -3.8978183
+  },
+  {
+    "osmId": 2623482956,
+    "name": "Hotel Rural de Mecina Fondales",
+    "website": "http://www.hoteldemecina.com",
+    "latitude": 36.9293903,
+    "longitude": -3.3233342
+  },
+  {
+    "osmId": 2641050845,
+    "name": "Restaurante Bravo",
+    "latitude": 36.7467643,
+    "longitude": -4.0549268
+  },
+  {
+    "osmId": 2643564670,
+    "name": "El Caseron de Guaro",
+    "latitude": 36.9607565,
+    "longitude": -4.1913673
+  },
+  {
+    "osmId": 2643968893,
+    "name": "Los Pirineos",
+    "latitude": 36.9794121,
+    "longitude": -4.2734052
+  },
+  {
+    "osmId": 2656044554,
+    "name": "Venta de Curro",
+    "latitude": 36.8364242,
+    "longitude": -3.9913132
+  },
+  {
+    "osmId": 2702579708,
+    "name": "Rincón del Sol",
+    "latitude": 36.7516254,
+    "longitude": -3.8647859
+  },
+  {
+    "osmId": 2702588660,
+    "name": "Pinoccios",
+    "latitude": 36.7472977,
+    "longitude": -3.8754212
+  },
+  {
+    "osmId": 2752241853,
+    "name": "Cafeteria Heladeria Albi",
+    "latitude": 36.7452404,
+    "longitude": -3.8761212
+  },
+  {
+    "osmId": 2752241854,
+    "name": "Restaurante El Nautico",
+    "latitude": 36.7444755,
+    "longitude": -3.8761145
+  },
+  {
+    "osmId": 2774995374,
+    "name": "Bella Roma",
+    "latitude": 36.7455203,
+    "longitude": -3.8765391
+  },
+  {
+    "osmId": 2774995376,
+    "name": "Mediterráneo",
+    "latitude": 36.7451172,
+    "longitude": -3.8764008
+  },
+  {
+    "osmId": 2774995378,
+    "name": "Carlos",
+    "latitude": 36.7454898,
+    "longitude": -3.8766251
+  },
+  {
+    "osmId": 2774995380,
+    "name": "Kronox",
+    "latitude": 36.7451081,
+    "longitude": -3.8764982
+  },
+  {
+    "osmId": 2774995381,
+    "name": "Asian Ben",
+    "latitude": 36.7455487,
+    "longitude": -3.8764438
+  },
+  {
+    "osmId": 2883808603,
+    "name": "Los Mellizos",
+    "latitude": 36.7357138,
+    "longitude": -3.6901195
+  },
+  {
+    "osmId": 2883809103,
+    "name": "La Cueva",
+    "latitude": 36.7427758,
+    "longitude": -3.5107007
+  },
+  {
+    "osmId": 2883809502,
+    "name": "Francisco II",
+    "latitude": 36.73205,
+    "longitude": -3.68997
+  },
+  {
+    "osmId": 2883812302,
+    "name": "Mesón Herrera",
+    "latitude": 36.7351425,
+    "longitude": -3.6850103
+  },
+  {
+    "osmId": 2883813501,
+    "name": "Mesón Antequera",
+    "latitude": 36.7448864,
+    "longitude": -3.5151866
+  },
+  {
+    "osmId": 2883917401,
+    "name": "Bahia cafebar",
+    "latitude": 36.7487355,
+    "longitude": -3.8710129
+  },
+  {
+    "osmId": 2951279023,
+    "name": "PuntArena Bar Playa",
+    "latitude": 36.7155173,
+    "longitude": -4.1808923
+  },
+  {
+    "osmId": 3053130723,
+    "name": "Pizzeria Arena",
+    "website": "https://pizzaarena.es/about/",
+    "latitude": 36.7308545,
+    "longitude": -3.9688134
+  },
+  {
+    "osmId": 3055892462,
+    "latitude": 36.7376492,
+    "longitude": -3.9913564
+  },
+  {
+    "osmId": 3109898830,
+    "name": "El Cortijo",
+    "latitude": 36.8034493,
+    "longitude": -3.9296525
+  },
+  {
+    "osmId": 3328393211,
+    "name": "Andele!! Andele!!",
+    "latitude": 36.7432577,
+    "longitude": -3.8832236
+  },
+  {
+    "osmId": 3344091939,
+    "latitude": 36.7239961,
+    "longitude": -3.535733
+  },
+  {
+    "osmId": 3353431910,
+    "name": "Casa Emilio",
+    "website": "https://chiringuitocasaemilio.es",
+    "latitude": 36.7324364,
+    "longitude": -3.5880058
+  },
+  {
+    "osmId": 3353446608,
+    "name": "Chiringuito Flores",
+    "latitude": 36.7337656,
+    "longitude": -3.5892925
+  },
+  {
+    "osmId": 3353447004,
+    "name": "Restaurante La Bodega",
+    "latitude": 36.7453973,
+    "longitude": -3.5839734
+  },
+  {
+    "osmId": 3353447013,
+    "name": "Carne a la Piedra",
+    "website": "http://www.carnealapiedra.com",
+    "latitude": 36.7359562,
+    "longitude": -3.5905552
+  },
+  {
+    "osmId": 3353447014,
+    "name": "Sunem",
+    "latitude": 36.7374782,
+    "longitude": -3.5924474
+  },
+  {
+    "osmId": 3359538922,
+    "name": "Don Enrique",
+    "latitude": 36.7445596,
+    "longitude": -3.8760581
+  },
+  {
+    "osmId": 3384052236,
+    "name": "La Tasca",
+    "latitude": 36.976253,
+    "longitude": -3.5391226
+  },
+  {
+    "osmId": 3404493230,
+    "name": "Siam",
+    "latitude": 36.7434496,
+    "longitude": -4.0902273
+  },
+  {
+    "osmId": 3404493231,
+    "name": "La Mamma",
+    "latitude": 36.7433865,
+    "longitude": -4.0903591
+  },
+  {
+    "osmId": 3404505966,
+    "name": "Brujas",
+    "latitude": 36.7352186,
+    "longitude": -4.096859
+  },
+  {
+    "osmId": 3404505967,
+    "name": "Victor **",
+    "latitude": 36.7358688,
+    "longitude": -4.0970012
+  },
+  {
+    "osmId": 3404516005,
+    "name": "El Pozo",
+    "latitude": 36.7373194,
+    "longitude": -4.0949921
+  },
+  {
+    "osmId": 3528707619,
+    "latitude": 36.9534176,
+    "longitude": -4.1227069
+  },
+  {
+    "osmId": 3564213415,
+    "name": "El Adarve",
+    "latitude": 36.792661,
+    "longitude": -3.8973079
+  },
+  {
+    "osmId": 3564253014,
+    "name": "Belezmín",
+    "latitude": 36.9406903,
+    "longitude": -3.3611962
+  },
+  {
+    "osmId": 3564253015,
+    "name": "Guillermo",
+    "latitude": 36.9395869,
+    "longitude": -3.3633501
+  },
+  {
+    "osmId": 3564253016,
+    "name": "El Castaño",
+    "latitude": 36.9404514,
+    "longitude": -3.3598462
+  },
+  {
+    "osmId": 3564253018,
+    "name": "Mesón Rural Alberto",
+    "latitude": 36.9411183,
+    "longitude": -3.3604702
+  },
+  {
+    "osmId": 3587157776,
+    "name": "La Artesa",
+    "latitude": 36.9485763,
+    "longitude": -3.354338
+  },
+  {
+    "osmId": 3587157778,
+    "name": "Restaurante Casa Ángel",
+    "latitude": 36.9505249,
+    "longitude": -3.3555959
+  },
+  {
+    "osmId": 3587157779,
+    "name": "Teide",
+    "website": "https://restauranteteidebubion.com",
+    "latitude": 36.9485603,
+    "longitude": -3.3545739
+  },
+  {
+    "osmId": 3587303582,
+    "name": "El Fogón de Raquel",
+    "latitude": 36.9618933,
+    "longitude": -3.3597201
+  },
+  {
+    "osmId": 3587303583,
+    "name": "Taberna La Tapa",
+    "latitude": 36.9620427,
+    "longitude": -3.3601881
+  },
+  {
+    "osmId": 3617359894,
+    "name": "La Tahona",
+    "latitude": 36.7929842,
+    "longitude": -3.8981577
+  },
+  {
+    "osmId": 3670642454,
+    "name": "Bola Marina",
+    "latitude": 36.7382576,
+    "longitude": -3.7770975
+  },
+  {
+    "osmId": 3782289457,
+    "name": "El Viejo Molino",
+    "latitude": 36.9005892,
+    "longitude": -3.4242728
+  },
+  {
+    "osmId": 3782289557,
+    "name": "Baraka",
+    "latitude": 36.9029341,
+    "longitude": -3.4222731
+  },
+  {
+    "osmId": 3783472212,
+    "latitude": 36.9025821,
+    "longitude": -3.423393
+  },
+  {
+    "osmId": 3787765840,
+    "name": "Airiños de Lujar",
+    "latitude": 36.9023277,
+    "longitude": -3.4223126
+  },
+  {
+    "osmId": 3792399785,
+    "name": "The Restaurant at Burriana",
+    "latitude": 36.7506605,
+    "longitude": -3.8693865
+  },
+  {
+    "osmId": 3792403626,
+    "name": "The Steak House at Burriana",
+    "latitude": 36.7507808,
+    "longitude": -3.8694992
+  },
+  {
+    "osmId": 3792660148,
+    "name": "Colloseo",
+    "latitude": 36.7475539,
+    "longitude": -3.8770044
+  },
+  {
+    "osmId": 3944644373,
+    "name": "Katena",
+    "latitude": 36.7200884,
+    "longitude": -3.5443152
+  },
+  {
+    "osmId": 3944644374,
+    "name": "Mare e Monti",
+    "latitude": 36.7222262,
+    "longitude": -3.5414486
+  },
+  {
+    "osmId": 3944671854,
+    "name": "Camping Playa de Poniente",
+    "website": "https://www.campingplayadeponiente.com/restaurante/",
+    "latitude": 36.7183146,
+    "longitude": -3.5463855
+  },
+  {
+    "osmId": 3950457412,
+    "name": "Rosa de los Vientos*",
+    "latitude": 36.7371653,
+    "longitude": -4.0937923
+  },
+  {
+    "osmId": 3953964019,
+    "name": "Cafe del Mar",
+    "latitude": 36.7286846,
+    "longitude": -4.1015874
+  },
+  {
+    "osmId": 3954025885,
+    "name": "Berebere",
+    "latitude": 36.7303316,
+    "longitude": -4.1001149
+  },
+  {
+    "osmId": 3954025886,
+    "name": "Las Ninas",
+    "latitude": 36.7362195,
+    "longitude": -4.1014721
+  },
+  {
+    "osmId": 3954025887,
+    "name": "Maenoba",
+    "latitude": 36.7365038,
+    "longitude": -4.1016926
+  },
+  {
+    "osmId": 3955568679,
+    "latitude": 36.7239221,
+    "longitude": -4.1295539
+  },
+  {
+    "osmId": 3955568686,
+    "latitude": 36.7243488,
+    "longitude": -4.1218751
+  },
+  {
+    "osmId": 3955568691,
+    "latitude": 36.7246771,
+    "longitude": -4.1189804
+  },
+  {
+    "osmId": 3960197828,
+    "latitude": 36.7379327,
+    "longitude": -4.1787758
+  },
+  {
+    "osmId": 3960226288,
+    "name": "Chiringuito El Campano",
+    "latitude": 36.7362468,
+    "longitude": -3.5920437
+  },
+  {
+    "osmId": 4006061047,
+    "name": "El Fogón de la Abuela",
+    "website": "https://elfogondelaabuela.com/",
+    "latitude": 36.7154515,
+    "longitude": -4.2848985
+  },
+  {
+    "osmId": 4006069985,
+    "name": "Venta La Parra",
+    "latitude": 36.9032656,
+    "longitude": -4.120908
+  },
+  {
+    "osmId": 4008189305,
+    "latitude": 36.7596247,
+    "longitude": -4.1849685
+  },
+  {
+    "osmId": 4031881100,
+    "name": "MarDela",
+    "latitude": 36.7388133,
+    "longitude": -3.7532494
+  },
+  {
+    "osmId": 4071259436,
+    "name": "Restaurante Marelli",
+    "latitude": 36.7434278,
+    "longitude": -3.5258839
+  },
+  {
+    "osmId": 4087056379,
+    "name": "Restaurante Cortijo del Alcázar",
+    "latitude": 36.9155238,
+    "longitude": -4.0921873
+  },
+  {
+    "osmId": 4098064038,
+    "name": "El Camping",
+    "latitude": 36.8872295,
+    "longitude": -3.4175587
+  },
+  {
+    "osmId": 4106637493,
+    "name": "Restaurante Cortijillo Playa",
+    "latitude": 36.7305964,
+    "longitude": -3.6966088
+  },
+  {
+    "osmId": 4163645836,
+    "name": "Finca los Llanos",
+    "latitude": 36.9620499,
+    "longitude": -3.3574108
+  },
+  {
+    "osmId": 4164894090,
+    "name": "Bakus",
+    "latitude": 36.7478433,
+    "longitude": -3.8717161
+  },
+  {
+    "osmId": 4164895892,
+    "name": "Benítez",
+    "latitude": 36.7467037,
+    "longitude": -3.8735351
+  },
+  {
+    "osmId": 4164895893,
+    "name": "Cibeles",
+    "latitude": 36.7479814,
+    "longitude": -3.8722702
+  },
+  {
+    "osmId": 4165777892,
+    "name": "El Candil",
+    "latitude": 36.7454069,
+    "longitude": -3.876418
+  },
+  {
+    "osmId": 4169461367,
+    "name": "Pizzería Bacares",
+    "latitude": 36.9179257,
+    "longitude": -3.4867445
+  },
+  {
+    "osmId": 4169497785,
+    "name": "Restaurante Los Mariscos",
+    "latitude": 36.9180314,
+    "longitude": -3.4861836
+  },
+  {
+    "osmId": 4169632189,
+    "name": "La Regüerta",
+    "latitude": 36.9175937,
+    "longitude": -3.4854322
+  },
+  {
+    "osmId": 4169727777,
+    "name": "Mesón Salado",
+    "latitude": 36.9188272,
+    "longitude": -3.4895344
+  },
+  {
+    "osmId": 4169727778,
+    "name": "El Sol",
+    "website": "https://www.hotelsoldelanjaron.com/restauracion",
+    "latitude": 36.9185869,
+    "longitude": -3.4881966
+  },
+  {
+    "osmId": 4169727779,
+    "name": "La Terraza",
+    "latitude": 36.9186568,
+    "longitude": -3.4891706
+  },
+  {
+    "osmId": 4169727780,
+    "name": "El Balcón de Lorca",
+    "latitude": 36.919014,
+    "longitude": -3.4893888
+  },
+  {
+    "osmId": 4169840395,
+    "name": "De Curtis",
+    "latitude": 36.9013331,
+    "longitude": -3.4237875
+  },
+  {
+    "osmId": 4169871789,
+    "name": "La Almazara",
+    "latitude": 36.8996628,
+    "longitude": -3.4231274
+  },
+  {
+    "osmId": 4169871790,
+    "name": "Alma Alpujarreña",
+    "latitude": 36.9001319,
+    "longitude": -3.4234227
+  },
+  {
+    "osmId": 4169871793,
+    "name": "Nemesis I",
+    "latitude": 36.9001266,
+    "longitude": -3.4237077
+  },
+  {
+    "osmId": 4169892045,
+    "name": "Casa Rodrigo",
+    "latitude": 36.9003486,
+    "longitude": -3.4211715
+  },
+  {
+    "osmId": 4172179489,
+    "name": "Restaurante Caribe",
+    "latitude": 36.7307627,
+    "longitude": -3.9703736
+  },
+  {
+    "osmId": 4175140494,
+    "name": "Restaurante Fuente La Peña",
+    "latitude": 36.9269183,
+    "longitude": -4.1292866
+  },
+  {
+    "osmId": 4177026789,
+    "name": "Mussö Funky Food",
+    "latitude": 36.726782,
+    "longitude": -3.7269117
+  },
+  {
+    "osmId": 4177026790,
+    "name": "El Barco",
+    "latitude": 36.7264292,
+    "longitude": -3.7268584
+  },
+  {
+    "osmId": 4195329405,
+    "name": "El Capricho",
+    "latitude": 36.8184484,
+    "longitude": -3.679981
+  },
+  {
+    "osmId": 4196905294,
+    "name": "Pizzería La Kabaña",
+    "latitude": 36.9760945,
+    "longitude": -4.1445833
+  },
+  {
+    "osmId": 4229734840,
+    "name": "Tito's",
+    "latitude": 36.7432587,
+    "longitude": -3.8831381
+  },
+  {
+    "osmId": 4229734841,
+    "name": "Da Carlo",
+    "latitude": 36.7431542,
+    "longitude": -3.8843936
+  },
+  {
+    "osmId": 4230056368,
+    "name": "Redondo Fish",
+    "website": "https://redondo.bar/",
+    "latitude": 36.7470692,
+    "longitude": -3.8756995
+  },
+  {
+    "osmId": 4230075570,
+    "name": "Julies & Valeri's",
+    "latitude": 36.7455746,
+    "longitude": -3.8763697
+  },
+  {
+    "osmId": 4230075573,
+    "name": "La fuente",
+    "latitude": 36.7454682,
+    "longitude": -3.8762922
+  },
+  {
+    "osmId": 4230075594,
+    "name": "Sapore Italia",
+    "latitude": 36.7429026,
+    "longitude": -3.8839806
+  },
+  {
+    "osmId": 4230075595,
+    "name": "Kronox",
+    "latitude": 36.7449818,
+    "longitude": -3.8778212
+  },
+  {
+    "osmId": 4233632778,
+    "name": "Tolo Almay Te",
+    "latitude": 36.7307396,
+    "longitude": -4.1295832
+  },
+  {
+    "osmId": 4254203660,
+    "name": "Limonar9",
+    "latitude": 36.7697846,
+    "longitude": -4.0964549
+  },
+  {
+    "osmId": 4254203681,
+    "name": "Real Bajo",
+    "latitude": 36.7688785,
+    "longitude": -4.10062
+  },
+  {
+    "osmId": 4264960691,
+    "name": "Mesón Martín",
+    "latitude": 36.7938256,
+    "longitude": -3.4368698
+  },
+  {
+    "osmId": 4270138194,
+    "name": "Costa del Sol",
+    "latitude": 36.7335317,
+    "longitude": -3.9384721
+  },
+  {
+    "osmId": 4273194343,
+    "name": "Hnos. Ortigosa",
+    "latitude": 36.8898734,
+    "longitude": -4.1472829
+  },
+  {
+    "osmId": 4294145793,
+    "name": "La Taverna del Sacristan",
+    "latitude": 36.79298,
+    "longitude": -3.8990967
+  },
+  {
+    "osmId": 4296572777,
+    "name": "Barroso",
+    "latitude": 36.9790569,
+    "longitude": -4.272629
+  },
+  {
+    "osmId": 4296572779,
+    "name": "La Tinaha",
+    "latitude": 36.9263592,
+    "longitude": -4.1853989
+  },
+  {
+    "osmId": 4296573592,
+    "latitude": 36.9419719,
+    "longitude": -4.2253307
+  },
+  {
+    "osmId": 4302045311,
+    "name": "Madras Curry House",
+    "latitude": 36.7320825,
+    "longitude": -3.9668969
+  },
+  {
+    "osmId": 4318175189,
+    "name": "Garden",
+    "website": "https://thegardenfrigiliana.com",
+    "latitude": 36.7921163,
+    "longitude": -3.8960079
+  },
+  {
+    "osmId": 4343821017,
+    "name": "Hamburgurdería M&S",
+    "latitude": 36.7731216,
+    "longitude": -4.0387933
+  },
+  {
+    "osmId": 4344411091,
+    "name": "Bar Benito",
+    "latitude": 36.7741096,
+    "longitude": -4.0390239
+  },
+  {
+    "osmId": 4344414312,
+    "name": "Bar Melgares",
+    "latitude": 36.7716375,
+    "longitude": -4.0398593
+  },
+  {
+    "osmId": 4344432178,
+    "name": "Mesón el Chiate",
+    "latitude": 36.7722754,
+    "longitude": -4.0361283
+  },
+  {
+    "osmId": 4344482342,
+    "name": "Bar Bellavista",
+    "latitude": 36.7718406,
+    "longitude": -4.037747
+  },
+  {
+    "osmId": 4399713092,
+    "name": "Playamaro",
+    "latitude": 36.7591761,
+    "longitude": -3.8423478
+  },
+  {
+    "osmId": 4399713093,
+    "name": "Detunda",
+    "latitude": 36.7589818,
+    "longitude": -3.8435247
+  },
+  {
+    "osmId": 4403523838,
+    "name": "La Venta de Nigüelas",
+    "website": "https://www.laventadeniguelas.com",
+    "latitude": 36.9677203,
+    "longitude": -3.5539134
+  },
+  {
+    "osmId": 4427494690,
+    "name": "Café bar Califa",
+    "latitude": 36.7325785,
+    "longitude": -3.7395224
+  },
+  {
+    "osmId": 4431407890,
+    "name": "Bodega La Barrica",
+    "website": "http://bodegalabarrica.es",
+    "latitude": 36.7338849,
+    "longitude": -3.7393857
+  },
+  {
+    "osmId": 4464640568,
+    "name": "La Gaviota",
+    "latitude": 36.7426039,
+    "longitude": -3.5847557
+  },
+  {
+    "osmId": 4464640572,
+    "name": "Le Petit Bistro",
+    "latitude": 36.7403662,
+    "longitude": -3.5854857
+  },
+  {
+    "osmId": 4477443391,
+    "name": "El Recreo",
+    "latitude": 36.832737,
+    "longitude": -3.9753326
+  },
+  {
+    "osmId": 4504768157,
+    "name": "Restaurante El Trapiche",
+    "latitude": 36.8070121,
+    "longitude": -4.1263775
+  },
+  {
+    "osmId": 4517412714,
+    "name": "Caffeteria Rando",
+    "latitude": 36.7430844,
+    "longitude": -4.0908965
+  },
+  {
+    "osmId": 4517412721,
+    "name": "Lio - Pizzeria y algo mas",
+    "latitude": 36.7424434,
+    "longitude": -4.0921035
+  },
+  {
+    "osmId": 4518645606,
+    "latitude": 36.74492,
+    "longitude": -4.0874193
+  },
+  {
+    "osmId": 4519562234,
+    "name": "Cafeteria Taperia Fran Corner",
+    "latitude": 36.7825355,
+    "longitude": -4.1086699
+  },
+  {
+    "osmId": 4523246198,
+    "name": "Piano Bar La Cueva Mora de Luna",
+    "latitude": 36.9291693,
+    "longitude": -3.3210461
+  },
+  {
+    "osmId": 4524471092,
+    "name": "Bar Cafe Restaurante Laguna Beach",
+    "latitude": 36.7325607,
+    "longitude": -3.9736954
+  },
+  {
+    "osmId": 4524841120,
+    "name": "La Pérgola",
+    "latitude": 36.7448156,
+    "longitude": -4.0861238
+  },
+  {
+    "osmId": 4524869068,
+    "name": "Ebano***",
+    "latitude": 36.736394,
+    "longitude": -4.0975503
+  },
+  {
+    "osmId": 4524895125,
+    "name": "Kebab House II ****",
+    "latitude": 36.7406002,
+    "longitude": -4.0911509
+  },
+  {
+    "osmId": 4530489886,
+    "name": "Cafetería Andalucía",
+    "latitude": 36.7413743,
+    "longitude": -4.0947815
+  },
+  {
+    "osmId": 4530495293,
+    "name": "Parra",
+    "latitude": 36.7397133,
+    "longitude": -4.0980887
+  },
+  {
+    "osmId": 4530495295,
+    "name": "La Bibeles",
+    "latitude": 36.7394091,
+    "longitude": -4.0986761
+  },
+  {
+    "osmId": 4530591166,
+    "name": "Mishusi",
+    "latitude": 36.7426326,
+    "longitude": -4.0926859
+  },
+  {
+    "osmId": 4530629018,
+    "name": "Fernández",
+    "latitude": 36.7491432,
+    "longitude": -4.0641506
+  },
+  {
+    "osmId": 4530629020,
+    "name": "Lounge Restaurant",
+    "latitude": 36.7492174,
+    "longitude": -4.0649284
+  },
+  {
+    "osmId": 4530678875,
+    "name": "Salon Caleta",
+    "latitude": 36.7485984,
+    "longitude": -4.0611525
+  },
+  {
+    "osmId": 4530678877,
+    "latitude": 36.7490546,
+    "longitude": -4.0624266
+  },
+  {
+    "osmId": 4545312441,
+    "name": "Sol Y Luna",
+    "latitude": 36.7644816,
+    "longitude": -4.0950192
+  },
+  {
+    "osmId": 4545464590,
+    "name": "Restaurante La Sociedad",
+    "latitude": 36.8735696,
+    "longitude": -4.08277
+  },
+  {
+    "osmId": 4549739555,
+    "name": "El Picota Andaluz",
+    "latitude": 36.873208,
+    "longitude": -4.0819044
+  },
+  {
+    "osmId": 4560240492,
+    "name": "La Mar de Tapas",
+    "latitude": 36.7447439,
+    "longitude": -4.0861575
+  },
+  {
+    "osmId": 4560240507,
+    "name": "La Dama de Elche",
+    "latitude": 36.7426411,
+    "longitude": -4.0888376
+  },
+  {
+    "osmId": 4560240509,
+    "name": "Ciudad Sur",
+    "latitude": 36.7423323,
+    "longitude": -4.0893185
+  },
+  {
+    "osmId": 4560240510,
+    "name": "Bar Antonio Rompeolas",
+    "latitude": 36.7421367,
+    "longitude": -4.0896109
+  },
+  {
+    "osmId": 4566491165,
+    "name": "Distinto y Diferente",
+    "latitude": 36.716642,
+    "longitude": -4.1936269
+  },
+  {
+    "osmId": 4566491180,
+    "name": "El Rinconcillo",
+    "latitude": 36.715954,
+    "longitude": -4.1893019
+  },
+  {
+    "osmId": 4566491493,
+    "name": "Chiringuito de Valle Niza",
+    "latitude": 36.7196369,
+    "longitude": -4.1647911
+  },
+  {
+    "osmId": 4567172495,
+    "name": "Rocinante",
+    "latitude": 36.7162,
+    "longitude": -4.1951089
+  },
+  {
+    "osmId": 4567427087,
+    "name": "Solymar",
+    "latitude": 36.7160039,
+    "longitude": -4.1982186
+  },
+  {
+    "osmId": 4567530702,
+    "name": "D.Andrea",
+    "latitude": 36.7144555,
+    "longitude": -4.2162137
+  },
+  {
+    "osmId": 4567530703,
+    "name": "Restaurante Duna",
+    "latitude": 36.7144845,
+    "longitude": -4.2156216
+  },
+  {
+    "osmId": 4567530704,
+    "name": "Alba",
+    "latitude": 36.7144318,
+    "longitude": -4.2154996
+  },
+  {
+    "osmId": 4567591444,
+    "name": "El Paraiso",
+    "latitude": 36.7138474,
+    "longitude": -4.224499
+  },
+  {
+    "osmId": 4569285887,
+    "name": "El Asador de Anoreta",
+    "latitude": 36.7284222,
+    "longitude": -4.2461842
+  },
+  {
+    "osmId": 4570856648,
+    "latitude": 36.7219225,
+    "longitude": -4.2457873
+  },
+  {
+    "osmId": 4570943308,
+    "name": "El Deo",
+    "latitude": 36.7125627,
+    "longitude": -4.236017
+  },
+  {
+    "osmId": 4570943327,
+    "name": "Salvori",
+    "latitude": 36.7140941,
+    "longitude": -4.2354706
+  },
+  {
+    "osmId": 4570972828,
+    "name": "Chiringuito Pedro",
+    "latitude": 36.7159304,
+    "longitude": -4.1945179
+  },
+  {
+    "osmId": 4570972829,
+    "name": "El Pollo",
+    "latitude": 36.7158448,
+    "longitude": -4.1967285
+  },
+  {
+    "osmId": 4570972854,
+    "name": "El Balandro",
+    "latitude": 36.715544,
+    "longitude": -4.1987035
+  },
+  {
+    "osmId": 4575537372,
+    "name": "Italia",
+    "latitude": 36.736638,
+    "longitude": -4.0973138
+  },
+  {
+    "osmId": 4575537385,
+    "name": "Terraza del Sol",
+    "latitude": 36.7363494,
+    "longitude": -4.0987404
+  },
+  {
+    "osmId": 4575537386,
+    "name": "Baron de Cutar",
+    "latitude": 36.7361416,
+    "longitude": -4.0984523
+  },
+  {
+    "osmId": 4583074477,
+    "name": "Sierrezuela",
+    "latitude": 36.7315847,
+    "longitude": -4.1330015
+  },
+  {
+    "osmId": 4583076383,
+    "name": "Lana",
+    "latitude": 36.7311311,
+    "longitude": -4.1304911
+  },
+  {
+    "osmId": 4583076386,
+    "name": "Cafetaria Ma Carmen",
+    "latitude": 36.7306992,
+    "longitude": -4.1294683
+  },
+  {
+    "osmId": 4590856590,
+    "name": "Restaurante Chino Golden Sun",
+    "latitude": 36.7363686,
+    "longitude": -3.7454177
+  },
+  {
+    "osmId": 4590883666,
+    "name": "La Gaviota",
+    "latitude": 36.7384503,
+    "longitude": -3.752064
+  },
+  {
+    "osmId": 4590890379,
+    "name": "Cerveceria La Bola Marina",
+    "website": "https://bolamarinapintxo.makro.rest/?lang=es",
+    "latitude": 36.7335973,
+    "longitude": -3.7407084
+  },
+  {
+    "osmId": 4594816962,
+    "name": "Restaurante Casa Antonio",
+    "latitude": 36.7362439,
+    "longitude": -3.74519
+  },
+  {
+    "osmId": 4594817375,
+    "name": "Ristorante Pizzería Italia",
+    "latitude": 36.7362834,
+    "longitude": -3.7452675
+  },
+  {
+    "osmId": 4594851342,
+    "name": "Mesón de Yoli",
+    "latitude": 36.7446818,
+    "longitude": -4.0412628
+  },
+  {
+    "osmId": 4595092109,
+    "name": "Taberna Battix",
+    "latitude": 36.7480584,
+    "longitude": -4.0564818
+  },
+  {
+    "osmId": 4596755079,
+    "name": "Bhua Luang",
+    "latitude": 36.7447814,
+    "longitude": -4.0887662
+  },
+  {
+    "osmId": 4596755084,
+    "name": "El Asador",
+    "latitude": 36.745636,
+    "longitude": -4.0872126
+  },
+  {
+    "osmId": 4598555293,
+    "name": "La Paradita",
+    "latitude": 36.7406228,
+    "longitude": -4.0990945
+  },
+  {
+    "osmId": 4610177115,
+    "name": "Ri-Jo Nederland",
+    "latitude": 36.7465591,
+    "longitude": -4.0540828
+  },
+  {
+    "osmId": 4619375891,
+    "name": "Candelón",
+    "latitude": 36.7446896,
+    "longitude": -3.5165238
+  },
+  {
+    "osmId": 4630255081,
+    "name": "El Bodegón",
+    "latitude": 36.7489473,
+    "longitude": -4.0647522
+  },
+  {
+    "osmId": 4630255899,
+    "name": "Lola",
+    "latitude": 36.7473594,
+    "longitude": -4.0575193
+  },
+  {
+    "osmId": 4639843322,
+    "name": "La Trattoria",
+    "latitude": 36.7321222,
+    "longitude": -3.6905466
+  },
+  {
+    "osmId": 4656389440,
+    "name": "Meson Restaurante Las Palomas",
+    "latitude": 36.768621,
+    "longitude": -4.0417085
+  },
+  {
+    "osmId": 4657147229,
+    "latitude": 36.7488191,
+    "longitude": -4.0657227
+  },
+  {
+    "osmId": 4657147230,
+    "name": "El Camarote",
+    "latitude": 36.7488752,
+    "longitude": -4.0662644
+  },
+  {
+    "osmId": 4657184397,
+    "name": "Chiringuito Moreno",
+    "latitude": 36.7395725,
+    "longitude": -4.0912647
+  },
+  {
+    "osmId": 4660912764,
+    "name": "Mari Carmen por Favor",
+    "latitude": 36.7311764,
+    "longitude": -3.6880153
+  },
+  {
+    "osmId": 4660912765,
+    "name": "La Última Ola",
+    "latitude": 36.7311694,
+    "longitude": -3.6882366
+  },
+  {
+    "osmId": 4665911511,
+    "name": "Taj Majal",
+    "latitude": 36.8893718,
+    "longitude": -4.1431418
+  },
+  {
+    "osmId": 4665922981,
+    "latitude": 36.7161,
+    "longitude": -4.2914726
+  },
+  {
+    "osmId": 4665962109,
+    "latitude": 36.7160522,
+    "longitude": -4.289652
+  },
+  {
+    "osmId": 4666240253,
+    "name": "Indian Palace",
+    "latitude": 36.881063,
+    "longitude": -4.14467
+  },
+  {
+    "osmId": 4666253281,
+    "name": "El Pantano",
+    "latitude": 36.8734252,
+    "longitude": -4.1842173
+  },
+  {
+    "osmId": 4669990100,
+    "latitude": 36.7154633,
+    "longitude": -4.2884698
+  },
+  {
+    "osmId": 4669990105,
+    "name": "Babel",
+    "latitude": 36.7157581,
+    "longitude": -4.2887823
+  },
+  {
+    "osmId": 4669990107,
+    "latitude": 36.7158054,
+    "longitude": -4.2889312
+  },
+  {
+    "osmId": 4670643368,
+    "latitude": 36.7150266,
+    "longitude": -4.2864535
+  },
+  {
+    "osmId": 4670643377,
+    "name": "Batxoki",
+    "latitude": 36.7151792,
+    "longitude": -4.2863274
+  },
+  {
+    "osmId": 4670658965,
+    "latitude": 36.7153023,
+    "longitude": -4.2851832
+  },
+  {
+    "osmId": 4670658966,
+    "name": "Taberna Eduardo",
+    "latitude": 36.7152507,
+    "longitude": -4.2848184
+  },
+  {
+    "osmId": 4670658967,
+    "latitude": 36.7152357,
+    "longitude": -4.2847138
+  },
+  {
+    "osmId": 4678685193,
+    "name": "Las Flores 2",
+    "latitude": 36.7148905,
+    "longitude": -4.2837871
+  },
+  {
+    "osmId": 4678685207,
+    "name": "Chinono Paraison",
+    "latitude": 36.7149362,
+    "longitude": -4.2841264
+  },
+  {
+    "osmId": 4679012807,
+    "name": "Tuk Tuk Noodles",
+    "latitude": 36.7146126,
+    "longitude": -4.2816047
+  },
+  {
+    "osmId": 4679012812,
+    "name": "Pizza&Pasta",
+    "latitude": 36.714676,
+    "longitude": -4.2818708
+  },
+  {
+    "osmId": 4679012840,
+    "latitude": 36.7149464,
+    "longitude": -4.2820861
+  },
+  {
+    "osmId": 4679012841,
+    "latitude": 36.7149572,
+    "longitude": -4.2821733
+  },
+  {
+    "osmId": 4679012843,
+    "name": "Jardin de Aqua",
+    "latitude": 36.7147422,
+    "longitude": -4.282227
+  },
+  {
+    "osmId": 4681838116,
+    "latitude": 36.7146953,
+    "longitude": -4.2800968
+  },
+  {
+    "osmId": 4681838119,
+    "name": "Asia",
+    "latitude": 36.7147108,
+    "longitude": -4.2803939
+  },
+  {
+    "osmId": 4681907609,
+    "name": "Casa Quirada",
+    "latitude": 36.7143481,
+    "longitude": -4.2794343
+  },
+  {
+    "osmId": 4681907611,
+    "name": "Yogui",
+    "latitude": 36.7143889,
+    "longitude": -4.2797629
+  },
+  {
+    "osmId": 4682059906,
+    "latitude": 36.7131778,
+    "longitude": -4.2695269
+  },
+  {
+    "osmId": 4682059911,
+    "name": "El Gato",
+    "latitude": 36.7136772,
+    "longitude": -4.2717773
+  },
+  {
+    "osmId": 4682060102,
+    "name": "Riznaga",
+    "latitude": 36.7140028,
+    "longitude": -4.2766898
+  },
+  {
+    "osmId": 4682060119,
+    "latitude": 36.714358,
+    "longitude": -4.2776419
+  },
+  {
+    "osmId": 4691074653,
+    "name": "Cafè Terranova",
+    "latitude": 36.7125403,
+    "longitude": -4.2626084
+  },
+  {
+    "osmId": 4788285770,
+    "name": "Au Petit Paris",
+    "latitude": 36.7446835,
+    "longitude": -3.8791867
+  },
+  {
+    "osmId": 4788285771,
+    "name": "Lan Sang",
+    "website": "http://www.lansang.com",
+    "latitude": 36.7445085,
+    "longitude": -3.8792041
+  },
+  {
+    "osmId": 4800864468,
+    "name": "La Bodeguita del Medio",
+    "latitude": 36.7451057,
+    "longitude": -3.8814869
+  },
+  {
+    "osmId": 4800866432,
+    "name": "Don Chisciotte",
+    "latitude": 36.7453383,
+    "longitude": -3.8801953
+  },
+  {
+    "osmId": 4800875508,
+    "name": "Sanar Lounge",
+    "latitude": 36.7452414,
+    "longitude": -3.8793756
+  },
+  {
+    "osmId": 4851165338,
+    "name": "Monna Mia",
+    "latitude": 36.7425217,
+    "longitude": -3.8803577
+  },
+  {
+    "osmId": 4887161680,
+    "name": "Los Cangrejos",
+    "latitude": 36.7423885,
+    "longitude": -3.8803885
+  },
+  {
+    "osmId": 4902471728,
+    "name": "Mesón Nacimiento",
+    "latitude": 36.8369163,
+    "longitude": -3.5127332
+  },
+  {
+    "osmId": 4903340921,
+    "name": "Little Italy",
+    "latitude": 36.7459521,
+    "longitude": -3.8750107
+  },
+  {
+    "osmId": 4951146305,
+    "name": "El Yate",
+    "latitude": 36.7402462,
+    "longitude": -4.0926461
+  },
+  {
+    "osmId": 4980380749,
+    "name": "Chambao El Vizco",
+    "latitude": 36.9958942,
+    "longitude": -3.576058
+  },
+  {
+    "osmId": 5020169603,
+    "name": "Meson Mari y Miguel",
+    "latitude": 36.7337788,
+    "longitude": -3.6894672
+  },
+  {
+    "osmId": 5020169605,
+    "name": "New Little Italy",
+    "latitude": 36.7331576,
+    "longitude": -3.6896247
+  },
+  {
+    "osmId": 5020169606,
+    "name": "La Moraga",
+    "latitude": 36.7322546,
+    "longitude": -3.6887978
+  },
+  {
+    "osmId": 5020169607,
+    "name": "La Bodeguita",
+    "latitude": 36.7314445,
+    "longitude": -3.6883759
+  },
+  {
+    "osmId": 5020169608,
+    "name": "La Cabaña",
+    "latitude": 36.7313461,
+    "longitude": -3.6947035
+  },
+  {
+    "osmId": 5020169610,
+    "name": "Méson los Arcos",
+    "latitude": 36.7346489,
+    "longitude": -3.6916977
+  },
+  {
+    "osmId": 5020169618,
+    "name": "La Corrala",
+    "latitude": 36.7333703,
+    "longitude": -3.691883
+  },
+  {
+    "osmId": 5020169620,
+    "name": "El Horno de Cándida",
+    "latitude": 36.7335182,
+    "longitude": -3.6920196
+  },
+  {
+    "osmId": 5100592225,
+    "name": "Restaurante El 34",
+    "website": "https://www.hotelcarabeo.com/boutique_hotels_nerja/boutique_hotels_nerja_restaurant34.asp",
+    "latitude": 36.7462959,
+    "longitude": -3.8742878
+  },
+  {
+    "osmId": 5100592226,
+    "name": "Playa & Sol Lounge",
+    "latitude": 36.7506858,
+    "longitude": -3.8672005
+  },
+  {
+    "osmId": 5100645421,
+    "name": "Restaurante El Patanegra",
+    "latitude": 36.7463998,
+    "longitude": -3.8802142
+  },
+  {
+    "osmId": 5113829230,
+    "name": "Bar El Negri",
+    "latitude": 36.7409401,
+    "longitude": -4.0929901
+  },
+  {
+    "osmId": 5115982850,
+    "name": "Punto & Pasta",
+    "latitude": 36.7382111,
+    "longitude": -4.0956929
+  },
+  {
+    "osmId": 5216455439,
+    "latitude": 36.7206035,
+    "longitude": -3.3646127
+  },
+  {
+    "osmId": 5250351146,
+    "name": "Pizzeria Ristorante Calabrisella",
+    "website": "https://ristorantepizzeriacalabrisella.business.site",
+    "latitude": 36.7294664,
+    "longitude": -3.964774
+  },
+  {
+    "osmId": 5306012773,
+    "latitude": 36.7698113,
+    "longitude": -4.1061525
+  },
+  {
+    "osmId": 5306988318,
+    "name": "Namaste",
+    "latitude": 36.746398,
+    "longitude": -3.8755528
+  },
+  {
+    "osmId": 5321992529,
+    "name": "Puerto Blanquillo",
+    "latitude": 36.7839774,
+    "longitude": -3.8948219
+  },
+  {
+    "osmId": 5334911625,
+    "name": "Portofino",
+    "latitude": 36.7452019,
+    "longitude": -3.8757332
+  },
+  {
+    "osmId": 5349888855,
+    "name": "Restaurante Taberna Teteria Hierbabuena",
+    "latitude": 36.8330473,
+    "longitude": -3.975994
+  },
+  {
+    "osmId": 5368815338,
+    "name": "Restaurante Don Cactus",
+    "latitude": 36.695958,
+    "longitude": -3.4430946
+  },
+  {
+    "osmId": 5373698821,
+    "name": "Restaurante Chino Hong Kong II",
+    "website": "https://www.publisur.net/empresa/515/hong-kong/",
+    "latitude": 36.729829,
+    "longitude": -3.964462
+  },
+  {
+    "osmId": 5461737819,
+    "name": "Restaurante Miramar",
+    "latitude": 36.7311311,
+    "longitude": -3.9708108
+  },
+  {
+    "osmId": 5561748923,
+    "name": "Bar Restaurante Pesetas",
+    "latitude": 36.7426774,
+    "longitude": -3.588974
+  },
+  {
+    "osmId": 5588819617,
+    "name": "Restaurante - Bar El Árbol Blanco",
+    "website": "http://www.elarbolblanco.es",
+    "latitude": 36.7323117,
+    "longitude": -3.673478
+  },
+  {
+    "osmId": 5588819618,
+    "name": "Chiringuito - Restaurante La Barca",
+    "latitude": 36.7342876,
+    "longitude": -3.6725324
+  },
+  {
+    "osmId": 5588819619,
+    "name": "Chiringuito Primera Ola",
+    "latitude": 36.7363175,
+    "longitude": -3.6709564
+  },
+  {
+    "osmId": 5588819620,
+    "name": "Chiringuito Tropical",
+    "latitude": 36.7405553,
+    "longitude": -3.6672292
+  },
+  {
+    "osmId": 5588822921,
+    "name": "Casa Mariano",
+    "latitude": 36.7416383,
+    "longitude": -3.6659784
+  },
+  {
+    "osmId": 5588822922,
+    "name": "Chiringuito Playamar",
+    "latitude": 36.7426798,
+    "longitude": -3.6648013
+  },
+  {
+    "osmId": 5588822923,
+    "name": "Chiringuito El Tesorillo",
+    "latitude": 36.7439219,
+    "longitude": -3.6634569
+  },
+  {
+    "osmId": 5641212883,
+    "name": "Salamandra",
+    "website": "https://restaurantesalamandranerja.com/",
+    "latitude": 36.7466956,
+    "longitude": -3.877192
+  },
+  {
+    "osmId": 5642328367,
+    "name": "Dona Lola",
+    "latitude": 36.7452821,
+    "longitude": -3.8763448
+  },
+  {
+    "osmId": 5651806417,
+    "name": "HM150 Restaurante Horto Málaga",
+    "latitude": 36.7343047,
+    "longitude": -3.9746831
+  },
+  {
+    "osmId": 5667412344,
+    "name": "Montemar",
+    "latitude": 36.7503503,
+    "longitude": -3.8678352
+  },
+  {
+    "osmId": 5667412345,
+    "name": "La Barca",
+    "website": "http://www.merenderolabarca.es/",
+    "latitude": 36.7505564,
+    "longitude": -3.8674432
+  },
+  {
+    "osmId": 5667412348,
+    "name": "YuuTaley",
+    "latitude": 36.7515874,
+    "longitude": -3.8658847
+  },
+  {
+    "osmId": 5682928371,
+    "name": "Restaurante El Balate",
+    "website": "https://elbalate.es/",
+    "latitude": 36.7453261,
+    "longitude": -3.661758
+  },
+  {
+    "osmId": 5732543187,
+    "name": "Dis Tinto",
+    "latitude": 36.7388433,
+    "longitude": -3.7534442
+  },
+  {
+    "osmId": 5751311151,
+    "name": "Yuan",
+    "latitude": 36.756244,
+    "longitude": -3.8726384
+  },
+  {
+    "osmId": 5752222330,
+    "name": "La Parada del Zacantin",
+    "latitude": 36.7929072,
+    "longitude": -3.8983178
+  },
+  {
+    "osmId": 5781801597,
+    "name": "La Casita de Papel",
+    "latitude": 36.9192773,
+    "longitude": -3.4961857
+  },
+  {
+    "osmId": 5877291252,
+    "name": "Balcòn de Comares",
+    "latitude": 36.8488804,
+    "longitude": -4.2467999
+  },
+  {
+    "osmId": 5877406996,
+    "name": "Hotel Restaurante Atalaya",
+    "latitude": 36.8443835,
+    "longitude": -4.2526629
+  },
+  {
+    "osmId": 5877540647,
+    "name": "El Niño",
+    "latitude": 36.8706443,
+    "longitude": -4.26909
+  },
+  {
+    "osmId": 5892715408,
+    "name": "Café-Bar Rincon el Colorin",
+    "latitude": 36.9751584,
+    "longitude": -4.2736564
+  },
+  {
+    "osmId": 5895032286,
+    "name": "Torre del Mar",
+    "latitude": 36.7388611,
+    "longitude": -4.0959229
+  },
+  {
+    "osmId": 5922545485,
+    "name": "Restaurante El Cruce",
+    "latitude": 36.9987185,
+    "longitude": -3.8896892
+  },
+  {
+    "osmId": 5937861969,
+    "name": "Baobab",
+    "latitude": 36.7450364,
+    "longitude": -4.0495511
+  },
+  {
+    "osmId": 5937880699,
+    "name": "Café Bar Axarquía",
+    "latitude": 36.7390654,
+    "longitude": -3.994988
+  },
+  {
+    "osmId": 5955209492,
+    "name": "Restaurante Haza del Lino",
+    "website": "https://hazadellino.com/",
+    "latitude": 36.8135175,
+    "longitude": -3.3060323
+  },
+  {
+    "osmId": 6057345609,
+    "name": "McKenna's bar",
+    "latitude": 36.7487712,
+    "longitude": -3.8733596
+  },
+  {
+    "osmId": 6096778914,
+    "latitude": 36.7378465,
+    "longitude": -4.0991214
+  },
+  {
+    "osmId": 6183973150,
+    "name": "Balcón de Cotobro",
+    "latitude": 36.7334101,
+    "longitude": -3.7139444
+  },
+  {
+    "osmId": 6257640989,
+    "name": "Restaurante Mirador de Pórtugos El Lujar",
+    "latitude": 36.9420867,
+    "longitude": -3.3106483
+  },
+  {
+    "osmId": 6291263220,
+    "name": "Cafe Bar David Restaurante",
+    "latitude": 36.8341322,
+    "longitude": -3.9737437
+  },
+  {
+    "osmId": 6318194510,
+    "name": "La Bella Torino*****",
+    "latitude": 36.7365506,
+    "longitude": -4.0972085
+  },
+  {
+    "osmId": 6339391204,
+    "name": "Pepe Oro",
+    "latitude": 36.7327008,
+    "longitude": -3.9410981
+  },
+  {
+    "osmId": 6367114488,
+    "latitude": 36.7387616,
+    "longitude": -4.0948437
+  },
+  {
+    "osmId": 6373584362,
+    "name": "Cafeteria el Eden",
+    "latitude": 36.7393377,
+    "longitude": -4.0953134
+  },
+  {
+    "osmId": 6437116408,
+    "name": "El Horno",
+    "latitude": 36.7398098,
+    "longitude": -4.093032
+  },
+  {
+    "osmId": 6439845870,
+    "name": "Freiduría el Trasmallo",
+    "latitude": 36.7405218,
+    "longitude": -4.0925786
+  },
+  {
+    "osmId": 6477053168,
+    "name": "Venta de Alfarnate",
+    "website": "https://www.andalucia.org/es/alfarnate-donde-comer-venta-de-alfarnate/",
+    "latitude": 36.9916742,
+    "longitude": -4.2783471
+  },
+  {
+    "osmId": 6504530413,
+    "name": "L'Italy",
+    "latitude": 36.7444111,
+    "longitude": -3.8809911
+  },
+  {
+    "osmId": 6515154685,
+    "name": "Restaurante Redondo’s",
+    "latitude": 36.8108466,
+    "longitude": -4.2149554
+  },
+  {
+    "osmId": 6518583991,
+    "name": "La Maroma",
+    "latitude": 36.8745832,
+    "longitude": -4.0831984
+  },
+  {
+    "osmId": 6556143985,
+    "name": "Mesón El Ciervo",
+    "latitude": 36.9019292,
+    "longitude": -4.1137282
+  },
+  {
+    "osmId": 6564005905,
+    "name": "Restaurante Casa Paco",
+    "latitude": 36.736101,
+    "longitude": -3.6717144
+  },
+  {
+    "osmId": 6564005907,
+    "name": "Restaurante A. Montes",
+    "latitude": 36.7359592,
+    "longitude": -3.6718387
+  },
+  {
+    "osmId": 6564005908,
+    "name": "Pizzería Sapori D'Italia",
+    "latitude": 36.7356394,
+    "longitude": -3.6721285
+  },
+  {
+    "osmId": 6564005911,
+    "name": "On the Strand",
+    "latitude": 36.7352824,
+    "longitude": -3.6723876
+  },
+  {
+    "osmId": 6564005912,
+    "name": "Happy Garden",
+    "latitude": 36.7353672,
+    "longitude": -3.6723299
+  },
+  {
+    "osmId": 6564005918,
+    "name": "Restaurante Antiguo Mesón Cabrera",
+    "latitude": 36.7342478,
+    "longitude": -3.6731514
+  },
+  {
+    "osmId": 6564005926,
+    "name": "De Bárbara",
+    "latitude": 36.7384103,
+    "longitude": -3.6694186
+  },
+  {
+    "osmId": 6564018822,
+    "name": "Il Subacqueo",
+    "latitude": 36.7432722,
+    "longitude": -3.6643227
+  },
+  {
+    "osmId": 6657430306,
+    "name": "Da Mario",
+    "latitude": 36.7355913,
+    "longitude": -3.6721736
+  },
+  {
+    "osmId": 6690600523,
+    "name": "Comidas Caseras Carmen",
+    "latitude": 36.8527602,
+    "longitude": -3.6244994
+  },
+  {
+    "osmId": 6696651170,
+    "name": "Bar-Restaurante Los Ángeles",
+    "latitude": 36.9345408,
+    "longitude": -3.910554
+  },
+  {
+    "osmId": 6718483316,
+    "name": "Bar Restaurante El Rubio",
+    "latitude": 36.7812759,
+    "longitude": -4.1087944
+  },
+  {
+    "osmId": 6718483319,
+    "name": "Marisquería Tapeía La Marenga",
+    "latitude": 36.7816766,
+    "longitude": -4.1082566
+  },
+  {
+    "osmId": 6726806247,
+    "name": "100 Montaditos",
+    "latitude": 36.7453983,
+    "longitude": -3.8762507
+  },
+  {
+    "osmId": 6735485885,
+    "name": "Los Naranjos",
+    "latitude": 36.933411,
+    "longitude": -3.5741582
+  },
+  {
+    "osmId": 6852665001,
+    "name": "Pronto Factory Pizza",
+    "latitude": 36.7146339,
+    "longitude": -4.2816957
+  },
+  {
+    "osmId": 6899037185,
+    "name": "El Bodegón de Juan",
+    "latitude": 36.8724804,
+    "longitude": -4.0820572
+  },
+  {
+    "osmId": 6927339585,
+    "name": "Bodega el Lagar",
+    "latitude": 36.9406458,
+    "longitude": -3.3610538
+  },
+  {
+    "osmId": 6932131585,
+    "name": "Casa Diego",
+    "latitude": 36.9404987,
+    "longitude": -3.3609249
+  },
+  {
+    "osmId": 6932132685,
+    "name": "Ruta del Mulhacén",
+    "website": "https://rutadelmulhacen.es",
+    "latitude": 36.9400829,
+    "longitude": -3.3610643
+  },
+  {
+    "osmId": 6932133785,
+    "name": "Casa Julio",
+    "website": "https://www.casa-julio.com/",
+    "latitude": 36.939689,
+    "longitude": -3.3606629
+  },
+  {
+    "osmId": 6939774448,
+    "name": "Cafe Sierra Almi Jara",
+    "latitude": 36.8441175,
+    "longitude": -3.985358
+  },
+  {
+    "osmId": 6964600333,
+    "name": "Botanic",
+    "latitude": 36.7466818,
+    "longitude": -3.875507
+  },
+  {
+    "osmId": 6970068955,
+    "name": "La Bottega",
+    "latitude": 36.7421903,
+    "longitude": -3.8804293
+  },
+  {
+    "osmId": 6974662893,
+    "latitude": 36.8347599,
+    "longitude": -3.9775338
+  },
+  {
+    "osmId": 7008000945,
+    "name": "Restaurante Puerta Nazarí",
+    "website": "https://restaurantepuertanazari.com",
+    "latitude": 36.9012131,
+    "longitude": -3.429057
+  },
+  {
+    "osmId": 7013689198,
+    "name": "Salazón",
+    "latitude": 36.7265862,
+    "longitude": -3.7268396
+  },
+  {
+    "osmId": 7039016883,
+    "latitude": 36.8902572,
+    "longitude": -4.1461265
+  },
+  {
+    "osmId": 7056663286,
+    "name": "La Pica",
+    "latitude": 36.7475849,
+    "longitude": -3.9553013
+  },
+  {
+    "osmId": 7075691085,
+    "latitude": 36.740234,
+    "longitude": -4.0959544
+  },
+  {
+    "osmId": 7075691086,
+    "name": "Taj Mahal",
+    "latitude": 36.7398105,
+    "longitude": -4.0967792
+  },
+  {
+    "osmId": 7075691087,
+    "latitude": 36.7388938,
+    "longitude": -4.096452
+  },
+  {
+    "osmId": 7106777341,
+    "name": "El Rebalaje",
+    "latitude": 36.6976705,
+    "longitude": -3.4186405
+  },
+  {
+    "osmId": 7106810769,
+    "name": "El Ancla",
+    "latitude": 36.7005645,
+    "longitude": -3.4164825
+  },
+  {
+    "osmId": 7107708405,
+    "name": "Terra Mar",
+    "latitude": 36.7325199,
+    "longitude": -3.7394852
+  },
+  {
+    "osmId": 7241691708,
+    "name": "This is BBQ",
+    "website": "https://www.thisisbbq.es",
+    "latitude": 36.7371923,
+    "longitude": -3.5916933
+  },
+  {
+    "osmId": 7251357238,
+    "name": "Restaurante El Horno",
+    "latitude": 36.8776757,
+    "longitude": -4.153178
+  },
+  {
+    "osmId": 7301994273,
+    "name": "Bar Restaurante Reyes",
+    "latitude": 36.771069,
+    "longitude": -4.2540867
+  },
+  {
+    "osmId": 7514972741,
+    "name": "Tito Yayo",
+    "latitude": 36.7456618,
+    "longitude": -3.6523693
+  },
+  {
+    "osmId": 7523433185,
+    "name": "Bar Las Sirenas",
+    "latitude": 36.6987079,
+    "longitude": -3.417584
+  },
+  {
+    "osmId": 7523433385,
+    "name": "Pizzaria Terraza Jardin",
+    "latitude": 36.6982619,
+    "longitude": -3.4176701
+  },
+  {
+    "osmId": 7523433386,
+    "name": "El Conjuro",
+    "website": "https://elconjurorestaurante.com/",
+    "latitude": 36.699753,
+    "longitude": -3.417094
+  },
+  {
+    "osmId": 7696104929,
+    "name": "Asador Sastreria",
+    "website": "https://www.lasastreriaasador.es/",
+    "latitude": 36.7829754,
+    "longitude": -4.1018174
+  },
+  {
+    "osmId": 7705602134,
+    "name": "Mesón Morisco",
+    "latitude": 36.7978784,
+    "longitude": -4.0115319
+  },
+  {
+    "osmId": 7730854485,
+    "name": "La Calma Playa",
+    "website": "https://lacalmaplaya.es/",
+    "latitude": 36.7127134,
+    "longitude": -4.2356939
+  },
+  {
+    "osmId": 7765216914,
+    "name": "La Cruzada",
+    "latitude": 36.7419677,
+    "longitude": -3.5847849
+  },
+  {
+    "osmId": 7765216917,
+    "name": "Lolitalola",
+    "latitude": 36.740644,
+    "longitude": -3.584549
+  },
+  {
+    "osmId": 7765216918,
+    "name": "Mesón de la Villa",
+    "latitude": 36.7404904,
+    "longitude": -3.5845323
+  },
+  {
+    "osmId": 7765216923,
+    "name": "Aráis",
+    "latitude": 36.7408805,
+    "longitude": -3.5838928
+  },
+  {
+    "osmId": 7765216936,
+    "name": "Restaurante La Botica",
+    "latitude": 36.7431735,
+    "longitude": -3.587987
+  },
+  {
+    "osmId": 7766426286,
+    "name": "El Pilon",
+    "website": "https://restaurantelpilon.com/",
+    "latitude": 36.8334593,
+    "longitude": -3.9756357
+  },
+  {
+    "osmId": 7766429085,
+    "name": "Casa mari",
+    "latitude": 36.7977104,
+    "longitude": -4.0127729
+  },
+  {
+    "osmId": 7781867586,
+    "name": "Pavo Real Restaurant",
+    "latitude": 36.8073796,
+    "longitude": -3.9535267
+  },
+  {
+    "osmId": 7782228797,
+    "name": "Alhamar",
+    "latitude": 36.7430116,
+    "longitude": -3.6650317
+  },
+  {
+    "osmId": 7782228798,
+    "name": "Restaurante Andalucía",
+    "latitude": 36.7431279,
+    "longitude": -3.664769
+  },
+  {
+    "osmId": 7782228800,
+    "name": "Solymar",
+    "latitude": 36.7431798,
+    "longitude": -3.6645161
+  },
+  {
+    "osmId": 7782228801,
+    "name": "Chiringuito UHA",
+    "latitude": 36.7439804,
+    "longitude": -3.6632464
+  },
+  {
+    "osmId": 7835919686,
+    "name": "Mi Mundo",
+    "latitude": 36.7374709,
+    "longitude": -4.0987247
+  },
+  {
+    "osmId": 7835942885,
+    "name": "Spiral Restaurante",
+    "latitude": 36.7466041,
+    "longitude": -3.8762141
+  },
+  {
+    "osmId": 7842969596,
+    "name": "Restaurante Zahor",
+    "latitude": 36.998799,
+    "longitude": -3.5781053
+  },
+  {
+    "osmId": 7851416052,
+    "latitude": 36.9878921,
+    "longitude": -3.5675291
+  },
+  {
+    "osmId": 7892657685,
+    "name": "El Radar",
+    "latitude": 36.7389433,
+    "longitude": -4.0936369
+  },
+  {
+    "osmId": 7892678985,
+    "name": "La Cueva",
+    "latitude": 36.7412053,
+    "longitude": -4.0936998
+  },
+  {
+    "osmId": 7898076085,
+    "name": "La Pescadería",
+    "latitude": 36.7474232,
+    "longitude": -4.0905169
+  },
+  {
+    "osmId": 7945912585,
+    "name": "Nonna Helado Artesanal",
+    "latitude": 36.7148923,
+    "longitude": -4.2846756
+  },
+  {
+    "osmId": 8126417236,
+    "name": "Restaurant Los Caracoles",
+    "latitude": 36.7977925,
+    "longitude": -3.9320724
+  },
+  {
+    "osmId": 8152309160,
+    "name": "Viña Castilla",
+    "latitude": 36.7626036,
+    "longitude": -3.3812877
+  },
+  {
+    "osmId": 8165064222,
+    "name": "El Molinillo",
+    "latitude": 36.955342,
+    "longitude": -3.8740628
+  },
+  {
+    "osmId": 8210319126,
+    "latitude": 36.9268742,
+    "longitude": -4.1877725
+  },
+  {
+    "osmId": 8248728068,
+    "latitude": 36.7384285,
+    "longitude": -4.2451097
+  },
+  {
+    "osmId": 8248728070,
+    "latitude": 36.7372378,
+    "longitude": -4.2460977
+  },
+  {
+    "osmId": 8282022917,
+    "name": "Restaurante Buenavista",
+    "latitude": 36.8172127,
+    "longitude": -3.6810083
+  },
+  {
+    "osmId": 8285947990,
+    "name": "Mesón Cerro Negro",
+    "latitude": 36.961958,
+    "longitude": -3.3588428
+  },
+  {
+    "osmId": 8309349030,
+    "name": "Bar Restaurante El Ahumado",
+    "latitude": 36.9191491,
+    "longitude": -3.4757051
+  },
+  {
+    "osmId": 8316397802,
+    "name": "Mare Mostrum",
+    "latitude": 36.7228341,
+    "longitude": -3.3569818
+  },
+  {
+    "osmId": 8325441285,
+    "latitude": 36.7187142,
+    "longitude": -3.5638164
+  },
+  {
+    "osmId": 8327570417,
+    "name": "Nueva Tahona",
+    "latitude": 36.7907162,
+    "longitude": -3.8962097
+  },
+  {
+    "osmId": 8327573717,
+    "name": "Taberna El Sacristán",
+    "latitude": 36.7907739,
+    "longitude": -3.8961481
+  },
+  {
+    "osmId": 8327573817,
+    "name": "El Sacristán",
+    "latitude": 36.7907455,
+    "longitude": -3.8961883
+  },
+  {
+    "osmId": 8392356487,
+    "name": "La Enramada",
+    "latitude": 36.7402591,
+    "longitude": -3.6682238
+  },
+  {
+    "osmId": 8725086323,
+    "name": "Bodegón Trops",
+    "latitude": 36.7987632,
+    "longitude": -4.118029
+  },
+  {
+    "osmId": 8880084552,
+    "name": "Mercato",
+    "website": "https://pena-parda.com/",
+    "latitude": 36.7387788,
+    "longitude": -3.7529634
+  },
+  {
+    "osmId": 8930470828,
+    "name": "Bar Los Rombos",
+    "latitude": 36.7787614,
+    "longitude": -4.1050817
+  },
+  {
+    "osmId": 8939638844,
+    "name": "Restaurante La Bohemia",
+    "latitude": 36.7822755,
+    "longitude": -4.1055503
+  },
+  {
+    "osmId": 8939638845,
+    "name": "Restaurante El Cofrade",
+    "latitude": 36.7821474,
+    "longitude": -4.1050541
+  },
+  {
+    "osmId": 8944632164,
+    "name": "Bar Chavico",
+    "latitude": 36.7783792,
+    "longitude": -4.1029456
+  },
+  {
+    "osmId": 8979385171,
+    "name": "Casa Kiko",
+    "latitude": 36.7150968,
+    "longitude": -4.289373
+  },
+  {
+    "osmId": 9067766934,
+    "name": "Costa Banana",
+    "latitude": 36.7392795,
+    "longitude": -3.6976877
+  },
+  {
+    "osmId": 9123930936,
+    "name": "La Marquesina",
+    "website": "https://lamarquesinarestaurante.com/",
+    "latitude": 36.9286168,
+    "longitude": -3.5844831
+  },
+  {
+    "osmId": 9132917898,
+    "latitude": 36.9266833,
+    "longitude": -4.1871425
+  },
+  {
+    "osmId": 9144262005,
+    "name": "La Caña",
+    "latitude": 36.7365906,
+    "longitude": -3.5899601
+  },
+  {
+    "osmId": 9169399501,
+    "name": "Restaurante Casa Antonio",
+    "latitude": 36.7455788,
+    "longitude": -3.6517177
+  },
+  {
+    "osmId": 9169478832,
+    "name": "Pizzería Pinocchio",
+    "latitude": 36.7316937,
+    "longitude": -3.6887119
+  },
+  {
+    "osmId": 9176352337,
+    "name": "I Love Pizza",
+    "latitude": 36.7288326,
+    "longitude": -3.9625722
+  },
+  {
+    "osmId": 9177455830,
+    "name": "Entre Vientos",
+    "latitude": 36.7270572,
+    "longitude": -3.9579836
+  },
+  {
+    "osmId": 9186760154,
+    "name": "L-Ichibar",
+    "latitude": 36.7291912,
+    "longitude": -3.963445
+  },
+  {
+    "osmId": 9200317991,
+    "name": "Pahuna Nepalese & Indian Restaurant",
+    "website": "http://pahunanepaleserestaurant.com/index.html",
+    "latitude": 36.7302403,
+    "longitude": -3.9631119
+  },
+  {
+    "osmId": 9282688554,
+    "name": "El Pugilla",
+    "latitude": 36.7465174,
+    "longitude": -3.8749178
+  },
+  {
+    "osmId": 9282688560,
+    "latitude": 36.7322537,
+    "longitude": -3.6990748
+  },
+  {
+    "osmId": 9282688561,
+    "name": "Sabina",
+    "latitude": 36.7319208,
+    "longitude": -3.6986292
+  },
+  {
+    "osmId": 9282688568,
+    "name": "la China",
+    "latitude": 36.7336259,
+    "longitude": -3.7060493
+  },
+  {
+    "osmId": 9282688579,
+    "name": "China Town 2",
+    "latitude": 36.7307161,
+    "longitude": -3.6968103
+  },
+  {
+    "osmId": 9282688580,
+    "name": "Boto's",
+    "latitude": 36.7320694,
+    "longitude": -3.6994802
+  },
+  {
+    "osmId": 9386501417,
+    "name": "La Dama",
+    "latitude": 36.7460052,
+    "longitude": -3.8748864
+  },
+  {
+    "osmId": 9413764796,
+    "name": "Joanny's",
+    "latitude": 36.7486627,
+    "longitude": -3.8728916
+  },
+  {
+    "osmId": 9453265517,
+    "name": "Patagonia & Olé",
+    "latitude": 36.7514337,
+    "longitude": -3.8698174
+  },
+  {
+    "osmId": 9453265524,
+    "name": "Pahuna",
+    "latitude": 36.7505676,
+    "longitude": -3.8693091
+  },
+  {
+    "osmId": 9547940264,
+    "name": "Mesón Alpujarreño",
+    "latitude": 36.9608815,
+    "longitude": -3.3602178
+  },
+  {
+    "osmId": 9554670884,
+    "name": "Plaza Seis",
+    "latitude": 36.9489278,
+    "longitude": -3.3570878
+  },
+  {
+    "osmId": 9575163283,
+    "name": "Taberna Romero",
+    "latitude": 36.9286495,
+    "longitude": -3.4049562
+  },
+  {
+    "osmId": 9578081495,
+    "name": "Café Komo",
+    "website": "http://www.cafekomo.com",
+    "latitude": 36.7419912,
+    "longitude": -3.5280546
+  },
+  {
+    "osmId": 9581103510,
+    "name": "Restaurante Garvi",
+    "latitude": 36.9486245,
+    "longitude": -3.5514582
+  },
+  {
+    "osmId": 9589820005,
+    "name": "Fogón de Medina",
+    "latitude": 36.7448294,
+    "longitude": -3.5191753
+  },
+  {
+    "osmId": 9598224743,
+    "name": "Indian Tandoori",
+    "latitude": 36.7890037,
+    "longitude": -3.8952115
+  },
+  {
+    "osmId": 9671977583,
+    "name": "Taste of India",
+    "latitude": 36.7465691,
+    "longitude": -3.8740046
+  },
+  {
+    "osmId": 9672055163,
+    "name": "Oliva",
+    "website": "http://www.restauranteoliva.com/",
+    "latitude": 36.746175,
+    "longitude": -3.8774512
+  },
+  {
+    "osmId": 9672112030,
+    "name": "Mum",
+    "latitude": 36.74581,
+    "longitude": -3.8760346
+  },
+  {
+    "osmId": 9672112061,
+    "name": "Gloria Bendita",
+    "latitude": 36.7471144,
+    "longitude": -3.8758522
+  },
+  {
+    "osmId": 9675076657,
+    "name": "Goa Town",
+    "latitude": 36.7457694,
+    "longitude": -3.8753253
+  },
+  {
+    "osmId": 9675076659,
+    "name": "Hermes",
+    "latitude": 36.7457402,
+    "longitude": -3.8766971
+  },
+  {
+    "osmId": 9689539017,
+    "name": "Asador la Viña Nueva",
+    "latitude": 36.790947,
+    "longitude": -3.8965384
+  },
+  {
+    "osmId": 9709343513,
+    "name": "Nuevo Arenas",
+    "latitude": 36.7378154,
+    "longitude": -3.748256
+  },
+  {
+    "osmId": 9709343514,
+    "name": "El Castillo",
+    "latitude": 36.7378635,
+    "longitude": -3.7483976
+  },
+  {
+    "osmId": 9709343515,
+    "name": "Chiringuito Amarre",
+    "latitude": 36.737618,
+    "longitude": -3.748381
+  },
+  {
+    "osmId": 9709379085,
+    "name": "Pizzería Altamar",
+    "latitude": 36.725342,
+    "longitude": -3.7266965
+  },
+  {
+    "osmId": 9709383320,
+    "name": "Cúpula Playa",
+    "latitude": 36.7375445,
+    "longitude": -3.7477646
+  },
+  {
+    "osmId": 9709383346,
+    "name": "Chiringuito Playa Mango",
+    "latitude": 36.7359771,
+    "longitude": -3.745282
+  },
+  {
+    "osmId": 9709383362,
+    "name": "Chiringuito Bueno",
+    "latitude": 36.7354307,
+    "longitude": -3.7441769
+  },
+  {
+    "osmId": 9709383363,
+    "name": "La Barca de Jabega",
+    "latitude": 36.7347523,
+    "longitude": -3.742942
+  },
+  {
+    "osmId": 9709478628,
+    "name": "Barlovento",
+    "latitude": 36.7313701,
+    "longitude": -3.6886859
+  },
+  {
+    "osmId": 9711944579,
+    "name": "Madrid",
+    "latitude": 36.7317949,
+    "longitude": -3.6982913
+  },
+  {
+    "osmId": 9711944586,
+    "name": "Cortijilo",
+    "latitude": 36.732129,
+    "longitude": -3.697952
+  },
+  {
+    "osmId": 9711944587,
+    "name": "Mar de Plata",
+    "latitude": 36.7322575,
+    "longitude": -3.6978238
+  },
+  {
+    "osmId": 9711944589,
+    "name": "Mesón Petete",
+    "latitude": 36.7324965,
+    "longitude": -3.6975931
+  },
+  {
+    "osmId": 9727740017,
+    "name": "Cafe Bar Paco Restaurante",
+    "latitude": 36.8147452,
+    "longitude": -4.235094
+  },
+  {
+    "osmId": 9739245063,
+    "name": "El Cañuelo",
+    "latitude": 36.941685,
+    "longitude": -4.1544939
+  },
+  {
+    "osmId": 9743474115,
+    "name": "Mind",
+    "website": "https://restaurantemind.es",
+    "latitude": 36.7392538,
+    "longitude": -4.0931502
+  },
+  {
+    "osmId": 9755462187,
+    "name": "Michelangelo",
+    "latitude": 36.7291164,
+    "longitude": -3.9632497
+  },
+  {
+    "osmId": 9765270390,
+    "name": "La Taberna",
+    "latitude": 36.7294998,
+    "longitude": -3.9654012
+  },
+  {
+    "osmId": 9772840997,
+    "name": "Restaurante Mediterráneo",
+    "latitude": 36.7299365,
+    "longitude": -3.9644106
+  },
+  {
+    "osmId": 9776568400,
+    "name": "El Olivo Cafetería-Tapería",
+    "latitude": 36.7299856,
+    "longitude": -3.9645587
+  },
+  {
+    "osmId": 9776634543,
+    "name": "Al Alba bio-gastrobodega",
+    "website": "https://al-alba-bio-gastrobodega.negocio.site",
+    "latitude": 36.7294611,
+    "longitude": -3.9651596
+  },
+  {
+    "osmId": 9781343514,
+    "name": "Café-Bar El Rincón de Federico",
+    "latitude": 36.7302696,
+    "longitude": -3.9637891
+  },
+  {
+    "osmId": 9783657514,
+    "name": "Ristorante Pizzeria Il Faro",
+    "latitude": 36.7276859,
+    "longitude": -3.9588161
+  },
+  {
+    "osmId": 9788526119,
+    "name": "Chiringuito Pepe",
+    "latitude": 36.730071,
+    "longitude": -3.9679794
+  },
+  {
+    "osmId": 9807313081,
+    "name": "Dhanavada Indian-Mexican & Pizza",
+    "website": "https://dhanavadarestaurante.com/",
+    "latitude": 36.7302591,
+    "longitude": -3.9682277
+  },
+  {
+    "osmId": 9817664685,
+    "name": "La Rosa",
+    "latitude": 36.7339406,
+    "longitude": -3.9734702
+  },
+  {
+    "osmId": 9817667597,
+    "name": "El Desvan de Tete",
+    "latitude": 36.7341276,
+    "longitude": -3.9741501
+  },
+  {
+    "osmId": 9839274311,
+    "name": "Pitufo's Costa Taperia",
+    "latitude": 36.7386458,
+    "longitude": -3.9938391
+  },
+  {
+    "osmId": 9873017131,
+    "name": "Restaurante Justino",
+    "latitude": 36.7047032,
+    "longitude": -3.4918014
+  },
+  {
+    "osmId": 9873052448,
+    "name": "Terraza Blue",
+    "latitude": 36.7045111,
+    "longitude": -3.4916574
+  },
+  {
+    "osmId": 9956636284,
+    "name": "El Paso",
+    "latitude": 36.7336263,
+    "longitude": -3.6909258
+  },
+  {
+    "osmId": 9960201139,
+    "name": "Hogar Betania",
+    "website": "http://www.betanialanjaron.es/",
+    "latitude": 36.9172065,
+    "longitude": -3.4828259
+  },
+  {
+    "osmId": 9967246921,
+    "name": "Los Moriscos Playa",
+    "latitude": 36.7166058,
+    "longitude": -3.5577649
+  },
+  {
+    "osmId": 9967454141,
+    "name": "El Espeto",
+    "latitude": 36.715674,
+    "longitude": -3.5491163
+  },
+  {
+    "osmId": 9983618259,
+    "name": "Restaurante La Carretera",
+    "latitude": 36.9347294,
+    "longitude": -3.3265807
+  },
+  {
+    "osmId": 10010661718,
+    "name": "Restaurante La Gamba Dorada",
+    "latitude": 36.7827579,
+    "longitude": -4.1078621
+  },
+  {
+    "osmId": 10011830803,
+    "name": "Restaurante Siddhartha on the Rock",
+    "latitude": 36.8334408,
+    "longitude": -3.9761392
+  },
+  {
+    "osmId": 10126438254,
+    "name": "Antica Roma",
+    "latitude": 36.7456997,
+    "longitude": -3.8752995
+  },
+  {
+    "osmId": 10126448663,
+    "name": "La Bodega de Antonia",
+    "latitude": 36.7457602,
+    "longitude": -3.8753452
+  },
+  {
+    "osmId": 10155227323,
+    "name": "Café-Bar Restaurante Enrique",
+    "latitude": 36.9026608,
+    "longitude": -4.1146842
+  },
+  {
+    "osmId": 10178081098,
+    "name": "Lute Jesús",
+    "latitude": 36.7052736,
+    "longitude": -3.4927285
+  },
+  {
+    "osmId": 10178102508,
+    "name": "El Espigón",
+    "latitude": 36.7037393,
+    "longitude": -3.4901967
+  },
+  {
+    "osmId": 10178125541,
+    "name": "Los Rodríguez",
+    "latitude": 36.7033352,
+    "longitude": -3.4896338
+  },
+  {
+    "osmId": 10178125543,
+    "name": "Miramar",
+    "latitude": 36.7031412,
+    "longitude": -3.4893633
+  },
+  {
+    "osmId": 10178134338,
+    "name": "Carrizo II",
+    "latitude": 36.7050089,
+    "longitude": -3.4923989
+  },
+  {
+    "osmId": 10178142724,
+    "name": "Big Buger",
+    "latitude": 36.7032502,
+    "longitude": -3.4895203
+  },
+  {
+    "osmId": 10239942114,
+    "latitude": 36.7321912,
+    "longitude": -3.9440663
+  },
+  {
+    "osmId": 10278564298,
+    "name": "El Surtidor",
+    "latitude": 36.814379,
+    "longitude": -3.5324021
+  },
+  {
+    "osmId": 10304924925,
+    "name": "Venta El Buñuelo",
+    "latitude": 36.9161061,
+    "longitude": -3.4726876
+  },
+  {
+    "osmId": 10557425756,
+    "name": "Parada Aki Mismo",
+    "latitude": 36.84085,
+    "longitude": -3.5820239
+  },
+  {
+    "osmId": 10564718868,
+    "name": "Los Pinos",
+    "latitude": 36.7579908,
+    "longitude": -3.3119469
+  },
+  {
+    "osmId": 10570774329,
+    "name": "Bar del Acuario",
+    "latitude": 36.7352021,
+    "longitude": -3.6924539
+  },
+  {
+    "osmId": 10572748813,
+    "name": "La Tribu Jazba",
+    "website": "https://www.latribujazba.com/",
+    "latitude": 36.7318434,
+    "longitude": -4.0987799
+  },
+  {
+    "osmId": 10621765444,
+    "name": "La Pataleta",
+    "latitude": 36.733217,
+    "longitude": -3.9789751
+  },
+  {
+    "osmId": 10621969845,
+    "name": "Colibri Rojo",
+    "website": "https://www.colibricosta.com",
+    "latitude": 36.7303559,
+    "longitude": -3.9682011
+  },
+  {
+    "osmId": 10654396048,
+    "name": "Taberna del Buda",
+    "latitude": 36.9288639,
+    "longitude": -3.4046554
+  },
+  {
+    "osmId": 10654396050,
+    "name": "Restaurante El Oasis de las Brujas",
+    "latitude": 36.9281162,
+    "longitude": -3.4050426
+  },
+  {
+    "osmId": 10665019179,
+    "name": "Duke’s Bar",
+    "website": "https://www.dukes.es",
+    "latitude": 36.7292121,
+    "longitude": -3.9604081
+  },
+  {
+    "osmId": 10669940792,
+    "name": "Casa Nacho",
+    "latitude": 36.7490997,
+    "longitude": -4.0732658
+  },
+  {
+    "osmId": 10671571142,
+    "name": "Magón",
+    "website": "https://restaurante-magon.negocio.site",
+    "latitude": 36.7282001,
+    "longitude": -3.9595056
+  },
+  {
+    "osmId": 10672893550,
+    "name": "La Casita griega -Greek House",
+    "latitude": 36.7286975,
+    "longitude": -3.9615502
+  },
+  {
+    "osmId": 10678977605,
+    "name": "Cafe Kunterbunt",
+    "website": "http://www.cafekunterbunt.de/index.html",
+    "latitude": 36.7308612,
+    "longitude": -3.9707583
+  },
+  {
+    "osmId": 10678982168,
+    "name": "Bij Fleur",
+    "latitude": 36.7308376,
+    "longitude": -3.9696927
+  },
+  {
+    "osmId": 10691274664,
+    "name": "Taberna de Pepe",
+    "latitude": 36.7501805,
+    "longitude": -3.8740795
+  },
+  {
+    "osmId": 10697425670,
+    "name": "El Tito Arenas",
+    "latitude": 36.7339947,
+    "longitude": -3.9784649
+  },
+  {
+    "osmId": 10697449404,
+    "name": "Café Bar Manolo",
+    "latitude": 36.7342677,
+    "longitude": -3.9780464
+  },
+  {
+    "osmId": 10699384906,
+    "name": "Boca Pizza",
+    "latitude": 36.7486975,
+    "longitude": -3.8735502
+  },
+  {
+    "osmId": 10699384909,
+    "name": "Scarletta's",
+    "latitude": 36.7470244,
+    "longitude": -3.8754698
+  },
+  {
+    "osmId": 10699385106,
+    "name": "Pata Negr",
+    "latitude": 36.7479262,
+    "longitude": -3.8756253
+  },
+  {
+    "osmId": 10699385205,
+    "name": "El Portico",
+    "latitude": 36.7473196,
+    "longitude": -3.8755743
+  },
+  {
+    "osmId": 10699668406,
+    "name": "El Rincon de Encarni",
+    "latitude": 36.7497033,
+    "longitude": -3.8722214
+  },
+  {
+    "osmId": 10699705419,
+    "name": "Tentaciones La Pepa",
+    "latitude": 36.7294451,
+    "longitude": -3.9610175
+  },
+  {
+    "osmId": 10777608239,
+    "name": "La Ventera",
+    "website": "https://www.laventera.com",
+    "latitude": 36.7413107,
+    "longitude": -3.3933957
+  },
+  {
+    "osmId": 10784103775,
+    "name": "Mesón Bar Madera",
+    "latitude": 36.8156624,
+    "longitude": -3.6800924
+  },
+  {
+    "osmId": 10784750730,
+    "name": "El picinin da Legnago",
+    "latitude": 36.8349286,
+    "longitude": -3.9761663
+  },
+  {
+    "osmId": 10803959308,
+    "name": "Restaurante Alquería de los Lentos",
+    "website": "https://alqueriadeloslentos.com",
+    "latitude": 36.9819627,
+    "longitude": -3.5444783
+  },
+  {
+    "osmId": 10861927916,
+    "name": "Bar Los Niños",
+    "latitude": 36.7451909,
+    "longitude": -4.0449825
+  },
+  {
+    "osmId": 10870428189,
+    "name": "Con Sabor Venezolano",
+    "latitude": 36.7302306,
+    "longitude": -3.6948873
+  },
+  {
+    "osmId": 10870542389,
+    "name": "Bikini",
+    "latitude": 36.7303013,
+    "longitude": -3.6948033
+  },
+  {
+    "osmId": 10874119404,
+    "name": "Balcón del Mar",
+    "latitude": 36.7341702,
+    "longitude": -3.7025333
+  },
+  {
+    "osmId": 10875928713,
+    "name": "La Tasca",
+    "latitude": 36.7317878,
+    "longitude": -3.6883532
+  },
+  {
+    "osmId": 10875963102,
+    "name": "Firmvm",
+    "latitude": 36.7328603,
+    "longitude": -3.6895375
+  },
+  {
+    "osmId": 10879536068,
+    "name": "El Chaleco",
+    "latitude": 36.7389794,
+    "longitude": -3.6981824
+  },
+  {
+    "osmId": 10889691363,
+    "name": "Umani",
+    "latitude": 36.8343732,
+    "longitude": -3.5155131
+  },
+  {
+    "osmId": 10889834246,
+    "name": "Bar & Grill Thivany's",
+    "latitude": 36.8336541,
+    "longitude": -3.5158054
+  },
+  {
+    "osmId": 10929829759,
+    "name": "Mesón Sara",
+    "latitude": 36.8895135,
+    "longitude": -4.1461172
+  },
+  {
+    "osmId": 10970797231,
+    "name": "Le Comptoir Belge",
+    "latitude": 36.7309502,
+    "longitude": -3.9707076
+  },
+  {
+    "osmId": 10970800462,
+    "name": "Don Arroz Arrocería",
+    "latitude": 36.7307847,
+    "longitude": -3.970434
+  },
+  {
+    "osmId": 10980230037,
+    "name": "El Rincon de Faro",
+    "latitude": 36.7281646,
+    "longitude": -3.9583455
+  },
+  {
+    "osmId": 10990224577,
+    "name": "Pulicenella Riso & Pizza",
+    "latitude": 36.7307225,
+    "longitude": -3.9689647
+  },
+  {
+    "osmId": 10992565378,
+    "name": "Patata King",
+    "latitude": 36.7313992,
+    "longitude": -3.9659784
+  },
+  {
+    "osmId": 11010377584,
+    "name": "Lews Traditional English Restaurant",
+    "latitude": 36.7282435,
+    "longitude": -3.9583795
+  },
+  {
+    "osmId": 11010434800,
+    "name": "Pizzeria Restaurante Los Pacos",
+    "latitude": 36.7324573,
+    "longitude": -3.9702167
+  },
+  {
+    "osmId": 11034177915,
+    "name": "Beach Garden",
+    "latitude": 36.7305037,
+    "longitude": -3.9694776
+  },
+  {
+    "osmId": 11036139525,
+    "name": "Pizzería El Castillo",
+    "latitude": 36.7329192,
+    "longitude": -3.9787225
+  },
+  {
+    "osmId": 11038066154,
+    "name": "Pepe Rico II",
+    "latitude": 36.7282587,
+    "longitude": -3.9591009
+  },
+  {
+    "osmId": 11040200305,
+    "name": "Marisquería Mani",
+    "latitude": 36.7491801,
+    "longitude": -4.072493
+  },
+  {
+    "osmId": 11141107442,
+    "name": "Parque restaurante asador",
+    "latitude": 36.9193851,
+    "longitude": -3.4898557
+  },
+  {
+    "osmId": 11143541654,
+    "name": "El lagar y Casa de la abuela",
+    "latitude": 36.9408931,
+    "longitude": -3.3610215
+  },
+  {
+    "osmId": 11226404524,
+    "name": "Sunahra Beach Club",
+    "website": "https://sunahrabeachclub.com",
+    "latitude": 36.7164422,
+    "longitude": -3.5466663
+  },
+  {
+    "osmId": 11226404525,
+    "name": "Chiringuito La Marea",
+    "latitude": 36.7175031,
+    "longitude": -3.5451327
+  },
+  {
+    "osmId": 11226404620,
+    "name": "Chiringuito Orilla5",
+    "latitude": 36.7229592,
+    "longitude": -3.5347174
+  },
+  {
+    "osmId": 11227680250,
+    "name": "La Casuca",
+    "latitude": 36.7413272,
+    "longitude": -3.5131124
+  },
+  {
+    "osmId": 11230786237,
+    "name": "La Biznaga",
+    "latitude": 36.7121251,
+    "longitude": -4.2604954
+  },
+  {
+    "osmId": 11257444120,
+    "name": "La traviesa",
+    "latitude": 36.744329,
+    "longitude": -3.5886828
+  },
+  {
+    "osmId": 11368998834,
+    "name": "Peña Madridista de Torrox",
+    "latitude": 36.7323013,
+    "longitude": -3.9677267
+  },
+  {
+    "osmId": 11379953551,
+    "name": "Restaurante Conejito",
+    "latitude": 36.7300276,
+    "longitude": -3.9592276
+  },
+  {
+    "osmId": 11384049546,
+    "name": "Cocina de Urbano",
+    "latitude": 36.7343379,
+    "longitude": -3.9771356
+  },
+  {
+    "osmId": 11384113812,
+    "name": "Luan Café",
+    "latitude": 36.7320729,
+    "longitude": -3.9703837
+  },
+  {
+    "osmId": 11391978669,
+    "name": "Tienda Casa Dolores",
+    "website": "https://tiendacasadolores.es",
+    "latitude": 36.7322922,
+    "longitude": -3.9703137
+  },
+  {
+    "osmId": 11392588964,
+    "name": "El Rancho",
+    "latitude": 36.7346927,
+    "longitude": -3.9785049
+  },
+  {
+    "osmId": 11403570950,
+    "name": "El granaíno",
+    "latitude": 36.7914624,
+    "longitude": -3.8969244
+  },
+  {
+    "osmId": 11403570952,
+    "name": "El Mesón de Mi Princesa Blanca",
+    "latitude": 36.7915424,
+    "longitude": -3.8962946
+  },
+  {
+    "osmId": 11403570953,
+    "name": "Pura Cepa",
+    "latitude": 36.7915481,
+    "longitude": -3.8961997
+  },
+  {
+    "osmId": 11403593289,
+    "name": "Mesón Casa Palma",
+    "website": "https://www.mesoncasapalma.es/reservar/",
+    "latitude": 36.7366512,
+    "longitude": -3.9836118
+  },
+  {
+    "osmId": 11405123641,
+    "name": "Café Ferrara",
+    "latitude": 36.7349248,
+    "longitude": -3.9771989
+  },
+  {
+    "osmId": 11409454639,
+    "name": "Il Covo",
+    "website": "https://linktr.ee/ilcovo_es",
+    "latitude": 36.7471367,
+    "longitude": -3.8759797
+  },
+  {
+    "osmId": 11423539741,
+    "name": "Venta El Puente",
+    "latitude": 36.8854424,
+    "longitude": -3.4157583
+  },
+  {
+    "osmId": 11438367558,
+    "name": "Freiduría Lute y Jesús",
+    "website": "https://www.freiduriasluteyjesus.com/",
+    "latitude": 36.7431592,
+    "longitude": -3.5205907
+  },
+  {
+    "osmId": 11438400913,
+    "name": "Pomodoro",
+    "website": "https://pomodoro.es/",
+    "latitude": 36.7432607,
+    "longitude": -3.5197083
+  },
+  {
+    "osmId": 11449148648,
+    "name": "Zarcillo",
+    "website": "https://zarcillorestaurante.com/",
+    "latitude": 36.7431325,
+    "longitude": -3.5192707
+  },
+  {
+    "osmId": 11449373530,
+    "name": "El Quebracho",
+    "latitude": 36.7434681,
+    "longitude": -3.5158883
+  },
+  {
+    "osmId": 11449384818,
+    "name": "El Trasiego",
+    "latitude": 36.7444565,
+    "longitude": -3.514385
+  },
+  {
+    "osmId": 11449389663,
+    "name": "Los Faroles",
+    "latitude": 36.7444221,
+    "longitude": -3.5160668
+  },
+  {
+    "osmId": 11451780388,
+    "name": "Padthaiwok",
+    "website": "https://padthaiwok.com/elige-tu-restaurante/",
+    "latitude": 36.7436745,
+    "longitude": -3.5175604
+  },
+  {
+    "osmId": 11451784841,
+    "name": "Epoca Nueva",
+    "latitude": 36.7445109,
+    "longitude": -3.5237901
+  },
+  {
+    "osmId": 11451858857,
+    "name": "Restaurante Eiffel",
+    "website": "https://restauranteeiffel.es/",
+    "latitude": 36.7417198,
+    "longitude": -3.5246129
+  },
+  {
+    "osmId": 11455464249,
+    "name": "Gran Chen Tu",
+    "website": "https://chen-tu-restaurante.negocio.site/",
+    "latitude": 36.7441238,
+    "longitude": -3.5176021
+  },
+  {
+    "osmId": 11480675196,
+    "name": "La Nueva 47",
+    "latitude": 36.7481338,
+    "longitude": -3.518704
+  },
+  {
+    "osmId": 11613447605,
+    "name": "Bodega Francesco I.",
+    "latitude": 36.7332767,
+    "longitude": -3.6905344
+  },
+  {
+    "osmId": 11665638169,
+    "latitude": 36.7919415,
+    "longitude": -3.8968668
+  },
+  {
+    "osmId": 11690632156,
+    "name": "La Corrala Playa",
+    "latitude": 36.7309456,
+    "longitude": -3.6890198
+  },
+  {
+    "osmId": 11783622569,
+    "name": "Restaurante Pepe Gondolas",
+    "latitude": 36.7311538,
+    "longitude": -3.6835567
+  },
+  {
+    "osmId": 11899569721,
+    "latitude": 36.9543763,
+    "longitude": -4.0308403
+  },
+  {
+    "osmId": 11910535279,
+    "name": "Chiringuito Piliki",
+    "latitude": 36.7468213,
+    "longitude": -3.6568265
+  },
+  {
+    "osmId": 11910535323,
+    "name": "Costacabria",
+    "latitude": 36.7455608,
+    "longitude": -3.6514549
+  },
+  {
+    "osmId": 11910535325,
+    "name": "La Galera",
+    "latitude": 36.747785,
+    "longitude": -3.655871
+  },
+  {
+    "osmId": 11919264392,
+    "name": "Chiringuito El Callejas",
+    "latitude": 36.7379273,
+    "longitude": -3.6693884
+  },
+  {
+    "osmId": 11933024020,
+    "name": "McMickey Burger",
+    "latitude": 36.7429031,
+    "longitude": -3.5193754
+  },
+  {
+    "osmId": 11935417581,
+    "name": "las palmeras Beach Club",
+    "latitude": 36.7418428,
+    "longitude": -3.8879706
+  },
+  {
+    "osmId": 11956138868,
+    "name": "La Marea Playa",
+    "latitude": 36.7328015,
+    "longitude": -3.587635
+  },
+  {
+    "osmId": 11956165489,
+    "name": "Los Faroles",
+    "latitude": 36.73283,
+    "longitude": -3.587918
+  },
+  {
+    "osmId": 11956167186,
+    "name": "El Copo",
+    "latitude": 36.7328667,
+    "longitude": -3.5874964
+  },
+  {
+    "osmId": 11964855438,
+    "name": "Buddha House",
+    "latitude": 36.7308058,
+    "longitude": -3.9500327
+  },
+  {
+    "osmId": 12007360757,
+    "name": "La Nuova Sardegna",
+    "latitude": 36.7300045,
+    "longitude": -3.695666
+  },
+  {
+    "osmId": 12079033059,
+    "name": "La Cumbre",
+    "latitude": 36.7770492,
+    "longitude": -3.5862524
+  },
+  {
+    "osmId": 12112696990,
+    "name": "Merendero La Tahiba",
+    "latitude": 36.7724284,
+    "longitude": -3.583323
+  },
+  {
+    "osmId": 12124622987,
+    "name": "Bar El Frenazo",
+    "latitude": 36.921217,
+    "longitude": -3.4926115
+  },
+  {
+    "osmId": 12135451351,
+    "name": "Restaurante Casa Manuela",
+    "latitude": 36.7513457,
+    "longitude": -3.8784229
+  },
+  {
+    "osmId": 12140616208,
+    "name": "Venta María",
+    "latitude": 36.9051498,
+    "longitude": -3.4336776
+  },
+  {
+    "osmId": 12180600407,
+    "name": "Restaurante Mejias",
+    "latitude": 36.7510636,
+    "longitude": -3.5202097
+  },
+  {
+    "osmId": 12180600408,
+    "name": "La Carbonería",
+    "latitude": 36.7509731,
+    "longitude": -3.5201441
+  },
+  {
+    "osmId": 12193574572,
+    "name": "Restaurante Casa Eduardo",
+    "latitude": 36.7240225,
+    "longitude": -3.5370521
+  },
+  {
+    "osmId": 12193574573,
+    "name": "Restaurante La Ballena Azul",
+    "website": "http://www.restaurantelaballenaazul.es/",
+    "latitude": 36.7232515,
+    "longitude": -3.5388757
+  },
+  {
+    "osmId": 12201369681,
+    "name": "Restaurante Salón La Almudena",
+    "latitude": 36.7442221,
+    "longitude": -3.5387772
+  },
+  {
+    "osmId": 12228259915,
+    "name": "Lemon Food",
+    "website": "https://lemonfood.es",
+    "latitude": 36.9339666,
+    "longitude": -3.5741979
+  },
+  {
+    "osmId": 12229546902,
+    "name": "El Caserio de las Monjas",
+    "latitude": 36.7826583,
+    "longitude": -4.1056595
+  },
+  {
+    "osmId": 12235804504,
+    "name": "Chiringuito La Rijana",
+    "latitude": 36.7096151,
+    "longitude": -3.3920742
+  },
+  {
+    "osmId": 12238687101,
+    "name": "Playa Malaya",
+    "latitude": 36.7148333,
+    "longitude": -4.2059814
+  },
+  {
+    "osmId": 12243862968,
+    "name": "Avalon",
+    "latitude": 36.7441986,
+    "longitude": -3.9044279
+  },
+  {
+    "osmId": 12244485168,
+    "name": "Nuestro rincón",
+    "latitude": 36.9507852,
+    "longitude": -3.3552557
+  },
+  {
+    "osmId": 12244882167,
+    "name": "Lo Nuestro",
+    "latitude": 36.9478619,
+    "longitude": -3.354318
+  },
+  {
+    "osmId": 12302231867,
+    "name": "El Pampano",
+    "website": "https://restauranteelpampanocompeta.com/",
+    "latitude": 36.8329664,
+    "longitude": -3.97258
+  },
+  {
+    "osmId": 12386030620,
+    "name": "Paraiso de Nerja Playa",
+    "latitude": 36.7438376,
+    "longitude": -3.903003
+  },
+  {
+    "osmId": 12401511570,
+    "name": "Cervecería de licia",
+    "latitude": 36.7157872,
+    "longitude": -4.2173288
+  },
+  {
+    "osmId": 12401519799,
+    "name": "L",
+    "latitude": 36.7160142,
+    "longitude": -4.217308
+  },
+  {
+    "osmId": 12437028800,
+    "latitude": 36.7240805,
+    "longitude": -3.3560738
+  },
+  {
+    "osmId": 12437050215,
+    "latitude": 36.7249579,
+    "longitude": -3.3556257
+  },
+  {
+    "osmId": 12437056893,
+    "latitude": 36.7252566,
+    "longitude": -3.3550551
+  },
+  {
+    "osmId": 12438544352,
+    "latitude": 36.7312027,
+    "longitude": -3.6862652
+  },
+  {
+    "osmId": 12438590638,
+    "latitude": 36.7306452,
+    "longitude": -3.6808407
+  },
+  {
+    "osmId": 12438683873,
+    "latitude": 36.7337679,
+    "longitude": -3.7058179
+  },
+  {
+    "osmId": 12438687420,
+    "latitude": 36.7340184,
+    "longitude": -3.7039694
+  },
+  {
+    "osmId": 12438688811,
+    "latitude": 36.7340875,
+    "longitude": -3.7046637
+  },
+  {
+    "osmId": 12438693125,
+    "latitude": 36.7340622,
+    "longitude": -3.7045647
+  },
+  {
+    "osmId": 12438740011,
+    "latitude": 36.7380137,
+    "longitude": -3.7487874
+  },
+  {
+    "osmId": 12441313989,
+    "latitude": 36.7536552,
+    "longitude": -3.8751707
+  },
+  {
+    "osmId": 12441469068,
+    "latitude": 36.7332667,
+    "longitude": -3.9405392
+  },
+  {
+    "osmId": 12441484184,
+    "latitude": 36.7312391,
+    "longitude": -3.945551
+  },
+  {
+    "osmId": 12441497839,
+    "latitude": 36.7318415,
+    "longitude": -3.9454963
+  },
+  {
+    "osmId": 12441779710,
+    "latitude": 36.7450224,
+    "longitude": -4.0462198
+  },
+  {
+    "osmId": 12441783536,
+    "latitude": 36.7448615,
+    "longitude": -4.0458761
+  },
+  {
+    "osmId": 12441793072,
+    "latitude": 36.7466913,
+    "longitude": -4.054647
+  },
+  {
+    "osmId": 12441805427,
+    "latitude": 36.7472646,
+    "longitude": -4.0558226
+  },
+  {
+    "osmId": 12441880893,
+    "latitude": 36.7296665,
+    "longitude": -4.1023906
+  },
+  {
+    "osmId": 12443759852,
+    "latitude": 36.714604,
+    "longitude": -4.2822234
+  },
+  {
+    "osmId": 12443821190,
+    "latitude": 36.7143143,
+    "longitude": -4.2801558
+  },
+  {
+    "osmId": 12443822016,
+    "latitude": 36.7140816,
+    "longitude": -4.2796374
+  },
+  {
+    "osmId": 12512686047,
+    "name": "Hogar Del Jubilado",
+    "latitude": 36.8145227,
+    "longitude": -4.2346263
+  },
+  {
+    "osmId": 12526715801,
+    "name": "Mediterraneo",
+    "latitude": 36.7153251,
+    "longitude": -4.2041872
+  },
+  {
+    "osmId": 12526754602,
+    "name": "Chambao",
+    "latitude": 36.7158802,
+    "longitude": -4.1925822
+  },
+  {
+    "osmId": 12526798901,
+    "name": "La Brisa",
+    "latitude": 36.7154807,
+    "longitude": -4.1862275
+  },
+  {
+    "osmId": 12526970201,
+    "name": "La Esperanza",
+    "latitude": 36.7153438,
+    "longitude": -4.2008293
+  },
+  {
+    "osmId": 12628916456,
+    "name": "Bar Los Faroles",
+    "latitude": 36.9203527,
+    "longitude": -3.4731171
+  },
+  {
+    "osmId": 12641415629,
+    "name": "Paypiazza",
+    "latitude": 36.7473876,
+    "longitude": -3.5151898
+  },
+  {
+    "osmId": 12644372487,
+    "name": "Restaurante Marisquería La Piscina",
+    "latitude": 36.7228146,
+    "longitude": -3.519696
+  },
+  {
+    "osmId": 12644372488,
+    "name": "Restaurante Paquillo",
+    "latitude": 36.7225781,
+    "longitude": -3.5205221
+  },
+  {
+    "osmId": 12645229576,
+    "name": "Casa Pablo",
+    "latitude": 36.7235731,
+    "longitude": -3.5222593
+  },
+  {
+    "osmId": 12645235968,
+    "name": "Restaurante cerveceria el sur de granada",
+    "latitude": 36.7236995,
+    "longitude": -3.5215438
+  },
+  {
+    "osmId": 12645259999,
+    "name": "Restaurante Chafarinas",
+    "latitude": 36.7260817,
+    "longitude": -3.5239156
+  },
+  {
+    "osmId": 12645886990,
+    "name": "Restaurante El Dorado",
+    "latitude": 36.7249116,
+    "longitude": -3.5326161
+  },
+  {
+    "osmId": 12655769116,
+    "name": "Al Natural Poke & Healthy Food",
+    "latitude": 36.7495041,
+    "longitude": -3.5199549
+  },
+  {
+    "osmId": 12669723402,
+    "name": "Bar La Tomatina",
+    "latitude": 36.7475935,
+    "longitude": -3.5127731
+  },
+  {
+    "osmId": 12669723404,
+    "name": "Mesón El Roscón",
+    "latitude": 36.747497,
+    "longitude": -3.5125631
+  },
+  {
+    "osmId": 12673722175,
+    "name": "Bar La Bodega",
+    "latitude": 36.746209,
+    "longitude": -3.5162649
+  },
+  {
+    "osmId": 12673722184,
+    "name": "Restaurante Peking",
+    "latitude": 36.7456474,
+    "longitude": -3.516374
+  },
+  {
+    "osmId": 12726198566,
+    "name": "Sapori D'italia",
+    "latitude": 36.7463727,
+    "longitude": -3.5129222
+  },
+  {
+    "osmId": 12730394256,
+    "name": "Costa Andaluza",
+    "latitude": 36.755735,
+    "longitude": -3.5197101
+  },
+  {
+    "osmId": 12745694658,
+    "name": "Las Chinas",
+    "latitude": 36.7877186,
+    "longitude": -3.8952537
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "type": "node",
+    "id": 2627590855,
+    "lat": 31.0244535,
+    "lon": -2.7110962,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 5,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:city": "العبادلة",
+      "addr:city:ar": "العبادلة",
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8017503498,
+    "lat": 30.933157,
+    "lon": -2.7377398,
+    "timestamp": "2020-12-31T00:28:55Z",
+    "version": 2,
+    "changeset": 96696052,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:city": "مشرع هواري بومدين",
+      "addr:city:ar": "مشرع هواري بومدين",
+      "amenity": "restaurant",
+      "cuisine": "coffee_shop",
+      "diet:halal": "yes",
+      "language:ar": "main",
+      "name": "مقهى ومواد غدائية ومطعم لإدريسي",
+      "name:ar": "مقهى ومواد غدائية ومطعم لإدريسي",
+      "name:fr": "Idrissi",
+      "operator": "إدريسي",
+      "operator:ar": "إدريسي",
+      "shop": "convenience"
+    }
+  }
+]

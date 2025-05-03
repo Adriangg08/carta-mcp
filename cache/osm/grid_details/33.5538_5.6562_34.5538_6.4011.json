@@ -1,0 +1,57 @@
+[
+  {
+    "type": "node",
+    "id": 6913758620,
+    "lat": 34.2647005,
+    "lon": 5.9205948,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:city": "اسطيل",
+      "alt_name:ar": "vمطعم و مقهى إسعادي",
+      "amenity": "restaurant",
+      "name:ar": "مطعم ومقهى إسعادي",
+      "name:fr": "café restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6913758631,
+    "lat": 34.2625166,
+    "lon": 5.919711,
+    "timestamp": "2020-12-02T23:34:54Z",
+    "version": 4,
+    "changeset": 95181763,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:city": "اسطيل",
+      "amenity": "restaurant",
+      "name": "مطعم البريكي",
+      "name:ar": "مطعم البريكي",
+      "name:fr": "Restaurant Briki",
+      "phone": "+213 666 15 61 86"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6913758636,
+    "lat": 34.2619547,
+    "lon": 5.9203547,
+    "timestamp": "2020-12-02T23:34:54Z",
+    "version": 4,
+    "changeset": 95181763,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:city": "اسطيل",
+      "amenity": "restaurant",
+      "name": "مطعم العرجون",
+      "name:ar": "مطعم العرجون",
+      "name:fr": "Restaurant Ardjoune"
+    }
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "type": "node",
+    "id": 3351932186,
+    "lat": 28.0953859,
+    "lon": -12.0486753,
+    "timestamp": "2015-02-15T13:46:47Z",
+    "version": 1,
+    "changeset": 28863576,
+    "user": "benibunny",
+    "uid": 2141350,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "internet_access": "yes",
+      "name": "Restaurant Atlas"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7727231748,
+    "lat": 28.0942651,
+    "lon": -12.0545343,
+    "timestamp": "2020-07-18T20:12:40Z",
+    "version": 1,
+    "changeset": 88185600,
+    "user": "imadmajor",
+    "uid": 8766558,
+    "tags": {
+      "addr:city": "Akhfennir أخفنير",
+      "amenity": "restaurant",
+      "name": "Casa España",
+      "phone": "+212609240701"
+    }
+  }
+]

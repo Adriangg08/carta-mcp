@@ -1,0 +1,544 @@
+[
+  {
+    "type": "node",
+    "id": 1125539607,
+    "lat": 31.4816423,
+    "lon": -4.2170416,
+    "timestamp": "2021-01-28T02:40:52Z",
+    "version": 2,
+    "changeset": 98258862,
+    "user": "MustafaQasim",
+    "uid": 9535554,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Cafe Restaurant Karla مقهى ومطعم كارلا",
+      "name:ar": "مقهى ومطعم كارلا",
+      "name:fr": "Cafe Restaurant Karla"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1328895436,
+    "lat": 31.4335402,
+    "lon": -4.2316433,
+    "timestamp": "2014-10-26T17:35:27Z",
+    "version": 2,
+    "changeset": 26345472,
+    "user": "ulilu",
+    "uid": 16881,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Lunch"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1329556767,
+    "lat": 31.0313309,
+    "lon": -4.0054336,
+    "timestamp": "2011-06-18T12:12:13Z",
+    "version": 1,
+    "changeset": 8471954,
+    "user": "HarryS",
+    "uid": 14561,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1329564117,
+    "lat": 31.2903016,
+    "lon": -4.2523508,
+    "timestamp": "2019-07-17T17:52:19Z",
+    "version": 3,
+    "changeset": 72359618,
+    "user": "joost schouppe",
+    "uid": 67832,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1329567413,
+    "lat": 31.4422726,
+    "lon": -4.2303192,
+    "timestamp": "2013-08-28T13:40:48Z",
+    "version": 3,
+    "changeset": 17554253,
+    "user": "Miwok90",
+    "uid": 1725935,
+    "tags": {
+      "addr:street": "Av. Moulay Ismil",
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "Des Dunes",
+      "website": "www.restaurantedesdunes.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2128796997,
+    "lat": 31.4398795,
+    "lon": -4.2314669,
+    "timestamp": "2013-01-26T08:59:00Z",
+    "version": 1,
+    "changeset": 14789864,
+    "user": "staehler",
+    "uid": 118856,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Chez Abdesalam Cafe"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2257319139,
+    "lat": 31.2814739,
+    "lon": -4.271423,
+    "timestamp": "2013-04-08T06:42:00Z",
+    "version": 1,
+    "changeset": 15650388,
+    "user": "staehler",
+    "uid": 118856,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Essalama"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2312523058,
+    "lat": 31.0379096,
+    "lon": -4.0077138,
+    "timestamp": "2020-08-23T16:13:52Z",
+    "version": 3,
+    "changeset": 89814186,
+    "user": "أبو عمران",
+    "uid": 11683280,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Café Nora مطعم نورا",
+      "name:ar": "مطعم نورا",
+      "name:fr": "Café Nora"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3159920349,
+    "lat": 30.8810243,
+    "lon": -4.1414459,
+    "timestamp": "2014-10-31T19:30:52Z",
+    "version": 1,
+    "changeset": 26469332,
+    "user": "Nky",
+    "uid": 382992,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Auberge \"Itrane Sahara\""
+    }
+  },
+  {
+    "type": "node",
+    "id": 5069291924,
+    "lat": 31.282048,
+    "lon": -4.2665187,
+    "timestamp": "2024-01-23T15:31:54Z",
+    "version": 4,
+    "changeset": 146597632,
+    "user": "LuisAmaral",
+    "uid": 9588555,
+    "tags": {
+      "amenity": "restaurant",
+      "bar": "yes",
+      "contact:facebook": "https://www.facebook.com/faisal.solaimani.94/",
+      "contact:instagram": "https://www.instagram.com/slimaniaresto/",
+      "cuisine": "regional",
+      "name": "Café Restaurant Slimania",
+      "name:fr": "Café Restaurant Slimania",
+      "note": "Good Vibe, good music and good food.",
+      "phone": "+212606838245"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5252560321,
+    "lat": 31.1400706,
+    "lon": -4.0248324,
+    "timestamp": "2024-02-04T22:26:03Z",
+    "version": 4,
+    "changeset": 147071749,
+    "user": "Tootie4Douz",
+    "uid": 14237762,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "moroccan",
+      "name": "Hassilabied Snack"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5285457122,
+    "lat": 31.0950255,
+    "lon": -4.0116583,
+    "timestamp": "2017-12-15T09:21:55Z",
+    "version": 1,
+    "changeset": 54647179,
+    "user": "Milou Schiks",
+    "uid": 6630503,
+    "tags": {
+      "amenity": "restaurant",
+      "internet_access": "wlan",
+      "name": "J&N"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5320149921,
+    "lat": 31.1050812,
+    "lon": -4.0197589,
+    "timestamp": "2018-10-22T10:19:44Z",
+    "version": 2,
+    "changeset": 63753564,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "international",
+      "internet_access": "wlan",
+      "name": "Jordi i Naima",
+      "name:ca": "Jordi i Naima",
+      "name:en": "Jordi i Naima",
+      "name:fr": "Jordi i Naima",
+      "opening_hours": "24/7",
+      "phone": "00212661631591"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5339488623,
+    "lat": 31.0971473,
+    "lon": -4.0139614,
+    "timestamp": "2018-01-14T19:12:07Z",
+    "version": 1,
+    "changeset": 55440536,
+    "user": "Jaapwhf",
+    "uid": 4497135,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Les Amis"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5518502623,
+    "lat": 31.1000014,
+    "lon": -4.0164601,
+    "timestamp": "2023-06-09T12:01:58Z",
+    "version": 2,
+    "changeset": 137134106,
+    "user": "Gurusraouta",
+    "uid": 18913526,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Chez Fatima",
+      "name:fr": "Chez Fatima"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5527872221,
+    "lat": 31.4353541,
+    "lon": -4.2335075,
+    "timestamp": "2018-04-04T12:24:19Z",
+    "version": 1,
+    "changeset": 57801676,
+    "user": "Carlos Doblelima",
+    "uid": 8063543,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "tipico erfroud"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6418187585,
+    "lat": 31.0957202,
+    "lon": -4.0107927,
+    "timestamp": "2019-04-20T16:50:04Z",
+    "version": 1,
+    "changeset": 69406642,
+    "user": "Planetgravy",
+    "uid": 3950326,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "pizza;moroccan;local",
+      "name:en": "Chez youssef"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6418187586,
+    "lat": 31.0957564,
+    "lon": -4.0107662,
+    "timestamp": "2019-04-20T16:50:06Z",
+    "version": 1,
+    "changeset": 69406642,
+    "user": "Planetgravy",
+    "uid": 3950326,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "tea;moroccan;coffee_shop",
+      "internet_access": "wlan",
+      "name:en": "Cafe L'expert",
+      "name:pt": "Café L'expert"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6418187685,
+    "lat": 31.0958588,
+    "lon": -4.0109744,
+    "timestamp": "2019-04-20T16:50:05Z",
+    "version": 1,
+    "changeset": 69406642,
+    "user": "Planetgravy",
+    "uid": 3950326,
+    "tags": {
+      "amenity": "restaurant",
+      "name:en": "La grotte",
+      "name:pt": "La grotte"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9182579986,
+    "lat": 31.2807624,
+    "lon": -4.267239,
+    "timestamp": "2021-10-19T11:36:52Z",
+    "version": 1,
+    "changeset": 112693871,
+    "user": "Traktorbek",
+    "uid": 7370308,
+    "tags": {
+      "amenity": "restaurant",
+      "internet_access": "yes",
+      "name": "مطعم البركة (La Baraka)",
+      "name:de": "La Baraka",
+      "name:en": "La Baraka",
+      "name:es": "La Baraka",
+      "name:fr": "La Baraka"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11339231072,
+    "lat": 30.9516706,
+    "lon": -3.8472137,
+    "timestamp": "2023-11-10T18:04:20Z",
+    "version": 1,
+    "changeset": 143874051,
+    "user": "Clipper69",
+    "uid": 18900505,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Salla à manger de Nico"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11733922477,
+    "lat": 31.3690044,
+    "lon": -4.1523421,
+    "timestamp": "2024-03-15T12:00:36Z",
+    "version": 1,
+    "changeset": 148684665,
+    "user": "94621",
+    "uid": 8225234,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "way",
+    "id": 216374149,
+    "timestamp": "2019-03-04T02:12:26Z",
+    "version": 2,
+    "changeset": 67751748,
+    "user": "b-jazz-bot",
+    "uid": 9451067,
+    "center": {
+      "lat": 31.3816557,
+      "lon": -4.272584
+    },
+    "nodes": [
+      2257319703,
+      2257319541,
+      2257319630,
+      2257319705,
+      2257319710,
+      2257319719,
+      2257319733,
+      2257319703
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Camping Tifina",
+      "tourism": "camp_site",
+      "website": "https://www.tifina-maroc.com/"
+    }
+  },
+  {
+    "type": "way",
+    "id": 548173277,
+    "timestamp": "2017-12-20T15:57:58Z",
+    "version": 1,
+    "changeset": 54790600,
+    "user": "viennawood",
+    "uid": 285651,
+    "center": {
+      "lat": 31.2172915,
+      "lon": -3.9833527
+    },
+    "nodes": [
+      5295929620,
+      5295934121,
+      5295934122,
+      5295934123,
+      5295934124,
+      5295934125,
+      5295934126,
+      5295934127,
+      5295934128,
+      5295934129,
+      5295929620
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Auberge Palmeras Y Dunas"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1236273674,
+    "timestamp": "2024-01-02T11:33:41Z",
+    "version": 1,
+    "changeset": 145794206,
+    "user": "cactolith",
+    "uid": 4050400,
+    "center": {
+      "lat": 30.9938527,
+      "lon": -3.9221693
+    },
+    "nodes": [
+      11478638882,
+      11478638883,
+      11478638884,
+      11478638876,
+      11478638885,
+      11478638882
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1331674907,
+    "timestamp": "2024-11-07T17:44:09Z",
+    "version": 1,
+    "changeset": 158866111,
+    "user": "LuisAmaral",
+    "uid": 9588555,
+    "center": {
+      "lat": 31.1430996,
+      "lon": -4.025984
+    },
+    "nodes": [
+      12321083333,
+      12321083334,
+      12321083340,
+      12321083335,
+      12321083336,
+      12321083337,
+      12321083333
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "caravans": "yes",
+      "name": "Camping Ocean des Dunes",
+      "tents": "yes",
+      "tourism": "camp_site"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1350750528,
+    "timestamp": "2025-01-12T20:05:26Z",
+    "version": 1,
+    "changeset": 161286047,
+    "user": "Tobias235",
+    "uid": 14827393,
+    "center": {
+      "lat": 31.0578308,
+      "lon": -4.0156668
+    },
+    "nodes": [
+      12496741261,
+      12496741262,
+      12496741263,
+      12496741264,
+      12496741261
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Restaurant Nomad",
+      "opening_hours": "Mo-Su 09:00-17:00",
+      "phone": "+212661429149"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1350751084,
+    "timestamp": "2025-01-12T20:08:20Z",
+    "version": 1,
+    "changeset": 161286149,
+    "user": "Tobias235",
+    "uid": 14827393,
+    "center": {
+      "lat": 31.036461,
+      "lon": -4.0054832
+    },
+    "nodes": [
+      10703830822,
+      12496744136,
+      12496744137,
+      12496744138,
+      12496744139,
+      12496744140,
+      12496744141,
+      12496744142,
+      12496744143,
+      12496744144,
+      10703830821,
+      10703830822
+    ],
+    "tags": {
+      "addr:city": "Khamlia ⵅⵎⵍⵢⵢⴰ خملية",
+      "addr:postcode": "52202",
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Café Restaurant Chez Ibrahim",
+      "phone": "+212666147161"
+    }
+  }
+]

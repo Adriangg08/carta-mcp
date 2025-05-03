@@ -1,0 +1,202 @@
+[
+  {
+    "type": "node",
+    "id": 4108953935,
+    "lat": 35.445436,
+    "lon": 2.5224968,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4108953936,
+    "lat": 35.4441381,
+    "lon": 2.5192031,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4108953937,
+    "lat": 35.4435306,
+    "lon": 2.5182804,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4108975309,
+    "lat": 35.4369618,
+    "lon": 2.5145019,
+    "timestamp": "2018-06-13T17:54:00Z",
+    "version": 4,
+    "changeset": 59818370,
+    "user": "ButterflyOfFire_",
+    "uid": 2842609,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "مطعم لحسن",
+      "name:ar": "مطعم لحسن",
+      "name:fr": "Restaurant lahsen"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4274716872,
+    "lat": 35.4529447,
+    "lon": 1.8736406,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4274716873,
+    "lat": 35.4584955,
+    "lon": 1.8695897,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4274716874,
+    "lat": 35.4585525,
+    "lon": 1.8701921,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4758881621,
+    "lat": 35.2137408,
+    "lon": 2.3184153,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "مطعم",
+      "name:ar": "مطعم",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5312472522,
+    "lat": 34.8977584,
+    "lon": 2.30867,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 4,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "مطعم",
+      "name:ar": "مطعم",
+      "name:en": "Restaurante",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12138989029,
+    "lat": 35.4419957,
+    "lon": 2.5073298,
+    "timestamp": "2024-08-27T02:21:53Z",
+    "version": 1,
+    "changeset": 155808114,
+    "user": "sentothecopycat",
+    "uid": 21846951,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "مقهى و مطعم الاندلس"
+    }
+  },
+  {
+    "type": "way",
+    "id": 491004518,
+    "timestamp": "2017-05-02T23:04:02Z",
+    "version": 1,
+    "changeset": 48349582,
+    "user": "mohamed709565",
+    "uid": 3788914,
+    "center": {
+      "lat": 35.4430161,
+      "lon": 2.4449625
+    },
+    "nodes": [
+      4831707088,
+      4831707089,
+      4831707090,
+      4831707091,
+      4831707092,
+      4831707093,
+      4831707094,
+      4831707095,
+      4831707088
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "house"
+    }
+  }
+]

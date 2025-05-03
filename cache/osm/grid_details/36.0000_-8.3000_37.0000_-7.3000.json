@@ -1,0 +1,260 @@
+[
+  {
+    "type": "node",
+    "id": 2718583942,
+    "lat": 36.9932161,
+    "lon": -7.8408601,
+    "timestamp": "2022-09-07T20:35:26Z",
+    "version": 4,
+    "changeset": 125917319,
+    "user": "o_andras",
+    "uid": 13641767,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date": "2022-09-07",
+      "name": "Restaurante Donna Rosa",
+      "note": "Chama se mesmo \"Donna\", não é um typo",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2718583943,
+    "lat": 36.9947565,
+    "lon": -7.8409536,
+    "timestamp": "2022-09-08T22:06:52Z",
+    "version": 3,
+    "changeset": 125959445,
+    "user": "o_andras",
+    "uid": 13641767,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date": "2022-09-08",
+      "name": "O Janoca",
+      "operator": "Márcia da C.N. Padinha",
+      "outdoor_seating": "yes",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2718583944,
+    "lat": 36.9948935,
+    "lon": -7.8405414,
+    "timestamp": "2022-09-08T22:06:52Z",
+    "version": 4,
+    "changeset": 125959445,
+    "user": "o_andras",
+    "uid": 13641767,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date": "2022-09-08",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3847008911,
+    "lat": 36.9731905,
+    "lon": -7.866321,
+    "timestamp": "2022-09-09T23:03:17Z",
+    "version": 2,
+    "changeset": 125998506,
+    "user": "o_andras",
+    "uid": 13641767,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date": "2022-09-09",
+      "name": "À do João",
+      "outdoor_seating": "yes",
+      "smoking": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4392549125,
+    "lat": 36.993947,
+    "lon": -7.8396585,
+    "timestamp": "2016-09-08T19:04:44Z",
+    "version": 1,
+    "changeset": 42010616,
+    "user": "jlcv19",
+    "uid": 3281102,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "União Culatrense"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4392549126,
+    "lat": 36.9948842,
+    "lon": -7.8394063,
+    "timestamp": "2018-01-16T14:46:22Z",
+    "version": 4,
+    "changeset": 55495401,
+    "user": "Alexmol",
+    "uid": 347293,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Café Tavinho",
+      "name:pt": "Café Távinho"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4392549127,
+    "lat": 36.9947696,
+    "lon": -7.838953,
+    "timestamp": "2018-01-16T14:31:58Z",
+    "version": 3,
+    "changeset": 55494985,
+    "user": "Alexmol",
+    "uid": 347293,
+    "tags": {
+      "alt_name": "Amigos do Benfica",
+      "amenity": "restaurant",
+      "delivery": "no",
+      "name": "Café Marretas",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4392549129,
+    "lat": 36.9945374,
+    "lon": -7.8405888,
+    "timestamp": "2022-09-08T22:06:52Z",
+    "version": 4,
+    "changeset": 125959445,
+    "user": "o_andras",
+    "uid": 13641767,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date": "2022-09-08",
+      "name": "Café Zárica",
+      "name:pt": "Café Zárica",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4392549130,
+    "lat": 36.9944168,
+    "lon": -7.8406111,
+    "timestamp": "2022-12-04T12:39:34Z",
+    "version": 6,
+    "changeset": 129703344,
+    "user": "Daniel Nunes",
+    "uid": 10200848,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date": "2022-09-07",
+      "name": "João Farol",
+      "name:pt": "João Farol",
+      "outdoor_seating": "yes",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10009032535,
+    "lat": 36.9741577,
+    "lon": -7.8656027,
+    "timestamp": "2022-11-26T12:34:58Z",
+    "version": 3,
+    "changeset": 129400519,
+    "user": "Daniel Nunes",
+    "uid": 10200848,
+    "tags": {
+      "addr:city": "Olhão",
+      "addr:housenumber": "23",
+      "addr:postcode": "8700-421",
+      "addr:street": "Rua 18 de Junho",
+      "amenity": "restaurant",
+      "bar": "yes",
+      "check_date": "2022-09-08",
+      "cuisine": "seafood;fish",
+      "email": "espacoassociacao.farol@gmail.com",
+      "internet_access": "wlan",
+      "internet_access:fee": "customers",
+      "name": "Restaurante Espaço Associação Ilha do Farol",
+      "opening_hours": "07:00-21:00",
+      "outdoor_seating": "yes",
+      "payment:credit_cards": "yes",
+      "payment:debit_cards": "yes",
+      "ref:vatin": "PT515899798",
+      "smoking": "outside",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10010090666,
+    "lat": 36.9952216,
+    "lon": -7.8404782,
+    "timestamp": "2022-09-08T22:06:52Z",
+    "version": 1,
+    "changeset": 125959445,
+    "user": "o_andras",
+    "uid": 13641767,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date": "2022-09-08",
+      "name": "O Rui",
+      "outdoor_seating": "yes",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10012377649,
+    "lat": 36.9769081,
+    "lon": -7.8660026,
+    "timestamp": "2022-09-09T23:03:17Z",
+    "version": 1,
+    "changeset": 125998506,
+    "user": "o_andras",
+    "uid": 13641767,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date": "2022-09-09",
+      "name": "Cais Aqui",
+      "opening_hours": "Tu-Su 09:00-18:00",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 449848186,
+    "timestamp": "2022-09-08T09:19:49Z",
+    "version": 4,
+    "changeset": 125933813,
+    "user": "o_andras",
+    "uid": 13641767,
+    "center": {
+      "lat": 36.9658179,
+      "lon": -7.8727355
+    },
+    "nodes": [
+      4467700073,
+      5061555265,
+      5061555264,
+      5061555263,
+      5061555266,
+      5061555268,
+      4467700074,
+      4467700068,
+      4467700071,
+      4467700067,
+      4467700073
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "check_date": "2022-09-08",
+      "name": "O Estaminé"
+    }
+  }
+]

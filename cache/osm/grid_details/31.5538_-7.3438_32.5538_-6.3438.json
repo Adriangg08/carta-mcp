@@ -1,0 +1,475 @@
+[
+  {
+    "type": "node",
+    "id": 2061674902,
+    "lat": 31.6581343,
+    "lon": -6.4209765,
+    "timestamp": "2024-03-06T07:46:19Z",
+    "version": 2,
+    "changeset": 148279782,
+    "user": "Barisko",
+    "uid": 10247064,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Ait El Haj"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3116719088,
+    "lat": 32.2906628,
+    "lon": -6.4352354,
+    "timestamp": "2014-10-07T15:39:03Z",
+    "version": 1,
+    "changeset": 25919175,
+    "user": "alain2003",
+    "uid": 578772,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3217569195,
+    "lat": 32.2160568,
+    "lon": -6.7848238,
+    "timestamp": "2014-12-03T16:31:38Z",
+    "version": 2,
+    "changeset": 27203854,
+    "user": "Niels Elgaard Larsen",
+    "uid": 1288,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Cafe Atlas"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3924438117,
+    "lat": 32.4418423,
+    "lon": -6.6911382,
+    "timestamp": "2016-01-02T22:20:36Z",
+    "version": 1,
+    "changeset": 36328243,
+    "user": "alain2003",
+    "uid": 578772,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4221318023,
+    "lat": 32.3364746,
+    "lon": -6.3516003,
+    "timestamp": "2016-06-02T10:07:53Z",
+    "version": 1,
+    "changeset": 39730190,
+    "user": "Toub",
+    "uid": 2109205,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "La Petite Maison"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4232000791,
+    "lat": 32.3348269,
+    "lon": -6.3612165,
+    "timestamp": "2016-06-14T18:36:59Z",
+    "version": 3,
+    "changeset": 40023640,
+    "user": "GEOSYSTEME",
+    "uid": 4063963,
+    "tags": {
+      "addr:city": "Béni Mellal",
+      "addr:housenumber": "110",
+      "addr:postcode": "23000",
+      "addr:street": "Chawki 1",
+      "amenity": "restaurant",
+      "email": "dallasdinner@yahoo.com",
+      "name": "Restaurant DALAS Diner",
+      "phone": "0540033930"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4232907389,
+    "lat": 31.9589154,
+    "lon": -6.5723842,
+    "timestamp": "2016-06-08T23:59:49Z",
+    "version": 1,
+    "changeset": 39896687,
+    "user": "GEOSYSTEME",
+    "uid": 4063963,
+    "tags": {
+      "addr:city": "azilal",
+      "addr:street": "avenue Marrakech",
+      "amenity": "restaurant",
+      "name": "restaurant ibno ziyad",
+      "phone": "+212 6 68 02 91 82"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4232910568,
+    "lat": 31.9589063,
+    "lon": -6.572529,
+    "timestamp": "2016-06-09T20:17:58Z",
+    "version": 2,
+    "changeset": 39916826,
+    "user": "FvGordon",
+    "uid": 161619,
+    "tags": {
+      "addr:city": "azilal",
+      "addr:street": "avenue Marrakech",
+      "amenity": "restaurant",
+      "email": "restauroma@gmail.com",
+      "name": "restaurant Roma",
+      "phone": "+212 5 23 45 94 77"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4233819498,
+    "lat": 32.3338103,
+    "lon": -6.363089,
+    "timestamp": "2016-06-14T18:16:59Z",
+    "version": 2,
+    "changeset": 40023151,
+    "user": "GEOSYSTEME",
+    "uid": 4063963,
+    "tags": {
+      "addr:city": "Béni Mellal",
+      "addr:postcode": "23000",
+      "addr:street": "Hay Mimouna",
+      "amenity": "restaurant",
+      "name": "Restaurant EZZERDA",
+      "phone": "0659688597"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4513902374,
+    "lat": 32.0183255,
+    "lon": -6.7242513,
+    "timestamp": "2024-03-07T15:14:41Z",
+    "version": 4,
+    "changeset": 148347077,
+    "user": "Barisko",
+    "uid": 10247064,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date": "2023-05-05",
+      "name": "Le Havre de Paix"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4643941638,
+    "lat": 32.0135277,
+    "lon": -6.7176817,
+    "timestamp": "2020-09-11T22:33:53Z",
+    "version": 3,
+    "changeset": 90779609,
+    "user": "Yamílo",
+    "uid": 11332999,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Amalou أمالو",
+      "name:ar": "أمالو",
+      "name:fr": "Amalou"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4643942259,
+    "lat": 31.7895422,
+    "lon": -7.0399381,
+    "timestamp": "2017-01-30T10:14:46Z",
+    "version": 1,
+    "changeset": 45646544,
+    "user": "ecatmur",
+    "uid": 352985,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Bab Demnate"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4643942261,
+    "lat": 32.0152918,
+    "lon": -6.7209588,
+    "timestamp": "2020-09-11T13:12:27Z",
+    "version": 3,
+    "changeset": 90760746,
+    "user": "Yamílo",
+    "uid": 11332999,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Bèrbère البربر",
+      "name:ar": "البربر",
+      "name:fr": "Bèrbère"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4643942315,
+    "lat": 32.0147228,
+    "lon": -6.7207305,
+    "timestamp": "2020-09-11T13:17:45Z",
+    "version": 2,
+    "changeset": 90760966,
+    "user": "Yamílo",
+    "uid": 11332999,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Les Amis الأصدقاء",
+      "name:ar": "الأصدقاء",
+      "name:fr": "Les Amis"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4643942318,
+    "lat": 32.0147667,
+    "lon": -6.719061,
+    "timestamp": "2020-09-11T13:12:27Z",
+    "version": 2,
+    "changeset": 90760746,
+    "user": "Yamílo",
+    "uid": 11332999,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Espace Cascade Blanche مساحة الشلال الأبيض",
+      "name:ar": "مساحة الشلال الأبيض",
+      "name:fr": "Espace Cascade Blanche"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5531155623,
+    "lat": 32.0161517,
+    "lon": -6.7221627,
+    "timestamp": "2020-09-11T13:12:27Z",
+    "version": 2,
+    "changeset": 90760746,
+    "user": "Yamílo",
+    "uid": 11332999,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6284882221,
+    "lat": 32.138915,
+    "lon": -7.0285312,
+    "timestamp": "2019-02-17T20:21:17Z",
+    "version": 1,
+    "changeset": 67291484,
+    "user": "bwharrie",
+    "uid": 2127176,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "moroccan",
+      "name": "Espace Ouzoud",
+      "outdoor_seating": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6993473768,
+    "lat": 31.6576249,
+    "lon": -6.4247747,
+    "timestamp": "2019-11-20T18:37:56Z",
+    "version": 1,
+    "changeset": 77340723,
+    "user": "GertVanLoo",
+    "uid": 1086325,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Café restaurant Inaghmissen"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7222546737,
+    "lat": 31.9655419,
+    "lon": -6.5710986,
+    "timestamp": "2020-02-18T12:31:12Z",
+    "version": 1,
+    "changeset": 81169842,
+    "user": "Javier Sanchez",
+    "uid": 47882,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Restaurant Soufiane"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9238339017,
+    "lat": 32.3313266,
+    "lon": -6.3546885,
+    "timestamp": "2021-11-09T15:20:01Z",
+    "version": 1,
+    "changeset": 113569891,
+    "user": "Rafael Raposo Pires",
+    "uid": 4317402,
+    "tags": {
+      "amenity": "restaurant",
+      "name:en": "Rio"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9370953317,
+    "lat": 32.0138698,
+    "lon": -6.7198843,
+    "timestamp": "2021-12-27T20:04:25Z",
+    "version": 1,
+    "changeset": 115442035,
+    "user": "Alexski52",
+    "uid": 10134238,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Chez Mounir"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11504061602,
+    "lat": 32.013388,
+    "lon": -6.714814,
+    "timestamp": "2024-01-09T19:37:31Z",
+    "version": 1,
+    "changeset": 146078454,
+    "user": "Tootie4Douz",
+    "uid": 14237762,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11685830911,
+    "lat": 31.732967,
+    "lon": -7.004752,
+    "timestamp": "2024-03-02T21:53:13Z",
+    "version": 1,
+    "changeset": 148147965,
+    "user": "Barisko",
+    "uid": 10247064,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "tacos",
+      "name": "Casa Mia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11696585033,
+    "lat": 31.9590001,
+    "lon": -6.5713573,
+    "timestamp": "2024-03-06T07:49:45Z",
+    "version": 1,
+    "changeset": 148279888,
+    "user": "Barisko",
+    "uid": 10247064,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Belle Vue"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12469447240,
+    "lat": 32.0142038,
+    "lon": -6.7192204,
+    "timestamp": "2025-01-02T18:36:50Z",
+    "version": 1,
+    "changeset": 160921131,
+    "user": "PwnyTail",
+    "uid": 10648338,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Dar Essalam"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12469454705,
+    "lat": 32.0142489,
+    "lon": -6.7190652,
+    "timestamp": "2025-01-02T18:36:49Z",
+    "version": 1,
+    "changeset": 160921131,
+    "user": "PwnyTail",
+    "uid": 10648338,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Pizzeria Bab Echallal"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12498194283,
+    "lat": 31.8937674,
+    "lon": -6.410225,
+    "timestamp": "2025-01-13T14:14:53Z",
+    "version": 1,
+    "changeset": 161311648,
+    "user": "soyberme",
+    "uid": 458253,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Albergue"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1337700486,
+    "timestamp": "2024-11-25T12:24:05Z",
+    "version": 2,
+    "changeset": 159571075,
+    "user": "BiviBag_ADV",
+    "uid": 3022672,
+    "center": {
+      "lat": 31.6575077,
+      "lon": -6.3973097
+    },
+    "nodes": [
+      12373578902,
+      12373578903,
+      12373578904,
+      12373578905,
+      12373578906,
+      12373578907,
+      12373578908,
+      12373578909,
+      12373578902
+    ],
+    "tags": {
+      "addr:city": "Tabant",
+      "addr:postcode": "23500",
+      "addr:street": "Ait Ayoub, Ibalkaliwane",
+      "amenity": "restaurant",
+      "building": "retail",
+      "building:levels": "2",
+      "contact:email": "info@lodgelenoyer.com",
+      "contact:phone": "+212671192287",
+      "internet_access": "wlan",
+      "internet_access:fee": "customers",
+      "name": "Lodge le Noyer",
+      "rooms": "6",
+      "smoking": "outside",
+      "tourism": "hotel",
+      "website": "https://www.lodge-lenoyer.com/lodge/maison-dhote"
+    }
+  }
+]

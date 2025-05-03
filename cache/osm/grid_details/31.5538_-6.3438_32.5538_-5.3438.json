@@ -1,0 +1,526 @@
+[
+  {
+    "type": "node",
+    "id": 517891254,
+    "lat": 31.6816034,
+    "lon": -5.5330784,
+    "timestamp": "2009-10-02T18:44:21Z",
+    "version": 1,
+    "changeset": 2715545,
+    "user": "Flairreisen",
+    "uid": 40821,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 517891261,
+    "lat": 31.557878,
+    "lon": -5.9095123,
+    "timestamp": "2011-05-19T10:26:32Z",
+    "version": 3,
+    "changeset": 8188540,
+    "user": "cdavila",
+    "uid": 26599,
+    "tags": {
+      "amenity": "restaurant",
+      "email": "asmoun3000@yahoo.fr",
+      "name": "Berbère de la Montagne",
+      "phone": "+212 5 24 83 02 28",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1143573900,
+    "lat": 31.55779,
+    "lon": -5.5805356,
+    "timestamp": "2011-02-09T09:17:32Z",
+    "version": 1,
+    "changeset": 7234106,
+    "user": "cdavila",
+    "uid": 26599,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Zakar Charif",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1145756007,
+    "lat": 32.0065955,
+    "lon": -5.4862633,
+    "timestamp": "2023-03-21T13:46:19Z",
+    "version": 2,
+    "changeset": 133941686,
+    "user": "LuisAmaral",
+    "uid": 9588555,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant Auberg Afoud",
+      "tourism": "hostel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1145833849,
+    "lat": 32.0122154,
+    "lon": -5.487619,
+    "timestamp": "2012-09-18T22:00:53Z",
+    "version": 3,
+    "changeset": 13163148,
+    "user": "gafrol",
+    "uid": 883471,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Auberge Ibrahim",
+      "tourism": "hostel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1330011884,
+    "lat": 31.5544462,
+    "lon": -5.5853331,
+    "timestamp": "2014-05-24T14:03:05Z",
+    "version": 4,
+    "changeset": 22524546,
+    "user": "Herrcule",
+    "uid": 578496,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "La Source Des Poissons Sacres",
+      "tourism": "camp_site"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2134025596,
+    "lat": 31.6739549,
+    "lon": -5.5438061,
+    "timestamp": "2022-09-10T22:54:36Z",
+    "version": 2,
+    "changeset": 126032046,
+    "user": "woy_cb",
+    "uid": 284094,
+    "tags": {
+      "amenity": "restaurant",
+      "fixme": "correct position?",
+      "name": "Afsou",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2134025601,
+    "lat": 31.6958585,
+    "lon": -5.8193435,
+    "timestamp": "2013-03-13T09:10:59Z",
+    "version": 3,
+    "changeset": 15349000,
+    "user": "Heinz",
+    "uid": 37693,
+    "tags": {
+      "amenity": "restaurant",
+      "ele": "1965",
+      "name": "Ait Atta",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2134025614,
+    "lat": 31.695997,
+    "lon": -5.8189704,
+    "timestamp": "2013-03-13T09:05:40Z",
+    "version": 2,
+    "changeset": 15348924,
+    "user": "Heinz",
+    "uid": 37693,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Al Karam",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2134025616,
+    "lat": 31.6801511,
+    "lon": -5.5348015,
+    "timestamp": "2013-01-29T18:51:40Z",
+    "version": 1,
+    "changeset": 14838469,
+    "user": "staehler",
+    "uid": 118856,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Amazigh",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2134025617,
+    "lat": 31.7558206,
+    "lon": -5.8079075,
+    "timestamp": "2013-01-29T18:51:40Z",
+    "version": 1,
+    "changeset": 14838469,
+    "user": "staehler",
+    "uid": 118856,
+    "tags": {
+      "FIXME": "correct position?",
+      "amenity": "restaurant",
+      "name": "Asaka",
+      "tourism": "hotel;camping"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2134025621,
+    "lat": 31.5590855,
+    "lon": -5.9085419,
+    "timestamp": "2013-01-29T18:51:40Z",
+    "version": 1,
+    "changeset": 14838469,
+    "user": "staehler",
+    "uid": 118856,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Aunom De La Rose",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2134025625,
+    "lat": 31.5835046,
+    "lon": -5.5908986,
+    "timestamp": "2016-07-16T23:09:55Z",
+    "version": 3,
+    "changeset": 40789374,
+    "user": "alex1974",
+    "uid": 664377,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "El Mansour",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2134025626,
+    "lat": 31.6951864,
+    "lon": -5.8200253,
+    "timestamp": "2013-03-13T09:05:40Z",
+    "version": 2,
+    "changeset": 15348924,
+    "user": "Heinz",
+    "uid": 37693,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "El Warda",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2134025627,
+    "lat": 31.5628696,
+    "lon": -5.9069764,
+    "timestamp": "2015-12-18T16:35:56Z",
+    "version": 2,
+    "changeset": 36031502,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Etoile Dades",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2134025635,
+    "lat": 31.5563073,
+    "lon": -5.5810768,
+    "timestamp": "2013-01-29T18:51:41Z",
+    "version": 1,
+    "changeset": 14838469,
+    "user": "staehler",
+    "uid": 118856,
+    "tags": {
+      "amenity": "restaurant",
+      "internet_access": "wlan",
+      "name": "Kasbah Amazir",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2134025641,
+    "lat": 31.5792164,
+    "lon": -5.5865877,
+    "timestamp": "2013-01-29T18:51:41Z",
+    "version": 1,
+    "changeset": 14838469,
+    "user": "staehler",
+    "uid": 118856,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Le Ciel Bleu",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2134028991,
+    "lat": 31.6796251,
+    "lon": -5.5341719,
+    "timestamp": "2022-09-10T22:54:36Z",
+    "version": 2,
+    "changeset": 126032046,
+    "user": "woy_cb",
+    "uid": 284094,
+    "tags": {
+      "amenity": "restaurant",
+      "fixme": "correct position?",
+      "name": "Tafouyt",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2134028993,
+    "lat": 31.6718114,
+    "lon": -5.548092,
+    "timestamp": "2022-09-10T22:54:36Z",
+    "version": 2,
+    "changeset": 126032046,
+    "user": "woy_cb",
+    "uid": 284094,
+    "tags": {
+      "amenity": "restaurant",
+      "fixme": "correct position?",
+      "name": "Tamda",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2878489473,
+    "lat": 31.5545838,
+    "lon": -5.5849273,
+    "timestamp": "2014-05-24T18:07:16Z",
+    "version": 1,
+    "changeset": 22528764,
+    "user": "Herrcule",
+    "uid": 578496,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Aghbalou Imareghn"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7083663816,
+    "lat": 31.5693203,
+    "lon": -5.8982396,
+    "timestamp": "2022-05-26T22:09:14Z",
+    "version": 3,
+    "changeset": 121547587,
+    "user": "b-jazz-bot",
+    "uid": 9451067,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Hotel New Mars dades",
+      "phone": "00212668519628",
+      "website": "https://www.hotel-newmars-dades.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8392228657,
+    "lat": 32.1606752,
+    "lon": -5.6297091,
+    "timestamp": "2024-04-15T23:47:39Z",
+    "version": 2,
+    "changeset": 150061444,
+    "user": "EN-NASRY Géo",
+    "uid": 21078965,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8850261522,
+    "lat": 32.1557194,
+    "lon": -5.6311173,
+    "timestamp": "2021-06-20T12:01:30Z",
+    "version": 1,
+    "changeset": 106663150,
+    "user": "Traktorbek",
+    "uid": 7370308,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8850280082,
+    "lat": 32.1559464,
+    "lon": -5.6310331,
+    "timestamp": "2021-06-20T12:01:29Z",
+    "version": 1,
+    "changeset": 106663150,
+    "user": "Traktorbek",
+    "uid": 7370308,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8850290037,
+    "lat": 32.1561347,
+    "lon": -5.6310349,
+    "timestamp": "2021-06-20T12:01:30Z",
+    "version": 1,
+    "changeset": 106663150,
+    "user": "Traktorbek",
+    "uid": 7370308,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8850290804,
+    "lat": 32.1558585,
+    "lon": -5.6310294,
+    "timestamp": "2021-06-20T12:01:29Z",
+    "version": 1,
+    "changeset": 106663150,
+    "user": "Traktorbek",
+    "uid": 7370308,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10673513670,
+    "lat": 31.8353155,
+    "lon": -6.1071125,
+    "timestamp": "2023-02-17T13:45:44Z",
+    "version": 1,
+    "changeset": 132677258,
+    "user": "ellipseit",
+    "uid": 6508806,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Cafe Restaurant Boulangerie Atlas"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12592604301,
+    "lat": 31.6963374,
+    "lon": -5.8173409,
+    "timestamp": "2025-02-16T09:10:23Z",
+    "version": 1,
+    "changeset": 162562565,
+    "user": "jularzac",
+    "uid": 22503089,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "moroccan",
+      "internet_access": "wlan",
+      "name": "Café restaurant le Presitigia"
+    }
+  },
+  {
+    "type": "way",
+    "id": 140793063,
+    "timestamp": "2011-12-12T02:03:29Z",
+    "version": 1,
+    "changeset": 10095580,
+    "user": "amurski",
+    "uid": 567706,
+    "center": {
+      "lat": 31.666828,
+      "lon": -5.5522852
+    },
+    "nodes": [
+      1541701410,
+      1541701420,
+      1541701405,
+      1541701414,
+      1541701408,
+      1541701432,
+      1541701410
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Les Amis",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "way",
+    "id": 140793064,
+    "timestamp": "2013-01-29T18:53:08Z",
+    "version": 2,
+    "changeset": 14838469,
+    "user": "staehler",
+    "uid": 118856,
+    "center": {
+      "lat": 31.6678073,
+      "lon": -5.5508914
+    },
+    "nodes": [
+      1541701416,
+      1541701426,
+      1541701422,
+      1541701418,
+      1541701433,
+      1541701424,
+      1541701416
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Dar Essalam",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "way",
+    "id": 203391678,
+    "timestamp": "2017-12-05T13:15:01Z",
+    "version": 2,
+    "changeset": 54364609,
+    "user": "CRCulver",
+    "uid": 340741,
+    "center": {
+      "lat": 31.7011403,
+      "lon": -5.812703
+    },
+    "nodes": [
+      2134028479,
+      2134028480,
+      2134028483,
+      2134028482,
+      2134028479
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "La Vallee des Pommes",
+      "tourism": "hotel"
+    }
+  }
+]

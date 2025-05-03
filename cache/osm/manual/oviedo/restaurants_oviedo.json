@@ -1,0 +1,1955 @@
+[
+  {
+    "type": "node",
+    "id": 475263431,
+    "lat": 28.6580257,
+    "lon": -81.1798432,
+    "timestamp": "2024-02-28T20:23:01Z",
+    "version": 3,
+    "changeset": 148027631,
+    "user": "wheelmap_visitor",
+    "uid": 290680,
+    "tags": {
+      "amenity": "restaurant",
+      "brand": "Tijuana Flats",
+      "brand:wikidata": "Q7801833",
+      "cuisine": "mexican",
+      "name": "Tijuana Flats",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 475270931,
+    "lat": 28.6611059,
+    "lon": -81.1797658,
+    "timestamp": "2024-05-19T11:56:27Z",
+    "version": 7,
+    "changeset": 151531061,
+    "user": "whammo",
+    "uid": 1962542,
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:housenumber": "1767",
+      "addr:postcode": "32765",
+      "addr:state": "FL",
+      "addr:street": "East Broadway",
+      "addr:unit": "200",
+      "amenity": "fast_food",
+      "brand": "Subway",
+      "brand:wikidata": "Q244457",
+      "cuisine": "sandwich",
+      "name": "Subway",
+      "opening_hours": "Mo-Sa 08:00-22:00; Su 09:00-22:00",
+      "phone": "+1 407-971-6920",
+      "takeaway": "yes",
+      "website": "https://restaurants.subway.com/united-states/fl/oviedo/1767-e-broadway",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 475271359,
+    "lat": 28.6606464,
+    "lon": -81.177652,
+    "timestamp": "2024-02-28T20:27:01Z",
+    "version": 5,
+    "changeset": 148027790,
+    "user": "wheelmap_visitor",
+    "uid": 290680,
+    "tags": {
+      "amenity": "restaurant",
+      "brand": "Beef O'Brady's",
+      "brand:wikidata": "Q4879745",
+      "cuisine": "american",
+      "name": "Beef O'Brady's",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 475273450,
+    "lat": 28.656784,
+    "lon": -81.1779766,
+    "timestamp": "2009-08-28T13:14:03Z",
+    "version": 2,
+    "changeset": 2289479,
+    "user": "Me-Mongo",
+    "uid": 157011,
+    "tags": {
+      "amenity": "restaurant",
+      "description": "Chinese",
+      "name": "China One"
+    }
+  },
+  {
+    "type": "node",
+    "id": 475273638,
+    "lat": 28.6569572,
+    "lon": -81.1779766,
+    "timestamp": "2009-08-28T13:13:30Z",
+    "version": 2,
+    "changeset": 2289479,
+    "user": "Me-Mongo",
+    "uid": 157011,
+    "tags": {
+      "amenity": "restaurant",
+      "description": "Italian",
+      "name": "Cafe Panuzzo's Eatery"
+    }
+  },
+  {
+    "type": "node",
+    "id": 475274160,
+    "lat": 28.6565947,
+    "lon": -81.1807701,
+    "timestamp": "2024-05-09T11:59:09Z",
+    "version": 8,
+    "changeset": 151096409,
+    "user": "whammo",
+    "uid": 1962542,
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:housenumber": "1605",
+      "addr:postcode": "32765",
+      "addr:state": "FL",
+      "addr:street": "East Mitchell Hammock Road",
+      "amenity": "fast_food",
+      "brand": "McDonald's",
+      "brand:wikidata": "Q38076",
+      "cuisine": "burger",
+      "drive_through": "yes",
+      "internet_access": "wlan",
+      "name": "McDonald's",
+      "opening_hours": "06:00-22:00",
+      "phone": "+1 407-977-9086",
+      "takeaway": "yes",
+      "website": "https://www.mcdonalds.com/us/en-us/location/14550.html",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 475285066,
+    "lat": 28.6575436,
+    "lon": -81.1765988,
+    "timestamp": "2024-05-10T20:58:54Z",
+    "version": 6,
+    "changeset": 151164307,
+    "user": "whammo",
+    "uid": 1962542,
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:housenumber": "1875",
+      "addr:postcode": "32765",
+      "addr:state": "FL",
+      "addr:street": "West County Road 419",
+      "amenity": "restaurant",
+      "brand": "Pizza Hut",
+      "brand:wikidata": "Q191615",
+      "cuisine": "pizza",
+      "name": "Pizza Hut",
+      "operator": "Yum! Brands",
+      "phone": "+1 407-359-5699",
+      "website": "https://locations.pizzahut.com/fl/oviedo/1875-west-county-rd-419"
+    }
+  },
+  {
+    "type": "node",
+    "id": 475285719,
+    "lat": 28.6577583,
+    "lon": -81.1770515,
+    "timestamp": "2024-05-10T21:21:38Z",
+    "version": 7,
+    "changeset": 151164885,
+    "user": "whammo",
+    "uid": 1962542,
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:housenumber": "1859",
+      "addr:postcode": "32765",
+      "addr:state": "FL",
+      "addr:street": "West County Road 419",
+      "amenity": "fast_food",
+      "brand": "Taco Bell",
+      "brand:wikidata": "Q752941",
+      "cuisine": "tex-mex",
+      "name": "Taco Bell",
+      "opening_hours": "Mo-We 08:00-01:00; Th 08:00-02:00; Fr-Sa 08:00-03:00; Su 08:00-01:00",
+      "operator": "Yum! Brands",
+      "phone": "+1 407-359-6612",
+      "takeaway": "yes",
+      "website": "https://locations.tacobell.com/fl/oviedo/1859-w-county-road-419.html"
+    }
+  },
+  {
+    "type": "node",
+    "id": 475286011,
+    "lat": 28.6577056,
+    "lon": -81.1771046,
+    "timestamp": "2024-01-16T02:07:09Z",
+    "version": 4,
+    "changeset": 146304121,
+    "user": "ZeLonewolf",
+    "uid": 219297,
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Long John Silver's",
+      "brand:wikidata": "Q1535221",
+      "cuisine": "seafood",
+      "name": "Long John Silver's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 475287043,
+    "lat": 28.6517968,
+    "lon": -81.1577761,
+    "timestamp": "2009-08-27T18:58:40Z",
+    "version": 1,
+    "changeset": 2280670,
+    "user": "Me-Mongo",
+    "uid": 157011,
+    "tags": {
+      "amenity": "fast_food",
+      "name": "Dipster's Ice Cream"
+    }
+  },
+  {
+    "type": "node",
+    "id": 492729611,
+    "lat": 28.6512179,
+    "lon": -81.15729,
+    "timestamp": "2009-09-10T19:23:23Z",
+    "version": 1,
+    "changeset": 2439397,
+    "user": "Me-Mongo",
+    "uid": 157011,
+    "tags": {
+      "amenity": "fast_food",
+      "description": "Pizza, calzones, etc.",
+      "name": "Backstreet Pizza"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4792184166,
+    "lat": 28.6519749,
+    "lon": -81.2060082,
+    "timestamp": "2023-11-12T20:08:02Z",
+    "version": 4,
+    "changeset": 143946755,
+    "user": "DPflug",
+    "uid": 2420587,
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:housenumber": "27",
+      "addr:postcode": "32765",
+      "addr:state": "FL",
+      "addr:street": "Alafaya Woods Boulevard",
+      "amenity": "restaurant",
+      "check_date": "2023-07-22",
+      "name": "Froggers Grill & Bar",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4792184167,
+    "lat": 28.6518856,
+    "lon": -81.2066589,
+    "timestamp": "2021-07-22T15:38:43Z",
+    "version": 4,
+    "changeset": 108437648,
+    "user": "MistaDrop",
+    "uid": 7808769,
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:housenumber": "117",
+      "addr:postcode": "32765",
+      "addr:state": "FL",
+      "addr:street": "Alafaya Woods Boulevard",
+      "amenity": "restaurant",
+      "name": "DeVine Wine & Grill"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5262394022,
+    "lat": 28.6629974,
+    "lon": -81.2341951,
+    "timestamp": "2024-05-19T11:56:27Z",
+    "version": 13,
+    "changeset": 151531061,
+    "user": "whammo",
+    "uid": 1962542,
+    "tags": {
+      "addr:housenumber": "1520",
+      "addr:postcode": "32765",
+      "addr:street": "Marketplace Boulevard",
+      "amenity": "fast_food",
+      "brand": "Subway",
+      "brand:wikidata": "Q244457",
+      "cuisine": "sandwich",
+      "fixme:atp": "no ATP match, check if still exists",
+      "internet_access": "wlan",
+      "name": "Subway",
+      "operator": "Subway#28399",
+      "phone": "+1 407-971-8042",
+      "takeaway": "yes",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5262394023,
+    "lat": 28.6630084,
+    "lon": -81.2345354,
+    "timestamp": "2021-11-29T20:01:00Z",
+    "version": 2,
+    "changeset": 114338570,
+    "user": "wheelmap_visitor",
+    "uid": 290680,
+    "tags": {
+      "amenity": "ice_cream",
+      "name": "Hershey's",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5262394127,
+    "lat": 28.6628597,
+    "lon": -81.2341561,
+    "timestamp": "2021-11-29T20:01:54Z",
+    "version": 3,
+    "changeset": 114338570,
+    "user": "wheelmap_visitor",
+    "uid": 290680,
+    "tags": {
+      "amenity": "fast_food",
+      "name": "Asian Express",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5262394128,
+    "lat": 28.6629326,
+    "lon": -81.2341743,
+    "timestamp": "2021-11-29T20:01:48Z",
+    "version": 3,
+    "changeset": 114338570,
+    "user": "wheelmap_visitor",
+    "uid": 290680,
+    "tags": {
+      "amenity": "fast_food",
+      "name": "Mediterranean Gourmet",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5262394129,
+    "lat": 28.6630613,
+    "lon": -81.2342116,
+    "timestamp": "2021-11-29T20:01:37Z",
+    "version": 2,
+    "changeset": 114338570,
+    "user": "wheelmap_visitor",
+    "uid": 290680,
+    "tags": {
+      "amenity": "fast_food",
+      "name": "Cup Pasta & Pizza",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5262394130,
+    "lat": 28.6628172,
+    "lon": -81.2344112,
+    "timestamp": "2021-11-29T20:01:19Z",
+    "version": 3,
+    "changeset": 114338570,
+    "user": "wheelmap_visitor",
+    "uid": 290680,
+    "tags": {
+      "amenity": "fast_food",
+      "name": "Broadway's",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5262394132,
+    "lat": 28.6631141,
+    "lon": -81.2342372,
+    "timestamp": "2021-11-29T20:01:31Z",
+    "version": 2,
+    "changeset": 114338570,
+    "user": "wheelmap_visitor",
+    "uid": 290680,
+    "tags": {
+      "amenity": "ice_cream",
+      "name": "Berry Field",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5262394221,
+    "lat": 28.6628844,
+    "lon": -81.2344296,
+    "timestamp": "2024-05-19T12:34:49Z",
+    "version": 6,
+    "changeset": 151532374,
+    "user": "whammo",
+    "uid": 1962542,
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Chick-fil-A",
+      "brand:wikidata": "Q491516",
+      "cuisine": "chicken",
+      "fixme:atp": "no ATP match, check if still exists",
+      "name": "Chick-fil-A",
+      "takeaway": "yes",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5262394222,
+    "lat": 28.6629495,
+    "lon": -81.2344471,
+    "timestamp": "2021-11-29T19:32:00Z",
+    "version": 3,
+    "changeset": 114338570,
+    "user": "wheelmap_visitor",
+    "uid": 290680,
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Sarku Japan",
+      "brand:wikidata": "Q7424243",
+      "cuisine": "japanese",
+      "name": "Sarku Japan",
+      "takeaway": "yes",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5262479823,
+    "lat": 28.6633124,
+    "lon": -81.2347948,
+    "timestamp": "2024-01-16T02:07:09Z",
+    "version": 5,
+    "changeset": 146304121,
+    "user": "ZeLonewolf",
+    "uid": 219297,
+    "tags": {
+      "amenity": "cafe",
+      "brand": "Starbucks",
+      "brand:wikidata": "Q37158",
+      "cuisine": "coffee_shop",
+      "name": "Starbucks",
+      "official_name": "Starbucks Coffee",
+      "takeaway": "yes",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5262493128,
+    "lat": 28.6626452,
+    "lon": -81.2365092,
+    "timestamp": "2021-11-29T19:38:53Z",
+    "version": 4,
+    "changeset": 114338570,
+    "user": "wheelmap_visitor",
+    "uid": 290680,
+    "tags": {
+      "amenity": "fast_food",
+      "name": "Planet Smoothie",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5262493526,
+    "lat": 28.6623995,
+    "lon": -81.2366454,
+    "timestamp": "2021-11-29T20:04:15Z",
+    "version": 2,
+    "changeset": 114338570,
+    "user": "wheelmap_visitor",
+    "uid": 290680,
+    "tags": {
+      "amenity": "bar",
+      "name": "Amarena",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5262601822,
+    "lat": 28.6635119,
+    "lon": -81.2347061,
+    "timestamp": "2021-11-29T19:57:15Z",
+    "version": 2,
+    "changeset": 114338570,
+    "user": "wheelmap_visitor",
+    "uid": 290680,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "japanese",
+      "name": "Oyishi",
+      "opening_hours": "Su-Th 11:30-21:00; Fr-Sa 11:30-22:00",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5382428883,
+    "lat": 28.6552367,
+    "lon": -81.2119504,
+    "timestamp": "2024-05-18T11:56:09Z",
+    "version": 4,
+    "changeset": 151490401,
+    "user": "whammo",
+    "uid": 1962542,
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:housenumber": "230",
+      "addr:postcode": "32765",
+      "addr:state": "FL",
+      "addr:street": "West Mitchell Hammock Road",
+      "amenity": "fast_food",
+      "brand": "Popeyes",
+      "brand:wikidata": "Q1330910",
+      "cuisine": "chicken",
+      "delivery": "yes",
+      "drive_through": "yes",
+      "indoor_seating": "yes",
+      "name": "Popeyes",
+      "official_name": "Popeyes Louisiana Kitchen",
+      "opening_hours": "10:00-22:00",
+      "phone": "+1 407-278-0577",
+      "takeaway": "yes",
+      "website": "https://www.popeyes.com/store-locator/store/restaurant_86733"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5457883182,
+    "lat": 28.6577476,
+    "lon": -81.1784913,
+    "timestamp": "2024-06-21T16:11:39Z",
+    "version": 6,
+    "changeset": 152999539,
+    "user": "CjMalone",
+    "uid": 21425661,
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:housenumber": "951",
+      "addr:postcode": "32765",
+      "addr:state": "FL",
+      "addr:street": "Lockwood Boulevard",
+      "amenity": "fast_food",
+      "brand": "Arby's",
+      "brand:wikidata": "Q630866",
+      "check_date": "2024-06-21",
+      "cuisine": "sandwich",
+      "name": "Arby's",
+      "opening_hours": "Mo-We 10:00-23:00; Th-Sa 10:00-24:00; Su 10:00-23:00",
+      "phone": "+1 407-366-3430",
+      "takeaway": "yes",
+      "website": "https://www.arbys.com/locations/us/fl/oviedo/951-lockwood-blvd/store-8104/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5536744229,
+    "lat": 28.6576101,
+    "lon": -81.2039023,
+    "timestamp": "2024-02-08T18:18:33Z",
+    "version": 3,
+    "changeset": 147228591,
+    "user": "ymouser",
+    "uid": 8174242,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Tabla Oviedo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5536744230,
+    "lat": 28.6562131,
+    "lon": -81.2026438,
+    "timestamp": "2022-10-27T00:36:02Z",
+    "version": 3,
+    "changeset": 128106016,
+    "user": "FDOT_Ryan",
+    "uid": 16778851,
+    "tags": {
+      "amenity": "restaurant",
+      "brand": "Maple Street Biscuit Company",
+      "brand:wikidata": "Q97104481",
+      "cuisine": "breakfast",
+      "name": "Maple Street Biscuit Company"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5536744231,
+    "lat": 28.656884,
+    "lon": -81.203939,
+    "timestamp": "2024-01-18T05:40:01Z",
+    "version": 5,
+    "changeset": 146390422,
+    "user": "HubMiner",
+    "uid": 238419,
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:housenumber": "945",
+      "addr:postcode": "32765",
+      "addr:state": "FL",
+      "addr:street": "City Plaza Way",
+      "addr:unit": "1081",
+      "amenity": "restaurant",
+      "contact:facebook": "https://www.facebook.com/firedeptmeals/",
+      "email": "support@firedeptmeals.com",
+      "name": "Fire Dept Meals",
+      "opening_hours": "Tu 12:00-18:00, Th-Su 08:00-18:00",
+      "phone": "+1 407-347-9441",
+      "start_date": "2018-1-1",
+      "website": "https://firedeptmeals.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5536748055,
+    "lat": 28.6564477,
+    "lon": -81.2026493,
+    "timestamp": "2018-09-05T19:53:48Z",
+    "version": 2,
+    "changeset": 62323163,
+    "user": "HollowHue",
+    "uid": 8710279,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Marlow's Tavern"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5536748056,
+    "lat": 28.6562979,
+    "lon": -81.2033411,
+    "timestamp": "2024-05-08T22:30:41Z",
+    "version": 5,
+    "changeset": 151077663,
+    "user": "whammo",
+    "uid": 1962542,
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:housenumber": "327",
+      "addr:postcode": "32765",
+      "addr:state": "FL",
+      "addr:street": "East Mitchell Hammock Road",
+      "amenity": "fast_food",
+      "brand": "Chipotle",
+      "brand:wikidata": "Q465751",
+      "cuisine": "mexican",
+      "name": "Chipotle",
+      "official_name": "Chipotle Mexican Grill",
+      "phone": "+1 407-365-7274",
+      "takeaway": "yes",
+      "website": "https://locations.chipotle.com/fl/oviedo/327-e-mitchell-hammock-rd"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5536748057,
+    "lat": 28.6570055,
+    "lon": -81.2039372,
+    "timestamp": "2022-10-27T00:36:02Z",
+    "version": 3,
+    "changeset": 128106016,
+    "user": "FDOT_Ryan",
+    "uid": 16778851,
+    "tags": {
+      "addr:housenumber": "1071",
+      "amenity": "fast_food",
+      "brand": "Clean Juice",
+      "brand:wikidata": "Q60775550",
+      "cuisine": "juice",
+      "name": "Clean Juice",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6187445423,
+    "lat": 28.6723159,
+    "lon": -81.209281,
+    "timestamp": "2024-10-26T12:30:14Z",
+    "version": 3,
+    "changeset": 158374356,
+    "user": "skquinn",
+    "uid": 243003,
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:housenumber": "139",
+      "addr:postcode": "32765",
+      "addr:state": "FL",
+      "addr:street": "North Central Avenue",
+      "amenity": "restaurant",
+      "cuisine": "american",
+      "name": "The Town House Restaurant",
+      "opening_hours": "Mo-Th 06:00-21:00; Fr-Sa 06:00-22:00; Su 07:00-21:00",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8699168366,
+    "lat": 28.6572305,
+    "lon": -81.2059217,
+    "timestamp": "2021-05-04T18:55:05Z",
+    "version": 1,
+    "changeset": 104141804,
+    "user": "MapperDapperDude19",
+    "uid": 12670011,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "seafood",
+      "name": "T.J.'s Seafood Shack"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8699168368,
+    "lat": 28.6572893,
+    "lon": -81.2068122,
+    "timestamp": "2021-05-04T18:55:05Z",
+    "version": 1,
+    "changeset": 104141804,
+    "user": "MapperDapperDude19",
+    "uid": 12670011,
+    "tags": {
+      "amenity": "bar",
+      "name": "Gator's Dockside - Oviedo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8699168369,
+    "lat": 28.6561761,
+    "lon": -81.2094649,
+    "timestamp": "2021-05-04T18:55:05Z",
+    "version": 1,
+    "changeset": 104141804,
+    "user": "MapperDapperDude19",
+    "uid": 12670011,
+    "tags": {
+      "amenity": "pub",
+      "name": "Irish 31 Pub"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8941987138,
+    "lat": 28.6518917,
+    "lon": -81.2071753,
+    "timestamp": "2024-09-16T00:39:38Z",
+    "version": 4,
+    "changeset": 156667818,
+    "user": "countrymouse",
+    "uid": 1893614,
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:housenumber": "17",
+      "addr:postcode": "32765",
+      "addr:state": "FL",
+      "addr:street": "Alafaya Woods Boulevard",
+      "amenity": "restaurant",
+      "brand": "IHOP",
+      "brand:wikidata": "Q1185675",
+      "check_date": "2024-09-15",
+      "cuisine": "breakfast;pancake",
+      "name": "IHOP",
+      "opening_hours": "Mo-Th 06:00-23:00; Fr 06:00-24:00; Sa 00:00-24:00; Su 00:00-23:00",
+      "phone": "+1 407-359-0888",
+      "source": "official website",
+      "website": "https://restaurants.ihop.com/en-us/fl/oviedo/breakfast-17-alafaya-woods-blvd.-360137"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8941987159,
+    "lat": 28.6517991,
+    "lon": -81.2055977,
+    "timestamp": "2023-11-12T20:08:02Z",
+    "version": 3,
+    "changeset": 143946755,
+    "user": "DPflug",
+    "uid": 2420587,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date": "2023-07-22",
+      "cuisine": "pizza",
+      "name": "Gino's Pizza",
+      "opening_hours": "Mo,We-Th,Sa 11:00-22:00; Tu off; Fr 11:00-23:00; Su 12:00-21:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8941987180,
+    "lat": 28.6497661,
+    "lon": -81.2075678,
+    "timestamp": "2022-08-22T00:23:59Z",
+    "version": 2,
+    "changeset": 125203289,
+    "user": "dominicm00",
+    "uid": 16793336,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "korean",
+      "name": "Kimchi Korean Restaurant",
+      "opening_hours": "We-Su 11:30-21:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8941987181,
+    "lat": 28.6497132,
+    "lon": -81.2075664,
+    "timestamp": "2021-07-22T15:38:43Z",
+    "version": 1,
+    "changeset": 108437648,
+    "user": "MistaDrop",
+    "uid": 7808769,
+    "tags": {
+      "amenity": "fast_food",
+      "cuisine": "juice",
+      "name": "Planet Smoothie"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8941987182,
+    "lat": 28.649663,
+    "lon": -81.207565,
+    "timestamp": "2024-02-01T13:30:26Z",
+    "version": 3,
+    "changeset": 146946092,
+    "user": "CjMalone",
+    "uid": 6816132,
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Little Caesars",
+      "brand:wikidata": "Q1393809",
+      "cuisine": "pizza",
+      "name": "Little Caesars",
+      "takeaway": "yes",
+      "website": "https://littlecaesars.com/en-us/store/9888/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8941987183,
+    "lat": 28.6496119,
+    "lon": -81.2075631,
+    "timestamp": "2021-07-22T15:38:43Z",
+    "version": 1,
+    "changeset": 108437648,
+    "user": "MistaDrop",
+    "uid": 7808769,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "asian",
+      "name": "Hong Kong Rice Box"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8941987198,
+    "lat": 28.6501526,
+    "lon": -81.207013,
+    "timestamp": "2021-07-22T15:38:43Z",
+    "version": 1,
+    "changeset": 108437648,
+    "user": "MistaDrop",
+    "uid": 7808769,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "vietnamese",
+      "name": "Pho 54 & Grill"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9009906040,
+    "lat": 28.6502794,
+    "lon": -81.2069966,
+    "timestamp": "2024-05-08T23:58:17Z",
+    "version": 3,
+    "changeset": 151079183,
+    "user": "whammo",
+    "uid": 1962542,
+    "tags": {
+      "alt_name": "Dunkin' Donuts",
+      "amenity": "fast_food",
+      "brand": "Dunkin'",
+      "brand:wikidata": "Q847743",
+      "cuisine": "donut;coffee_shop",
+      "fixme:atp": "Check if still exists. No corresponding ATP object.",
+      "name": "Dunkin'",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10671470468,
+    "lat": 28.6548564,
+    "lon": -81.2100564,
+    "timestamp": "2024-05-19T11:56:27Z",
+    "version": 2,
+    "changeset": 151531061,
+    "user": "whammo",
+    "uid": 1962542,
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:housenumber": "1121",
+      "addr:postcode": "32765",
+      "addr:state": "FL",
+      "addr:street": "Alafaya Trail",
+      "addr:unit": "1001",
+      "amenity": "fast_food",
+      "brand": "Subway",
+      "brand:wikidata": "Q244457",
+      "cuisine": "sandwich",
+      "name": "Subway",
+      "opening_hours": "09:00-22:00",
+      "phone": "+1 407-366-7180",
+      "takeaway": "yes",
+      "website": "https://restaurants.subway.com/united-states/fl/oviedo/1121-alafaya-trl"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10671470469,
+    "lat": 28.6545946,
+    "lon": -81.2088104,
+    "timestamp": "2023-10-20T09:18:17Z",
+    "version": 2,
+    "changeset": 142859154,
+    "user": "b-jazz-bot",
+    "uid": 9451067,
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:housenumber": "1079",
+      "addr:postcode": "32765",
+      "addr:state": "FL",
+      "addr:street": "Alafaya Trail",
+      "addr:unit": "1223",
+      "amenity": "restaurant",
+      "cuisine": "breakfast",
+      "name": "Another Broken Egg",
+      "opening_hours": "Mo-Su 07:00-2:00",
+      "phone": "321-765-7083",
+      "website": "https://anotherbrokenegg.com/location/oviedo-fl"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10671470470,
+    "lat": 28.6548347,
+    "lon": -81.2088158,
+    "timestamp": "2023-02-16T19:53:35Z",
+    "version": 1,
+    "changeset": 132645541,
+    "user": "ymouser",
+    "uid": 8174242,
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:housenumber": "1079",
+      "addr:postcode": "32765",
+      "addr:state": "FL",
+      "addr:street": "Alafaya Trail",
+      "addr:unit": "1203",
+      "amenity": "restaurant",
+      "name": "Bolay",
+      "opening_hours": "Mo-Fr 11:00-9:00",
+      "phone": "4077067077",
+      "website": "https://www.bolay.com/locations/oviedo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10671529666,
+    "lat": 28.6563736,
+    "lon": -81.203838,
+    "timestamp": "2024-06-20T01:42:49Z",
+    "version": 4,
+    "changeset": 152920594,
+    "user": "whammo",
+    "uid": 1962542,
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:housenumber": "305",
+      "addr:postcode": "32765",
+      "addr:state": "FL",
+      "addr:street": "E Mitchell Hammock Road",
+      "amenity": "cafe",
+      "branch": "Mitchell Hammock & City Plaza",
+      "brand": "Starbucks",
+      "brand:wikidata": "Q37158",
+      "cuisine": "coffee_shop",
+      "name": "Starbucks",
+      "official_name": "Starbucks Coffee",
+      "phone": "+1 407-625-4508",
+      "takeaway": "yes",
+      "website": "https://www.starbucks.com/store-locator/store/1015528/mitchell-hammock-city-plaza-305-mitchell-hammock-road-oviedo-fl-327654702-us"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10681503726,
+    "lat": 28.6550259,
+    "lon": -81.2136247,
+    "timestamp": "2023-02-20T18:59:51Z",
+    "version": 1,
+    "changeset": 132804631,
+    "user": "ymouser",
+    "uid": 8174242,
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:housenumber": "310",
+      "addr:postcode": "32765",
+      "addr:state": "FL",
+      "addr:street": "W Mitchell Hammock Road",
+      "addr:unit": "900",
+      "amenity": "restaurant",
+      "cuisine": "sushi",
+      "name": "Sushi Pop",
+      "phone": "407.542.5975",
+      "website": "https://sushipoprestaurant.com/menu/oviedo/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10681507151,
+    "lat": 28.6562713,
+    "lon": -81.201574,
+    "timestamp": "2023-02-20T18:54:31Z",
+    "version": 1,
+    "changeset": 132804410,
+    "user": "ymouser",
+    "uid": 8174242,
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:housenumber": "441",
+      "addr:postcode": "32765",
+      "addr:state": "FL",
+      "addr:street": "E Mitchell Hammock Road",
+      "addr:unit": "1101",
+      "amenity": "fast_food",
+      "brand": "Teriyaki Madness",
+      "brand:wikidata": "Q107692862",
+      "cuisine": "japanese",
+      "drive_through": "no",
+      "name": "Teriyaki Madness",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10681507156,
+    "lat": 28.6563729,
+    "lon": -81.2008301,
+    "timestamp": "2023-02-20T18:54:31Z",
+    "version": 1,
+    "changeset": 132804410,
+    "user": "ymouser",
+    "uid": 8174242,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "american;burger",
+      "name": "Ford's Garage"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10681879001,
+    "lat": 28.6512209,
+    "lon": -81.2070222,
+    "timestamp": "2023-02-20T22:15:33Z",
+    "version": 1,
+    "changeset": 132810676,
+    "user": "ymouser",
+    "uid": 8174242,
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:housenumber": "1351",
+      "addr:postcode": "32765",
+      "addr:state": "FL",
+      "addr:street": "Alafaya Trail",
+      "addr:unit": "1001",
+      "amenity": "restaurant",
+      "name": "Zaza Cuban Ziner"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10681879004,
+    "lat": 28.6740941,
+    "lon": -81.2034166,
+    "timestamp": "2023-06-17T23:38:23Z",
+    "version": 2,
+    "changeset": 137463548,
+    "user": "Graptemys",
+    "uid": 1884235,
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:housenumber": "298",
+      "addr:postcode": "32765",
+      "addr:state": "FL",
+      "addr:street": "Geneva Drive",
+      "amenity": "restaurant",
+      "cuisine": "barbecue",
+      "name": "Briskets BBQ Shack & Grill",
+      "website": "https://www.brisketsbbq.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10681881505,
+    "lat": 28.6738971,
+    "lon": -81.2041838,
+    "timestamp": "2023-02-20T22:15:33Z",
+    "version": 1,
+    "changeset": 132810676,
+    "user": "ymouser",
+    "uid": 8174242,
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:housenumber": "254",
+      "addr:postcode": "32765",
+      "addr:state": "FL",
+      "addr:street": "N Division Street",
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "Cucinella's Brick Oven Pizza",
+      "phone": "407-890-9000",
+      "website": "https://cucinellasbop.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10681881506,
+    "lat": 28.6719713,
+    "lon": -81.2090331,
+    "timestamp": "2024-10-26T12:30:14Z",
+    "version": 2,
+    "changeset": 158374356,
+    "user": "skquinn",
+    "uid": 243003,
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:housenumber": "119",
+      "addr:postcode": "32765",
+      "addr:state": "FL",
+      "addr:street": "North Central Avenue",
+      "amenity": "ice_cream",
+      "name": "Kelly's Homemade Ice Cream",
+      "outdoor_seating": "yes",
+      "website": "https://www.kellyshomemadeicecream.com/on-the-map"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11509672158,
+    "lat": 28.6518927,
+    "lon": -81.20708,
+    "timestamp": "2024-01-11T23:46:10Z",
+    "version": 1,
+    "changeset": 146161631,
+    "user": "Xanadu_Contractor",
+    "uid": 14384558,
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:postcode": "32765",
+      "addr:state": "FL",
+      "amenity": "cafe",
+      "cuisine": "bubble_tea",
+      "name": "Teapioca"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11599067857,
+    "lat": 28.6572353,
+    "lon": -81.2031811,
+    "timestamp": "2024-02-08T18:18:33Z",
+    "version": 1,
+    "changeset": 147228591,
+    "user": "ymouser",
+    "uid": 8174242,
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:housenumber": "888",
+      "addr:postcode": "32765",
+      "addr:state": "FL",
+      "addr:street": "City Walk Lane",
+      "addr:unit": "1018",
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "Buttercrust Pizza"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11599067858,
+    "lat": 28.6573183,
+    "lon": -81.203135,
+    "timestamp": "2024-02-08T18:18:33Z",
+    "version": 1,
+    "changeset": 147228591,
+    "user": "ymouser",
+    "uid": 8174242,
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:housenumber": "888",
+      "addr:postcode": "32765",
+      "addr:state": "FL",
+      "addr:street": "City Walk Lane",
+      "addr:unit": "1012",
+      "amenity": "restaurant",
+      "cuisine": "chicken",
+      "diet:chicken": "yes",
+      "name": "The Local Hen"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11599067859,
+    "lat": 28.6573455,
+    "lon": -81.2030837,
+    "timestamp": "2024-02-08T18:18:33Z",
+    "version": 1,
+    "changeset": 147228591,
+    "user": "ymouser",
+    "uid": 8174242,
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:housenumber": "888",
+      "addr:postcode": "32765",
+      "addr:state": "FL",
+      "addr:street": "City Walk Lane",
+      "addr:unit": "1006",
+      "amenity": "restaurant",
+      "cuisine": "mexican",
+      "name": "The 1 Cantina Oviedo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11599067860,
+    "lat": 28.6573735,
+    "lon": -81.203028,
+    "timestamp": "2024-02-08T18:18:33Z",
+    "version": 1,
+    "changeset": 147228591,
+    "user": "ymouser",
+    "uid": 8174242,
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:housenumber": "888",
+      "addr:postcode": "32765",
+      "addr:state": "FL",
+      "addr:street": "City Walk Lane",
+      "addr:unit": "1000",
+      "amenity": "restaurant",
+      "cuisine": "asian",
+      "name": "Kai Asian Street Fare"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11599067861,
+    "lat": 28.6571654,
+    "lon": -81.2031457,
+    "timestamp": "2024-02-08T18:18:33Z",
+    "version": 1,
+    "changeset": 147228591,
+    "user": "ymouser",
+    "uid": 8174242,
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:housenumber": "888",
+      "addr:postcode": "32765",
+      "addr:state": "FL",
+      "addr:street": "City Walk Lane",
+      "addr:unit": "1024",
+      "amenity": "bar",
+      "name": "The Food Factory"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11952922870,
+    "lat": 28.6579164,
+    "lon": -81.1798685,
+    "timestamp": "2024-06-13T21:40:33Z",
+    "version": 2,
+    "changeset": 152651077,
+    "user": "b-jazz-bot",
+    "uid": 9451067,
+    "tags": {
+      "addr:housenumber": "1016",
+      "addr:postcode": "32765",
+      "addr:street": "Lockwood Boulevard",
+      "amenity": "restaurant",
+      "cuisine": "thai",
+      "internet_access": "wlan",
+      "name": "Lemongrass Thai Kitchen",
+      "opening_hours": "Su-Th 11:30-14:30, 17:30-21:00; Fr 11:30-14:30, 17:30-22:00; Sa 17:00-22:00",
+      "phone": "4075420658",
+      "website": "https://www.lemongrassoviedo.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12154021505,
+    "lat": 28.6571369,
+    "lon": -81.1786482,
+    "timestamp": "2024-09-03T16:26:28Z",
+    "version": 1,
+    "changeset": 156150213,
+    "user": "cnu201",
+    "uid": 10446579,
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:housenumber": "997",
+      "addr:postcode": "32765",
+      "addr:state": "FL",
+      "addr:street": "Lockwood Boulevard",
+      "amenity": "restaurant",
+      "brand": "LongHorn Steakhouse",
+      "brand:wikidata": "Q3259007",
+      "cuisine": "steak_house",
+      "name": "LongHorn Steakhouse",
+      "opening_hours": "Su-Th 11:00-22:00; Fr-Sa 11:00-23:00",
+      "phone": "+1-321-296-0000",
+      "website": "https://www.longhornsteakhouse.com/locations/fl/oviedo/oviedo/5668"
+    }
+  },
+  {
+    "type": "way",
+    "id": 566803881,
+    "timestamp": "2019-03-28T05:17:11Z",
+    "version": 3,
+    "changeset": 68612175,
+    "user": "Timothy Smith",
+    "uid": 115918,
+    "center": {
+      "lat": 28.6577456,
+      "lon": -81.1770771
+    },
+    "nodes": [
+      5457726667,
+      5457726668,
+      5902350934,
+      5902350935,
+      5902350933,
+      5902350932,
+      5457726669,
+      5457726670,
+      5457726667
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "building": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 566803910,
+    "timestamp": "2024-02-28T20:26:14Z",
+    "version": 3,
+    "changeset": 148027756,
+    "user": "wheelmap_visitor",
+    "uid": 290680,
+    "center": {
+      "lat": 28.6570292,
+      "lon": -81.1798585
+    },
+    "nodes": [
+      5457726795,
+      5457726796,
+      5457726797,
+      5457726798,
+      5457726795
+    ],
+    "tags": {
+      "amenity": "ice_cream",
+      "building": "yes",
+      "name": "Jeremiah's Italian Ice",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "way",
+    "id": 607445391,
+    "timestamp": "2019-11-10T16:50:23Z",
+    "version": 2,
+    "changeset": 76873674,
+    "user": "cnu201",
+    "uid": 10446579,
+    "center": {
+      "lat": 28.6512105,
+      "lon": -81.2086506
+    },
+    "nodes": [
+      5756821185,
+      5756821182,
+      5756821183,
+      5756821184,
+      5756821185
+    ],
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:housenumber": "1340",
+      "addr:postcode": "32765",
+      "addr:state": "FL",
+      "addr:street": "Alafaya Trail",
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "barbecue",
+      "name": "Bonfires Bar and Grill"
+    }
+  },
+  {
+    "type": "way",
+    "id": 607493651,
+    "timestamp": "2024-05-08T10:35:02Z",
+    "version": 6,
+    "changeset": 151048346,
+    "user": "whammo",
+    "uid": 1962542,
+    "center": {
+      "lat": 28.6563614,
+      "lon": -81.2046483
+    },
+    "nodes": [
+      5757245680,
+      5757245672,
+      5757245670,
+      5757245669,
+      5757245671,
+      5757245679,
+      5757245678,
+      5757245675,
+      5757245674,
+      5757245673,
+      5757245676,
+      5757245677,
+      5757245680
+    ],
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:housenumber": "205",
+      "addr:postcode": "32765",
+      "addr:state": "FL",
+      "addr:street": "East Mitchell Hammock Road",
+      "amenity": "fast_food",
+      "brand": "Panera Bread",
+      "brand:wikidata": "Q7130852",
+      "building": "yes",
+      "cuisine": "sandwich;bakery",
+      "name": "Panera Bread",
+      "opening_hours": "Mo-Sa 06:30-21:30; Su 07:00-20:30",
+      "phone": "+1 407-706-6480",
+      "short_name": "Panera",
+      "takeaway": "yes",
+      "website": "https://locations.panerabread.com/fl/oviedo/205-e-mitchell-hammock-rd.html"
+    }
+  },
+  {
+    "type": "way",
+    "id": 610825233,
+    "timestamp": "2024-01-11T23:46:10Z",
+    "version": 5,
+    "changeset": 146161631,
+    "user": "Xanadu_Contractor",
+    "uid": 14384558,
+    "center": {
+      "lat": 28.6551587,
+      "lon": -81.2115091
+    },
+    "nodes": [
+      5784446883,
+      5784446884,
+      5784446885,
+      5784446886,
+      5784446883
+    ],
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:housenumber": "200",
+      "addr:postcode": "32765",
+      "addr:state": "FL",
+      "addr:street": "W Mitchell Hammock Road",
+      "amenity": "restaurant",
+      "building": "retail",
+      "cuisine": "sushi",
+      "internet_access": "wlan",
+      "name": "Kyoto Sushi & Grill",
+      "opening_hours": "Su-Th 11:00-22:30; Fr-Sa 11:00-23:00",
+      "phone": "+1 407 278 3100"
+    }
+  },
+  {
+    "type": "way",
+    "id": 610825236,
+    "timestamp": "2022-09-08T01:53:01Z",
+    "version": 2,
+    "changeset": 125922494,
+    "user": "cnu201",
+    "uid": 10446579,
+    "center": {
+      "lat": 28.65511,
+      "lon": -81.2140988
+    },
+    "nodes": [
+      5784446900,
+      5784446901,
+      5784446902,
+      5784446903,
+      5784446900
+    ],
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:housenumber": "312",
+      "addr:postcode": "32765",
+      "addr:state": "FL",
+      "addr:street": "Mitchell Hammock Road",
+      "amenity": "restaurant",
+      "brand": "Miller's Ale House",
+      "brand:wikidata": "Q6858987",
+      "building": "yes",
+      "cuisine": "american",
+      "name": "Miller's Ale House",
+      "phone": "+1-407-365-6331",
+      "website": "https://millersalehouse.com"
+    }
+  },
+  {
+    "type": "way",
+    "id": 622901695,
+    "timestamp": "2022-09-08T00:59:26Z",
+    "version": 2,
+    "changeset": 125921894,
+    "user": "cnu201",
+    "uid": 10446579,
+    "center": {
+      "lat": 28.6669565,
+      "lon": -81.2249964
+    },
+    "nodes": [
+      5882979470,
+      5882979471,
+      5882979472,
+      5882979473,
+      5882979474,
+      5882979475,
+      5882979476,
+      5882979477,
+      5882979478,
+      5882979479,
+      5882979480,
+      5882979481,
+      5882979470
+    ],
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:housenumber": "1055",
+      "addr:postcode": "32765",
+      "addr:state": "FL",
+      "addr:street": "Broadway Street",
+      "amenity": "fast_food",
+      "brand": "Sonic",
+      "brand:wikidata": "Q7561808",
+      "building": "yes",
+      "cuisine": "burger",
+      "drive_in": "yes",
+      "name": "Sonic",
+      "phone": "+1-407-366-1069",
+      "takeaway": "yes",
+      "website": "https://www.sonicdrivein.com"
+    }
+  },
+  {
+    "type": "way",
+    "id": 623181419,
+    "timestamp": "2024-05-18T11:07:04Z",
+    "version": 3,
+    "changeset": 151488439,
+    "user": "whammo",
+    "uid": 1962542,
+    "center": {
+      "lat": 28.6548517,
+      "lon": -81.2236021
+    },
+    "nodes": [
+      5885538865,
+      5885538866,
+      5885538867,
+      5885538868,
+      5885538869,
+      5885538870,
+      5885538865
+    ],
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:housenumber": "960",
+      "addr:postcode": "32765-8101",
+      "addr:state": "FL",
+      "addr:street": "West Mitchell Hammock Road",
+      "alt_name": "Dairy Queen",
+      "amenity": "fast_food",
+      "brand": "DQ Grill & Chill",
+      "brand:wikidata": "Q1141226",
+      "building": "yes",
+      "cuisine": "ice_cream;burger",
+      "name": "DQ Grill & Chill",
+      "phone": "+1 689-999-4103",
+      "takeaway": "yes",
+      "website": "https://www.dairyqueen.com/locations/fl/oviedo/960-w-mitchell-hammock-rd/14049"
+    }
+  },
+  {
+    "type": "way",
+    "id": 623243412,
+    "timestamp": "2024-02-12T04:14:19Z",
+    "version": 3,
+    "changeset": 147350686,
+    "user": "Sujesh Shrestha",
+    "uid": 17432962,
+    "center": {
+      "lat": 28.6562347,
+      "lon": -81.2118632
+    },
+    "nodes": [
+      475289433,
+      5886097382,
+      5886097383,
+      5886097384,
+      475289433
+    ],
+    "tags": {
+      "addr:housenumber": "215",
+      "addr:postcode": "32765",
+      "addr:street": "Mitchell Hammock Road",
+      "amenity": "restaurant",
+      "brand": "Outback Steakhouse",
+      "brand:wikidata": "Q1064893",
+      "building": "yes",
+      "cuisine": "american;steak",
+      "name": "Outback Steakhouse"
+    }
+  },
+  {
+    "type": "way",
+    "id": 743704039,
+    "timestamp": "2024-05-19T12:34:49Z",
+    "version": 5,
+    "changeset": 151532374,
+    "user": "whammo",
+    "uid": 1962542,
+    "center": {
+      "lat": 28.6552408,
+      "lon": -81.2078657
+    },
+    "nodes": [
+      6960561080,
+      11598512596,
+      11598512597,
+      6960561081,
+      6960561082,
+      6960561083,
+      6960561080
+    ],
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:housenumber": "32",
+      "addr:postcode": "32765",
+      "addr:state": "FL",
+      "addr:street": "Mitchell Hammock Road",
+      "amenity": "fast_food",
+      "branch": "Oviedo/North UCF",
+      "brand": "Chick-fil-A",
+      "brand:wikidata": "Q491516",
+      "building": "yes",
+      "cuisine": "chicken",
+      "delivery": "yes",
+      "drive_through": "yes",
+      "indoor_seating": "no",
+      "internet_access": "wlan",
+      "name": "Chick-fil-A",
+      "opening_hours": "Mo-Sa 06:00-22:00; Su off",
+      "phone": "+1 407-365-7657",
+      "ref": "03888",
+      "takeaway": "yes",
+      "website": "https://www.chick-fil-a.com/locations/fl/oviedo-north-ucf"
+    }
+  },
+  {
+    "type": "way",
+    "id": 744111546,
+    "timestamp": "2024-06-09T11:07:12Z",
+    "version": 5,
+    "changeset": 152449592,
+    "user": "CjMalone",
+    "uid": 21425661,
+    "center": {
+      "lat": 28.6560695,
+      "lon": -81.2226594
+    },
+    "nodes": [
+      6964267044,
+      6964267041,
+      6964267040,
+      6964267039,
+      6964267042,
+      6964267043,
+      6964267044
+    ],
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:housenumber": "889",
+      "addr:postcode": "32765",
+      "addr:state": "FL",
+      "addr:street": "West Mitchell Hammock Road",
+      "amenity": "fast_food",
+      "brand": "Culver's",
+      "brand:wikidata": "Q1143589",
+      "building": "yes",
+      "check_date:opening_hours:drive_through": "2024-06-09",
+      "cuisine": "burger",
+      "drive_through": "yes",
+      "indoor_seating": "yes",
+      "name": "Culver's",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "opening_hours:drive_through": "Mo-Su 10:30-22:00",
+      "phone": "+1 407-542-5238",
+      "ref": "698",
+      "takeaway": "yes",
+      "website": "https://www.culvers.com/restaurants/oviedo-fl-mitchell-hammock"
+    }
+  },
+  {
+    "type": "way",
+    "id": 825069438,
+    "timestamp": "2024-05-08T23:58:17Z",
+    "version": 7,
+    "changeset": 151079183,
+    "user": "whammo",
+    "uid": 1962542,
+    "center": {
+      "lat": 28.6560306,
+      "lon": -81.2220204
+    },
+    "nodes": [
+      7703962031,
+      7703962033,
+      7703962035,
+      7703962036,
+      7703962031
+    ],
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:housenumber": "865",
+      "addr:postcode": "32766",
+      "addr:state": "FL",
+      "addr:street": "W Mitchell Hammock Road",
+      "addr:unit": "1021",
+      "alt_name": "Dunkin' Donuts",
+      "amenity": "fast_food",
+      "brand": "Dunkin'",
+      "brand:wikidata": "Q847743",
+      "building": "yes",
+      "cuisine": "donut;coffee_shop",
+      "drive_through": "yes",
+      "name": "Dunkin'",
+      "opening_hours": "Mo-Sa 05:00-20:00; Su 06:00-20:00",
+      "phone": "+1 407-542-8944",
+      "ref": "354705",
+      "takeaway": "yes",
+      "website": "https://locations.dunkindonuts.com/en/fl/oviedo/865-w-mitchell-hammock-rd/354705"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1146736393,
+    "timestamp": "2023-02-16T17:44:02Z",
+    "version": 1,
+    "changeset": 132640407,
+    "user": "ymouser",
+    "uid": 8174242,
+    "center": {
+      "lat": 28.6572117,
+      "lon": -81.2030306
+    },
+    "nodes": [
+      10671108597,
+      10671108598,
+      10671108599,
+      10671108600,
+      10671108601,
+      10671108602,
+      10671108603,
+      10671108604,
+      10671195305,
+      10671195306,
+      10671195314,
+      10671195313,
+      10671195307,
+      10671195308,
+      10671195309,
+      10671195310,
+      10671195311,
+      10671195312,
+      10671195315,
+      10671195316,
+      10671108597
+    ],
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:housenumber": "888",
+      "addr:postcode": "32765",
+      "addr:state": "FL",
+      "addr:street": "City Walk Lane",
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Food Factory"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1146736396,
+    "timestamp": "2024-05-07T02:46:46Z",
+    "version": 3,
+    "changeset": 150988511,
+    "user": "whammo",
+    "uid": 1962542,
+    "center": {
+      "lat": 28.656474,
+      "lon": -81.2021702
+    },
+    "nodes": [
+      10671195325,
+      10671195326,
+      10671195327,
+      10671195328,
+      10671195325
+    ],
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:housenumber": "967",
+      "addr:postcode": "32765",
+      "addr:state": "FL",
+      "addr:street": "City Walk Lane",
+      "addr:unit": "1001",
+      "amenity": "fast_food",
+      "branch": "City Park Lane",
+      "brand": "Five Guys",
+      "brand:wikidata": "Q1131810",
+      "building": "yes",
+      "cuisine": "burger",
+      "name": "Five Guys",
+      "official_name": "Five Guys Burgers and Fries",
+      "opening_hours": "Mo-Su 11:00-10:00",
+      "phone": "+1 407-542-4602",
+      "takeaway": "yes",
+      "website": "https://restaurants.fiveguys.com/967-city-walk-lane"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1146736397,
+    "timestamp": "2023-02-16T17:44:02Z",
+    "version": 1,
+    "changeset": 132640407,
+    "user": "ymouser",
+    "uid": 8174242,
+    "center": {
+      "lat": 28.6563903,
+      "lon": -81.2008458
+    },
+    "nodes": [
+      10671195329,
+      10671195330,
+      10671195331,
+      10671195332,
+      10671195333,
+      10671195334,
+      10671195329
+    ],
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:housenumber": "459",
+      "addr:postcode": "32765",
+      "addr:state": "FL",
+      "addr:street": "E Mitchell Hammock Road",
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "american;burger",
+      "name": "Ford's Garage",
+      "opening_hours": "24/7",
+      "website": "https://www.fordsgarageusa.com/locations/oviedo/"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1148683961,
+    "timestamp": "2023-02-22T23:25:36Z",
+    "version": 1,
+    "changeset": 132903130,
+    "user": "ymouser",
+    "uid": 8174242,
+    "center": {
+      "lat": 28.6560387,
+      "lon": -81.2219373
+    },
+    "nodes": [
+      7703962033,
+      10687152160,
+      10687152161,
+      10687152162,
+      7703962031,
+      7703962033
+    ],
+    "tags": {
+      "addr:city": "Oviedo",
+      "addr:housenumber": "865",
+      "addr:postcode": "32765",
+      "addr:state": "FL",
+      "addr:street": "W Mitchell Hammock Road",
+      "addr:unit": "1001",
+      "amenity": "fast_food",
+      "brand": "Hungry Howie's",
+      "brand:wikidata": "Q16985303",
+      "building": "yes",
+      "cuisine": "pizza",
+      "drive_through": "yes",
+      "name": "Hungry Howie's",
+      "takeaway": "yes",
+      "website": "https://www.hungryhowies.com/stores/fl/oviedo/865-w-mitchell-hammock-rd-suite-1001?utm_source=devine-comms-mapforce&utm_medium=maps+website+button&utm_campaign=devine_communications"
+    }
+  }
+]

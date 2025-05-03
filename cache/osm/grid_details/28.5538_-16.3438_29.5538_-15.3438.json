@@ -1,0 +1,601 @@
+[
+  {
+    "type": "node",
+    "id": 295989291,
+    "lat": 28.5700527,
+    "lon": -16.1588948,
+    "timestamp": "2013-10-21T10:53:00Z",
+    "version": 4,
+    "changeset": 18466574,
+    "user": "daniel perona marrero",
+    "uid": 1311642,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Casa Alvaro"
+    }
+  },
+  {
+    "type": "node",
+    "id": 301235320,
+    "lat": 28.5726697,
+    "lon": -16.1873403,
+    "timestamp": "2008-09-30T20:58:18Z",
+    "version": 1,
+    "changeset": 721993,
+    "user": "user_7568",
+    "uid": 7568,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Casa Paca",
+      "source": "survey"
+    }
+  },
+  {
+    "type": "node",
+    "id": 301235333,
+    "lat": 28.57468,
+    "lon": -16.188452,
+    "timestamp": "2024-03-22T19:38:28Z",
+    "version": 9,
+    "changeset": 149028513,
+    "user": "vojtechzaboril",
+    "uid": 8971394,
+    "tags": {
+      "amenity": "restaurant",
+      "diet:vegan": "yes",
+      "diet:vegetarian": "yes",
+      "name": "El Mirador",
+      "opening_hours": "Mo-Tu 11:30-16:30",
+      "source": "survey",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 343572420,
+    "lat": 28.5679637,
+    "lon": -16.3323094,
+    "timestamp": "2013-06-30T09:48:48Z",
+    "version": 3,
+    "changeset": 16762308,
+    "user": "wheelmap_android",
+    "uid": 524500,
+    "tags": {
+      "amenity": "restaurant",
+      "created_by": "Potlatch 0.10f",
+      "name": "La Caseta",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 426907500,
+    "lat": 28.5621504,
+    "lon": -16.2907734,
+    "timestamp": "2018-03-05T12:03:09Z",
+    "version": 6,
+    "changeset": 56900606,
+    "user": "Javier Sanchez",
+    "uid": 47882,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "designation": "restaurant",
+      "name": "La Cueva",
+      "opening_hours": "We-Su 10:00-19:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 901085756,
+    "lat": 28.5597318,
+    "lon": -16.2164683,
+    "timestamp": "2010-09-12T12:47:54Z",
+    "version": 2,
+    "changeset": 5759105,
+    "user": "tiger",
+    "uid": 338866,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Xiomara",
+      "source": "survey"
+    }
+  },
+  {
+    "type": "node",
+    "id": 901085887,
+    "lat": 28.571055,
+    "lon": -16.2028903,
+    "timestamp": "2018-01-29T17:58:18Z",
+    "version": 2,
+    "changeset": 55867783,
+    "user": "mahau",
+    "uid": 160164,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "El Mecha",
+      "outdoor_seating": "yes",
+      "source": "survey"
+    }
+  },
+  {
+    "type": "node",
+    "id": 901085955,
+    "lat": 28.5709708,
+    "lon": -16.2032223,
+    "timestamp": "2015-03-20T18:15:33Z",
+    "version": 2,
+    "changeset": 29620994,
+    "user": "bebbi",
+    "uid": 565471,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Casa Olga"
+    }
+  },
+  {
+    "type": "node",
+    "id": 903037542,
+    "lat": 28.5603428,
+    "lon": -16.2168504,
+    "timestamp": "2019-08-24T08:20:49Z",
+    "version": 2,
+    "changeset": 73690976,
+    "user": "Ornios",
+    "uid": 733392,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Casa Picar",
+      "phone": "+34 922 59 03 05",
+      "website": "https://casa-picar.negocio.site/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1210359817,
+    "lat": 28.5744418,
+    "lon": -16.18765,
+    "timestamp": "2019-09-28T15:10:54Z",
+    "version": 3,
+    "changeset": 75042301,
+    "user": "VulpesVulpes68",
+    "uid": 9034543,
+    "tags": {
+      "addr:housenumber": "1",
+      "addr:street": "El Fronton",
+      "amenity": "restaurant",
+      "name": "El Fronton",
+      "phone": "+34922590238"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1548800690,
+    "lat": 28.5541579,
+    "lon": -16.2772347,
+    "timestamp": "2012-09-06T13:54:11Z",
+    "version": 3,
+    "changeset": 13010441,
+    "user": "Javier Sanchez",
+    "uid": 47882,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Restaurante Tesegre"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1592638980,
+    "lat": 28.55636,
+    "lon": -16.2649629,
+    "timestamp": "2012-01-16T11:59:50Z",
+    "version": 1,
+    "changeset": 10407714,
+    "user": "Javier Sanchez",
+    "uid": 47882,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "french",
+      "name": "Historias para no dormir"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1902300146,
+    "lat": 28.5539845,
+    "lon": -16.2761192,
+    "timestamp": "2013-01-20T19:42:35Z",
+    "version": 2,
+    "changeset": 14725458,
+    "user": "Javier Sanchez",
+    "uid": 47882,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "La Casa Vieja",
+      "opening_hours": "closed on mornings"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2962624804,
+    "lat": 28.5642759,
+    "lon": -16.2143711,
+    "timestamp": "2019-06-16T17:33:53Z",
+    "version": 4,
+    "changeset": 71306199,
+    "user": "mjjoker",
+    "uid": 3190131,
+    "tags": {
+      "addr:housenumber": "15",
+      "addr:postcode": "38130",
+      "addr:street": "Caserio Bajo el Roque",
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Roque las Ánimas",
+      "phone": "+34 678 14 03 19"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3216537061,
+    "lat": 28.5661507,
+    "lon": -16.329339,
+    "timestamp": "2014-12-02T21:18:42Z",
+    "version": 1,
+    "changeset": 27187283,
+    "user": "tiger",
+    "uid": 338866,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Doris"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3689231242,
+    "lat": 28.5711761,
+    "lon": -16.1987257,
+    "timestamp": "2023-04-17T20:05:24Z",
+    "version": 3,
+    "changeset": 135030997,
+    "user": "Cord Ulla",
+    "uid": 12593152,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurante Bar El Drago",
+      "opening_hours": "We-Su"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3689391258,
+    "lat": 28.569937,
+    "lon": -16.2040081,
+    "timestamp": "2015-08-10T12:53:48Z",
+    "version": 1,
+    "changeset": 33239167,
+    "user": "sim6",
+    "uid": 129718,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurante Bar Valle Lucía"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3691136376,
+    "lat": 28.5709522,
+    "lon": -16.203278,
+    "timestamp": "2015-08-11T10:48:48Z",
+    "version": 1,
+    "changeset": 33262880,
+    "user": "sim6",
+    "uid": 129718,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Roque de Anaga"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3773337057,
+    "lat": 28.5707423,
+    "lon": -16.2031486,
+    "timestamp": "2022-03-30T13:42:54Z",
+    "version": 5,
+    "changeset": 119117501,
+    "user": "richlv",
+    "uid": 47892,
+    "tags": {
+      "amenity": "restaurant",
+      "contact:email": "borja.bencomo@gmail.com",
+      "contact:facebook": "https://www.facebook.com/La-ola-de-taganana-anaga-1693780460874942/",
+      "contact:phone": "+34 922 590306",
+      "name": "La Ola",
+      "opening_hours": "Mo-Fr 13:15-16:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4683230790,
+    "lat": 28.5684245,
+    "lon": -16.3254014,
+    "timestamp": "2022-03-31T17:23:11Z",
+    "version": 2,
+    "changeset": 119170900,
+    "user": "richlv",
+    "uid": 47892,
+    "tags": {
+      "addr:housenumber": "154",
+      "addr:postcode": "38204",
+      "addr:street": "Carretera de La Laguna a Punta del Hidalgo",
+      "amenity": "restaurant",
+      "cuisine": "fish",
+      "name": "Casa Tita",
+      "name:es": "Casa Tita",
+      "opening_hours": "Tu-Th 11:00-22:30; Fr-Sa 11:00-23:00; Su 11:00-17:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5411835154,
+    "lat": 28.5663904,
+    "lon": -16.3316113,
+    "timestamp": "2021-02-23T13:29:53Z",
+    "version": 2,
+    "changeset": 99830157,
+    "user": "LucidTanooki",
+    "uid": 12652519,
+    "tags": {
+      "amenity": "restaurant",
+      "designation": "R",
+      "name": "Restaurante Arenisco",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5411835155,
+    "lat": 28.567355,
+    "lon": -16.3321933,
+    "timestamp": "2021-02-23T13:23:20Z",
+    "version": 2,
+    "changeset": 99830157,
+    "user": "LucidTanooki",
+    "uid": 12652519,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Columbus Playa",
+      "outdoor_seating": "yes",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5418797321,
+    "lat": 28.564224,
+    "lon": -16.3318399,
+    "timestamp": "2018-04-08T22:17:21Z",
+    "version": 2,
+    "changeset": 57924389,
+    "user": "wicking",
+    "uid": 102755,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Cofradía de la Punta"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6153254055,
+    "lat": 28.5639705,
+    "lon": -16.3316881,
+    "timestamp": "2018-12-22T11:34:55Z",
+    "version": 1,
+    "changeset": 65691077,
+    "user": "werner2101",
+    "uid": 110263,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "El Rincon de Adaar"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6204200563,
+    "lat": 28.5690371,
+    "lon": -16.332282,
+    "timestamp": "2023-04-12T20:31:12Z",
+    "version": 5,
+    "changeset": 134836024,
+    "user": "sanchi",
+    "uid": 170106,
+    "tags": {
+      "addr:housenumber": "13",
+      "addr:street": "Calle Océano Índico",
+      "amenity": "restaurant",
+      "cuisine": "regional;seafood",
+      "name": "Restaurante Altagay",
+      "opening_hours": "Mo, Th-Su 12:00-23:00",
+      "outdoor_seating": "yes",
+      "phone": "+34 922 15 71 30"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6225916823,
+    "lat": 28.5641995,
+    "lon": -16.3307375,
+    "timestamp": "2022-08-10T11:20:20Z",
+    "version": 3,
+    "changeset": 124724730,
+    "user": "l3nnox",
+    "uid": 10392301,
+    "tags": {
+      "addr:housenumber": "35",
+      "addr:street": "Carretera de La Laguna a Punta del Hidalgo",
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "diet:vegetarian": "yes",
+      "name": "El Abogado",
+      "opening_hours": "Mo-Su 13:00-23:00",
+      "takeaway": "yes",
+      "website": "http://www.restauranteelabogado.es/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9505130858,
+    "lat": 28.560871,
+    "lon": -16.2159546,
+    "timestamp": "2024-11-28T09:45:23Z",
+    "version": 2,
+    "changeset": 159693417,
+    "user": "Thardev",
+    "uid": 18591253,
+    "tags": {
+      "addr:city": "Taganana",
+      "addr:housenumber": "10",
+      "addr:postcode": "38130",
+      "addr:street": "Carretera Taganana",
+      "amenity": "restaurant",
+      "name": "Guachinche Bibi y Mana",
+      "opening_hours": "We-Su 07:00-17:00",
+      "phone": "+34922590266"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9525205721,
+    "lat": 28.5684919,
+    "lon": -16.3259019,
+    "timestamp": "2022-02-21T18:30:07Z",
+    "version": 1,
+    "changeset": 117695122,
+    "user": "Ano_6531",
+    "uid": 215566,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Casa Sanchez"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9656182153,
+    "lat": 28.5545081,
+    "lon": -16.2774547,
+    "timestamp": "2022-04-10T15:23:00Z",
+    "version": 1,
+    "changeset": 119540284,
+    "user": "Toni Serra",
+    "uid": 3859465,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "way",
+    "id": 224432048,
+    "timestamp": "2024-02-09T19:11:18Z",
+    "version": 8,
+    "changeset": 147269429,
+    "user": "gpesquero",
+    "uid": 3584,
+    "center": {
+      "lat": 28.578179,
+      "lon": -16.3232396
+    },
+    "nodes": [
+      2332472929,
+      2332472937,
+      2332472939,
+      2332472952,
+      343570996,
+      2332472927,
+      6225846199,
+      6225846200,
+      2332472945,
+      2332472946,
+      2332472929
+    ],
+    "tags": {
+      "addr:city": "Punta del Hidalgo",
+      "addr:street": "Camino de la Costa",
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "regional",
+      "ele": "1",
+      "name": "Charco de la Arena",
+      "nohousenumber": "yes",
+      "opening_hours": "Tu-Su 12:00-18:00",
+      "outdoor_seating": "yes",
+      "phone": "+34 922 156834"
+    }
+  },
+  {
+    "type": "way",
+    "id": 577865246,
+    "timestamp": "2018-12-22T11:34:59Z",
+    "version": 2,
+    "changeset": 65691077,
+    "user": "werner2101",
+    "uid": 110263,
+    "center": {
+      "lat": 28.5645048,
+      "lon": -16.3318224
+    },
+    "nodes": [
+      5538798514,
+      6153254056,
+      5538798513,
+      5538798512,
+      5538798511,
+      5538798510,
+      5538798514
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "fish;regional",
+      "name": "Bar Cofradía de Pescadores"
+    }
+  },
+  {
+    "type": "way",
+    "id": 875590551,
+    "timestamp": "2024-05-04T18:16:35Z",
+    "version": 2,
+    "changeset": 150892686,
+    "user": "davidmguest",
+    "uid": 4221879,
+    "center": {
+      "lat": 28.5744318,
+      "lon": -16.1879973
+    },
+    "nodes": [
+      8149744840,
+      8149744841,
+      8149744842,
+      6832880817,
+      6832880820,
+      8149744853,
+      8149744840
+    ],
+    "tags": {
+      "addr:city": "Benijo",
+      "addr:housenumber": "2",
+      "addr:postcode": "38129",
+      "addr:street": "Caserio Benijo",
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "regional",
+      "name": "La Venta Marrero Bar Restaurante",
+      "opening_hours": "Mo,Tu off; We-Su 11:00-17:00",
+      "phone": "+34922590302",
+      "website": "https://laventamarero.business.site/"
+    }
+  }
+]

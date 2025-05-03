@@ -1,0 +1,319 @@
+[
+  {
+    "type": "node",
+    "id": 1347870336,
+    "lat": 35.1021683,
+    "lon": -3.8412898,
+    "timestamp": "2022-04-03T16:04:44Z",
+    "version": 2,
+    "changeset": 119270155,
+    "user": "Yamílo",
+    "uid": 11332999,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "steak_house",
+      "name": "Hasan the Butcher",
+      "name:ar": "حسن الجزار",
+      "name:es": "Hasán el Carnicero"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1833697207,
+    "lat": 34.8905575,
+    "lon": -3.7331146,
+    "timestamp": "2012-07-22T00:23:30Z",
+    "version": 1,
+    "changeset": 12422767,
+    "user": "alain2003",
+    "uid": 578772,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1833701542,
+    "lat": 35.1325398,
+    "lon": -3.8464487,
+    "timestamp": "2012-07-22T00:31:48Z",
+    "version": 1,
+    "changeset": 12422767,
+    "user": "alain2003",
+    "uid": 578772,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1887742767,
+    "lat": 35.2421599,
+    "lon": -3.9286267,
+    "timestamp": "2022-03-27T20:46:12Z",
+    "version": 2,
+    "changeset": 118995962,
+    "user": "Yamílo",
+    "uid": 11332999,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Miramar",
+      "name:es": "Miramar"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2308124820,
+    "lat": 35.1735714,
+    "lon": -3.8650157,
+    "timestamp": "2015-08-28T14:14:16Z",
+    "version": 2,
+    "changeset": 33644505,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "chicken",
+      "name": "Rif Land"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2308127485,
+    "lat": 35.1737906,
+    "lon": -3.865841,
+    "timestamp": "2013-05-17T12:14:09Z",
+    "version": 1,
+    "changeset": 16166119,
+    "user": "saady",
+    "uid": 1458706,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "chicken",
+      "name": "el baraka"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2584485724,
+    "lat": 35.2119927,
+    "lon": -3.9024266,
+    "timestamp": "2023-11-03T00:40:52Z",
+    "version": 2,
+    "changeset": 143553547,
+    "user": "alain2003",
+    "uid": 578772,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Cafe Numibia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2589784487,
+    "lat": 35.211657,
+    "lon": -3.9017757,
+    "timestamp": "2018-09-28T15:03:57Z",
+    "version": 8,
+    "changeset": 63012065,
+    "user": "Mayid",
+    "uid": 1847171,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3024851787,
+    "lat": 34.9398272,
+    "lon": -3.5340864,
+    "timestamp": "2015-08-06T00:04:29Z",
+    "version": 2,
+    "changeset": 33143786,
+    "user": "El Aich",
+    "uid": 2268188,
+    "tags": {
+      "addr:city": "midar",
+      "addr:postcode": "62502",
+      "addr:street": "Rue Moulay Rachid",
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Snak Oslo",
+      "phone": "00212618970459"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3024958065,
+    "lat": 34.9403607,
+    "lon": -3.5328888,
+    "timestamp": "2014-08-18T16:30:58Z",
+    "version": 1,
+    "changeset": 24837695,
+    "user": "El Aich",
+    "uid": 2268188,
+    "tags": {
+      "addr:city": "midar",
+      "addr:postcode": "62502",
+      "addr:street": "Rue 20Aout",
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4066901815,
+    "lat": 35.1189862,
+    "lon": -4.3232648,
+    "timestamp": "2019-05-13T01:00:36Z",
+    "version": 3,
+    "changeset": 70173791,
+    "user": "alain2003",
+    "uid": 578772,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5885985708,
+    "lat": 35.0260913,
+    "lon": -3.436983,
+    "timestamp": "2018-09-05T23:55:56Z",
+    "version": 1,
+    "changeset": 62326846,
+    "user": "alain2003",
+    "uid": 578772,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6282514886,
+    "lat": 35.2336992,
+    "lon": -3.9234014,
+    "timestamp": "2025-01-27T13:49:42Z",
+    "version": 4,
+    "changeset": 161819284,
+    "user": "Nathan Hadley",
+    "uid": 21081459,
+    "tags": {
+      "amenity": "restaurant",
+      "internet_access": "wlan",
+      "name": "Palm's",
+      "phone": "0539841282"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8435674269,
+    "lat": 34.9762822,
+    "lon": -3.3871393,
+    "timestamp": "2023-10-26T19:23:20Z",
+    "version": 2,
+    "changeset": 143177762,
+    "user": "Kadubei",
+    "uid": 16642036,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant Farid",
+      "name:es": "Restaurante Farid",
+      "name:fr": "Restaurant Farid"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10151372817,
+    "lat": 35.2476572,
+    "lon": -3.9243635,
+    "timestamp": "2022-11-02T21:46:59Z",
+    "version": 2,
+    "changeset": 128411742,
+    "user": "alain2003",
+    "uid": 578772,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Club nautique"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11097253406,
+    "lat": 35.2481994,
+    "lon": -3.9580083,
+    "timestamp": "2023-08-07T16:06:31Z",
+    "version": 2,
+    "changeset": 139572800,
+    "user": "RE3EL",
+    "uid": 13913242,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Aiman Jet Park",
+      "name:en": "Aman Jet Park"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11115030805,
+    "lat": 35.1957956,
+    "lon": -3.8792133,
+    "timestamp": "2023-08-14T20:10:00Z",
+    "version": 1,
+    "changeset": 139887737,
+    "user": "RE3EL",
+    "uid": 13913242,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Miraluna"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11124782684,
+    "lat": 35.2497753,
+    "lon": -3.9243119,
+    "timestamp": "2023-08-18T11:01:22Z",
+    "version": 1,
+    "changeset": 140052331,
+    "user": "alain2003",
+    "uid": 578772,
+    "tags": {
+      "addr:city": "Al Hoceima الحسيمة",
+      "amenity": "restaurant",
+      "cuisine": "regional;moroccan",
+      "diet:fish": "yes",
+      "diet:halal": "yes",
+      "name": "Cafe Cala Iris Plaza"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11169978554,
+    "lat": 35.2082529,
+    "lon": -3.5327363,
+    "timestamp": "2023-09-05T16:22:39Z",
+    "version": 1,
+    "changeset": 140858504,
+    "user": "KvB Cycles",
+    "uid": 10186492,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Café restaurant Barkani"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11906786137,
+    "lat": 35.2350079,
+    "lon": -3.9233422,
+    "timestamp": "2024-05-15T10:13:37Z",
+    "version": 1,
+    "changeset": 151351806,
+    "user": "Swic",
+    "uid": 2244843,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  }
+]

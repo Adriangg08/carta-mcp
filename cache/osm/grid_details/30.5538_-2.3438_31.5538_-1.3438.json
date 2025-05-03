@@ -1,0 +1,31 @@
+[
+  {
+    "type": "way",
+    "id": 263387763,
+    "timestamp": "2020-10-17T12:40:28Z",
+    "version": 2,
+    "changeset": 92627191,
+    "user": "MustafaQasim",
+    "uid": 9535554,
+    "center": {
+      "lat": 31.4079699,
+      "lon": -2.3172143
+    },
+    "nodes": [
+      2690021314,
+      2690021315,
+      2690021316,
+      2690021317,
+      2690021314
+    ],
+    "tags": {
+      "addr:street": "طريق الساورة",
+      "addr:street:ar": "طريق الساورة",
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "regional",
+      "diet:halal": "yes",
+      "language:ar": "main"
+    }
+  }
+]

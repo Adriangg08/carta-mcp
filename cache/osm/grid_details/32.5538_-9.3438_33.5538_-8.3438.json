@@ -1,0 +1,1876 @@
+[
+  {
+    "type": "node",
+    "id": 2237233619,
+    "lat": 32.7335646,
+    "lon": -9.0430972,
+    "timestamp": "2017-02-05T19:45:53Z",
+    "version": 2,
+    "changeset": 45838429,
+    "user": "Naomune",
+    "uid": 3356132,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "seafood",
+      "name": "L'Araignée Gourmande",
+      "outdoor_seating": "yes",
+      "smoking": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2429661325,
+    "lat": 33.2438658,
+    "lon": -8.4887894,
+    "timestamp": "2024-08-22T14:14:07Z",
+    "version": 3,
+    "changeset": 155608455,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Ali Baba"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3751591830,
+    "lat": 33.049142,
+    "lon": -8.6875265,
+    "timestamp": "2015-09-20T14:11:53Z",
+    "version": 1,
+    "changeset": 34141435,
+    "user": "neocarto",
+    "uid": 1749221,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Mohit Sidi Abed",
+      "source:cuisine": "survey"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3878528029,
+    "lat": 32.7460699,
+    "lon": -9.0236949,
+    "timestamp": "2016-11-22T03:25:55Z",
+    "version": 2,
+    "changeset": 43861154,
+    "user": "YuFen Cheng",
+    "uid": 4872785,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Ostréa II",
+      "name:zh": "生蠔餐",
+      "note": "Sur le parc à huîtres 007",
+      "phone": "+212 664 491 276",
+      "phone_1": "+212 523 366 451"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4758689221,
+    "lat": 33.2536814,
+    "lon": -8.5026094,
+    "timestamp": "2024-01-11T14:15:47Z",
+    "version": 2,
+    "changeset": 146145110,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "moroccan",
+      "name:en": "Snack Elbraija"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5427000808,
+    "lat": 33.2512385,
+    "lon": -8.5016367,
+    "timestamp": "2023-06-09T12:05:18Z",
+    "version": 2,
+    "changeset": 137134215,
+    "user": "Gurusraouta",
+    "uid": 18913526,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant Le Tit",
+      "name:fr": "Restaurant Le Tit"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5588485605,
+    "lat": 32.7281199,
+    "lon": -8.8824535,
+    "timestamp": "2023-03-04T11:59:36Z",
+    "version": 2,
+    "changeset": 133286832,
+    "user": "Cyrille37",
+    "uid": 454932,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5588486285,
+    "lat": 32.7298043,
+    "lon": -8.883285,
+    "timestamp": "2018-04-30T13:20:29Z",
+    "version": 1,
+    "changeset": 58555015,
+    "user": "alain2003",
+    "uid": 578772,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5618725624,
+    "lat": 33.03302,
+    "lon": -8.5331498,
+    "timestamp": "2018-05-15T03:11:55Z",
+    "version": 2,
+    "changeset": 58969664,
+    "user": "alain2003",
+    "uid": 578772,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Al Baraka"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5618725643,
+    "lat": 33.0310052,
+    "lon": -8.5349308,
+    "timestamp": "2018-05-15T02:12:29Z",
+    "version": 1,
+    "changeset": 58969112,
+    "user": "alain2003",
+    "uid": 578772,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5689173762,
+    "lat": 33.2448903,
+    "lon": -8.495248,
+    "timestamp": "2018-06-13T23:56:27Z",
+    "version": 1,
+    "changeset": 59827831,
+    "user": "LSkalayo",
+    "uid": 7445887,
+    "tags": {
+      "addr:street": "Avenue Mohammed VI",
+      "amenity": "restaurant",
+      "name": "Cafe Pizzeria Cavalca",
+      "source": "Kaart Ground Survey 2018"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5691213419,
+    "lat": 33.2482674,
+    "lon": -8.5008055,
+    "timestamp": "2024-01-06T16:42:35Z",
+    "version": 2,
+    "changeset": 145963981,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "tags": {
+      "addr:street": "Avenue Mohammed V",
+      "amenity": "restaurant",
+      "name": "Espace Palmiers",
+      "source": "Kaart Ground Survey 2018"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6316910187,
+    "lat": 32.7325344,
+    "lon": -9.0399788,
+    "timestamp": "2019-03-04T19:50:42Z",
+    "version": 1,
+    "changeset": 67780196,
+    "user": "Verpuup",
+    "uid": 9335259,
+    "tags": {
+      "amenity": "restaurant",
+      "internet_access": "wlan",
+      "name": "Les deux amis"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6414903528,
+    "lat": 33.2561191,
+    "lon": -8.5031031,
+    "timestamp": "2024-03-30T01:46:21Z",
+    "version": 2,
+    "changeset": 149335753,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "La Portugaise",
+      "name:en": "La Portugaise"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6431517386,
+    "lat": 33.2520138,
+    "lon": -8.5027505,
+    "timestamp": "2019-04-26T18:48:22Z",
+    "version": 1,
+    "changeset": 69611792,
+    "user": "Planetgravy",
+    "uid": 3950326,
+    "tags": {
+      "amenity": "restaurant",
+      "name:en": "Top snack"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6431526186,
+    "lat": 33.2558431,
+    "lon": -8.5044118,
+    "timestamp": "2024-04-12T14:46:07Z",
+    "version": 2,
+    "changeset": 149914742,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "moroccan;local",
+      "name": "Snack Bismillah",
+      "name:en": "Snack Bismillah"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6431536485,
+    "lat": 33.2516279,
+    "lon": -8.5025929,
+    "timestamp": "2019-04-26T18:48:19Z",
+    "version": 1,
+    "changeset": 69611792,
+    "user": "Planetgravy",
+    "uid": 3950326,
+    "tags": {
+      "amenity": "restaurant",
+      "name:en": "Cafe Restaurant le Français"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6431536585,
+    "lat": 33.2517288,
+    "lon": -8.5026469,
+    "timestamp": "2024-01-11T12:43:57Z",
+    "version": 2,
+    "changeset": 146141689,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "chinese",
+      "name:en": "Black boy"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6980226303,
+    "lat": 33.2840217,
+    "lon": -8.3859145,
+    "timestamp": "2024-08-14T02:09:34Z",
+    "version": 3,
+    "changeset": 155219384,
+    "user": "PortalNomad",
+    "uid": 21707329,
+    "tags": {
+      "amenity": "restaurant",
+      "description": "High end",
+      "name": "Beach Barbecue"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6983551765,
+    "lat": 33.2882867,
+    "lon": -8.344272,
+    "timestamp": "2019-11-16T22:20:32Z",
+    "version": 1,
+    "changeset": 77176611,
+    "user": "PKla",
+    "uid": 200382,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6983570635,
+    "lat": 33.2875218,
+    "lon": -8.345422,
+    "timestamp": "2019-11-16T22:20:20Z",
+    "version": 1,
+    "changeset": 77176606,
+    "user": "PKla",
+    "uid": 200382,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6983615880,
+    "lat": 33.2872489,
+    "lon": -8.345502,
+    "timestamp": "2019-11-16T22:19:40Z",
+    "version": 1,
+    "changeset": 77176589,
+    "user": "PKla",
+    "uid": 200382,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7222747484,
+    "lat": 33.2552479,
+    "lon": -8.5002314,
+    "timestamp": "2024-03-29T14:47:55Z",
+    "version": 2,
+    "changeset": 149316148,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant du port"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9537118817,
+    "lat": 33.254105,
+    "lon": -8.5013667,
+    "timestamp": "2022-02-26T13:37:17Z",
+    "version": 1,
+    "changeset": 117879192,
+    "user": "Alexski52",
+    "uid": 10134238,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10050484252,
+    "lat": 32.7325841,
+    "lon": -9.0402693,
+    "timestamp": "2022-09-25T08:40:40Z",
+    "version": 1,
+    "changeset": 126606665,
+    "user": "Traktorbek",
+    "uid": 7370308,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant El Chami"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10050514191,
+    "lat": 32.732568,
+    "lon": -9.0405611,
+    "timestamp": "2022-09-25T08:40:39Z",
+    "version": 1,
+    "changeset": 126606665,
+    "user": "Traktorbek",
+    "uid": 7370308,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10050529785,
+    "lat": 32.7326544,
+    "lon": -9.0395497,
+    "timestamp": "2022-09-25T08:40:40Z",
+    "version": 1,
+    "changeset": 126606665,
+    "user": "Traktorbek",
+    "uid": 7370308,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Octopus"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10263049709,
+    "lat": 32.6528936,
+    "lon": -8.4220783,
+    "timestamp": "2022-12-14T18:03:15Z",
+    "version": 1,
+    "changeset": 130085419,
+    "user": "brandisbrandisbrand",
+    "uid": 17092710,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "moroccan",
+      "name": "Zahrat Al Sham"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11382054969,
+    "lat": 32.8290955,
+    "lon": -8.512754,
+    "timestamp": "2023-11-28T17:50:40Z",
+    "version": 1,
+    "changeset": 144558901,
+    "user": "‫ابو عدنان‬‎",
+    "uid": 4426288,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11393914388,
+    "lat": 33.2398699,
+    "lon": -8.49653,
+    "timestamp": "2023-12-04T11:29:25Z",
+    "version": 1,
+    "changeset": 144751034,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Shawarma Avenue"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11394935916,
+    "lat": 33.2247821,
+    "lon": -8.5019316,
+    "timestamp": "2023-12-04T20:22:00Z",
+    "version": 1,
+    "changeset": 144768832,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Resto House"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11395891565,
+    "lat": 33.2282856,
+    "lon": -8.5054117,
+    "timestamp": "2023-12-05T11:32:57Z",
+    "version": 1,
+    "changeset": 144788479,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Wharsapp Pool"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11397671116,
+    "lat": 33.2450178,
+    "lon": -8.4954533,
+    "timestamp": "2023-12-06T10:50:56Z",
+    "version": 1,
+    "changeset": 144823816,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Kalaat Naji"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11414634721,
+    "lat": 33.225461,
+    "lon": -8.5014482,
+    "timestamp": "2023-12-13T12:15:13Z",
+    "version": 1,
+    "changeset": 145072918,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "MM Factory"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11449368245,
+    "lat": 33.2324548,
+    "lon": -8.486292,
+    "timestamp": "2023-12-24T12:08:06Z",
+    "version": 1,
+    "changeset": 145466656,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Four Sister"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11491738941,
+    "lat": 33.2447487,
+    "lon": -8.4950806,
+    "timestamp": "2024-01-05T13:45:20Z",
+    "version": 1,
+    "changeset": 145922952,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Zenga"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11494132671,
+    "lat": 33.2473114,
+    "lon": -8.497489,
+    "timestamp": "2024-01-06T10:20:20Z",
+    "version": 1,
+    "changeset": 145950873,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "L'Araucaria"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11494132672,
+    "lat": 33.2469749,
+    "lon": -8.4974819,
+    "timestamp": "2024-01-06T10:20:20Z",
+    "version": 1,
+    "changeset": 145950873,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Bingo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11508630505,
+    "lat": 33.2542316,
+    "lon": -8.5028258,
+    "timestamp": "2024-01-11T14:15:47Z",
+    "version": 1,
+    "changeset": 146145110,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Snack Lamrissa"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11508630545,
+    "lat": 33.2547901,
+    "lon": -8.5033591,
+    "timestamp": "2024-01-11T14:15:47Z",
+    "version": 1,
+    "changeset": 146145110,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Snack Aymen Marina"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11508630546,
+    "lat": 33.2547363,
+    "lon": -8.5034896,
+    "timestamp": "2024-01-11T14:15:47Z",
+    "version": 1,
+    "changeset": 146145110,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Tacos de Ville"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11508630556,
+    "lat": 33.2546892,
+    "lon": -8.5030186,
+    "timestamp": "2024-01-11T14:15:47Z",
+    "version": 1,
+    "changeset": 146145110,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Snack El Bahri"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11508630564,
+    "lat": 33.2548054,
+    "lon": -8.5032072,
+    "timestamp": "2024-01-11T14:15:47Z",
+    "version": 1,
+    "changeset": 146145110,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Snack Al Borj"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11522994394,
+    "lat": 33.2492173,
+    "lon": -8.5049848,
+    "timestamp": "2024-01-16T19:53:47Z",
+    "version": 1,
+    "changeset": 146336958,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "italian",
+      "name": "Luigi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11772770260,
+    "lat": 33.2558556,
+    "lon": -8.5028848,
+    "timestamp": "2024-03-30T01:46:21Z",
+    "version": 1,
+    "changeset": 149335753,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Les Kechois"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11812007579,
+    "lat": 33.2559895,
+    "lon": -8.5042958,
+    "timestamp": "2024-04-12T14:46:07Z",
+    "version": 1,
+    "changeset": 149914742,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "O'Delice Food"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12138798502,
+    "lat": 32.7325313,
+    "lon": -9.0335146,
+    "timestamp": "2024-08-26T22:53:22Z",
+    "version": 1,
+    "changeset": 155805178,
+    "user": "lecolibri258",
+    "uid": 9396646,
+    "tags": {
+      "addr:street": "Boulevard du 20 Août شارع 20 غشت",
+      "amenity": "restaurant",
+      "cuisine": "fish_and_chips;friture;local",
+      "name": "O kalamar",
+      "outdoor_seating": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12138798601,
+    "lat": 32.7332321,
+    "lon": -9.0320067,
+    "timestamp": "2024-08-26T23:02:16Z",
+    "version": 2,
+    "changeset": 155805333,
+    "user": "lecolibri258",
+    "uid": 9396646,
+    "tags": {
+      "addr:street": "Rue Chari3 Charif Edrisi",
+      "amenity": "restaurant",
+      "cuisine": "fish;fish_and_chips;grill;local;pizza;seafood;steak_house",
+      "name": "المحيط",
+      "name:fr": "L'océan",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12373789135,
+    "lat": 33.2479023,
+    "lon": -8.5097553,
+    "timestamp": "2024-11-25T14:37:21Z",
+    "version": 1,
+    "changeset": 159576403,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Il Cucina"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12373789136,
+    "lat": 33.2477864,
+    "lon": -8.5096292,
+    "timestamp": "2024-11-25T14:37:21Z",
+    "version": 1,
+    "changeset": 159576403,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Tacos O'Mexico"
+    }
+  },
+  {
+    "type": "way",
+    "id": 420401779,
+    "timestamp": "2016-05-23T22:56:15Z",
+    "version": 1,
+    "changeset": 39521071,
+    "user": "Rachid Riad",
+    "uid": 3657351,
+    "center": {
+      "lat": 33.2289119,
+      "lon": -8.5527644
+    },
+    "nodes": [
+      4203331775,
+      4203331776,
+      3289646574,
+      4203331777,
+      3289646605,
+      4203331778,
+      4203331775
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "regional",
+      "name": "Requin Bleu",
+      "website": "http://www.requinbleu.com/"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1228460036,
+    "timestamp": "2023-12-03T16:35:26Z",
+    "version": 1,
+    "changeset": 144724968,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "center": {
+      "lat": 33.2437976,
+      "lon": -8.4841071
+    },
+    "nodes": [
+      11392252172,
+      11392252173,
+      11392252174,
+      11392252175,
+      11392252176,
+      11392252172
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "La Grillardière"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1228460061,
+    "timestamp": "2023-12-03T16:35:26Z",
+    "version": 1,
+    "changeset": 144724968,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "center": {
+      "lat": 33.2444766,
+      "lon": -8.490674
+    },
+    "nodes": [
+      11392252366,
+      11392252367,
+      11392252368,
+      11392252369,
+      11392252370,
+      11392252371,
+      11392252372,
+      11392252373,
+      11392252366
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Oasis"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1228605159,
+    "timestamp": "2023-12-04T10:54:43Z",
+    "version": 1,
+    "changeset": 144749930,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "center": {
+      "lat": 33.2441176,
+      "lon": -8.4788256
+    },
+    "nodes": [
+      11393858398,
+      11393858402,
+      11393858403,
+      11393858411,
+      11393858404,
+      11393858405,
+      11393858398
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Amwaj"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1228611934,
+    "timestamp": "2024-09-03T18:08:35Z",
+    "version": 3,
+    "changeset": 156154154,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "center": {
+      "lat": 33.2377593,
+      "lon": -8.4954123
+    },
+    "nodes": [
+      11393874423,
+      11393874424,
+      11393874425,
+      11393874426,
+      12154139356,
+      12154139355,
+      11393874423
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "apartments",
+      "cuisine": "chinese",
+      "name": "Samurai"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1228914994,
+    "timestamp": "2023-12-05T18:59:18Z",
+    "version": 1,
+    "changeset": 144803751,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "center": {
+      "lat": 33.2247167,
+      "lon": -8.4984993
+    },
+    "nodes": [
+      11396692724,
+      11396692725,
+      11396692726,
+      11396692727,
+      11396692724
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Maison Z"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1229050930,
+    "timestamp": "2023-12-06T12:57:06Z",
+    "version": 1,
+    "changeset": 144827764,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "center": {
+      "lat": 33.2408852,
+      "lon": -8.4947928
+    },
+    "nodes": [
+      11397806915,
+      11397846209,
+      11397846210,
+      11397806912,
+      11397806913,
+      11397806944,
+      11397806914,
+      11397806915
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Amista"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1229182345,
+    "timestamp": "2023-12-07T15:30:28Z",
+    "version": 2,
+    "changeset": 144871491,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "center": {
+      "lat": 33.2399127,
+      "lon": -8.5093071
+    },
+    "nodes": [
+      11399198041,
+      11399198042,
+      11399198043,
+      11401052861,
+      11399198044,
+      11399198041
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Les Terrasses"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1229705083,
+    "timestamp": "2023-12-08T16:07:09Z",
+    "version": 1,
+    "changeset": 144909361,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "center": {
+      "lat": 33.2513549,
+      "lon": -8.5007299
+    },
+    "nodes": [
+      11403481886,
+      11403481887,
+      11403481888,
+      11403481889,
+      11403481890,
+      11403481891,
+      11403481892,
+      11403481893,
+      11403481894,
+      11403481895,
+      11403481896,
+      11403481897,
+      11403481886
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Mwaline Babouch"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1231781629,
+    "timestamp": "2023-12-17T00:39:30Z",
+    "version": 1,
+    "changeset": 145201505,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "center": {
+      "lat": 33.2289429,
+      "lon": -8.4891821
+    },
+    "nodes": [
+      11423798604,
+      11423798608,
+      11423798609,
+      11423798610,
+      11423798611,
+      11423798605,
+      11423798604
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Le Colloque"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1231781644,
+    "timestamp": "2023-12-17T00:39:30Z",
+    "version": 1,
+    "changeset": 145201505,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "center": {
+      "lat": 33.2297113,
+      "lon": -8.4885937
+    },
+    "nodes": [
+      11423798622,
+      11423798677,
+      11423798685,
+      11423798686,
+      11423798696,
+      11423798687,
+      11423798688,
+      11423798689,
+      11423798690,
+      11423798691,
+      11423798693,
+      11423798692,
+      11423798625,
+      11423798624,
+      11423798622
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "101"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1233817598,
+    "timestamp": "2023-12-24T13:48:41Z",
+    "version": 1,
+    "changeset": 145469521,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "center": {
+      "lat": 33.2293479,
+      "lon": -8.4874086
+    },
+    "nodes": [
+      11449489149,
+      11449489150,
+      11449489151,
+      11449489152,
+      11449489153,
+      11449489038,
+      11449489149
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1233818362,
+    "timestamp": "2023-12-24T13:56:35Z",
+    "version": 1,
+    "changeset": 145469800,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "center": {
+      "lat": 33.2312965,
+      "lon": -8.4867626
+    },
+    "nodes": [
+      11449486352,
+      11449486938,
+      11449486939,
+      11449486940,
+      11449486941,
+      11449486351,
+      11449486352
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1238838573,
+    "timestamp": "2024-01-11T12:43:57Z",
+    "version": 1,
+    "changeset": 146141689,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "center": {
+      "lat": 33.2518521,
+      "lon": -8.5027516
+    },
+    "nodes": [
+      11508471916,
+      11508471921,
+      11508471922,
+      11508471917,
+      11508471916
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Espace Bouchrit"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1238838576,
+    "timestamp": "2024-01-11T12:43:57Z",
+    "version": 1,
+    "changeset": 146141689,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "center": {
+      "lat": 33.2517177,
+      "lon": -8.5026821
+    },
+    "nodes": [
+      11508471925,
+      11508471927,
+      11508471928,
+      11508471926,
+      11508471925
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Espace Théatre"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1238838577,
+    "timestamp": "2024-01-11T12:43:57Z",
+    "version": 1,
+    "changeset": 146141689,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "center": {
+      "lat": 33.2516811,
+      "lon": -8.5026625
+    },
+    "nodes": [
+      11508471927,
+      11508471929,
+      11508471930,
+      11508471928,
+      11508471927
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Ayour Tacos"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1238838578,
+    "timestamp": "2024-01-11T12:43:57Z",
+    "version": 1,
+    "changeset": 146141689,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "center": {
+      "lat": 33.2515968,
+      "lon": -8.5026593
+    },
+    "nodes": [
+      11508471931,
+      11508471932,
+      11508471933,
+      11508471934,
+      11508471935,
+      11508471936,
+      11508471931
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Snack France"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1238838581,
+    "timestamp": "2024-01-11T12:43:57Z",
+    "version": 1,
+    "changeset": 146141689,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "center": {
+      "lat": 33.2514038,
+      "lon": -8.5026674
+    },
+    "nodes": [
+      11508471938,
+      11508471948,
+      11508471949,
+      11508471941,
+      11508471939,
+      11508471938
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Magic Deserts"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1238838582,
+    "timestamp": "2024-01-11T12:43:57Z",
+    "version": 1,
+    "changeset": 146141689,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "center": {
+      "lat": 33.2513239,
+      "lon": -8.5027581
+    },
+    "nodes": [
+      11508471948,
+      11508471950,
+      11508471952,
+      11508471951,
+      11508471949,
+      11508471948
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Snack Dauphin"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1238838584,
+    "timestamp": "2024-01-11T12:43:57Z",
+    "version": 1,
+    "changeset": 146141689,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "center": {
+      "lat": 33.2511475,
+      "lon": -8.5029722
+    },
+    "nodes": [
+      11508471953,
+      11508471955,
+      11508471956,
+      11508471954,
+      11508471953
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Snack Lozan"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1238838586,
+    "timestamp": "2024-01-11T12:43:57Z",
+    "version": 1,
+    "changeset": 146141689,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "center": {
+      "lat": 33.2510365,
+      "lon": -8.5031178
+    },
+    "nodes": [
+      11508471958,
+      11508471959,
+      11508471960,
+      11508471957,
+      11508471958
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Regalito"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1238838604,
+    "timestamp": "2024-01-11T12:43:57Z",
+    "version": 1,
+    "changeset": 146141689,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "center": {
+      "lat": 33.2521339,
+      "lon": -8.5029189
+    },
+    "nodes": [
+      11508482129,
+      11508482139,
+      11508482140,
+      11508482131,
+      11508482130,
+      11508482129
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Big One"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1238838608,
+    "timestamp": "2024-01-11T12:43:57Z",
+    "version": 1,
+    "changeset": 146141689,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "center": {
+      "lat": 33.2519273,
+      "lon": -8.5031948
+    },
+    "nodes": [
+      11508482145,
+      11508482147,
+      11508482148,
+      11508482149,
+      11508482150,
+      11508482146,
+      11508482145
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Bouanba"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1238965372,
+    "timestamp": "2024-01-11T22:43:55Z",
+    "version": 1,
+    "changeset": 146160577,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "center": {
+      "lat": 33.2542178,
+      "lon": -8.5010607
+    },
+    "nodes": [
+      11509673011,
+      11509673012,
+      11509673013,
+      11509673014,
+      11509673015,
+      11509673016,
+      11509673017,
+      11509673010,
+      11509673011
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Mrizika"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1238965374,
+    "timestamp": "2024-01-11T22:43:55Z",
+    "version": 1,
+    "changeset": 146160577,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "center": {
+      "lat": 33.2547432,
+      "lon": -8.5006472
+    },
+    "nodes": [
+      11509673022,
+      11509673023,
+      11509673024,
+      11509673027,
+      11509673025,
+      11509673026,
+      11509673020,
+      11509673022
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Pesca"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1238965376,
+    "timestamp": "2024-01-11T22:43:55Z",
+    "version": 1,
+    "changeset": 146160577,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "center": {
+      "lat": 33.2551916,
+      "lon": -8.5002881
+    },
+    "nodes": [
+      11509673037,
+      11509673040,
+      11509673041,
+      11509673042,
+      11509673049,
+      11509673043,
+      11509673045,
+      11509673044,
+      11509673038,
+      11509673037
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Port"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1238965396,
+    "timestamp": "2024-01-11T22:43:55Z",
+    "version": 1,
+    "changeset": 146160577,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "center": {
+      "lat": 33.2534953,
+      "lon": -8.5013736
+    },
+    "nodes": [
+      11509673162,
+      11509673163,
+      11509673164,
+      11509673165,
+      11509673166,
+      11509673167,
+      11509673168,
+      11509673169,
+      11509673162
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "abandoned",
+      "name": "Ex Quick"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1239128847,
+    "timestamp": "2024-04-14T01:24:58Z",
+    "version": 2,
+    "changeset": 149974147,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "center": {
+      "lat": 33.2549953,
+      "lon": -8.5044983
+    },
+    "nodes": [
+      11511167737,
+      11511167750,
+      11510889235,
+      11511167749,
+      11511167748,
+      11511167747,
+      11511167741,
+      11511167742,
+      11511167738,
+      11511167737
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Tchikito"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1267180351,
+    "timestamp": "2024-03-28T17:48:38Z",
+    "version": 1,
+    "changeset": 149281237,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "center": {
+      "lat": 33.2561938,
+      "lon": -8.5008882
+    },
+    "nodes": [
+      11769411524,
+      11769411525,
+      11769411526,
+      11769411527,
+      11769411524
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1267180354,
+    "timestamp": "2024-03-28T17:48:38Z",
+    "version": 1,
+    "changeset": 149281237,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "center": {
+      "lat": 33.2563293,
+      "lon": -8.5010381
+    },
+    "nodes": [
+      11769411533,
+      11769411534,
+      11769411535,
+      11769411536,
+      11769411533
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1267462555,
+    "timestamp": "2024-03-29T14:33:18Z",
+    "version": 1,
+    "changeset": 149315457,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "center": {
+      "lat": 33.256382,
+      "lon": -8.5022099
+    },
+    "nodes": [
+      11771730913,
+      11771730911,
+      11771730915,
+      11771731001,
+      11771730916,
+      11771730917,
+      11771730918,
+      11771730913
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Le Lokal"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1267780573,
+    "timestamp": "2024-03-30T21:45:50Z",
+    "version": 1,
+    "changeset": 149369557,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "center": {
+      "lat": 33.2569845,
+      "lon": -8.5020144
+    },
+    "nodes": [
+      11774367752,
+      11774367762,
+      11774367701,
+      11774367763,
+      11774367759,
+      11774367758,
+      11774367750,
+      11774367751,
+      11774367752
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Riad Eucalyptus"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1267780574,
+    "timestamp": "2024-03-30T21:45:50Z",
+    "version": 1,
+    "changeset": 149369557,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "center": {
+      "lat": 33.2569902,
+      "lon": -8.5018942
+    },
+    "nodes": [
+      11774367765,
+      11774367766,
+      11774367768,
+      11774367767,
+      11774367746,
+      11774367757,
+      11774367756,
+      11774367755,
+      11774367754,
+      11774367753,
+      11774367752,
+      11774367762,
+      11774367765
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "L'Iglesia"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1272016600,
+    "timestamp": "2024-04-12T14:46:07Z",
+    "version": 1,
+    "changeset": 149914742,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "center": {
+      "lat": 33.2560571,
+      "lon": -8.5043339
+    },
+    "nodes": [
+      11812007569,
+      11812007570,
+      11812007571,
+      11812007572,
+      11812007582,
+      11812007573,
+      11812007574,
+      11812007575,
+      11812007576,
+      11812007577,
+      11812007578,
+      11812007569
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "La Perle"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1274217185,
+    "timestamp": "2024-04-19T16:05:20Z",
+    "version": 1,
+    "changeset": 150231336,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "center": {
+      "lat": 33.2522959,
+      "lon": -8.5038496
+    },
+    "nodes": [
+      11831197521,
+      11831197522,
+      11831197523,
+      11831197524,
+      11831197521
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Le Tamaris"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1308827864,
+    "timestamp": "2024-08-19T14:28:22Z",
+    "version": 1,
+    "changeset": 155463789,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "center": {
+      "lat": 33.2443829,
+      "lon": -8.4889138
+    },
+    "nodes": [
+      12120371060,
+      12120371061,
+      12120371062,
+      12120371063,
+      12120371064,
+      12120371065,
+      12120371066,
+      12120371067,
+      12120371068,
+      11393088522,
+      11393088521,
+      11393088527,
+      12120371060
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1308827893,
+    "timestamp": "2024-08-19T14:28:22Z",
+    "version": 1,
+    "changeset": 155463789,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "center": {
+      "lat": 33.2440062,
+      "lon": -8.471106
+    },
+    "nodes": [
+      12120378831,
+      12120378856,
+      12120378832,
+      12120378833,
+      12120378834,
+      12120378831
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1308880309,
+    "timestamp": "2024-08-19T19:05:19Z",
+    "version": 1,
+    "changeset": 155476873,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "center": {
+      "lat": 33.2438975,
+      "lon": -8.4776918
+    },
+    "nodes": [
+      12120884169,
+      12120884170,
+      12120884171,
+      12120884172,
+      12120884173,
+      12120884174,
+      12120884175,
+      12120884169
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Restaurant M.M"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1314215197,
+    "timestamp": "2024-09-08T17:51:45Z",
+    "version": 1,
+    "changeset": 156363301,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "center": {
+      "lat": 33.2593174,
+      "lon": -8.4254893
+    },
+    "nodes": [
+      12164115459,
+      12164115460,
+      12164115461,
+      12164115462,
+      12164115463,
+      12164115464,
+      12164115459
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Pachamama"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1330229608,
+    "timestamp": "2024-11-02T18:22:28Z",
+    "version": 1,
+    "changeset": 158671346,
+    "user": "Saghoura",
+    "uid": 20007982,
+    "center": {
+      "lat": 33.2116887,
+      "lon": -8.4948316
+    },
+    "nodes": [
+      12307683772,
+      12307683773,
+      12307683774,
+      12307683775,
+      12307683776,
+      12307683777,
+      12307683772
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Resto Club Bouabid"
+    }
+  }
+]

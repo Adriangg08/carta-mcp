@@ -1,0 +1,37 @@
+[
+  {
+    "type": "node",
+    "id": 3987847202,
+    "lat": 33.6842683,
+    "lon": 1.0122516,
+    "timestamp": "2018-06-13T17:53:56Z",
+    "version": 2,
+    "changeset": 59818370,
+    "user": "ButterflyOfFire_",
+    "uid": 2842609,
+    "tags": {
+      "addr:city": "El Bayadh",
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Restaurant Hamid",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5514398536,
+    "lat": 33.6861175,
+    "lon": 1.011067,
+    "timestamp": "2018-06-13T17:55:16Z",
+    "version": 2,
+    "changeset": 59818370,
+    "user": "ButterflyOfFire_",
+    "uid": 2842609,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name:fr": "Restaurant kahina"
+    }
+  }
+]

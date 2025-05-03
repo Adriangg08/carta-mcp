@@ -1,0 +1,1997 @@
+[
+  {
+    "type": "node",
+    "id": 264288695,
+    "lat": 41.8253473,
+    "lon": -1.4673516,
+    "timestamp": "2016-11-16T18:45:12Z",
+    "version": 2,
+    "changeset": 43707137,
+    "user": "izpura",
+    "uid": 2998499,
+    "tags": {
+      "addr:city": "Magallón",
+      "addr:postcode": "50520",
+      "addr:street": "Ctra Magallon-La Almunia",
+      "amenity": "restaurant",
+      "name": "La Chimenea",
+      "phone": "+34 976 857 566"
+    }
+  },
+  {
+    "type": "node",
+    "id": 272904435,
+    "lat": 41.8542611,
+    "lon": -1.9267279,
+    "timestamp": "2014-01-21T12:02:01Z",
+    "version": 3,
+    "changeset": 20121149,
+    "user": "cronoser",
+    "uid": 461005,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Doña Juana",
+      "tourism": "hostel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 350122708,
+    "lat": 41.8408742,
+    "lon": -2.0431842,
+    "timestamp": "2009-02-23T15:32:59Z",
+    "version": 1,
+    "changeset": 637156,
+    "user": "asieriko",
+    "uid": 32479,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "MariCarmen",
+      "stars": "2",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 522157841,
+    "lat": 41.1933444,
+    "lon": -1.7819022,
+    "timestamp": "2023-12-06T15:41:18Z",
+    "version": 3,
+    "changeset": 144833684,
+    "user": "garaolaza",
+    "uid": 1297,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date": "2023-12-06",
+      "name": "Reyes de Aragón"
+    }
+  },
+  {
+    "type": "node",
+    "id": 654464025,
+    "lat": 41.2176535,
+    "lon": -2.2904912,
+    "timestamp": "2023-10-27T13:02:21Z",
+    "version": 3,
+    "changeset": 143210601,
+    "user": "scai",
+    "uid": 118134,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "traditional",
+      "name": "Área San Cristóbal",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2153343288,
+    "lat": 41.9370735,
+    "lon": -2.0269078,
+    "timestamp": "2023-10-28T20:13:52Z",
+    "version": 7,
+    "changeset": 143281444,
+    "user": "b-jazz-bot",
+    "uid": 9451067,
+    "tags": {
+      "addr:housename": "Las Abadías",
+      "addr:housenumber": "8",
+      "addr:postcode": "42113",
+      "addr:street": "Plaza de la Iglesia",
+      "amenity": "restaurant",
+      "cuisine": "spanish",
+      "website": "https://www.lasabadias.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2591290873,
+    "lat": 41.4775481,
+    "lon": -1.3771179,
+    "timestamp": "2021-08-15T00:59:19Z",
+    "version": 2,
+    "changeset": 109685986,
+    "user": "LADG1",
+    "uid": 4503520,
+    "tags": {
+      "addr:city": "La Almunia de Doña Godina",
+      "addr:housenumber": "6",
+      "addr:postcode": "50100",
+      "addr:street": "Avenida de Madrid",
+      "amenity": "restaurant",
+      "bar": "yes",
+      "capacity": "400",
+      "email": "reservas@hotelelpatio.es",
+      "name": "El Patio",
+      "phone": "+34 976 601 037",
+      "website": "https://www.hotelelpatio.es/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2883927101,
+    "lat": 41.99782,
+    "lon": -1.67831,
+    "timestamp": "2023-09-21T20:23:53Z",
+    "version": 3,
+    "changeset": 141576724,
+    "user": "Hugoren Martinako",
+    "uid": 3392826,
+    "tags": {
+      "addr:city": "Cascante",
+      "addr:housenumber": "3",
+      "addr:postcode": "31520",
+      "addr:street": "Calle Vicente Tudor",
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Ibarra",
+      "phone": "+34 948850477",
+      "website": "https://www.restauranteibarra.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3227414661,
+    "lat": 41.294973,
+    "lon": -1.8954212,
+    "timestamp": "2023-12-07T09:24:27Z",
+    "version": 2,
+    "changeset": 144858948,
+    "user": "garaolaza",
+    "uid": 1297,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date": "2023-12-07",
+      "cuisine": "regional",
+      "name": "Tito",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3227415299,
+    "lat": 41.2961982,
+    "lon": -1.8939591,
+    "timestamp": "2023-12-07T13:01:54Z",
+    "version": 4,
+    "changeset": 144866514,
+    "user": "garaolaza",
+    "uid": 1297,
+    "tags": {
+      "addr:housenumber": "14",
+      "addr:street": "Avenida de Aragón",
+      "amenity": "restaurant",
+      "check_date": "2023-12-07",
+      "cuisine": "regional",
+      "name": "El Timón"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4149904821,
+    "lat": 41.9238997,
+    "lon": -1.4209497,
+    "timestamp": "2022-07-08T05:36:03Z",
+    "version": 2,
+    "changeset": 123343572,
+    "user": "aTarom",
+    "uid": 5127355,
+    "tags": {
+      "addr:city": "Cortes",
+      "addr:housenumber": "54",
+      "addr:postcode": "31530",
+      "addr:street": "Calle Miguel de Cervantes",
+      "amenity": "restaurant",
+      "name": "Restaurante La Abuela",
+      "phone": "+34 948 80 00 64"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4149915545,
+    "lat": 41.9212087,
+    "lon": -1.4193455,
+    "timestamp": "2023-09-21T20:23:53Z",
+    "version": 2,
+    "changeset": 141576724,
+    "user": "Hugoren Martinako",
+    "uid": 3392826,
+    "tags": {
+      "addr:city": "Cortes",
+      "addr:housenumber": "26",
+      "addr:postcode": "31530",
+      "addr:street": "Calle Lavadero",
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Bar Restaurante Charly",
+      "phone": "+34 948 81 08 18"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4149952814,
+    "lat": 41.9215202,
+    "lon": -1.4208984,
+    "timestamp": "2019-09-28T17:33:34Z",
+    "version": 3,
+    "changeset": 75045378,
+    "user": "mor",
+    "uid": 220932,
+    "tags": {
+      "addr:city": "Cortes",
+      "addr:housenumber": "16",
+      "addr:postcode": "31530",
+      "addr:street": "Calle San Miguel",
+      "amenity": "restaurant",
+      "old_name": "Bar Restaurante La Julia",
+      "phone": "+34 948 80 00 53"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4285403868,
+    "lat": 41.9350642,
+    "lon": -2.1798551,
+    "timestamp": "2016-07-06T01:46:06Z",
+    "version": 1,
+    "changeset": 40512580,
+    "user": "Gerardo Abio",
+    "uid": 2836160,
+    "tags": {
+      "addr:city": "Fuentes de Magaña",
+      "addr:postcode": "42181",
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Bar Restaurante Las Fuentes",
+      "smoking": "outside",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4415759101,
+    "lat": 41.5083156,
+    "lon": -1.4030465,
+    "timestamp": "2022-04-22T11:57:28Z",
+    "version": 2,
+    "changeset": 120047462,
+    "user": "antecessor",
+    "uid": 87939,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "spanish",
+      "name": "Restaurante La Bodeguilla",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4431368288,
+    "lat": 41.1174988,
+    "lon": -1.4058738,
+    "timestamp": "2016-10-04T18:58:13Z",
+    "version": 1,
+    "changeset": 42639772,
+    "user": "izpura",
+    "uid": 2998499,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Agiria"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4456593808,
+    "lat": 41.4773342,
+    "lon": -1.378747,
+    "timestamp": "2017-12-01T23:40:51Z",
+    "version": 2,
+    "changeset": 54253793,
+    "user": "LADG1",
+    "uid": 4503520,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4456593817,
+    "lat": 41.4935814,
+    "lon": -1.3753102,
+    "timestamp": "2016-10-20T15:16:12Z",
+    "version": 1,
+    "changeset": 43033426,
+    "user": "albjorgui",
+    "uid": 230487,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4456596527,
+    "lat": 41.477095,
+    "lon": -1.3782258,
+    "timestamp": "2021-02-18T16:50:49Z",
+    "version": 2,
+    "changeset": 99538191,
+    "user": "Robot8A",
+    "uid": 393359,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "La Viña"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4474674404,
+    "lat": 41.8192341,
+    "lon": -1.6090509,
+    "timestamp": "2024-12-08T09:16:17Z",
+    "version": 3,
+    "changeset": 160049563,
+    "user": "aTarom",
+    "uid": 5127355,
+    "tags": {
+      "addr:milestone": "km. 70.100",
+      "addr:street": "Carretera Nacional 122",
+      "amenity": "restaurant",
+      "cuisine": "spanish",
+      "email": "carlos@elmesondelaceite.com",
+      "level": "0",
+      "name": "Mesón del aceite",
+      "opening_hours": "Mo-Su 08:00-16:00",
+      "outdoor_seating": "yes",
+      "smoking": "outside",
+      "website": "https://elmesondelaceite.com/",
+      "website:menu": "https://elmesondelaceite.com/carta/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4531712463,
+    "lat": 41.8112166,
+    "lon": -1.7005165,
+    "timestamp": "2019-03-04T20:48:17Z",
+    "version": 4,
+    "changeset": 67781881,
+    "user": "b-jazz-bot",
+    "uid": 9451067,
+    "tags": {
+      "addr:city": "Veruela",
+      "addr:country": "ES",
+      "addr:postcode": "50580",
+      "addr:street": "Carretera Agramonte",
+      "amenity": "restaurant",
+      "name": "El Molino de Berola",
+      "opening_hours": "Mo-Fr 09:00-17:00; Sa,Su 09:00-24:00",
+      "phone": "+34 976 64 65 50",
+      "website": "https://www.molinodeberola.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4864720014,
+    "lat": 41.2574124,
+    "lon": -2.1902544,
+    "timestamp": "2017-05-19T19:13:08Z",
+    "version": 2,
+    "changeset": 48829649,
+    "user": "5R-MFT",
+    "uid": 3417876,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "El Abuelo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4864895996,
+    "lat": 41.3076904,
+    "lon": -2.122325,
+    "timestamp": "2022-03-13T23:05:34Z",
+    "version": 2,
+    "changeset": 118448413,
+    "user": "MarinoBM",
+    "uid": 11454828,
+    "tags": {
+      "addr:city": "Monreal de Ariza",
+      "addr:postcode": "50291",
+      "addr:street": "Autovía del Nordeste",
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Castilla y Aragón",
+      "phone": "+34 976 84 60 18",
+      "website": "https://arcobriga.com/restaurante/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4870676407,
+    "lat": 41.9989085,
+    "lon": -1.6793309,
+    "timestamp": "2023-10-28T20:12:54Z",
+    "version": 2,
+    "changeset": 143281378,
+    "user": "b-jazz-bot",
+    "uid": 9451067,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "El Lechuguero",
+      "website": "https://www.ellechuguero.com/es/0?custom=1"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4870685699,
+    "lat": 41.9926114,
+    "lon": -1.6763742,
+    "timestamp": "2017-05-22T22:05:02Z",
+    "version": 1,
+    "changeset": 48900500,
+    "user": "izpura",
+    "uid": 2998499,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "El Caminito",
+      "website": "http://www.elcaminito.es/?bar-restaurante,10"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4913708661,
+    "lat": 41.9727223,
+    "lon": -1.4807106,
+    "timestamp": "2017-06-13T21:44:53Z",
+    "version": 1,
+    "changeset": 49512902,
+    "user": "ottokar55",
+    "uid": 101355,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "El Poligono"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4945684467,
+    "lat": 41.9203261,
+    "lon": -1.4182074,
+    "timestamp": "2017-07-01T14:21:01Z",
+    "version": 1,
+    "changeset": 49966145,
+    "user": "izpura",
+    "uid": 2998499,
+    "tags": {
+      "addr:city": "Cortes",
+      "addr:postcode": "31530",
+      "addr:street": "Plaza Mayor",
+      "amenity": "restaurant",
+      "name": "Casino"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5343833065,
+    "lat": 41.9007816,
+    "lon": -1.4200503,
+    "timestamp": "2018-01-16T22:33:35Z",
+    "version": 1,
+    "changeset": 55507105,
+    "user": "Diego Gómez",
+    "uid": 7479899,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "La Cueva de Roblin"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5343876021,
+    "lat": 41.9006606,
+    "lon": -1.4200765,
+    "timestamp": "2018-01-16T23:13:01Z",
+    "version": 1,
+    "changeset": 55507702,
+    "user": "Diego Gómez",
+    "uid": 7479899,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurante Pinocho"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5350203597,
+    "lat": 41.2476885,
+    "lon": -1.5871435,
+    "timestamp": "2018-01-20T03:32:35Z",
+    "version": 1,
+    "changeset": 55594124,
+    "user": "fropi",
+    "uid": 1063525,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Meson Manolo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5550032601,
+    "lat": 41.4963982,
+    "lon": -2.1996152,
+    "timestamp": "2018-04-13T11:48:45Z",
+    "version": 1,
+    "changeset": 58061946,
+    "user": "davidave",
+    "uid": 8105491,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5553069322,
+    "lat": 41.4765243,
+    "lon": -1.3779965,
+    "timestamp": "2018-04-14T18:51:51Z",
+    "version": 1,
+    "changeset": 58095681,
+    "user": "antecessor",
+    "uid": 87939,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Los Fogones"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5613588499,
+    "lat": 41.6236757,
+    "lon": -2.2245253,
+    "timestamp": "2018-05-12T13:36:41Z",
+    "version": 1,
+    "changeset": 58902700,
+    "user": "FERINA365",
+    "uid": 2496484,
+    "tags": {
+      "addr:city": "Gómara",
+      "addr:housenumber": "3",
+      "addr:postcode": "42120",
+      "addr:street": "Plaza Mayor",
+      "amenity": "restaurant",
+      "name": "Cosín"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5613588500,
+    "lat": 41.6237593,
+    "lon": -2.2254497,
+    "timestamp": "2018-05-12T13:36:41Z",
+    "version": 1,
+    "changeset": 58902700,
+    "user": "FERINA365",
+    "uid": 2496484,
+    "tags": {
+      "addr:city": "Gómara",
+      "addr:housenumber": "3",
+      "addr:postcode": "42120",
+      "addr:street": "Calle Mayor",
+      "amenity": "restaurant",
+      "name": "Los Molinos"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5708069121,
+    "lat": 41.2475405,
+    "lon": -1.7038962,
+    "timestamp": "2018-06-21T09:48:23Z",
+    "version": 1,
+    "changeset": 60037601,
+    "user": "pirri castita",
+    "uid": 4830996,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Torres"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5998537181,
+    "lat": 41.4826975,
+    "lon": -1.3803399,
+    "timestamp": "2018-10-19T16:32:08Z",
+    "version": 1,
+    "changeset": 63684026,
+    "user": "Electrotechie",
+    "uid": 173235,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "spanish",
+      "internet_access": "yes",
+      "internet_access:fee": "no",
+      "name": "La Bodega",
+      "smoking": "outside"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6018391685,
+    "lat": 41.7639454,
+    "lon": -1.8872081,
+    "timestamp": "2020-06-05T12:27:25Z",
+    "version": 3,
+    "changeset": 86244971,
+    "user": "sanchi",
+    "uid": 170106,
+    "tags": {
+      "addr:housenumber": "2",
+      "addr:postcode": "42107",
+      "addr:street": "Calle del Río",
+      "amenity": "restaurant",
+      "cuisine": "spanish",
+      "name": "Restaurante La Cantina",
+      "phone": "+34 622 40 88 77",
+      "website": "http://www.lacantinacuevadeagreda.es"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6178432597,
+    "lat": 41.3516464,
+    "lon": -1.6397528,
+    "timestamp": "2019-01-02T12:53:57Z",
+    "version": 1,
+    "changeset": 65957419,
+    "user": "msevilla00",
+    "uid": 240498,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "spanish",
+      "name": "Restaurante Caballero I"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6206211353,
+    "lat": 41.1223859,
+    "lon": -1.398738,
+    "timestamp": "2019-01-13T19:59:50Z",
+    "version": 1,
+    "changeset": 66283050,
+    "user": "Baxe Nafarroa",
+    "uid": 6672338,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Legido's"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6801796864,
+    "lat": 41.327166,
+    "lon": -1.6410479,
+    "timestamp": "2019-09-17T10:25:24Z",
+    "version": 1,
+    "changeset": 74570108,
+    "user": "deslomator",
+    "uid": 1476663,
+    "tags": {
+      "amenity": "restaurant",
+      "internet_access": "wlan",
+      "internet_access:fee": "no",
+      "name": "Restaurante La Charluca"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6830400542,
+    "lat": 41.5510368,
+    "lon": -1.8861103,
+    "timestamp": "2019-09-28T17:33:34Z",
+    "version": 2,
+    "changeset": 75045378,
+    "user": "mor",
+    "uid": 220932,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Hostal La Venta",
+      "phone": "+34 976 54 60 33",
+      "tourism": "guest_house"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7191531142,
+    "lat": 41.8684637,
+    "lon": -1.3180375,
+    "timestamp": "2020-02-06T17:15:58Z",
+    "version": 1,
+    "changeset": 80654093,
+    "user": "DPastor",
+    "uid": 10726689,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "El Gallo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7564275109,
+    "lat": 41.7903774,
+    "lon": -1.8176571,
+    "timestamp": "2020-05-27T23:23:00Z",
+    "version": 1,
+    "changeset": 85855865,
+    "user": "cronoser",
+    "uid": 461005,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Albergue Santuario del Moncayo",
+      "tourism": "hostel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7564275116,
+    "lat": 41.8160815,
+    "lon": -1.8228131,
+    "timestamp": "2020-05-27T23:23:00Z",
+    "version": 1,
+    "changeset": 85855865,
+    "user": "cronoser",
+    "uid": 461005,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7880474860,
+    "lat": 41.2035435,
+    "lon": -1.7853609,
+    "timestamp": "2023-10-28T20:14:25Z",
+    "version": 2,
+    "changeset": 143281488,
+    "user": "b-jazz-bot",
+    "uid": 9451067,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurante Las Truchas",
+      "phone": "+34 976 849 040",
+      "website": "https://www.hotellastruchas.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7880476934,
+    "lat": 41.0693541,
+    "lon": -1.3355028,
+    "timestamp": "2023-11-05T08:04:29Z",
+    "version": 2,
+    "changeset": 143639408,
+    "user": "b-jazz-bot",
+    "uid": 9451067,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurante de Anento",
+      "phone": "+34 672 600 990",
+      "website": "https://www.anento.es/servicios/restauracion/restaurante-los-esquiladores/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7921004521,
+    "lat": 41.0729978,
+    "lon": -1.8306556,
+    "timestamp": "2020-09-18T18:02:38Z",
+    "version": 1,
+    "changeset": 91126231,
+    "user": "alejandroscf",
+    "uid": 31829,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8447483107,
+    "lat": 41.3536047,
+    "lon": -1.6455745,
+    "timestamp": "2021-02-24T13:16:33Z",
+    "version": 2,
+    "changeset": 99907836,
+    "user": "Note Control",
+    "uid": 10953870,
+    "tags": {
+      "addr:city": "Calatayud",
+      "addr:housenumber": "8",
+      "addr:postcode": "50300",
+      "addr:street": "Calle Herrer y Marco",
+      "amenity": "restaurant",
+      "cuisine": "spanish;regional",
+      "name": "Restaurante Puerta de Terrer",
+      "phone": "+34 976 89 54 66",
+      "start_date": "2009",
+      "website": "https://restaurantepuertadeterrer.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8670993733,
+    "lat": 41.4451505,
+    "lon": -1.7047833,
+    "timestamp": "2024-08-25T22:15:12Z",
+    "version": 4,
+    "changeset": 155757525,
+    "user": "Aninius",
+    "uid": 21884154,
+    "tags": {
+      "addr:city": "Aniñón",
+      "addr:housenumber": "5",
+      "addr:postcode": "50313",
+      "addr:street": "Plaza Mayor",
+      "amenity": "restaurant",
+      "brewery": "yes",
+      "cuisine": "regional",
+      "name": "Restaurante Navarro",
+      "opening_hours": "Mo-Su 08:00-23:00",
+      "website": "https://es.restaurantguru.com/Bar-Navarro-Aninon",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8670994287,
+    "lat": 41.4453319,
+    "lon": -1.7047042,
+    "timestamp": "2024-08-25T10:01:51Z",
+    "version": 3,
+    "changeset": 155729237,
+    "user": "Aninius",
+    "uid": 21884154,
+    "tags": {
+      "addr:city": "Aniñón",
+      "addr:postcode": "50313",
+      "addr:street": "Cuesta De La Iglesia, Aniñón",
+      "amenity": "restaurant",
+      "brewery": "yes",
+      "cuisine": "regional",
+      "name": "El Zaguán (cerrado)",
+      "opening_hours": "Mo-Su 08:00-23:00",
+      "opening_hours:covid19": "closed",
+      "phone": "+34 976 89 92 72",
+      "website": "https://es.restaurantguru.com/Bar-Restaurante-El-Zaguan-Aninon",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9193737937,
+    "lat": 41.3725532,
+    "lon": -1.5822252,
+    "timestamp": "2021-10-22T17:10:26Z",
+    "version": 1,
+    "changeset": 112848233,
+    "user": "alejandroscf",
+    "uid": 31829,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Hotel Miravella"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9483601722,
+    "lat": 41.3553579,
+    "lon": -1.6405956,
+    "timestamp": "2022-02-06T14:56:59Z",
+    "version": 1,
+    "changeset": 117082166,
+    "user": "msevilla00",
+    "uid": 240498,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Casa Escartín"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9806670617,
+    "lat": 41.8407235,
+    "lon": -2.0452559,
+    "timestamp": "2025-02-06T13:10:04Z",
+    "version": 3,
+    "changeset": 162208142,
+    "user": "mueschel",
+    "uid": 616774,
+    "tags": {
+      "addr:housenumber": "14",
+      "addr:street": "Carretera del valle del Duero",
+      "amenity": "restaurant",
+      "name": "Asador El Rosco",
+      "phone": "+34 975383353"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9828611051,
+    "lat": 41.81335,
+    "lon": -1.6955154,
+    "timestamp": "2022-06-18T16:32:36Z",
+    "version": 1,
+    "changeset": 122553037,
+    "user": "Hugoren Martinako",
+    "uid": 3392826,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "La Corza Blanca"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9835337022,
+    "lat": 41.819219,
+    "lon": -1.6924006,
+    "timestamp": "2022-06-21T07:19:14Z",
+    "version": 1,
+    "changeset": 122651371,
+    "user": "Hugoren Martinako",
+    "uid": 3392826,
+    "tags": {
+      "amenity": "restaurant",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9954141418,
+    "lat": 41.8376412,
+    "lon": -1.7915564,
+    "timestamp": "2022-08-19T12:01:22Z",
+    "version": 2,
+    "changeset": 125104068,
+    "user": "Britzz",
+    "uid": 7550430,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "El fogón",
+      "survey:date": "2022-08-15"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9954143017,
+    "lat": 41.8374862,
+    "lon": -1.7916417,
+    "timestamp": "2022-08-15T08:19:23Z",
+    "version": 1,
+    "changeset": 124915902,
+    "user": "Britzz",
+    "uid": 7550430,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "La flor",
+      "survey:date": "2022-08-15"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10589669958,
+    "lat": 41.5478922,
+    "lon": -1.6495223,
+    "timestamp": "2023-01-28T19:44:40Z",
+    "version": 1,
+    "changeset": 131819952,
+    "user": "VLanzarote",
+    "uid": 11441079,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10693401291,
+    "lat": 41.1138931,
+    "lon": -1.4145077,
+    "timestamp": "2023-02-25T18:11:04Z",
+    "version": 1,
+    "changeset": 133016949,
+    "user": "Baxe Nafarroa",
+    "uid": 6672338,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "La Roca"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10693469921,
+    "lat": 41.1133486,
+    "lon": -1.4163885,
+    "timestamp": "2023-02-25T18:17:13Z",
+    "version": 1,
+    "changeset": 133017155,
+    "user": "Baxe Nafarroa",
+    "uid": 6672338,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "La Perragorda"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11071056706,
+    "lat": 41.906857,
+    "lon": -1.7241099,
+    "timestamp": "2025-03-10T14:34:21Z",
+    "version": 3,
+    "changeset": 163445473,
+    "user": "Carlos Jaraute",
+    "uid": 22239965,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "El Caserón II"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11071056707,
+    "lat": 41.8375428,
+    "lon": -1.7916954,
+    "timestamp": "2023-07-27T11:20:36Z",
+    "version": 1,
+    "changeset": 139081311,
+    "user": "coloresworld",
+    "uid": 10946106,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "La Flor"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11071059105,
+    "lat": 41.8376687,
+    "lon": -1.7917404,
+    "timestamp": "2023-07-27T11:20:35Z",
+    "version": 1,
+    "changeset": 139081311,
+    "user": "coloresworld",
+    "uid": 10946106,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "El Fogón"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11295242737,
+    "lat": 41.8174247,
+    "lon": -1.4886257,
+    "timestamp": "2023-10-28T10:20:22Z",
+    "version": 1,
+    "changeset": 143253013,
+    "user": "VLanzarote",
+    "uid": 11441079,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11637686245,
+    "lat": 41.354241,
+    "lon": -1.6430131,
+    "timestamp": "2024-02-18T11:44:26Z",
+    "version": 1,
+    "changeset": 147605166,
+    "user": "msevilla00",
+    "uid": 240498,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "La Taberna"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11799566295,
+    "lat": 41.310708,
+    "lon": -2.0542868,
+    "timestamp": "2024-04-07T11:28:15Z",
+    "version": 1,
+    "changeset": 149688000,
+    "user": "msevilla00",
+    "uid": 240498,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "mediterranean",
+      "name": "Toño's"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12077218054,
+    "lat": 41.2120523,
+    "lon": -1.7890616,
+    "timestamp": "2024-07-27T17:49:51Z",
+    "version": 1,
+    "changeset": 154494475,
+    "user": "Robot8A",
+    "uid": 393359,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date": "2024-07-27",
+      "name": "Río Piedra",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12384704721,
+    "lat": 41.9969255,
+    "lon": -1.5111572,
+    "timestamp": "2024-11-29T16:24:52Z",
+    "version": 1,
+    "changeset": 159748668,
+    "user": "Aitor Urrutia",
+    "uid": 22206658,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Zona Centro"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12416524314,
+    "lat": 41.9949312,
+    "lon": -1.540573,
+    "timestamp": "2024-12-12T16:42:30Z",
+    "version": 1,
+    "changeset": 160215429,
+    "user": "cronoser",
+    "uid": 461005,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "spanish",
+      "name": "Casa Ana"
+    }
+  },
+  {
+    "type": "way",
+    "id": 166566397,
+    "timestamp": "2012-08-26T09:35:46Z",
+    "version": 2,
+    "changeset": 12863923,
+    "user": "cdavila",
+    "uid": 26599,
+    "center": {
+      "lat": 41.3538607,
+      "lon": -1.6230442
+    },
+    "nodes": [
+      1780145461,
+      1780145455,
+      1780145458,
+      1780145463,
+      1780145465,
+      1780145468,
+      1780145461
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Factoria Resort"
+    }
+  },
+  {
+    "type": "way",
+    "id": 183152979,
+    "timestamp": "2012-09-28T16:16:07Z",
+    "version": 2,
+    "changeset": 13286951,
+    "user": "OJECalatayud",
+    "uid": 300406,
+    "center": {
+      "lat": 41.3175291,
+      "lon": -1.675685
+    },
+    "nodes": [
+      1935138720,
+      1935138674,
+      1935138678,
+      1935138672,
+      1935138668,
+      1935138670,
+      1935138676,
+      1935138720
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "regional",
+      "name": "Campo de Golf"
+    }
+  },
+  {
+    "type": "way",
+    "id": 183152981,
+    "timestamp": "2018-05-09T14:44:32Z",
+    "version": 3,
+    "changeset": 58822001,
+    "user": "Robot8A",
+    "uid": 393359,
+    "center": {
+      "lat": 41.3252885,
+      "lon": -1.6678262
+    },
+    "nodes": [
+      1935138950,
+      1935138951,
+      1935138945,
+      1935138944,
+      1935138935,
+      1935138921,
+      1935138926,
+      1935138929,
+      1935138942,
+      1935138952,
+      1935138954,
+      1935138958,
+      1935138956,
+      1935138950
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "regional",
+      "name": "Valdeherrera",
+      "wikidata": "Q6158704"
+    }
+  },
+  {
+    "type": "way",
+    "id": 205238051,
+    "timestamp": "2016-01-20T14:24:35Z",
+    "version": 3,
+    "changeset": 36702139,
+    "user": "dalop",
+    "uid": 538899,
+    "center": {
+      "lat": 41.8462269,
+      "lon": -1.3544498
+    },
+    "nodes": [
+      2152133504,
+      3956779280,
+      3956779277,
+      3956779270,
+      3956779273,
+      2152133501,
+      3956779281,
+      3956779283,
+      2152133505,
+      3956779286,
+      2152133509,
+      3956779285,
+      2152133504
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 222708880,
+    "timestamp": "2016-10-20T15:19:58Z",
+    "version": 3,
+    "changeset": 43033426,
+    "user": "albjorgui",
+    "uid": 230487,
+    "center": {
+      "lat": 41.4775669,
+      "lon": -1.3908651
+    },
+    "nodes": [
+      2316500196,
+      4352297038,
+      2316500198,
+      2316500197,
+      2316500199,
+      4352297037,
+      2316500190,
+      2316500191,
+      2316500194,
+      2316500193,
+      2316500200,
+      2316500195,
+      2316500192,
+      4352297036,
+      2316500196
+    ],
+    "tags": {
+      "addr:city": "Ricla",
+      "addr:country": "ES",
+      "addr:housenumber": "289",
+      "addr:postcode": "50270",
+      "addr:street": "Ctra. Nac II",
+      "amenity": "restaurant",
+      "building": "hotel",
+      "designation": "Restaurante/Hotel",
+      "email": "layeseriahotelrestaurant@gmail.com",
+      "internet_access": "yes",
+      "internet_access:fee": "no",
+      "name": "La Yeseria",
+      "phone": "+34 976 60 62 62",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "way",
+    "id": 239055317,
+    "timestamp": "2018-02-04T04:09:52Z",
+    "version": 4,
+    "changeset": 56044937,
+    "user": "LADG1",
+    "uid": 4503520,
+    "center": {
+      "lat": 41.4935762,
+      "lon": -1.3754294
+    },
+    "nodes": [
+      2468689131,
+      4370903898,
+      2468689132,
+      2468689133,
+      2468689134,
+      4370903933,
+      2468689135,
+      4370903932,
+      4370903931,
+      2468689136,
+      4370903930,
+      4370903929,
+      4370903928,
+      4370903927,
+      5384967973,
+      5384967972,
+      4370903926,
+      2468689138,
+      4370903925,
+      4370903924,
+      4370903923,
+      4370903922,
+      4370903921,
+      4370903920,
+      5384967971,
+      5384967970,
+      4370903919,
+      4370903918,
+      2468689139,
+      4370903917,
+      4370903916,
+      2468689140,
+      4370903915,
+      2468689141,
+      5384967967,
+      5384967968,
+      5384967969,
+      4370903914,
+      4370903913,
+      4370903912,
+      4370903911,
+      4370903910,
+      4370903909,
+      4370903908,
+      4370903907,
+      4370903906,
+      4370903905,
+      4370903904,
+      4370903903,
+      2468689142,
+      2468689143,
+      2468689144,
+      4370903900,
+      4370903902,
+      4370903901,
+      4370903899,
+      2468689145,
+      2468689131
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "building:levels": "1",
+      "cuisine": "burger;sandwich;regional;grill;ice_cream;coffee_shop;steak_house;pancake;spanish;diner;breakfast;tea;mediterranean;local;tapas",
+      "internet_access": "wlan",
+      "name": "Bar Lolita",
+      "name:es": "Bar Lolita Almunia Park",
+      "opening_hours": "Mo-Sa 07:00-23:00"
+    }
+  },
+  {
+    "type": "way",
+    "id": 261504946,
+    "timestamp": "2014-02-14T09:30:47Z",
+    "version": 1,
+    "changeset": 20555375,
+    "user": "afuentea",
+    "uid": 405609,
+    "center": {
+      "lat": 41.1595596,
+      "lon": -1.9123871
+    },
+    "nodes": [
+      2671140789,
+      2671140790,
+      2671140791,
+      2671140793,
+      2671140794,
+      2671140795,
+      2671140796,
+      2671140797,
+      2671140798,
+      2671140789
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Bar Papito Caracol"
+    }
+  },
+  {
+    "type": "way",
+    "id": 303514741,
+    "timestamp": "2024-12-12T16:14:04Z",
+    "version": 2,
+    "changeset": 160214504,
+    "user": "cronoser",
+    "uid": 461005,
+    "center": {
+      "lat": 41.9863852,
+      "lon": -1.5303886
+    },
+    "nodes": [
+      3078831412,
+      12416488645,
+      3078831409,
+      3078831411,
+      12416488644,
+      12416488643,
+      3078831412
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "building:levels": "1",
+      "cuisine": "spanish",
+      "delivery": "no",
+      "name": "Valcarce Sancho el Fuerte",
+      "operator": "Valcarce",
+      "outdoor_seating": "yes",
+      "takeaway": "no"
+    }
+  },
+  {
+    "type": "way",
+    "id": 333912073,
+    "timestamp": "2015-03-20T21:35:42Z",
+    "version": 1,
+    "changeset": 29625374,
+    "user": "alejandroscf",
+    "uid": 31829,
+    "center": {
+      "lat": 41.497548,
+      "lon": -1.3875947
+    },
+    "nodes": [
+      3409621603,
+      3409621607,
+      3409621606,
+      3409621605,
+      3409621604,
+      3409621602,
+      3409621595,
+      3409620091,
+      3409620089,
+      3409620088,
+      3409620087,
+      3409620086,
+      3409620085,
+      3409620083,
+      3409620081,
+      3409620084,
+      3409620082,
+      3409620080,
+      3409620079,
+      3409620090,
+      3409620092,
+      3409621593,
+      3409621594,
+      3409621597,
+      3409621599,
+      3409621600,
+      3409621598,
+      3409621596,
+      3409621601,
+      3409621603
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "name": "La Gallega"
+    }
+  },
+  {
+    "type": "way",
+    "id": 335953270,
+    "timestamp": "2015-04-02T11:59:13Z",
+    "version": 2,
+    "changeset": 29926606,
+    "user": "Jesu500",
+    "uid": 2530281,
+    "center": {
+      "lat": 41.0465401,
+      "lon": -2.2028525
+    },
+    "nodes": [
+      3430458875,
+      3430458883,
+      3430458880,
+      3430458877,
+      3430458876,
+      3430458869,
+      3430458875
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "building:levels": "2",
+      "name": "La Fonda"
+    }
+  },
+  {
+    "type": "way",
+    "id": 336064773,
+    "timestamp": "2015-04-02T11:59:08Z",
+    "version": 1,
+    "changeset": 29926606,
+    "user": "Jesu500",
+    "uid": 2530281,
+    "center": {
+      "lat": 41.0461267,
+      "lon": -2.2040165
+    },
+    "nodes": [
+      3431448516,
+      3431448520,
+      3431448523,
+      3431448521,
+      3431448522,
+      3431448519,
+      3431448517,
+      3431448516
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "commercial",
+      "building:levels": "3",
+      "internet_access": "wlan",
+      "internet_access:fee": "no",
+      "name": "La Nava",
+      "outdoor_seating": "yes",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 336064774,
+    "timestamp": "2015-04-02T11:59:08Z",
+    "version": 1,
+    "changeset": 29926606,
+    "user": "Jesu500",
+    "uid": 2530281,
+    "center": {
+      "lat": 41.0482886,
+      "lon": -2.2060436
+    },
+    "nodes": [
+      3431448532,
+      3431448534,
+      3431448535,
+      3431448533,
+      3431448532
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "commercial",
+      "building:levels": "3",
+      "name": "Madrid",
+      "outdoor_seating": "yes",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "way",
+    "id": 336070831,
+    "timestamp": "2023-03-19T09:09:35Z",
+    "version": 4,
+    "changeset": 133849329,
+    "user": "canfe",
+    "uid": 6645382,
+    "center": {
+      "lat": 41.0478149,
+      "lon": -2.2049346
+    },
+    "nodes": [
+      3431510679,
+      3431510681,
+      3431510683,
+      3431510682,
+      3431510679
+    ],
+    "tags": {
+      "addr:street": "Calle del Horno",
+      "amenity": "restaurant",
+      "building": "commercial",
+      "internet_access": "wlan",
+      "name": "Cafetería Marcos",
+      "name:es": "Cafetería Bar MARCOS"
+    }
+  },
+  {
+    "type": "way",
+    "id": 388431171,
+    "timestamp": "2017-06-16T20:42:00Z",
+    "version": 2,
+    "changeset": 49601764,
+    "user": "Jesu500",
+    "uid": 2530281,
+    "center": {
+      "lat": 41.048172,
+      "lon": -2.2061187
+    },
+    "nodes": [
+      3916311523,
+      3916311527,
+      3916311525,
+      3916311526,
+      3916311524,
+      3916311520,
+      3916311519,
+      3916311517,
+      3916311523
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Bar del 15",
+      "outdoor_seating": "yes",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 464920643,
+    "timestamp": "2017-01-10T12:29:20Z",
+    "version": 2,
+    "changeset": 45049610,
+    "user": "felixi",
+    "uid": 293845,
+    "center": {
+      "lat": 41.0700091,
+      "lon": -1.3339792
+    },
+    "nodes": [
+      4599688452,
+      4599688454,
+      4599688459,
+      4599688455,
+      4599688458,
+      4599688453,
+      4599688452
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "La Huella"
+    }
+  },
+  {
+    "type": "way",
+    "id": 479326120,
+    "timestamp": "2017-03-08T17:46:41Z",
+    "version": 1,
+    "changeset": 46687442,
+    "user": "dalop",
+    "uid": 538899,
+    "center": {
+      "lat": 41.8326741,
+      "lon": -1.3198467
+    },
+    "nodes": [
+      4724473072,
+      4724473071,
+      4724473070,
+      4724473069,
+      4724473072
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "exit:road_ref": "AP-68",
+      "highway": "services",
+      "name": "Área de Servicio de Gallur"
+    }
+  },
+  {
+    "type": "way",
+    "id": 479326121,
+    "timestamp": "2017-03-08T17:46:41Z",
+    "version": 1,
+    "changeset": 46687442,
+    "user": "dalop",
+    "uid": 538899,
+    "center": {
+      "lat": 41.834753,
+      "lon": -1.3198314
+    },
+    "nodes": [
+      4724473076,
+      4724473073,
+      4724472915,
+      4724472912,
+      4724472913,
+      4724472914,
+      4724473074,
+      4724473075,
+      4724473076
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "exit:road_ref": "AP-68",
+      "highway": "services",
+      "name": "Área de Servicio de Gallur"
+    }
+  },
+  {
+    "type": "way",
+    "id": 541601610,
+    "timestamp": "2017-11-18T19:57:28Z",
+    "version": 1,
+    "changeset": 53909989,
+    "user": "ansuta",
+    "uid": 3188422,
+    "center": {
+      "lat": 41.3066201,
+      "lon": -1.9635105
+    },
+    "nodes": [
+      5236994349,
+      5236994350,
+      5236994351,
+      5236994352,
+      5236994353,
+      5236994354,
+      5236994355,
+      5236994356,
+      5236994349
+    ],
+    "tags": {
+      "addr:city": "Cetina",
+      "addr:postcode": "50292",
+      "addr:street": "Autovía del Nordeste Km. 200",
+      "amenity": "restaurant",
+      "building": "yes",
+      "capacity": "70",
+      "cuisine": "breakfast;friture",
+      "name": "Restaurante El Vergel",
+      "opening_hours": "Mo-Su 08:00-00:00",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 575900518,
+    "timestamp": "2019-08-18T18:18:15Z",
+    "version": 2,
+    "changeset": 73470359,
+    "user": "Emilio Eugenio",
+    "uid": 3842919,
+    "center": {
+      "lat": 41.3973869,
+      "lon": -1.3227665
+    },
+    "nodes": [
+      5525009024,
+      5525009046,
+      5525009043,
+      5525009022,
+      5525008412,
+      5525008400,
+      5525008403,
+      5525008402,
+      5525008418,
+      5525009024
+    ],
+    "tags": {
+      "addr:housenumber": "5",
+      "addr:postcode": "50108",
+      "addr:street": "Calle San Isidro",
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "regional",
+      "name": "Mesón de los 20 platos",
+      "opening_hours": "Mo-Fr 13:00-15:30; Sa-Su 13:30-16:00",
+      "outdoor_seating": "yes",
+      "phone": "+34976627014"
+    }
+  },
+  {
+    "type": "way",
+    "id": 953378418,
+    "timestamp": "2024-09-27T22:23:25Z",
+    "version": 3,
+    "changeset": 157190165,
+    "user": "MarinoBM",
+    "uid": 11454828,
+    "center": {
+      "lat": 41.8138877,
+      "lon": -1.7545854
+    },
+    "nodes": [
+      8824382793,
+      8824382794,
+      8824382792,
+      8824382795,
+      8824382793
+    ],
+    "tags": {
+      "addr:city": "Litago",
+      "addr:housenumber": "6",
+      "addr:postcode": "50582",
+      "addr:street": "Avenida de Moncayo",
+      "air_conditioning": "no",
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "casera",
+      "name": "Bar Las Escuelas"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1124600065,
+    "timestamp": "2023-12-06T15:41:18Z",
+    "version": 2,
+    "changeset": 144833684,
+    "user": "garaolaza",
+    "uid": 1297,
+    "center": {
+      "lat": 41.193595,
+      "lon": -1.7813549
+    },
+    "nodes": [
+      10284210839,
+      10284210840,
+      10284210841,
+      10284210842,
+      10284210843,
+      10284210844,
+      10284210845,
+      10284210846,
+      10284210839
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "service",
+      "building:levels": "2",
+      "check_date": "2023-12-06",
+      "name": "Piedra Vieja"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1364313182,
+    "timestamp": "2025-03-03T17:44:05Z",
+    "version": 1,
+    "changeset": 163171612,
+    "user": "Carlos Jaraute",
+    "uid": 22239965,
+    "center": {
+      "lat": 41.8168917,
+      "lon": -1.5196875
+    },
+    "nodes": [
+      12633761959,
+      12633761964,
+      12633761965,
+      12633761966,
+      12633761962,
+      12633761963,
+      12633761959
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Lau-2"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1364530081,
+    "timestamp": "2025-03-04T16:29:25Z",
+    "version": 1,
+    "changeset": 163209230,
+    "user": "Carlos Jaraute",
+    "uid": 22239965,
+    "center": {
+      "lat": 41.8312209,
+      "lon": -1.5194881
+    },
+    "nodes": [
+      12636219320,
+      12636219321,
+      12636219323,
+      12636219324,
+      12636219320
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Meson Las Ruedas"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1364891590,
+    "timestamp": "2025-03-06T00:29:17Z",
+    "version": 1,
+    "changeset": 163266021,
+    "user": "Carlos Jaraute",
+    "uid": 22239965,
+    "center": {
+      "lat": 41.8323744,
+      "lon": -1.5167754
+    },
+    "nodes": [
+      11295235082,
+      12639769191,
+      12639769192,
+      12639769193,
+      12639769194,
+      11295235085,
+      11295235082
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Gastropadel"
+    }
+  }
+]

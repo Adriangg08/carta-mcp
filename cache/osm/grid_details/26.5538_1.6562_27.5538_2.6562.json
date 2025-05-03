@@ -1,0 +1,57 @@
+[
+  {
+    "type": "node",
+    "id": 4212914823,
+    "lat": 27.2040917,
+    "lon": 2.4868713,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4426951193,
+    "lat": 27.1073666,
+    "lon": 1.9101467,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 4,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "المطعم المدرسي أنس ابن مالك",
+      "name:ar": "مطعم مدرسي",
+      "name:ber": "Tneccit n uɣerbaz",
+      "name:en": "school canteen",
+      "name:fr": "Cantine scolaire"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4973515326,
+    "lat": 27.2000343,
+    "lon": 2.4798899,
+    "timestamp": "2018-06-13T17:54:53Z",
+    "version": 2,
+    "changeset": 59818370,
+    "user": "ButterflyOfFire_",
+    "uid": 2842609,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "مطعم باطير",
+      "name:ar": "مطعم باطير",
+      "name:fr": "restaurant batyre"
+    }
+  }
+]

@@ -1,0 +1,376 @@
+[
+  {
+    "type": "node",
+    "id": 1122564669,
+    "lat": 32.2472037,
+    "lon": -4.391798,
+    "timestamp": "2011-01-26T22:21:45Z",
+    "version": 1,
+    "changeset": 7098777,
+    "user": "cdavila",
+    "uid": 26599,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurante Cafe Raha"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1123674521,
+    "lat": 31.9291236,
+    "lon": -4.4273999,
+    "timestamp": "2011-01-27T18:26:48Z",
+    "version": 1,
+    "changeset": 7106103,
+    "user": "cdavila",
+    "uid": 26599,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Cafe Snack Restaurant Atlanta"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1139688255,
+    "lat": 31.576459,
+    "lon": -4.7394169,
+    "timestamp": "2011-02-06T20:17:15Z",
+    "version": 1,
+    "changeset": 7209123,
+    "user": "cdavila",
+    "uid": 26599,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Café Touroug"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2312523061,
+    "lat": 31.9327428,
+    "lon": -4.4254303,
+    "timestamp": "2013-05-20T07:54:13Z",
+    "version": 1,
+    "changeset": 16203915,
+    "user": "obitus",
+    "uid": 510390,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4560285489,
+    "lat": 32.4974554,
+    "lon": -4.4850029,
+    "timestamp": "2025-02-14T18:04:17Z",
+    "version": 2,
+    "changeset": 162512955,
+    "user": "alain2003",
+    "uid": 578772,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "مقهى ومطعم ناديةCafe restaurant Nadia",
+      "name:ar": "مقهى ومطعم نادية",
+      "name:en": "Cafe restaurant Nadia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5278123673,
+    "lat": 31.6888652,
+    "lon": -4.9561404,
+    "timestamp": "2022-01-20T20:48:03Z",
+    "version": 2,
+    "changeset": 116402327,
+    "user": "Yamílo",
+    "uid": 11332999,
+    "tags": {
+      "addr:city": "كلميمة",
+      "addr:city:ar": "كلميمة",
+      "addr:city:es": "Gulmima",
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5278123675,
+    "lat": 31.6905401,
+    "lon": -4.9562195,
+    "timestamp": "2017-12-11T18:23:28Z",
+    "version": 1,
+    "changeset": 54547146,
+    "user": "mountenjoy",
+    "uid": 4818766,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "chicken;regional",
+      "outdoor_seating": "yes",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5278123676,
+    "lat": 31.6893432,
+    "lon": -4.9553594,
+    "timestamp": "2022-01-20T20:48:03Z",
+    "version": 2,
+    "changeset": 116402327,
+    "user": "Yamílo",
+    "uid": 11332999,
+    "tags": {
+      "addr:city": "كلميمة",
+      "addr:city:ar": "كلميمة",
+      "addr:city:es": "Gulmima",
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6522174506,
+    "lat": 32.251247,
+    "lon": -4.3883273,
+    "timestamp": "2019-06-04T22:15:18Z",
+    "version": 1,
+    "changeset": 70939506,
+    "user": "Cyrille37",
+    "uid": 454932,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Kasbah Dounia",
+      "source": "survey+Bing",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6522174539,
+    "lat": 32.1949691,
+    "lon": -4.3753561,
+    "timestamp": "2019-06-04T22:15:18Z",
+    "version": 1,
+    "changeset": 70939506,
+    "user": "Cyrille37",
+    "uid": 454932,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Café Restaurant Bab Sahra",
+      "source": "Mapillary 2015"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6622498045,
+    "lat": 32.2749388,
+    "lon": -4.4869829,
+    "timestamp": "2019-07-17T11:32:38Z",
+    "version": 1,
+    "changeset": 72343611,
+    "user": "Cyrille37",
+    "uid": 454932,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "barbecue;international;kebab;mediterranean;pizza;chicken;regional;sandwich",
+      "outdoor_seating": "yes",
+      "smoking": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6627507909,
+    "lat": 32.1133166,
+    "lon": -4.3680607,
+    "timestamp": "2019-07-18T11:39:15Z",
+    "version": 1,
+    "changeset": 72386326,
+    "user": "Cyrille37",
+    "uid": 454932,
+    "tags": {
+      "amenity": "restaurant",
+      "internet_access": "wlan",
+      "internet_access:fee": "no",
+      "name": "Luna del Fuego",
+      "outdoor_seating": "yes",
+      "takeaway": "no",
+      "tourism": "guest_house"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6627652572,
+    "lat": 32.2660243,
+    "lon": -4.4222806,
+    "timestamp": "2019-07-18T12:34:15Z",
+    "version": 1,
+    "changeset": 72388638,
+    "user": "Cyrille37",
+    "uid": 454932,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Café Restaurant Salama",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7035775032,
+    "lat": 31.5541218,
+    "lon": -4.8422697,
+    "timestamp": "2019-12-05T12:02:12Z",
+    "version": 1,
+    "changeset": 77992211,
+    "user": "sissou",
+    "uid": 13303,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7272874847,
+    "lat": 31.9156465,
+    "lon": -4.4529183,
+    "timestamp": "2020-03-06T20:58:22Z",
+    "version": 1,
+    "changeset": 81884404,
+    "user": "GPS",
+    "uid": 120672,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Ighiz Inn"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8856748936,
+    "lat": 31.9319256,
+    "lon": -4.4242342,
+    "timestamp": "2024-05-05T22:36:33Z",
+    "version": 4,
+    "changeset": 150941262,
+    "user": "ChrissW-R1",
+    "uid": 251543,
+    "tags": {
+      "amenity": "restaurant",
+      "contact:phone": "+212661466816",
+      "name": "Doha",
+      "name:ar": "الدوحة",
+      "name:azb": "دوحه",
+      "name:de": "Doha",
+      "name:el": "Ντόχα",
+      "name:es": "Doha",
+      "name:grc": "Δοχή",
+      "name:pa": "ਦੋਹਾ",
+      "name:ug": "دوھا",
+      "name:ur": "دوحہ"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8860542253,
+    "lat": 31.6858281,
+    "lon": -4.9587464,
+    "timestamp": "2021-06-23T15:42:22Z",
+    "version": 1,
+    "changeset": 106847916,
+    "user": "Traktorbek",
+    "uid": 7370308,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Café Restaurant Boucherie Kanzi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9187952216,
+    "lat": 31.9315613,
+    "lon": -4.426889,
+    "timestamp": "2021-10-20T17:15:24Z",
+    "version": 1,
+    "changeset": 112754696,
+    "user": "Traktorbek",
+    "uid": 7370308,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Marina",
+      "phone": "+212606666444"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9192978298,
+    "lat": 31.9301959,
+    "lon": -4.4259503,
+    "timestamp": "2022-05-11T13:55:44Z",
+    "version": 3,
+    "changeset": 120842511,
+    "user": "Peter Maris",
+    "uid": 15543111,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Dima Cinq Cinq",
+      "name:es": "Dima Cinco Cinco",
+      "phone": "+212808546453"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11733820323,
+    "lat": 31.5576085,
+    "lon": -4.7092087,
+    "timestamp": "2024-03-15T11:01:50Z",
+    "version": 1,
+    "changeset": 148682132,
+    "user": "94621",
+    "uid": 8225234,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Espace"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12165324701,
+    "lat": 31.9320366,
+    "lon": -4.4276371,
+    "timestamp": "2024-09-09T10:52:58Z",
+    "version": 1,
+    "changeset": 156388577,
+    "user": "lecolibri258",
+    "uid": 9396646,
+    "tags": {
+      "addr:street": "Rue Mohammed Zarktouni",
+      "amenity": "restaurant",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 957174565,
+    "timestamp": "2021-06-22T14:44:26Z",
+    "version": 1,
+    "changeset": 106783766,
+    "user": "Traktorbek",
+    "uid": 7370308,
+    "center": {
+      "lat": 31.9307098,
+      "lon": -4.4251619
+    },
+    "nodes": [
+      8857202665,
+      8857202664,
+      8857202663,
+      8857202662,
+      8857202665
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Restaurant Imilchil"
+    }
+  }
+]

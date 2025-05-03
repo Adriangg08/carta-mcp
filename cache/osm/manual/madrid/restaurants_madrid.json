@@ -1,0 +1,99 @@
+[
+  {
+    "type": "node",
+    "id": 1884775626,
+    "lat": 41.8741953,
+    "lon": -93.8148033,
+    "timestamp": "2012-08-27T02:33:23Z",
+    "version": 1,
+    "changeset": 12874033,
+    "user": "Jeff Ollie",
+    "uid": 102411,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Raddish Express"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10582585212,
+    "lat": 41.8742021,
+    "lon": -93.8161674,
+    "timestamp": "2023-01-25T20:06:06Z",
+    "version": 1,
+    "changeset": 131709562,
+    "user": "tolsen98",
+    "uid": 18319391,
+    "tags": {
+      "amenity": "fast_food",
+      "name": "Pit Stop Smoothies Madrid"
+    }
+  },
+  {
+    "type": "way",
+    "id": 178097851,
+    "timestamp": "2012-08-27T02:34:02Z",
+    "version": 1,
+    "changeset": 12874033,
+    "user": "Jeff Ollie",
+    "uid": 102411,
+    "center": {
+      "lat": 41.8743122,
+      "lon": -93.8146205
+    },
+    "nodes": [
+      1884776253,
+      1884776257,
+      1884776278,
+      1884776292,
+      1884776291,
+      1884776279,
+      1884776275,
+      1884776253
+    ],
+    "tags": {
+      "amenity": "bar",
+      "building": "yes",
+      "name": "Flat Tire Lounge"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1159970125,
+    "timestamp": "2024-05-19T11:58:26Z",
+    "version": 6,
+    "changeset": 151531141,
+    "user": "whammo",
+    "uid": 1962542,
+    "center": {
+      "lat": 41.8799796,
+      "lon": -93.8149382
+    },
+    "nodes": [
+      10788022587,
+      10788022593,
+      10788022578,
+      10788022579,
+      10788022580,
+      10788022587
+    ],
+    "tags": {
+      "addr:city": "Madrid",
+      "addr:housenumber": "404",
+      "addr:postcode": "50156",
+      "addr:state": "IA",
+      "addr:street": "Annex Road",
+      "amenity": "fast_food",
+      "brand": "Subway",
+      "brand:wikidata": "Q244457",
+      "building": "yes",
+      "cuisine": "sandwich",
+      "name": "Subway",
+      "not:brand:wikidata": "Q244457",
+      "opening_hours": "Mo-Fr 09:00-21:00; Sa-Su 09:00-20:30",
+      "phone": "+1 515-795-4433",
+      "takeaway": "yes",
+      "website": "https://restaurants.subway.com/united-states/ia/madrid/403-annex-rd"
+    }
+  }
+]

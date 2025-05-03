@@ -1,0 +1,117 @@
+[
+  {
+    "type": "node",
+    "id": 3402901110,
+    "lat": 33.4175905,
+    "lon": 3.5497135,
+    "timestamp": "2018-06-13T17:53:36Z",
+    "version": 2,
+    "changeset": 59818370,
+    "user": "ButterflyOfFire_",
+    "uid": 2842609,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Restaurant Ammar Amri"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10006952873,
+    "lat": 32.9562304,
+    "lon": 3.2777872,
+    "timestamp": "2022-09-07T16:36:02Z",
+    "version": 1,
+    "changeset": 125909580,
+    "user": "brahim001",
+    "uid": 2630870,
+    "tags": {
+      "addr:city": "حاسي الرمل",
+      "amenity": "restaurant",
+      "name": "Ghani - Doubara"
+    }
+  },
+  {
+    "type": "way",
+    "id": 363622561,
+    "timestamp": "2022-09-15T10:45:50Z",
+    "version": 2,
+    "changeset": 126218164,
+    "user": "brahim001",
+    "uid": 2630870,
+    "center": {
+      "lat": 32.9286659,
+      "lon": 3.2702712
+    },
+    "nodes": [
+      3677908806,
+      10026686614,
+      3677908807,
+      3677908808,
+      3677908809,
+      3677908806
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "regional_sodexo",
+      "name": "restaurant privée VIP sonatrach"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1152845212,
+    "timestamp": "2023-03-09T07:43:59Z",
+    "version": 1,
+    "changeset": 133467271,
+    "user": "brahim001",
+    "uid": 2630870,
+    "center": {
+      "lat": 32.9289167,
+      "lon": 3.2693173
+    },
+    "nodes": [
+      10722799298,
+      10722799299,
+      10722799300,
+      10722799301,
+      10722799302,
+      10722799303,
+      10722799304,
+      10722870405,
+      10722870406,
+      10722870407,
+      10722870408,
+      10722870409,
+      10722870410,
+      10722870411,
+      10722870412,
+      10722870413,
+      10722870414,
+      10722870415,
+      10722870416,
+      10722870417,
+      10722870418,
+      10722870419,
+      10722870420,
+      10722870421,
+      10722870422,
+      10722870423,
+      10722870424,
+      10722870425,
+      10722870426,
+      10722870427,
+      10722870428,
+      10722870429,
+      10722870430,
+      10722799298
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "building:levels": "2",
+      "height": "12",
+      "name": "Nouveau Restaurant Base 24 Février"
+    }
+  }
+]

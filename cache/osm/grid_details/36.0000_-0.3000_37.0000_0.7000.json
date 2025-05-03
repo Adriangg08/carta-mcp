@@ -1,0 +1,97 @@
+[
+  {
+    "type": "node",
+    "id": 4439520198,
+    "lat": 36.0954008,
+    "lon": 0.3264935,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 5,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:city": "حجاج",
+      "addr:city:ar": "حجاج",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4439522398,
+    "lat": 36.0956295,
+    "lon": 0.3234499,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 5,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:city": "حجاج",
+      "addr:city:ar": "حجاج",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4439522598,
+    "lat": 36.09496,
+    "lon": 0.3255703,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 5,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:city": "حجاج",
+      "addr:city:ar": "حجاج",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4475663860,
+    "lat": 36.1647408,
+    "lon": 0.4413043,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1220291487,
+    "timestamp": "2023-11-02T14:20:25Z",
+    "version": 1,
+    "changeset": 143534276,
+    "user": "bachounda",
+    "uid": 427809,
+    "center": {
+      "lat": 36.1122716,
+      "lon": 0.2352261
+    },
+    "nodes": [
+      11307629635,
+      11307629636,
+      11307629637,
+      11307629638,
+      11307629635
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes"
+    }
+  }
+]

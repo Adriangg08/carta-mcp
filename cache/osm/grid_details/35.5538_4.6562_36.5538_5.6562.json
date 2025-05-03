@@ -1,0 +1,2830 @@
+[
+  {
+    "type": "node",
+    "id": 2816973272,
+    "lat": 36.1903033,
+    "lon": 5.3847898,
+    "timestamp": "2018-06-13T17:53:06Z",
+    "version": 4,
+    "changeset": 59818370,
+    "user": "ButterflyOfFire_",
+    "uid": 2842609,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Citadelle"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2818269787,
+    "lat": 36.1888566,
+    "lon": 5.4226611,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2872417304,
+    "lat": 36.1936398,
+    "lon": 5.4014284,
+    "timestamp": "2020-11-15T23:01:41Z",
+    "version": 5,
+    "changeset": 94168192,
+    "user": "MustafaQasim",
+    "uid": 9535554,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "مهراجا مطعم هندي",
+      "name:ar": "مهراجا مطعم هندي",
+      "name:en": "mahradja restaurant indien",
+      "name:fr": "mahradja restaurant indien"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2999935676,
+    "lat": 36.1991994,
+    "lon": 5.4061523,
+    "timestamp": "2021-09-24T11:13:36Z",
+    "version": 7,
+    "changeset": 111642200,
+    "user": "Yamílo",
+    "uid": 11332999,
+    "tags": {
+      "addr:city": "سطيف",
+      "addr:city:ar": "سطيف",
+      "addr:place": "حي 600 مسكن",
+      "addr:place:ar": "حي 600 مسكن",
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3052685040,
+    "lat": 36.1964703,
+    "lon": 5.4067297,
+    "timestamp": "2021-01-17T22:55:31Z",
+    "version": 6,
+    "changeset": 97654558,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:city": "سطيف",
+      "addr:city:ar": "سطيف",
+      "addr:housename": "كتلة 14",
+      "addr:housename:ar": "كتلة 14",
+      "addr:place": "حي 600 مسكن",
+      "addr:place:ar": "حي 600 مسكن",
+      "amenity": "restaurant",
+      "name": "آثييندا",
+      "name:ar": "آثييندا",
+      "name:es": "hacienda",
+      "name:fr": "Athéna"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3394579634,
+    "lat": 35.555425,
+    "lon": 5.6103065,
+    "timestamp": "2020-12-31T00:28:55Z",
+    "version": 4,
+    "changeset": 96696052,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "مطعم عائلي",
+      "name:ar": "مطعم عائلي",
+      "name:fr": "Restaurant familiale"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3451645403,
+    "lat": 36.1697879,
+    "lon": 5.2351565,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 4,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3451673799,
+    "lat": 36.1697629,
+    "lon": 5.23353,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 4,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3455729986,
+    "lat": 35.6463608,
+    "lon": 5.4588751,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3455730853,
+    "lat": 35.6475572,
+    "lon": 5.4580469,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3455731132,
+    "lat": 35.6482474,
+    "lon": 5.4585212,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3618050175,
+    "lat": 35.6898802,
+    "lon": 5.4425599,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 4,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3641617120,
+    "lat": 35.7118627,
+    "lon": 5.4660849,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3641618255,
+    "lat": 35.7125569,
+    "lon": 5.4672745,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3641620741,
+    "lat": 35.7123912,
+    "lon": 5.466344,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3744249562,
+    "lat": 36.1900562,
+    "lon": 5.4044536,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 4,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3744249563,
+    "lat": 36.1894564,
+    "lon": 5.4055533,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3796356748,
+    "lat": 35.9212752,
+    "lon": 5.295748,
+    "timestamp": "2019-05-09T08:26:49Z",
+    "version": 5,
+    "changeset": 70063027,
+    "user": "thetornado76",
+    "uid": 1624486,
+    "tags": {
+      "addr:city": "Ain Oulmane",
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "cuisine": "french;pizza;syrian",
+      "name": "L'Alhambra"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3796356749,
+    "lat": 35.9183971,
+    "lon": 5.2956756,
+    "timestamp": "2018-06-02T16:25:34Z",
+    "version": 5,
+    "changeset": 59489375,
+    "user": "ButterflyOfFire_",
+    "uid": 2842609,
+    "tags": {
+      "addr:city": "Ain Oulmane",
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "cuisine": "brochettes",
+      "name": "Grillades Ammar Debbabi",
+      "name:ar": "مطعم عمار دبابي للشواء",
+      "name:fr": "Grillades Ammar Debbabi",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3902598213,
+    "lat": 36.0722148,
+    "lon": 4.7630303,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3912352800,
+    "lat": 36.0854485,
+    "lon": 4.7807706,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3912352804,
+    "lat": 36.0883451,
+    "lon": 4.7660431,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 4,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3912453655,
+    "lat": 36.0891268,
+    "lon": 4.7671013,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3916468961,
+    "lat": 36.0801879,
+    "lon": 4.7758788,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 4,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3916468962,
+    "lat": 36.0806066,
+    "lon": 4.7773115,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3918756602,
+    "lat": 36.0782911,
+    "lon": 4.7733593,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3918756603,
+    "lat": 36.0786952,
+    "lon": 4.7741012,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3918756604,
+    "lat": 36.0785999,
+    "lon": 4.7739081,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4053466681,
+    "lat": 35.9269971,
+    "lon": 5.2959122,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4060368141,
+    "lat": 35.9215207,
+    "lon": 5.2960216,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:city": "Ain Oulmane",
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4089170212,
+    "lat": 35.9149438,
+    "lon": 5.2956783,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4102445297,
+    "lat": 36.1940912,
+    "lon": 5.4368969,
+    "timestamp": "2023-06-30T08:46:05Z",
+    "version": 4,
+    "changeset": 137948453,
+    "user": "Gurusraouta",
+    "uid": 18913526,
+    "tags": {
+      "addr:city": "Sétif",
+      "addr:city:ar": "سطيف",
+      "addr:city:fr": "Sétif",
+      "amenity": "restaurant",
+      "name": "Chapati",
+      "name:fr": "Chapati"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4102546889,
+    "lat": 36.192413,
+    "lon": 5.424367,
+    "timestamp": "2018-06-13T17:53:59Z",
+    "version": 3,
+    "changeset": 59818370,
+    "user": "ButterflyOfFire_",
+    "uid": 2842609,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Pizzeria Los Tacos"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4169314793,
+    "lat": 35.6754666,
+    "lon": 5.6516078,
+    "timestamp": "2018-06-13T17:54:05Z",
+    "version": 2,
+    "changeset": 59818370,
+    "user": "ButterflyOfFire_",
+    "uid": 2842609,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "restaurant Hakim"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4296998243,
+    "lat": 36.1886914,
+    "lon": 5.4322832,
+    "timestamp": "2018-06-13T17:54:11Z",
+    "version": 3,
+    "changeset": 59818370,
+    "user": "ButterflyOfFire_",
+    "uid": 2842609,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "Pizza Pino",
+      "opening_hours": "10:00-22:00",
+      "phone": "0557902433",
+      "smoking": "no",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4297018290,
+    "lat": 36.188601,
+    "lon": 5.4320974,
+    "timestamp": "2018-10-07T23:13:18Z",
+    "version": 3,
+    "changeset": 63291871,
+    "user": "عبد القادر الجزائري",
+    "uid": 8532163,
+    "tags": {
+      "addr:country": "DZ",
+      "addr:postcode": "19000",
+      "amenity": "restaurant",
+      "cuisine": "italian_pizza",
+      "internet_access": "wlan",
+      "name": "Pizza Pino",
+      "name:ar": "بيتزا بينو",
+      "opening_hours": "Mo-Su 11:00-23:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4338228117,
+    "lat": 36.183988,
+    "lon": 5.3065575,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4338266032,
+    "lat": 36.1841581,
+    "lon": 5.3071818,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4364950740,
+    "lat": 36.2288323,
+    "lon": 5.3966789,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 4,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4364950741,
+    "lat": 36.2286707,
+    "lon": 5.3966519,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 4,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4413584495,
+    "lat": 36.0666486,
+    "lon": 4.7483766,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4413615493,
+    "lat": 36.0682692,
+    "lon": 4.7480982,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4413621191,
+    "lat": 36.0673428,
+    "lon": 4.7481945,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4413621790,
+    "lat": 36.0668863,
+    "lon": 4.7482169,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4413621890,
+    "lat": 36.0680565,
+    "lon": 4.7482536,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4417998099,
+    "lat": 36.0689411,
+    "lon": 4.7685431,
+    "timestamp": "2018-06-13T17:54:22Z",
+    "version": 4,
+    "changeset": 59818370,
+    "user": "ButterflyOfFire_",
+    "uid": 2842609,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Restaurant El Baraka Chez Djamel",
+      "name:fr": "Restaurant El Baraka Chez Djamel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4418039593,
+    "lat": 36.0763844,
+    "lon": 4.7694899,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4418062790,
+    "lat": 36.0781634,
+    "lon": 4.7496708,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4418062893,
+    "lat": 36.0765496,
+    "lon": 4.7694473,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4450636974,
+    "lat": 36.0811378,
+    "lon": 4.7775435,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4490686799,
+    "lat": 36.285275,
+    "lon": 5.41236,
+    "timestamp": "2020-11-11T08:43:08Z",
+    "version": 3,
+    "changeset": 93910615,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "الدوادي",
+      "name:ar": "الدوادي",
+      "name:fr": "Douadi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4497476590,
+    "lat": 35.9792421,
+    "lon": 4.7452643,
+    "timestamp": "2018-06-13T17:54:28Z",
+    "version": 2,
+    "changeset": 59818370,
+    "user": "ButterflyOfFire_",
+    "uid": 2842609,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Istanbul pizzeria",
+      "name:ar": "Istanbul pizzeria"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4509599895,
+    "lat": 36.0662867,
+    "lon": 4.7571377,
+    "timestamp": "2020-12-07T22:37:18Z",
+    "version": 4,
+    "changeset": 95448774,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "البركة",
+      "name:ar": "البركة",
+      "name:fr": "Al Baraka"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4509599896,
+    "lat": 36.0715239,
+    "lon": 4.7509574,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4509682790,
+    "lat": 36.0686672,
+    "lon": 4.7483902,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 5,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "الآغا",
+      "name:ar": "الآغا",
+      "name:fr": "Agha"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4523983993,
+    "lat": 36.0803489,
+    "lon": 4.74733,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4524010690,
+    "lat": 36.072299,
+    "lon": 4.7625268,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4547921696,
+    "lat": 36.5477224,
+    "lon": 5.2773636,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 5,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:city": "تاسقريوت",
+      "addr:city:ar": "تاسقريوت",
+      "amenity": "restaurant",
+      "language:ar": "yes",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4591470496,
+    "lat": 36.075677,
+    "lon": 4.7685633,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4591470590,
+    "lat": 36.0773301,
+    "lon": 4.7715632,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 5,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "الخيمة-مونية",
+      "name:ar": "الخيمة-مونية",
+      "name:fr": "Al-Khaima-Mounia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4595247797,
+    "lat": 36.071834,
+    "lon": 4.7626854,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 5,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "الجيجلي",
+      "name:ar": "الجيجلي",
+      "name:fr": "Jijeli"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4595250095,
+    "lat": 36.0684451,
+    "lon": 4.7584323,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4595250102,
+    "lat": 36.0701207,
+    "lon": 4.7622548,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4623281903,
+    "lat": 35.8511685,
+    "lon": 5.2894846,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 4,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:city": "صالح باي",
+      "addr:city:ar": "صالح باي",
+      "addr:postcode": "19300",
+      "amenity": "restaurant",
+      "cuisine": "steak_house;sandwich;pasta;chicken;arab;kebab;local",
+      "language:ar": "yes",
+      "name": "لميمي",
+      "name:ar": "لميمي",
+      "name:fr": "Lmaymi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4623282093,
+    "lat": 35.8600824,
+    "lon": 5.2951029,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 4,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:city": "صالح باي",
+      "addr:city:ar": "صالح باي",
+      "addr:postcode": "19300",
+      "amenity": "restaurant",
+      "cuisine": "sandwich;grill;coffee_shop;local;steak_house;pasta;chicken;kebab",
+      "language:ar": "yes",
+      "name": "أسامة",
+      "name:ar": "أسامة",
+      "name:de": "Usama",
+      "name:en": "Usama",
+      "name:fr": "Ossama"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4691023991,
+    "lat": 36.0709007,
+    "lon": 4.7584139,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4715920797,
+    "lat": 36.0790567,
+    "lon": 4.7746983,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4715920912,
+    "lat": 36.0680421,
+    "lon": 4.7604839,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "دوبارة",
+      "name:ar": "دوبارة",
+      "name:fr": "Dubara"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4715921128,
+    "lat": 36.0661851,
+    "lon": 4.7568582,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4751009521,
+    "lat": 36.070662,
+    "lon": 4.7438035,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 5,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "أكلات تقليدية",
+      "name:ar": "أكلات تقليدية",
+      "name:fr": "La cuisine traditionnelle"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4761745722,
+    "lat": 36.0718979,
+    "lon": 4.7509504,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4764681335,
+    "lat": 36.3696642,
+    "lon": 4.7342858,
+    "timestamp": "2021-11-12T18:39:20Z",
+    "version": 3,
+    "changeset": 113707725,
+    "user": "Nacer Rachedi",
+    "uid": 4460462,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "مطعم عبد المالك مقراني",
+      "name:fr": "Restaurant Malek Mokrani"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4800018029,
+    "lat": 36.0691376,
+    "lon": 4.7643312,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4815874424,
+    "lat": 36.0682399,
+    "lon": 4.7653892,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4827813422,
+    "lat": 36.0775236,
+    "lon": 4.769288,
+    "timestamp": "2018-06-13T17:54:49Z",
+    "version": 2,
+    "changeset": 59818370,
+    "user": "ButterflyOfFire_",
+    "uid": 2842609,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name:fr": "mounia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4894067925,
+    "lat": 35.9508579,
+    "lon": 5.0337329,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 4,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "مطعم دجاج",
+      "name:ar": "مطعم دجاج",
+      "name:en": "Chicken Restaurant",
+      "name:fr": "Chicken"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4898600422,
+    "lat": 36.0765223,
+    "lon": 4.771575,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "خيمة شخشوخة",
+      "name:ar": "خيمة شخشوخة",
+      "name:en": "Khayma Lhadj Atallah",
+      "name:fr": "Khayma Lhadj Atallah"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4975143821,
+    "lat": 36.3370951,
+    "lon": 5.1757955,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5025232621,
+    "lat": 35.8601928,
+    "lon": 5.2952228,
+    "timestamp": "2020-05-19T03:10:46Z",
+    "version": 3,
+    "changeset": 85410053,
+    "user": "بشير إبراهيمي",
+    "uid": 9838430,
+    "tags": {
+      "addr:city": "صالح باي",
+      "addr:city:ar": "صالح باي",
+      "addr:postcode": "19013",
+      "alt_name": "مطعم رايس",
+      "alt_name:ar": "مطعم رايس",
+      "amenity": "restaurant",
+      "email": "attoui.abdelkarim@gmail.com",
+      "language:ar": "yes",
+      "name": "مطعم رائس",
+      "name:ar": "مطعم رائس",
+      "name:fr": "Restaurant Raïs",
+      "phone": "0662275113"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5042019022,
+    "lat": 36.2839265,
+    "lon": 5.4131108,
+    "timestamp": "2020-08-30T18:32:59Z",
+    "version": 3,
+    "changeset": 90153355,
+    "user": "Yamílo",
+    "uid": 11332999,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "مطعم وملحمة بورخيس",
+      "name:ar": "مطعم وملحمة بورخيس",
+      "name:fr": "Restaurant et boucherie Bourekhis"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5042022922,
+    "lat": 36.2867252,
+    "lon": 5.4123504,
+    "timestamp": "2018-06-13T17:54:56Z",
+    "version": 2,
+    "changeset": 59818370,
+    "user": "ButterflyOfFire_",
+    "uid": 2842609,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name:fr": "Restaurant Boubachtoula"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5135566122,
+    "lat": 35.8501533,
+    "lon": 5.290125,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 4,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:city": "صالح باي",
+      "addr:city:ar": "صالح باي",
+      "addr:postcode": "19013",
+      "amenity": "restaurant",
+      "language:ar": "yes",
+      "name": "محاجب عند عيلو",
+      "name:ar": "محاجب عند عيلو",
+      "name:en": "Mhadjeb chez Ailou",
+      "name:fr": "Mhadjeb chez Ailou"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5160491323,
+    "lat": 35.9187421,
+    "lon": 5.2961415,
+    "timestamp": "2018-06-13T17:55:02Z",
+    "version": 2,
+    "changeset": 59818370,
+    "user": "ButterflyOfFire_",
+    "uid": 2842609,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name:fr": "Ain oulman chewa"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5241636619,
+    "lat": 36.1780003,
+    "lon": 5.4993212,
+    "timestamp": "2018-06-13T17:55:04Z",
+    "version": 2,
+    "changeset": 59818370,
+    "user": "ButterflyOfFire_",
+    "uid": 2842609,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "cuisine": "pizza;sandwich;mexican;chicken;burger",
+      "name": "Resraurant Ain Ain Romane"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5483239321,
+    "lat": 36.1887269,
+    "lon": 5.4073841,
+    "timestamp": "2020-11-15T23:01:41Z",
+    "version": 3,
+    "changeset": 94168192,
+    "user": "MustafaQasim",
+    "uid": 9535554,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "مهبول",
+      "name:ar": "مهبول",
+      "name:fr": "Mahboul"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5543392321,
+    "lat": 36.1950049,
+    "lon": 5.4366905,
+    "timestamp": "2023-06-30T08:46:05Z",
+    "version": 7,
+    "changeset": 137948453,
+    "user": "Gurusraouta",
+    "uid": 18913526,
+    "tags": {
+      "addr:city": "Sétif",
+      "addr:city:ar": "سطيف",
+      "addr:city:fr": "Sétif",
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5543424521,
+    "lat": 36.1782409,
+    "lon": 5.409559,
+    "timestamp": "2021-01-17T22:55:31Z",
+    "version": 5,
+    "changeset": 97654558,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:city": "سطيف",
+      "addr:city:ar": "سطيف",
+      "amenity": "restaurant",
+      "name": "مطعم خوجة",
+      "name:ar": "مطعم خوجة",
+      "name:fr": "Restaurant Khoudja"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5818166553,
+    "lat": 36.2066645,
+    "lon": 5.4368115,
+    "timestamp": "2021-01-17T22:55:31Z",
+    "version": 4,
+    "changeset": 97654558,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:city": "سطيف",
+      "addr:city:ar": "سطيف",
+      "addr:housenumber": "6-1",
+      "addr:place": "حي الهضاب",
+      "addr:place:ar": "حي الهضاب",
+      "addr:street": "شارع 2",
+      "addr:street:ar": "شارع 2",
+      "amenity": "restaurant",
+      "cuisine": "pizza;italian_pizza;arab",
+      "name": "بيتزا أبولين",
+      "name:ar": "بيتزا أبولين",
+      "name:fr": "Pizza Apolline",
+      "opening_hours": "Mo-Su 11:30-22:30"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5825150655,
+    "lat": 36.0738127,
+    "lon": 4.78175,
+    "timestamp": "2018-12-01T09:59:39Z",
+    "version": 2,
+    "changeset": 65068586,
+    "user": "confusedbuffalo",
+    "uid": 242345,
+    "tags": {
+      "addr:city": "Bordj-Bou-Arreridj",
+      "addr:postcode": "34002",
+      "addr:street": "Rue A",
+      "amenity": "restaurant",
+      "cuisine": "pizza;sandwich",
+      "name": "Emile's Pizza",
+      "opening_hours": "Sa-Th 11:30-22:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5867540785,
+    "lat": 36.1871762,
+    "lon": 5.4093981,
+    "timestamp": "2018-08-30T08:43:18Z",
+    "version": 1,
+    "changeset": 62131385,
+    "user": "Maxwal",
+    "uid": 6824638,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "كمال الدين",
+      "name:ar": "كمال الدين",
+      "name:fr": "Kamel Eddine",
+      "phone": "055008587"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5907291586,
+    "lat": 36.2844879,
+    "lon": 5.6072781,
+    "timestamp": "2020-11-15T23:01:41Z",
+    "version": 3,
+    "changeset": 94168192,
+    "user": "MustafaQasim",
+    "uid": 9535554,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "مطعم شخشوخ",
+      "name:ar": "مطعم شخشوخ",
+      "name:en": "Restaurant Chekhchoukh",
+      "name:fr": "Restaurant Chekhchoukh"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5922868850,
+    "lat": 36.2845581,
+    "lon": 5.6067829,
+    "timestamp": "2018-09-22T19:10:34Z",
+    "version": 1,
+    "changeset": 62834198,
+    "user": "imranesah",
+    "uid": 5752489,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant BIBECH"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6036720785,
+    "lat": 36.516147,
+    "lon": 4.9093801,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 4,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "مطعم",
+      "name:ar": "مطعم",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6160122586,
+    "lat": 36.1710405,
+    "lon": 5.3265021,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 4,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "مطعم",
+      "name:ar": "مطعم",
+      "name:en": "Restaurant",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6224846991,
+    "lat": 36.1036951,
+    "lon": 4.9177803,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 2,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6268667185,
+    "lat": 36.1943295,
+    "lon": 5.3984596,
+    "timestamp": "2020-11-15T23:01:41Z",
+    "version": 3,
+    "changeset": 94168192,
+    "user": "MustafaQasim",
+    "uid": 9535554,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "الخيمة",
+      "name:ar": "الخيمة",
+      "name:fr": "Khaima"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6421841486,
+    "lat": 36.1903256,
+    "lon": 5.409626,
+    "timestamp": "2021-01-17T22:55:31Z",
+    "version": 4,
+    "changeset": 97654558,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:city": "سطيف",
+      "addr:city:ar": "سطيف",
+      "addr:postcode": "19000",
+      "addr:street": "شارع مريم بوعتورة",
+      "addr:street:ar": "شارع مريم بوعتورة",
+      "amenity": "restaurant",
+      "cuisine": "arab",
+      "name": "باب الحارة",
+      "name:ar": "باب الحارة",
+      "name:fr": "Bab El-Hara"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6534562585,
+    "lat": 36.1039103,
+    "lon": 4.9121391,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 4,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:city": "سيدي امبارك",
+      "addr:city:ar": "سيدي امبارك",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6540167773,
+    "lat": 36.279611,
+    "lon": 5.4110777,
+    "timestamp": "2019-09-10T01:44:13Z",
+    "version": 2,
+    "changeset": 74285486,
+    "user": "numide",
+    "uid": 1772800,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "café restaurant Hadji azeddine",
+      "name:ar": "مطعم ومقهى الحاج عزدين"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6724655985,
+    "lat": 36.1067525,
+    "lon": 4.7167839,
+    "timestamp": "2020-11-15T23:01:41Z",
+    "version": 2,
+    "changeset": 94168192,
+    "user": "MustafaQasim",
+    "uid": 9535554,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "قاعة حفلات باب الحارة بن سالم",
+      "name:ar": "قاعة حفلات باب الحارة بن سالم",
+      "name:fr": "Salle des fêtes Bab El Hara Ben Salem"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6919751208,
+    "lat": 36.1019358,
+    "lon": 5.074166,
+    "timestamp": "2019-10-27T09:53:57Z",
+    "version": 1,
+    "changeset": 76261615,
+    "user": "Mouradben",
+    "uid": 10396675,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant et caféteria"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7917627987,
+    "lat": 36.0674213,
+    "lon": 4.7767171,
+    "timestamp": "2020-09-17T16:25:06Z",
+    "version": 1,
+    "changeset": 91059408,
+    "user": "KhaledBOSS",
+    "uid": 5467883,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Khaima chakhchoukha"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7995960586,
+    "lat": 36.1843643,
+    "lon": 5.4135412,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 2,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:en": "Ain Oulman",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9597973776,
+    "lat": 36.0651516,
+    "lon": 4.7507426,
+    "timestamp": "2022-03-22T18:25:17Z",
+    "version": 1,
+    "changeset": 118789714,
+    "user": "DaryaSea",
+    "uid": 14174743,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Pizza Au Feu de Bois",
+      "phone": "+213 54 092 8987"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9679945179,
+    "lat": 36.4511034,
+    "lon": 5.3108683,
+    "timestamp": "2023-06-06T12:59:36Z",
+    "version": 3,
+    "changeset": 137014177,
+    "user": "Gurusraouta",
+    "uid": 18913526,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant N Imerzoken",
+      "name:fr": "Restaurant N Imerzoken"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9751580139,
+    "lat": 36.4694934,
+    "lon": 5.2807068,
+    "timestamp": "2022-05-18T10:45:09Z",
+    "version": 1,
+    "changeset": 121140702,
+    "user": "Nacer Zdr",
+    "uid": 15597546,
+    "tags": {
+      "amenity": "restaurant",
+      "diet:halal": "yes",
+      "name": "Idir"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9753942701,
+    "lat": 36.4875373,
+    "lon": 5.2795981,
+    "timestamp": "2022-05-19T08:44:17Z",
+    "version": 1,
+    "changeset": 121182899,
+    "user": "Nacer Zdr",
+    "uid": 15597546,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11517057782,
+    "lat": 36.1916171,
+    "lon": 5.4073454,
+    "timestamp": "2024-01-14T19:00:58Z",
+    "version": 1,
+    "changeset": 146255706,
+    "user": "Mendilaymen",
+    "uid": 20119783,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11827339617,
+    "lat": 36.1968083,
+    "lon": 5.3842928,
+    "timestamp": "2024-04-18T10:03:06Z",
+    "version": 1,
+    "changeset": 150166319,
+    "user": "University of Sétif 1 - Ferhat Abbas",
+    "uid": 21157909,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "University restaurant المطعم الجامعي"
+    }
+  },
+  {
+    "type": "way",
+    "id": 228684128,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 2,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "center": {
+      "lat": 36.0499032,
+      "lon": 4.802129
+    },
+    "nodes": [
+      2373463896,
+      2373463899,
+      2373463901,
+      2373463905,
+      2373463908,
+      2373463912,
+      2373463914,
+      2373463917,
+      2373463921,
+      2373463922,
+      2373463925,
+      2373463927,
+      2373463929,
+      2373463932,
+      2373463936,
+      2373463938,
+      2373463942,
+      2373463945,
+      2373463947,
+      2373463951,
+      2373463953,
+      2373463957,
+      2373463896
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Restaurant Universitaire",
+      "name:ar": "مطعم جامعي",
+      "name:en": "U Resto",
+      "name:fr": "Resto U",
+      "smoking": "no"
+    }
+  },
+  {
+    "type": "way",
+    "id": 236029473,
+    "timestamp": "2024-05-15T22:22:50Z",
+    "version": 12,
+    "changeset": 151383309,
+    "user": "VLD557",
+    "uid": 16149168,
+    "center": {
+      "lat": 36.199415,
+      "lon": 5.3665217
+    },
+    "nodes": [
+      2441056519,
+      2441056559,
+      2441056346,
+      2441056296,
+      2441056358,
+      2441056575,
+      2441056461,
+      2441056633,
+      2441056506,
+      2441056479,
+      2441056362,
+      2441056441,
+      2441056364,
+      2441056292,
+      2441056527,
+      2441056455,
+      2441056327,
+      2441056629,
+      2441056347,
+      2441056297,
+      2441056416,
+      2441056435,
+      2441056445,
+      2441056519
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "university",
+      "name": "المطعم المركزي أحمد روابح",
+      "smoking": "no"
+    }
+  },
+  {
+    "type": "way",
+    "id": 386128644,
+    "timestamp": "2015-12-16T08:37:02Z",
+    "version": 1,
+    "changeset": 35982864,
+    "user": "FREDJ_AF",
+    "uid": 3043409,
+    "center": {
+      "lat": 36.0848519,
+      "lon": 4.7647846
+    },
+    "nodes": [
+      3894680578,
+      3894680579,
+      3894680580,
+      3894680581,
+      3894680578
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 388713792,
+    "timestamp": "2016-05-20T13:55:05Z",
+    "version": 2,
+    "changeset": 39451267,
+    "user": "FREDJ_AF",
+    "uid": 3043409,
+    "center": {
+      "lat": 36.0564798,
+      "lon": 4.7402996
+    },
+    "nodes": [
+      3918790643,
+      3918790644,
+      3918790645,
+      3918790646,
+      3918790643
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "regional"
+    }
+  },
+  {
+    "type": "way",
+    "id": 450656762,
+    "timestamp": "2016-11-01T20:08:34Z",
+    "version": 1,
+    "changeset": 43336094,
+    "user": "Moustache58",
+    "uid": 3289290,
+    "center": {
+      "lat": 36.2550246,
+      "lon": 5.2673873
+    },
+    "nodes": [
+      4475761199,
+      4475761200,
+      4475761201,
+      4475761202,
+      4475761203,
+      4475761204,
+      4475761205,
+      4475761199
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Brochettes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 554741352,
+    "timestamp": "2020-12-31T00:28:55Z",
+    "version": 3,
+    "changeset": 96696052,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "center": {
+      "lat": 35.9640215,
+      "lon": 4.7009178
+    },
+    "nodes": [
+      5353436391,
+      5353436388,
+      5353436389,
+      5353436390,
+      5353436391
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "مطعم مقهى المغرب العربي",
+      "name:ar": "مطعم مقهى المغرب العربي",
+      "name:fr": "Café Restaurant Maghreb"
+    }
+  },
+  {
+    "type": "way",
+    "id": 778258929,
+    "timestamp": "2020-03-04T13:00:04Z",
+    "version": 1,
+    "changeset": 81775669,
+    "user": "HocNet",
+    "uid": 10855615,
+    "center": {
+      "lat": 36.5455538,
+      "lon": 4.6870834
+    },
+    "nodes": [
+      7263610432,
+      7263610433,
+      7263610434,
+      7263610435,
+      7263610432
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "regional;pizza;sandwich",
+      "name": "Chikhoune"
+    }
+  },
+  {
+    "type": "way",
+    "id": 793497363,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 4,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "center": {
+      "lat": 36.4855255,
+      "lon": 4.7698548
+    },
+    "nodes": [
+      7419551189,
+      7419551190,
+      7419551191,
+      7419551192,
+      7419551189
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "مطعم المدرسة ثيوال",
+      "name:ar": "مطعم مدرسي",
+      "name:ber": "Tneccit n uɣerbaz",
+      "name:en": "school canteen",
+      "name:fr": "Cantine scolaire"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1174047218,
+    "timestamp": "2023-05-18T18:56:18Z",
+    "version": 1,
+    "changeset": 136269160,
+    "user": "Superadlen",
+    "uid": 1922193,
+    "center": {
+      "lat": 36.0656956,
+      "lon": 4.7555175
+    },
+    "nodes": [
+      10909084443,
+      4591424503,
+      10909090123,
+      10909087490,
+      10909087389,
+      10909082314,
+      10909085496,
+      10909082828,
+      10909084443
+    ],
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Resto",
+      "name:fr": "Resto",
+      "source": "Algerie Mapper Team"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1174639115,
+    "timestamp": "2023-05-20T21:35:24Z",
+    "version": 1,
+    "changeset": 136353855,
+    "user": "Superadlen",
+    "uid": 1922193,
+    "center": {
+      "lat": 36.2124174,
+      "lon": 5.448533
+    },
+    "nodes": [
+      10914857246,
+      10914856862,
+      10914857061,
+      10914856925,
+      10914857299,
+      10914856740,
+      10914857118,
+      10914857440,
+      10914857066,
+      5184549621,
+      10914857295,
+      10914857004,
+      10914857132,
+      10914856967,
+      10914824695,
+      10914857236,
+      10914856779,
+      10914857246
+    ],
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "مطعم مركزي",
+      "name:ar": "مطعم مركزي",
+      "name:fr": "Restaurant centrale",
+      "source": "Algerie Mapper Team"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1187472281,
+    "timestamp": "2023-07-04T22:56:30Z",
+    "version": 1,
+    "changeset": 138125074,
+    "user": "حسام عبد الناصر",
+    "uid": 19359683,
+    "center": {
+      "lat": 35.5571928,
+      "lon": 5.6116395
+    },
+    "nodes": [
+      11026775770,
+      11026773525,
+      11026778921,
+      11026780560,
+      11026774717,
+      3394579254,
+      11026775770
+    ],
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Resto",
+      "name:fr": "Resto",
+      "source": "microsoft/BuildingFootprints"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1197120285,
+    "timestamp": "2023-08-11T16:51:49Z",
+    "version": 1,
+    "changeset": 139758703,
+    "user": "حسام عبد الناصر",
+    "uid": 19359683,
+    "center": {
+      "lat": 36.0678618,
+      "lon": 4.7733057
+    },
+    "nodes": [
+      11108039580,
+      11108041172,
+      4740350243,
+      11108040815,
+      11108039580
+    ],
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Resto",
+      "name:fr": "Resto",
+      "source": "microsoft/BuildingFootprints"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1197125567,
+    "timestamp": "2023-08-11T16:59:47Z",
+    "version": 1,
+    "changeset": 139758976,
+    "user": "حسام عبد الناصر",
+    "uid": 19359683,
+    "center": {
+      "lat": 36.0451273,
+      "lon": 4.8190046
+    },
+    "nodes": [
+      11108072345,
+      11108065287,
+      4828385225,
+      11108065119,
+      11108075569,
+      11108064786,
+      11108076158,
+      11108076378,
+      11108072345
+    ],
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "بومعين",
+      "name:ar": "بومعين",
+      "name:fr": "boumain",
+      "source": "microsoft/BuildingFootprints"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1197367231,
+    "timestamp": "2023-08-12T13:30:28Z",
+    "version": 1,
+    "changeset": 139788087,
+    "user": "حسام عبد الناصر",
+    "uid": 19359683,
+    "center": {
+      "lat": 36.2854591,
+      "lon": 5.4128019
+    },
+    "nodes": [
+      11109703061,
+      11109700300,
+      11109701314,
+      11109703234,
+      11109700999,
+      11109704550,
+      11109705932,
+      11109700812,
+      5042022829,
+      11109700030,
+      11109702123,
+      11109705367,
+      11109703061
+    ],
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "building": "yes",
+      "name:fr": "Restaurant Boudiaf",
+      "source": "microsoft/BuildingFootprints"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1197367527,
+    "timestamp": "2023-08-12T13:30:28Z",
+    "version": 1,
+    "changeset": 139788087,
+    "user": "حسام عبد الناصر",
+    "uid": 19359683,
+    "center": {
+      "lat": 36.2858761,
+      "lon": 5.4126624
+    },
+    "nodes": [
+      11109703787,
+      5042022828,
+      11109705033,
+      11109701284,
+      11109703787
+    ],
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "building": "yes",
+      "name:fr": "Restaurant frères Benlaouer",
+      "source": "microsoft/BuildingFootprints"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1197368079,
+    "timestamp": "2023-08-12T13:30:28Z",
+    "version": 1,
+    "changeset": 139788087,
+    "user": "حسام عبد الناصر",
+    "uid": 19359683,
+    "center": {
+      "lat": 36.289712,
+      "lon": 5.4107719
+    },
+    "nodes": [
+      11109706574,
+      11109706538,
+      11109706514,
+      11109706505,
+      11109706268,
+      11109706388,
+      5042022923,
+      11109706506,
+      11109706574
+    ],
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "building": "yes",
+      "name:fr": "Restaurant Elnakhil Boudjemline hassani",
+      "source": "microsoft/BuildingFootprints"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1205330911,
+    "timestamp": "2023-09-05T21:22:48Z",
+    "version": 1,
+    "changeset": 140869182,
+    "user": "حسام عبد الناصر",
+    "uid": 19359683,
+    "center": {
+      "lat": 36.0669783,
+      "lon": 4.7518209
+    },
+    "nodes": [
+      11170616407,
+      11170611705,
+      11170614085,
+      11170616422,
+      11170612471,
+      11170616337,
+      11170611444,
+      11170611052,
+      11170614004,
+      11170615543,
+      11170613219,
+      11170615528,
+      11170610756,
+      11170612154,
+      11170610896,
+      11170611960,
+      11170612699,
+      11170613917,
+      11170615232,
+      11170611620,
+      11170611470,
+      4595153395,
+      11170616407
+    ],
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "restaurant gastronomique",
+      "name:fr": "restaurant gastronomique",
+      "source": "microsoft/BuildingFootprints"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1205337211,
+    "timestamp": "2023-09-05T21:22:48Z",
+    "version": 1,
+    "changeset": 140869182,
+    "user": "حسام عبد الناصر",
+    "uid": 19359683,
+    "center": {
+      "lat": 36.0673614,
+      "lon": 4.7669556
+    },
+    "nodes": [
+      11170655322,
+      5686128823,
+      11170655217,
+      11170655092,
+      11170652447,
+      11170653847,
+      11170655322
+    ],
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Resto",
+      "name:fr": "Resto",
+      "source": "microsoft/BuildingFootprints"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1205339125,
+    "timestamp": "2023-09-05T21:22:48Z",
+    "version": 1,
+    "changeset": 140869182,
+    "user": "حسام عبد الناصر",
+    "uid": 19359683,
+    "center": {
+      "lat": 36.0707241,
+      "lon": 4.7597549
+    },
+    "nodes": [
+      4413586004,
+      11170662873,
+      11170666237,
+      11170668437,
+      11170664538,
+      11170668207,
+      4413586004
+    ],
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "El Tassili",
+      "name:ar": "الطاسيلي",
+      "name:fr": "El Tassili",
+      "source": "microsoft/BuildingFootprints"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1205339189,
+    "timestamp": "2023-09-05T21:22:48Z",
+    "version": 1,
+    "changeset": 140869182,
+    "user": "حسام عبد الناصر",
+    "uid": 19359683,
+    "center": {
+      "lat": 36.071164,
+      "lon": 4.7614867
+    },
+    "nodes": [
+      11170663435,
+      11170667504,
+      11170663229,
+      11170664250,
+      11170663193,
+      4715920906,
+      11170664399,
+      11170668802,
+      11170664958,
+      11170665169,
+      11170663435
+    ],
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Resto",
+      "name:fr": "Resto",
+      "source": "microsoft/BuildingFootprints"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1205339573,
+    "timestamp": "2023-09-05T21:22:53Z",
+    "version": 1,
+    "changeset": 140869183,
+    "user": "حسام عبد الناصر",
+    "uid": 19359683,
+    "center": {
+      "lat": 36.0689146,
+      "lon": 4.7625678
+    },
+    "nodes": [
+      11170663078,
+      11170663746,
+      11170663056,
+      11170664205,
+      11170665201,
+      11170668996,
+      11170665841,
+      11170667468,
+      4591424602,
+      11170663172,
+      11170663078
+    ],
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Resto",
+      "name:fr": "Resto",
+      "source": "microsoft/BuildingFootprints"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1205339707,
+    "timestamp": "2023-09-05T21:22:53Z",
+    "version": 1,
+    "changeset": 140869183,
+    "user": "حسام عبد الناصر",
+    "uid": 19359683,
+    "center": {
+      "lat": 36.0708266,
+      "lon": 4.7618731
+    },
+    "nodes": [
+      11170663955,
+      11170668592,
+      4740389523,
+      11170667269,
+      11170663955
+    ],
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Resto",
+      "name:fr": "Resto",
+      "source": "microsoft/BuildingFootprints"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1205340382,
+    "timestamp": "2023-09-05T21:26:43Z",
+    "version": 1,
+    "changeset": 140869265,
+    "user": "حسام عبد الناصر",
+    "uid": 19359683,
+    "center": {
+      "lat": 36.0707661,
+      "lon": 4.7538142
+    },
+    "nodes": [
+      11170672021,
+      11170675270,
+      11170678592,
+      11170680130,
+      4595192994,
+      11170674537,
+      11170672021
+    ],
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "regional",
+      "name": "مأكولات تقليدية",
+      "name:ar": "مأكولات تقليدية",
+      "name:fr": "Restaurant Traditionnel",
+      "source": "microsoft/BuildingFootprints"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1205342162,
+    "timestamp": "2023-09-05T21:26:43Z",
+    "version": 1,
+    "changeset": 140869265,
+    "user": "حسام عبد الناصر",
+    "uid": 19359683,
+    "center": {
+      "lat": 36.0699575,
+      "lon": 4.7622399
+    },
+    "nodes": [
+      11170684891,
+      11170686884,
+      11170685105,
+      11170685907,
+      11170687012,
+      11170688317,
+      11170685431,
+      4740350631,
+      11170684743,
+      11170687275,
+      11170684891
+    ],
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Resto",
+      "name:fr": "Resto",
+      "source": "microsoft/BuildingFootprints"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1234969867,
+    "timestamp": "2023-12-28T17:27:03Z",
+    "version": 1,
+    "changeset": 145630070,
+    "user": "rajaa_2024",
+    "uid": 20777490,
+    "center": {
+      "lat": 36.1902544,
+      "lon": 5.3848371
+    },
+    "nodes": [
+      11463318229,
+      11463318230,
+      11463318231,
+      11463318232,
+      11463318229
+    ],
+    "tags": {
+      "addr:city": "سطيف",
+      "addr:street": "دوار المعبودة",
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "syrian",
+      "name": "la citadelle"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1263453900,
+    "timestamp": "2024-05-15T22:57:09Z",
+    "version": 6,
+    "changeset": 151383972,
+    "user": "VLD557",
+    "uid": 16149168,
+    "center": {
+      "lat": 36.1940316,
+      "lon": 5.3656073
+    },
+    "nodes": [
+      11738730525,
+      11782636049,
+      11782636050,
+      11738730526,
+      11782636033,
+      11782636032,
+      11782636030,
+      11782636029,
+      11782636031,
+      11738730527,
+      11782636034,
+      11782636035,
+      11738730528,
+      11782636039,
+      11782636038,
+      11782636037,
+      11782636036,
+      11782636042,
+      11782636041,
+      11782636040,
+      11738730529,
+      11738730530,
+      11782636043,
+      11782636044,
+      11738730531,
+      11738730532,
+      11738730533,
+      11782636048,
+      11782636045,
+      11782636046,
+      11782636047,
+      11738730525
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "مطعم الإقامة الجامعية لمين دباغين"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1275643705,
+    "timestamp": "2024-04-24T13:03:51Z",
+    "version": 3,
+    "changeset": 150446564,
+    "user": "University of Sétif 1 - Ferhat Abbas",
+    "uid": 21157909,
+    "center": {
+      "lat": 36.1885581,
+      "lon": 5.3908592
+    },
+    "nodes": [
+      11843952245,
+      11844001963,
+      11844001964,
+      11844001965,
+      11843952245
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 3176155,
+    "timestamp": "2024-05-15T21:31:42Z",
+    "version": 15,
+    "changeset": 151382170,
+    "user": "VLD557",
+    "uid": 16149168,
+    "center": {
+      "lat": 36.19556,
+      "lon": 5.3666101
+    },
+    "members": [
+      {
+        "type": "way",
+        "ref": 236029476,
+        "role": "outer"
+      }
+    ],
+    "tags": {
+      "addr:city": "سطيف",
+      "addr:city:ar": "سطيف",
+      "amenity": "restaurant",
+      "building": "university",
+      "name": "المطعم المركزي محمد لمين دباغين",
+      "type": "multipolygon"
+    }
+  }
+]

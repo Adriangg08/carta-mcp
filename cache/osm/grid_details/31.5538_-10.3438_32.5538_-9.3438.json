@@ -1,0 +1,99 @@
+[
+  {
+    "type": "node",
+    "id": 1185669809,
+    "lat": 31.5811953,
+    "lon": -9.5409825,
+    "timestamp": "2011-03-04T10:14:05Z",
+    "version": 1,
+    "changeset": 7453099,
+    "user": "spacetraveller",
+    "uid": 84876,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1185669920,
+    "lat": 31.5802745,
+    "lon": -9.5408892,
+    "timestamp": "2011-03-04T10:14:08Z",
+    "version": 1,
+    "changeset": 7453099,
+    "user": "spacetraveller",
+    "uid": 84876,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2305284622,
+    "lat": 31.6438946,
+    "lon": -9.6759614,
+    "timestamp": "2023-03-18T18:21:02Z",
+    "version": 4,
+    "changeset": 133833581,
+    "user": "Kadubei",
+    "uid": 16642036,
+    "tags": {
+      "addr:city": "مولاي بوزرقطون",
+      "addr:city:ar": "مولاي بوزرقطون",
+      "addr:city:es": "Mulay Buzerktún",
+      "amenity": "restaurant",
+      "name": "Café Du Coin",
+      "name:ar": "مقهى دو كوين",
+      "name:es": "Café Du Coin",
+      "name:fr": "Café Du Coin"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2305284688,
+    "lat": 31.6456139,
+    "lon": -9.6770638,
+    "timestamp": "2024-12-07T22:12:30Z",
+    "version": 4,
+    "changeset": 160041220,
+    "user": "ilias_",
+    "uid": 21853634,
+    "tags": {
+      "addr:city": "Moulay Bouzarqtoune ⵎⵓⵍⴰⵢ ⴱⵓⵥⵕⵇⵟⵓⵏ مولاي بوزرقطون",
+      "addr:city:ar": "مولاي بوزرقطون",
+      "addr:city:es": "Mulay Buzerktún",
+      "amenity": "restaurant",
+      "name": "Dar Lawama",
+      "name:es": "Dar Lawama",
+      "name:fr": "Dar Lawama"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9575112718,
+    "lat": 31.8694931,
+    "lon": -9.4493723,
+    "timestamp": "2022-03-13T13:09:25Z",
+    "version": 1,
+    "changeset": 118428853,
+    "user": "Ciclo-Via",
+    "uid": 168468,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9575112719,
+    "lat": 31.8694753,
+    "lon": -9.4494147,
+    "timestamp": "2022-03-13T13:09:29Z",
+    "version": 1,
+    "changeset": 118428853,
+    "user": "Ciclo-Via",
+    "uid": 168468,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  }
+]

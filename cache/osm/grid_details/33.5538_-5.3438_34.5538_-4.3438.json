@@ -1,0 +1,6129 @@
+[
+  {
+    "type": "node",
+    "id": 549237889,
+    "lat": 33.9652412,
+    "lon": -5.0320592,
+    "timestamp": "2009-10-31T19:36:48Z",
+    "version": 1,
+    "changeset": 3000564,
+    "user": "PhQ",
+    "uid": 141978,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 954683996,
+    "lat": 34.0617191,
+    "lon": -4.9835992,
+    "timestamp": "2024-12-31T21:05:15Z",
+    "version": 6,
+    "changeset": 160848034,
+    "user": "LateNightTone",
+    "uid": 4003485,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date": "2023-11-01",
+      "cuisine": "regional;moroccan",
+      "name": "Chez Rachid"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2237379907,
+    "lat": 34.0625611,
+    "lon": -4.9832263,
+    "timestamp": "2022-12-26T21:43:15Z",
+    "version": 6,
+    "changeset": 130531863,
+    "user": "Kristjan ESPERANTO",
+    "uid": 77904,
+    "tags": {
+      "addr:city": "derb magana talaa kbira medina fes",
+      "addr:housenumber": "7",
+      "addr:street": "Derb Magana",
+      "amenity": "restaurant",
+      "cuisine": "local;burger",
+      "diet:vegan": "yes",
+      "email": "INFO@CAFECLOCK.COM",
+      "internet_access": "wlan",
+      "name": "Café Clock",
+      "opening_hours": "Mo-Su 09:00-22:30",
+      "phone": "+212 5356 37855",
+      "website": "https://www.cafeclock.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2278837347,
+    "lat": 34.0370687,
+    "lon": -5.0139956,
+    "timestamp": "2017-10-17T16:19:21Z",
+    "version": 2,
+    "changeset": 53016251,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:city": "Fès فاس",
+      "addr:street": "Av Omar Ibn Al Khattab شارع عمر ابن الخطاب",
+      "amenity": "restaurant",
+      "cuisine": "italian;pizza;european",
+      "name": "L'Italien",
+      "phone": "+ 212 535 94 33 84"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2312523150,
+    "lat": 34.0597569,
+    "lon": -4.9884032,
+    "timestamp": "2018-04-03T09:14:21Z",
+    "version": 4,
+    "changeset": 57765067,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "addr:city": "fes medina",
+      "amenity": "restaurant",
+      "drink:cocktail": "served",
+      "drink:wine": "served",
+      "name": "Mezzanine",
+      "phone": "+212 11078336"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2312523388,
+    "lat": 34.059973,
+    "lon": -4.9719488,
+    "timestamp": "2023-10-31T17:52:16Z",
+    "version": 4,
+    "changeset": 143435915,
+    "user": "Le Petit Léo",
+    "uid": 20120497,
+    "tags": {
+      "addr:city": "fez medina",
+      "amenity": "restaurant",
+      "name": "Palais de Fès",
+      "website": "https://www.palais-de-fes.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2312523489,
+    "lat": 34.0402405,
+    "lon": -5.0077057,
+    "timestamp": "2018-10-23T09:37:12Z",
+    "version": 4,
+    "changeset": 63781474,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:city": "avenue des far 9 rue abi hayane taouhidi",
+      "amenity": "restaurant",
+      "name": "Restaurant vesuvio",
+      "phone": "0535624618"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2312523521,
+    "lat": 34.0413429,
+    "lon": -5.0072336,
+    "timestamp": "2013-05-20T07:54:49Z",
+    "version": 1,
+    "changeset": 16203915,
+    "user": "obitus",
+    "uid": 510390,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Don Vitto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2328652307,
+    "lat": 34.0666182,
+    "lon": -4.9733978,
+    "timestamp": "2013-06-01T23:07:44Z",
+    "version": 1,
+    "changeset": 16384693,
+    "user": "Jens Wilke",
+    "uid": 85443,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2509233528,
+    "lat": 34.3641952,
+    "lon": -5.2112383,
+    "timestamp": "2013-10-26T10:37:34Z",
+    "version": 1,
+    "changeset": 18549526,
+    "user": "grekev0520",
+    "uid": 1786427,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Pâtisserie"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2509620099,
+    "lat": 34.3688794,
+    "lon": -5.2117949,
+    "timestamp": "2013-10-26T18:23:21Z",
+    "version": 2,
+    "changeset": 18555717,
+    "user": "grekev0520",
+    "uid": 1786427,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Boucher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2576500719,
+    "lat": 34.105195,
+    "lon": -4.4537125,
+    "timestamp": "2013-12-12T00:51:26Z",
+    "version": 1,
+    "changeset": 19405037,
+    "user": "alain2003",
+    "uid": 578772,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2576500830,
+    "lat": 34.1063232,
+    "lon": -4.4549999,
+    "timestamp": "2013-12-12T00:51:29Z",
+    "version": 1,
+    "changeset": 19405037,
+    "user": "alain2003",
+    "uid": 578772,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2576514898,
+    "lat": 33.9364346,
+    "lon": -4.8973391,
+    "timestamp": "2013-12-12T01:27:42Z",
+    "version": 1,
+    "changeset": 19405037,
+    "user": "alain2003",
+    "uid": 578772,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2576514908,
+    "lat": 33.9379122,
+    "lon": -4.8984335,
+    "timestamp": "2013-12-12T01:27:43Z",
+    "version": 1,
+    "changeset": 19405037,
+    "user": "alain2003",
+    "uid": 578772,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2836506192,
+    "lat": 34.0450785,
+    "lon": -4.9951537,
+    "timestamp": "2023-10-19T12:28:17Z",
+    "version": 9,
+    "changeset": 142812577,
+    "user": "b-jazz-bot",
+    "uid": 9451067,
+    "tags": {
+      "amenity": "restaurant",
+      "brand": "Pizza Hut",
+      "brand:wikidata": "Q191615",
+      "brand:wikipedia": "en:Pizza Hut",
+      "cuisine": "pizza",
+      "internet_access": "wlan",
+      "name": "Pizza Hut",
+      "opening_hours": "Mo-Su 12:00-24:00",
+      "phone": "0535653745",
+      "website": "https://pizzahut.ma/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2952717971,
+    "lat": 34.060642,
+    "lon": -4.9818415,
+    "timestamp": "2023-11-01T07:49:35Z",
+    "version": 4,
+    "changeset": 143459299,
+    "user": "Le Petit Léo",
+    "uid": 20120497,
+    "tags": {
+      "addr:housename": "La Maison Bleue",
+      "addr:postcode": "30100",
+      "addr:street": "2 Place de L’Istiqlal",
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "La Maison Bleue",
+      "website": "https://www.maisonbleue.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3217569207,
+    "lat": 34.0649167,
+    "lon": -4.9760475,
+    "timestamp": "2022-04-08T14:54:13Z",
+    "version": 7,
+    "changeset": 119474530,
+    "user": "mircozorzo",
+    "uid": 224342,
+    "tags": {
+      "addr:full": "Fes Médina 9 rue dermani nejjarine",
+      "amenity": "restaurant",
+      "cuisine": "moroccan",
+      "description:en": "Rooftop cafe, serving tea, coffee and fresh juice",
+      "name": "Restaurant Nejjarine",
+      "phone": "+212 35635389",
+      "phone:mobile": "+212 6 1259052",
+      "toilets": "yes",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3919978971,
+    "lat": 34.0643266,
+    "lon": -4.9769673,
+    "timestamp": "2018-03-27T14:50:53Z",
+    "version": 2,
+    "changeset": 57570340,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "addr:city": "Fes Médina",
+      "amenity": "restaurant",
+      "name": "Restaurant Sekaya"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3960073569,
+    "lat": 33.9591041,
+    "lon": -4.9930615,
+    "timestamp": "2016-01-22T17:41:45Z",
+    "version": 2,
+    "changeset": 36744722,
+    "user": "andi_osm",
+    "uid": 3186104,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4121572933,
+    "lat": 34.0637333,
+    "lon": -4.9759902,
+    "timestamp": "2017-08-16T08:38:36Z",
+    "version": 4,
+    "changeset": 51162960,
+    "user": "Veomap",
+    "uid": 1711238,
+    "tags": {
+      "addr:city": "Fez",
+      "addr:housenumber": "71",
+      "addr:postcode": "32000",
+      "addr:street": "Derb Elghorba",
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Dar Tajine",
+      "opening_hours": "11:00-23:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4239404235,
+    "lat": 34.0667605,
+    "lon": -4.9730227,
+    "timestamp": "2016-06-12T14:37:04Z",
+    "version": 1,
+    "changeset": 39972646,
+    "user": "Oliwia Antczak",
+    "uid": 4103253,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Zohra"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4239404504,
+    "lat": 34.0605412,
+    "lon": -4.972282,
+    "timestamp": "2018-03-29T08:53:23Z",
+    "version": 3,
+    "changeset": 57626183,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "addr:city": "fez medina",
+      "amenity": "restaurant",
+      "name": "Riad Andalib"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4435821093,
+    "lat": 34.0616477,
+    "lon": -4.9835522,
+    "timestamp": "2023-11-01T09:09:50Z",
+    "version": 3,
+    "changeset": 143462801,
+    "user": "Le Petit Léo",
+    "uid": 20120497,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "moroccan",
+      "name": "Chez Thami Restaurant",
+      "name:en": "Chez Thami Restaurant",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4550024469,
+    "lat": 34.059842,
+    "lon": -4.9781765,
+    "timestamp": "2018-12-01T10:26:57Z",
+    "version": 3,
+    "changeset": 65069238,
+    "user": "confusedbuffalo",
+    "uid": 242345,
+    "tags": {
+      "addr:city": "Fès",
+      "addr:housenumber": "5 et 6",
+      "addr:postcode": "30110",
+      "addr:street": "Rue el-Hamia",
+      "amenity": "restaurant",
+      "capacity": "50",
+      "cuisine": "international",
+      "name": "Riad Les Oudayas",
+      "opening_hours": "07:00-23:00",
+      "phone": "+212 535636303",
+      "smoking": "outside",
+      "takeaway": "no",
+      "website": "www.lesoudayas.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4551177190,
+    "lat": 34.0618008,
+    "lon": -4.9832742,
+    "timestamp": "2022-07-28T11:10:32Z",
+    "version": 3,
+    "changeset": 124180959,
+    "user": "Bene64",
+    "uid": 9459483,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "moroccan",
+      "name": "Thami's restaurant",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4591061289,
+    "lat": 34.0613271,
+    "lon": -4.9837951,
+    "timestamp": "2022-12-26T21:42:35Z",
+    "version": 4,
+    "changeset": 130531852,
+    "user": "Kristjan ESPERANTO",
+    "uid": 77904,
+    "tags": {
+      "addr:housenumber": "48",
+      "addr:postcode": "30110",
+      "addr:street": "Place de Bab Boujloud",
+      "amenity": "restaurant",
+      "cuisine": "cake;sausage;moroccan;mediterranean;coffee_shop;pasta;fine_dining;pizza;chicken;arab;kebab;barbecue",
+      "diet:vegetarian": "yes",
+      "email": "bensdiramakki4@gmail.com",
+      "internet_access": "wlan",
+      "name": "Restaurant Nagham cafe مقهى نغم",
+      "name:ar": "مقهى نغم",
+      "name:en": "Nagham cafe & restaurant",
+      "name:fr": "Restaurant Nagham cafe",
+      "opening_hours": "Mo-Su 11:00-23:00",
+      "phone": "+212 663 333886"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4653090093,
+    "lat": 34.0613834,
+    "lon": -4.9838617,
+    "timestamp": "2017-02-03T22:46:45Z",
+    "version": 3,
+    "changeset": 45792643,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional;international;sausage;tea;cake;moroccan;mediterranean;coffee_shop;pasta;pizza;chicken;arab",
+      "email": "bensdiramakki4@gmail.com",
+      "internet_access": "wlan",
+      "name": "Restaurant nagham cafe مقهى و مطعم نغم",
+      "name:ar": "مقهى و مطعم نغم",
+      "name:en": "Nagham cafe & restaurant",
+      "name:fr": "Restaurant nagham cafe",
+      "opening_hours": "Mo-Su 11:00-23:00",
+      "phone": "+212663333886"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4660494689,
+    "lat": 34.0411223,
+    "lon": -5.0017159,
+    "timestamp": "2017-03-14T05:11:27Z",
+    "version": 2,
+    "changeset": 46830181,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:street": "Rue d'Arabie Saoudite",
+      "amenity": "restaurant",
+      "cuisine": "chinese",
+      "name": "Great Wall of China Restaurant",
+      "name:en": "Great Wall of China Restaurant",
+      "name:zh": "长城餐厅",
+      "opening_hours": "Mo-Su 11:00-21:00",
+      "phone": "632936666"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4687016086,
+    "lat": 34.0347608,
+    "lon": -4.9969181,
+    "timestamp": "2020-11-18T15:31:00Z",
+    "version": 5,
+    "changeset": 94375640,
+    "user": "MustafaQasim",
+    "uid": 9535554,
+    "tags": {
+      "addr:city": "5 BVD Mohamed V FES",
+      "amenity": "restaurant",
+      "name": "Zagora",
+      "phone": "0535624618"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4705284791,
+    "lat": 34.0613559,
+    "lon": -5.0089846,
+    "timestamp": "2023-06-09T12:43:19Z",
+    "version": 6,
+    "changeset": 137135598,
+    "user": "Gurusraouta",
+    "uid": 18913526,
+    "tags": {
+      "addr:city": "Fès",
+      "addr:city:ar": "فاس",
+      "addr:city:es": "Fez",
+      "addr:city:fr": "Fès",
+      "addr:district": "Fès",
+      "addr:district:ar": "فاس",
+      "addr:district:es": "Fez",
+      "addr:district:fr": "Fès",
+      "amenity": "restaurant",
+      "cuisine": "friture;pizza",
+      "name": "Restaurant ahl Fès مطعم أهل فاس",
+      "name:ar": "مطعم أهل فاس",
+      "name:fr": "Restaurant ahl Fès"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4721803693,
+    "lat": 34.0435541,
+    "lon": -4.9984693,
+    "timestamp": "2017-03-14T05:17:54Z",
+    "version": 2,
+    "changeset": 46830232,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Laitie"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4721953189,
+    "lat": 34.044,
+    "lon": -4.9992723,
+    "timestamp": "2017-03-16T03:10:29Z",
+    "version": 2,
+    "changeset": 46886456,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Grillade soufiane"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4723787593,
+    "lat": 34.0437803,
+    "lon": -4.9990633,
+    "timestamp": "2017-03-14T05:17:54Z",
+    "version": 2,
+    "changeset": 46830232,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Héritier allal salmi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4733999321,
+    "lat": 34.0404226,
+    "lon": -4.9974698,
+    "timestamp": "2017-03-21T06:40:28Z",
+    "version": 2,
+    "changeset": 47031262,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:street": "Rue Hassan Zegriti",
+      "amenity": "restaurant",
+      "name": "Casse croûte"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4734017521,
+    "lat": 34.0404283,
+    "lon": -4.9972993,
+    "timestamp": "2017-03-30T19:39:36Z",
+    "version": 3,
+    "changeset": 47303503,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:street": "Rue Hassan Zegriti",
+      "amenity": "restaurant",
+      "name": "Café-Restaurant Alessio"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4736010622,
+    "lat": 34.0393687,
+    "lon": -4.9996003,
+    "timestamp": "2017-03-21T07:01:18Z",
+    "version": 2,
+    "changeset": 47031571,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restant zakaria"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4741597737,
+    "lat": 34.0399333,
+    "lon": -5.005807,
+    "timestamp": "2017-03-21T05:46:23Z",
+    "version": 3,
+    "changeset": 47030609,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "La piscope",
+      "name:fr": "La piscope"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4744705522,
+    "lat": 34.0350959,
+    "lon": -5.0090408,
+    "timestamp": "2018-06-27T10:20:31Z",
+    "version": 4,
+    "changeset": 60211043,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "addr:city": "12 avenue moulay el kamal fez",
+      "addr:housenumber": "1",
+      "addr:street": "rue Lalla Aicha",
+      "amenity": "restaurant",
+      "name": "La Grilladière",
+      "phone": "0535941731"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4744850022,
+    "lat": 34.0382853,
+    "lon": -4.9987745,
+    "timestamp": "2017-04-15T05:27:36Z",
+    "version": 3,
+    "changeset": 47804079,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Crouta saada"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4744892621,
+    "lat": 34.0383167,
+    "lon": -4.999223,
+    "timestamp": "2017-03-22T16:27:05Z",
+    "version": 2,
+    "changeset": 47072783,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaut moncif"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4744902523,
+    "lat": 34.0385292,
+    "lon": -4.9993,
+    "timestamp": "2017-03-22T16:27:05Z",
+    "version": 2,
+    "changeset": 47072783,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Bismillah"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4744910721,
+    "lat": 34.0421617,
+    "lon": -5.0012958,
+    "timestamp": "2017-04-26T12:16:31Z",
+    "version": 6,
+    "changeset": 48161407,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant Adwak fes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4744910723,
+    "lat": 34.0384986,
+    "lon": -4.99929,
+    "timestamp": "2017-03-22T16:27:05Z",
+    "version": 2,
+    "changeset": 47072783,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaut moncif"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4745046125,
+    "lat": 34.0425251,
+    "lon": -5.0019306,
+    "timestamp": "2017-03-21T05:56:47Z",
+    "version": 2,
+    "changeset": 47030706,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Crémier Nice"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4746624822,
+    "lat": 34.0649813,
+    "lon": -4.9765344,
+    "timestamp": "2023-11-01T20:36:22Z",
+    "version": 6,
+    "changeset": 143495346,
+    "user": "Le Petit Léo",
+    "uid": 20120497,
+    "tags": {
+      "addr:city": "Fes Médina",
+      "amenity": "restaurant",
+      "check_date": "2023-11-01",
+      "name": "Dar Sidi Idir",
+      "name:en": "Dar Sidi Idir"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4746811323,
+    "lat": 34.0357144,
+    "lon": -5.0079062,
+    "timestamp": "2017-11-04T14:19:03Z",
+    "version": 3,
+    "changeset": 53505144,
+    "user": "Johnwhelan",
+    "uid": 186592,
+    "tags": {
+      "addr:housenumber": "5",
+      "addr:street": "IBN BADISS",
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4750794524,
+    "lat": 34.0312815,
+    "lon": -5.0059746,
+    "timestamp": "2017-03-24T12:59:25Z",
+    "version": 2,
+    "changeset": 47124202,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "12",
+      "addr:street": "Rue Jarir",
+      "amenity": "restaurant",
+      "name": "La noce sarl"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4757645424,
+    "lat": 34.0318516,
+    "lon": -5.0057828,
+    "timestamp": "2017-03-28T13:45:35Z",
+    "version": 2,
+    "changeset": 47229618,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:street": "Rue Jarir",
+      "amenity": "restaurant",
+      "name": "Restaurant SUN REMO"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4757772030,
+    "lat": 34.0320367,
+    "lon": -5.004426,
+    "timestamp": "2017-10-11T14:57:01Z",
+    "version": 5,
+    "changeset": 52828448,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "12",
+      "addr:street": "Rue Ahmed Chaouki",
+      "amenity": "restaurant",
+      "name": "MB Restaurant Lounge",
+      "phone": "+212535622727",
+      "website": "http://mbrestaurantlounge.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4757777928,
+    "lat": 34.0323426,
+    "lon": -5.0042876,
+    "timestamp": "2018-06-25T14:07:20Z",
+    "version": 3,
+    "changeset": 60152705,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "addr:housenumber": "12",
+      "addr:street": "Rue Ahmed Chaouki",
+      "amenity": "restaurant",
+      "name": "Restaurant kai Tai",
+      "phone": "0535651700"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4757807433,
+    "lat": 34.0386419,
+    "lon": -5.000554,
+    "timestamp": "2017-03-28T13:25:28Z",
+    "version": 2,
+    "changeset": 47229618,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant adil"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4757915532,
+    "lat": 34.0379127,
+    "lon": -5.0010026,
+    "timestamp": "2017-03-28T13:27:34Z",
+    "version": 2,
+    "changeset": 47229618,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Le jazzy"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4757933922,
+    "lat": 34.0445027,
+    "lon": -5.0038537,
+    "timestamp": "2017-03-28T13:53:39Z",
+    "version": 2,
+    "changeset": 47229618,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "6",
+      "addr:street": "rue Lalla Asmaa",
+      "amenity": "restaurant",
+      "name": "Restaurant La cheminée"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4758213310,
+    "lat": 33.7153722,
+    "lon": -5.0114838,
+    "timestamp": "2017-03-27T16:13:21Z",
+    "version": 3,
+    "changeset": 47205476,
+    "user": "osm10005",
+    "uid": 4816089,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Atlas Escale"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4759439321,
+    "lat": 34.0446279,
+    "lon": -5.0039264,
+    "timestamp": "2017-03-30T20:32:08Z",
+    "version": 2,
+    "changeset": 47305359,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "8",
+      "addr:street": "rue Lalla Asmaa",
+      "amenity": "restaurant",
+      "name": "Restaurant Aladino"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4761790025,
+    "lat": 34.0453708,
+    "lon": -5.0039426,
+    "timestamp": "2017-08-16T08:37:35Z",
+    "version": 6,
+    "changeset": 51162926,
+    "user": "Veomap",
+    "uid": 1711238,
+    "tags": {
+      "addr:housenumber": "37",
+      "addr:street": "Avenue des Sports",
+      "amenity": "restaurant",
+      "cuisine": "regional"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4763916622,
+    "lat": 34.0373099,
+    "lon": -4.998025,
+    "timestamp": "2017-04-03T13:11:56Z",
+    "version": 2,
+    "changeset": 47411760,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "De marisco"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4764100121,
+    "lat": 34.0453942,
+    "lon": -5.0035778,
+    "timestamp": "2017-04-20T16:04:56Z",
+    "version": 3,
+    "changeset": 47976642,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "27",
+      "addr:street": "Rue des Etats-Unis",
+      "amenity": "restaurant",
+      "name": "Driss Machrouh et Nadia Zakri"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4770323822,
+    "lat": 34.044292,
+    "lon": -5.0040164,
+    "timestamp": "2017-04-03T14:08:34Z",
+    "version": 2,
+    "changeset": 47413474,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "9",
+      "addr:street": "rue Lalla Asmaa",
+      "amenity": "restaurant",
+      "name": "Ahmed Moufakkir"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4772543426,
+    "lat": 34.0198204,
+    "lon": -4.9963124,
+    "timestamp": "2017-04-05T22:36:23Z",
+    "version": 2,
+    "changeset": 47491034,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:street": "rte imouzer",
+      "amenity": "restaurant",
+      "name": "Anbra"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4774476728,
+    "lat": 34.0418726,
+    "lon": -5.0045915,
+    "timestamp": "2017-05-02T09:06:38Z",
+    "version": 4,
+    "changeset": 48328825,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "addr:housenumber": "27",
+      "addr:street": "Obaida Bnou El Jarrah",
+      "amenity": "restaurant",
+      "name": "Restaurant Le Consul"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4774645654,
+    "lat": 34.0409938,
+    "lon": -5.0052404,
+    "timestamp": "2017-04-08T05:57:17Z",
+    "version": 2,
+    "changeset": 47558905,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "2",
+      "addr:street": "Obaida Bnou El Jarrah",
+      "amenity": "restaurant",
+      "name": "Restaurant Rico's Sandwich"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4774679852,
+    "lat": 34.0402767,
+    "lon": -5.0094237,
+    "timestamp": "2017-04-25T14:23:27Z",
+    "version": 3,
+    "changeset": 48127042,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Rincon"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4776610124,
+    "lat": 34.0265102,
+    "lon": -4.9954322,
+    "timestamp": "2019-06-18T03:23:29Z",
+    "version": 5,
+    "changeset": 71349816,
+    "user": "alain2003",
+    "uid": 578772,
+    "tags": {
+      "addr:street": "Boulevard Moulay Hicham",
+      "amenity": "restaurant",
+      "name": "Ogriola"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4776617525,
+    "lat": 34.0387811,
+    "lon": -5.0103233,
+    "timestamp": "2017-04-08T06:09:49Z",
+    "version": 2,
+    "changeset": 47559144,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "german",
+      "name": "Deutsch Cuisines"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4776677721,
+    "lat": 34.0401337,
+    "lon": -5.0056571,
+    "timestamp": "2017-04-08T06:03:59Z",
+    "version": 3,
+    "changeset": 47559052,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "10",
+      "addr:street": "Obaida Bnou El Jarrah",
+      "amenity": "restaurant",
+      "name": "Restaurant Caminitto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4776723222,
+    "lat": 34.0398823,
+    "lon": -5.0058558,
+    "timestamp": "2017-04-08T06:03:59Z",
+    "version": 2,
+    "changeset": 47559052,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "6",
+      "addr:street": "Obaida Bnou El Jarrah",
+      "amenity": "restaurant",
+      "name": "Chickandy"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4776756821,
+    "lat": 34.0398383,
+    "lon": -5.0058847,
+    "timestamp": "2017-04-08T06:03:59Z",
+    "version": 2,
+    "changeset": 47559052,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "4",
+      "addr:street": "Obaida Bnou El Jarrah",
+      "amenity": "restaurant",
+      "name": "Pizza Midway"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4776766931,
+    "lat": 34.0397745,
+    "lon": -5.0059311,
+    "timestamp": "2017-04-08T06:03:59Z",
+    "version": 2,
+    "changeset": 47559052,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "2",
+      "addr:street": "Obaida Bnou El Jarrah",
+      "amenity": "restaurant",
+      "name": "Les Pêcheurs"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4778697221,
+    "lat": 34.0416881,
+    "lon": -5.0070886,
+    "timestamp": "2017-10-18T22:15:03Z",
+    "version": 5,
+    "changeset": 53053905,
+    "user": "Abdelali BOUSSIB",
+    "uid": 3459885,
+    "tags": {
+      "addr:housenumber": "22",
+      "addr:street": "Av. Abi Bakr Essedik",
+      "amenity": "restaurant",
+      "name": "Abdelouahed Sadouk"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4786060929,
+    "lat": 34.0449853,
+    "lon": -5.0053801,
+    "timestamp": "2017-04-12T15:17:28Z",
+    "version": 2,
+    "changeset": 47697953,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "132",
+      "addr:street": "Av. Abi Bakr Essedik",
+      "amenity": "restaurant",
+      "name": "Restaurant Économique Nachit Massaoud"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4786125921,
+    "lat": 34.0447566,
+    "lon": -5.0054348,
+    "timestamp": "2017-04-12T15:17:28Z",
+    "version": 2,
+    "changeset": 47697953,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "130",
+      "addr:street": "Av. Abi Bakr Essedik",
+      "amenity": "restaurant",
+      "name": "Hassani Mustapha et Driss"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4788557122,
+    "lat": 34.0338111,
+    "lon": -5.0185804,
+    "timestamp": "2018-06-27T10:01:14Z",
+    "version": 4,
+    "changeset": 60210356,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "addr:city": "lotissement kenza champs de courses fez",
+      "addr:street": "Av Omar Ibn Al Khattab",
+      "amenity": "restaurant",
+      "name": "Restaurant wong",
+      "phone": "0535652760"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4788557321,
+    "lat": 34.0331428,
+    "lon": -5.0193414,
+    "timestamp": "2017-04-12T16:15:46Z",
+    "version": 2,
+    "changeset": 47699956,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:street": "Av Omar Ibn Al Khattab",
+      "amenity": "restaurant",
+      "name": "Restaurant Taslit"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4788649021,
+    "lat": 34.0424883,
+    "lon": -5.0020395,
+    "timestamp": "2017-04-25T11:15:01Z",
+    "version": 3,
+    "changeset": 48120568,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Hjira hamza grillade"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4798493724,
+    "lat": 34.0376819,
+    "lon": -4.9989486,
+    "timestamp": "2017-08-10T14:25:21Z",
+    "version": 3,
+    "changeset": 51003478,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "addr:street": "Avenue Mohamed es Saoui",
+      "amenity": "restaurant",
+      "name": "Relax pub"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4798578221,
+    "lat": 34.0376679,
+    "lon": -4.9989838,
+    "timestamp": "2017-08-10T14:25:21Z",
+    "version": 3,
+    "changeset": 51003478,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "addr:street": "Avenue Mohamed es Saoui",
+      "amenity": "restaurant",
+      "name": "Romaince pub"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4801351723,
+    "lat": 34.0425193,
+    "lon": -5.0002556,
+    "timestamp": "2017-04-26T12:27:29Z",
+    "version": 4,
+    "changeset": 48161717,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "Restaurant Pizzeria la Mamia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4801490221,
+    "lat": 34.0427485,
+    "lon": -4.9996346,
+    "timestamp": "2017-04-20T16:02:41Z",
+    "version": 2,
+    "changeset": 47976604,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Casse croute"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4803044340,
+    "lat": 34.0436302,
+    "lon": -5.0052826,
+    "timestamp": "2017-04-20T16:17:30Z",
+    "version": 2,
+    "changeset": 47976997,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "25",
+      "addr:street": "Avenue Abi Naïm",
+      "amenity": "restaurant",
+      "name": "Casse-croûte et Café Trio's"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4805438222,
+    "lat": 34.0323969,
+    "lon": -5.0240158,
+    "timestamp": "2017-04-20T18:33:28Z",
+    "version": 2,
+    "changeset": 47980776,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:street": "Med Abdelaziz Lhbabi",
+      "amenity": "restaurant",
+      "name": "Sandwich Marseille"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4805525724,
+    "lat": 34.0360983,
+    "lon": -4.9975355,
+    "timestamp": "2017-04-22T03:25:10Z",
+    "version": 2,
+    "changeset": 48021203,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Crémerie"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4814367224,
+    "lat": 34.0417341,
+    "lon": -5.0052085,
+    "timestamp": "2023-06-09T12:43:19Z",
+    "version": 4,
+    "changeset": 137135598,
+    "user": "Gurusraouta",
+    "uid": 18913526,
+    "tags": {
+      "addr:city": "Fès",
+      "addr:city:ar": "فاس",
+      "addr:city:es": "Fez",
+      "addr:city:fr": "Fès",
+      "addr:district": "Fès",
+      "addr:district:ar": "فاس",
+      "addr:district:es": "Fez",
+      "addr:district:fr": "Fès",
+      "addr:housenumber": "1",
+      "addr:postcode": "30000",
+      "addr:province": "Fes",
+      "addr:state": "Maroc",
+      "addr:street": "rue Imam Malik",
+      "addr:subdistrict": "Agdal",
+      "amenity": "restaurant",
+      "name": "Snack Bennani Abdelkarim"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4815413222,
+    "lat": 34.0347081,
+    "lon": -4.9973585,
+    "timestamp": "2017-04-26T17:32:04Z",
+    "version": 2,
+    "changeset": 48169760,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Zagora"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4815558122,
+    "lat": 34.0372313,
+    "lon": -4.9979824,
+    "timestamp": "2017-04-27T05:47:38Z",
+    "version": 2,
+    "changeset": 48182876,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Marisco"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4816827527,
+    "lat": 34.0415643,
+    "lon": -5.0064381,
+    "timestamp": "2017-08-15T16:19:30Z",
+    "version": 4,
+    "changeset": 51145573,
+    "user": "Veomap",
+    "uid": 1711238,
+    "tags": {
+      "addr:housenumber": "25 mag 1",
+      "addr:street": "rue Ahmed Amine",
+      "amenity": "restaurant",
+      "cuisine": "seafood",
+      "name": "Restaurant Chez Ismail Spécialité Poissons"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4816827826,
+    "lat": 34.0398145,
+    "lon": -5.0048456,
+    "timestamp": "2017-04-29T12:00:53Z",
+    "version": 2,
+    "changeset": 48254247,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "11",
+      "addr:street": "Avenue Iman Ali",
+      "amenity": "restaurant",
+      "name": "Snack Belamlih Kamal 11"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4816827827,
+    "lat": 34.0400416,
+    "lon": -5.0052555,
+    "timestamp": "2017-05-08T16:17:33Z",
+    "version": 3,
+    "changeset": 48506459,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "13",
+      "addr:street": "Avenue Iman Ali",
+      "amenity": "restaurant",
+      "name": "Snack Al Akhawayne",
+      "operator": "Rahmani El Arbi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4817962922,
+    "lat": 34.0343439,
+    "lon": -4.997289,
+    "timestamp": "2017-04-26T17:32:05Z",
+    "version": 2,
+    "changeset": 48169760,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "L'immigré"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4818943522,
+    "lat": 34.0406525,
+    "lon": -5.0061129,
+    "timestamp": "2017-05-08T16:16:50Z",
+    "version": 3,
+    "changeset": 48506440,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "8",
+      "addr:street": "Avenue Iman Ali",
+      "amenity": "restaurant",
+      "name": "Autrement Chez Soi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4821411021,
+    "lat": 34.0620951,
+    "lon": -4.9774646,
+    "timestamp": "2024-12-31T11:44:58Z",
+    "version": 7,
+    "changeset": 160829008,
+    "user": "LateNightTone",
+    "uid": 4003485,
+    "tags": {
+      "addr:housenumber": "15",
+      "addr:postcode": "30110",
+      "addr:street": "Derb Idrissi",
+      "addr:suburb": "Sidi Ahmed Chaoui",
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "internet_access": "wlan",
+      "name": "The Ruined Garden",
+      "opening_hours": "Mo-Su 13:00-21:30",
+      "phone": "+212 649-191410",
+      "website": "https://ruinedgarden.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4830629525,
+    "lat": 34.0368001,
+    "lon": -4.9990779,
+    "timestamp": "2017-05-05T05:52:35Z",
+    "version": 2,
+    "changeset": 48414241,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant ahrame"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4830735522,
+    "lat": 34.0369307,
+    "lon": -4.9992715,
+    "timestamp": "2017-05-05T05:52:36Z",
+    "version": 2,
+    "changeset": 48414241,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Delice chicken"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4832547023,
+    "lat": 34.0389262,
+    "lon": -5.0044524,
+    "timestamp": "2017-05-05T05:52:38Z",
+    "version": 2,
+    "changeset": 48414241,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "7",
+      "addr:street": "Abi Hamid Ghazali",
+      "amenity": "restaurant",
+      "name": "Snack Restaurant Puerto Rico"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4834344921,
+    "lat": 34.0391101,
+    "lon": -5.0048326,
+    "timestamp": "2017-05-06T19:57:35Z",
+    "version": 2,
+    "changeset": 48460593,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "12 mag 2",
+      "addr:street": "Abdelkarim Benjelloun",
+      "amenity": "restaurant",
+      "name": "Snack Mima House"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4834442222,
+    "lat": 34.0394777,
+    "lon": -5.0054341,
+    "timestamp": "2017-05-06T19:57:35Z",
+    "version": 2,
+    "changeset": 48460593,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "16",
+      "addr:street": "Abdelkarim Benjelloun",
+      "amenity": "restaurant",
+      "name": "Le Coin de Bonheur"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4834479122,
+    "lat": 34.0395972,
+    "lon": -5.005654,
+    "timestamp": "2017-05-06T19:57:34Z",
+    "version": 2,
+    "changeset": 48460593,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "22",
+      "addr:street": "Abdelkarim Benjelloun",
+      "amenity": "restaurant",
+      "name": "Restaurant Sanslezard"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4834482923,
+    "lat": 34.0367749,
+    "lon": -4.9988664,
+    "timestamp": "2017-05-06T19:51:43Z",
+    "version": 2,
+    "changeset": 48460478,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Les quatre coins"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4834483022,
+    "lat": 34.0368063,
+    "lon": -4.9987817,
+    "timestamp": "2017-05-06T19:51:43Z",
+    "version": 2,
+    "changeset": 48460478,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Poulet rôtis"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4834496524,
+    "lat": 34.0397179,
+    "lon": -5.0058759,
+    "timestamp": "2017-05-06T19:57:34Z",
+    "version": 2,
+    "changeset": 48460593,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "24",
+      "addr:street": "Abdelkarim Benjelloun",
+      "amenity": "restaurant",
+      "name": "Snack Kamo Sushi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4841709721,
+    "lat": 34.0398795,
+    "lon": -5.0309729,
+    "timestamp": "2017-05-11T12:30:25Z",
+    "version": 2,
+    "changeset": 48590851,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Casse croûte fatima hamani"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4842582421,
+    "lat": 34.0398902,
+    "lon": -5.007188,
+    "timestamp": "2017-05-12T11:33:26Z",
+    "version": 2,
+    "changeset": 48621212,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "12",
+      "addr:street": "Wassel Ibn Ataa",
+      "amenity": "restaurant",
+      "name": "Grand Alaise"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4843629121,
+    "lat": 34.0360073,
+    "lon": -4.9972231,
+    "timestamp": "2017-05-12T10:36:53Z",
+    "version": 2,
+    "changeset": 48619779,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:street": "Rue Omar Al Mokhtar",
+      "amenity": "restaurant",
+      "name": "Restaurant Marrakech"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4845317323,
+    "lat": 34.0644898,
+    "lon": -4.9785742,
+    "timestamp": "2018-10-22T10:19:26Z",
+    "version": 3,
+    "changeset": 63753564,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:city": "Fes Médina",
+      "amenity": "restaurant",
+      "name": "maison moi anan",
+      "name:fr": "maison moi anan"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4845458421,
+    "lat": 34.028187,
+    "lon": -5.0226527,
+    "timestamp": "2017-05-13T05:52:13Z",
+    "version": 2,
+    "changeset": 48640622,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:street": "Av Omar Ibn Al Khattab",
+      "amenity": "restaurant",
+      "name": "Casse-croute"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4845644022,
+    "lat": 34.0416278,
+    "lon": -5.0102179,
+    "timestamp": "2017-05-14T16:29:31Z",
+    "version": 3,
+    "changeset": 48677821,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "8",
+      "addr:street": "Oussama Bnou Zayd",
+      "amenity": "restaurant",
+      "name": "Snack Zahouani Rachid"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4851287125,
+    "lat": 34.0616041,
+    "lon": -4.9742541,
+    "timestamp": "2017-05-13T09:23:10Z",
+    "version": 1,
+    "changeset": 48644388,
+    "user": "Felix Breig",
+    "uid": 5884215,
+    "tags": {
+      "addr:street": "27 Rchem Laayoune, Palace Rcif Fes",
+      "amenity": "restaurant",
+      "name:de": "Ouliya"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4855495324,
+    "lat": 34.0368407,
+    "lon": -4.9983015,
+    "timestamp": "2017-09-14T15:25:25Z",
+    "version": 2,
+    "changeset": 52041795,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Vittorto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4856522822,
+    "lat": 34.0414121,
+    "lon": -5.013401,
+    "timestamp": "2017-05-21T11:09:36Z",
+    "version": 2,
+    "changeset": 48859979,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "28",
+      "addr:street": "Iyass Ibn Mouaouiya",
+      "amenity": "restaurant",
+      "name": "Snack Home Food",
+      "operator": "Alami Mohammed Faiçal"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4857593621,
+    "lat": 34.043884,
+    "lon": -5.0114995,
+    "timestamp": "2017-05-21T11:01:13Z",
+    "version": 2,
+    "changeset": 48859842,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "135",
+      "addr:street": "Avenue des Almohades",
+      "amenity": "restaurant",
+      "name": "Restaurant Économique",
+      "operator": "Oussi Brahim"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4859544121,
+    "lat": 34.0440803,
+    "lon": -5.011214,
+    "timestamp": "2017-05-21T11:01:13Z",
+    "version": 2,
+    "changeset": 48859842,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "121",
+      "addr:street": "Avenue des Almohades",
+      "amenity": "restaurant",
+      "name": "Restaurant Économique",
+      "operator": "Sbai Rachid"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4859556923,
+    "lat": 34.0354319,
+    "lon": -4.9989191,
+    "timestamp": "2017-05-21T10:50:19Z",
+    "version": 2,
+    "changeset": 48859672,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Myrtys"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4861762621,
+    "lat": 34.0455593,
+    "lon": -5.0051193,
+    "timestamp": "2017-05-21T10:56:31Z",
+    "version": 2,
+    "changeset": 48859770,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "69",
+      "addr:street": "Avenue des Almohades",
+      "amenity": "restaurant",
+      "name": "Snack Zoya",
+      "operator": "Araar Mohammed"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4869650421,
+    "lat": 34.0315253,
+    "lon": -4.9940725,
+    "timestamp": "2017-05-27T16:44:01Z",
+    "version": 2,
+    "changeset": 49028815,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant omar"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4869650621,
+    "lat": 34.0314994,
+    "lon": -4.9940287,
+    "timestamp": "2017-05-27T16:44:01Z",
+    "version": 2,
+    "changeset": 49028815,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Sandwich hassan"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4869672323,
+    "lat": 34.0312858,
+    "lon": -4.9938779,
+    "timestamp": "2017-07-06T00:07:22Z",
+    "version": 3,
+    "changeset": 50071186,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4869689722,
+    "lat": 34.0309999,
+    "lon": -4.9937079,
+    "timestamp": "2017-05-27T16:44:01Z",
+    "version": 2,
+    "changeset": 49028815,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Snack la place"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4869699822,
+    "lat": 34.0235378,
+    "lon": -5.006088,
+    "timestamp": "2017-07-06T00:30:22Z",
+    "version": 3,
+    "changeset": 50071394,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:street": "Avenue Saint Louis",
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4871876321,
+    "lat": 34.029494,
+    "lon": -4.9929646,
+    "timestamp": "2017-05-27T16:44:02Z",
+    "version": 2,
+    "changeset": 49028815,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Snack oued dahab"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4873007021,
+    "lat": 34.0444352,
+    "lon": -5.0058076,
+    "timestamp": "2017-05-27T16:44:04Z",
+    "version": 2,
+    "changeset": 49028815,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "10",
+      "addr:street": "Bv Otmane ben affane",
+      "amenity": "restaurant",
+      "name": "Casse-croûte Kotbi Khadija"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4879421336,
+    "lat": 34.0438116,
+    "lon": -5.0069488,
+    "timestamp": "2017-05-27T17:00:42Z",
+    "version": 2,
+    "changeset": 49029150,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "87",
+      "addr:street": "Av. Abi Hanifa",
+      "amenity": "restaurant",
+      "name": "Snack Moukhtar Alassam"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4894589122,
+    "lat": 34.0449574,
+    "lon": -5.0067072,
+    "timestamp": "2017-06-08T01:34:22Z",
+    "version": 3,
+    "changeset": 49352235,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "23",
+      "addr:street": "Imam chafai",
+      "amenity": "restaurant",
+      "cuisine": "chinese",
+      "name": "Yang Tse",
+      "operator": "Ben Mellah Abderrahman"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4922160725,
+    "lat": 34.0431867,
+    "lon": -5.0089914,
+    "timestamp": "2017-06-23T08:38:59Z",
+    "version": 2,
+    "changeset": 49764890,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "2",
+      "addr:street": "Ibn Hajar",
+      "amenity": "restaurant",
+      "name": "Casse-croûte El Karam Bahij Taoufik"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4924380921,
+    "lat": 34.030758,
+    "lon": -4.9988678,
+    "timestamp": "2023-06-09T12:43:19Z",
+    "version": 8,
+    "changeset": 137135598,
+    "user": "Gurusraouta",
+    "uid": 18913526,
+    "tags": {
+      "addr:city": "Fès",
+      "addr:city:ar": "فاس",
+      "addr:city:es": "Fez",
+      "addr:city:fr": "Fès",
+      "addr:district": "Fès",
+      "addr:district:ar": "فاس",
+      "addr:district:es": "Fez",
+      "addr:district:fr": "Fès",
+      "addr:housenumber": "40",
+      "addr:street": "Avenue Saint Louis",
+      "amenity": "restaurant",
+      "cuisine": "seafood",
+      "email": "contact@los-pescadores.com",
+      "name": "Restaurant Los Pescadores",
+      "opening_hours": "Mo-Su 11:30-23:30",
+      "phone": "+212 5 35 64 23 55",
+      "website": "http://www.lospescadores-fes.com/index.php"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4948576424,
+    "lat": 34.031678,
+    "lon": -4.9943723,
+    "timestamp": "2017-07-06T00:07:22Z",
+    "version": 2,
+    "changeset": 50071186,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4948606598,
+    "lat": 34.031707,
+    "lon": -4.9945242,
+    "timestamp": "2017-07-06T00:07:21Z",
+    "version": 2,
+    "changeset": 50071186,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Ba kekki"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4950700721,
+    "lat": 34.0284309,
+    "lon": -4.9938557,
+    "timestamp": "2017-07-06T00:22:39Z",
+    "version": 2,
+    "changeset": 50071338,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Snack"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4952401521,
+    "lat": 34.0241163,
+    "lon": -5.0067886,
+    "timestamp": "2017-07-06T00:30:21Z",
+    "version": 2,
+    "changeset": 50071394,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:street": "Rue 17",
+      "amenity": "restaurant",
+      "name": "Hui-Huang"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4954498932,
+    "lat": 34.0218837,
+    "lon": -5.0102799,
+    "timestamp": "2017-07-17T13:33:35Z",
+    "version": 3,
+    "changeset": 50350910,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "114",
+      "addr:street": "Avenue Ibn Al Atir",
+      "amenity": "restaurant",
+      "name": "Restaurant Pam Pam"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4954594251,
+    "lat": 34.0226019,
+    "lon": -5.012789,
+    "timestamp": "2017-07-08T18:00:42Z",
+    "version": 2,
+    "changeset": 50136634,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "194",
+      "addr:street": "Avenue Ibn Al Atir",
+      "amenity": "restaurant",
+      "name": "Restaurant Le Plaisir"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4954663727,
+    "lat": 34.0278678,
+    "lon": -4.9942915,
+    "timestamp": "2017-07-08T17:30:23Z",
+    "version": 2,
+    "changeset": 50136063,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "Pizza let si Go"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4968720021,
+    "lat": 34.0242396,
+    "lon": -5.0165516,
+    "timestamp": "2017-07-17T13:40:15Z",
+    "version": 2,
+    "changeset": 50351158,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "2 Lotis Nabih",
+      "addr:street": "Avenue Ibn Al Atir",
+      "amenity": "restaurant",
+      "name": "Laitiere Khayr Allah",
+      "operator": "Mnasfi Fatima"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4970412821,
+    "lat": 34.0333274,
+    "lon": -4.9971708,
+    "timestamp": "2017-09-20T23:55:32Z",
+    "version": 2,
+    "changeset": 52228444,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Black Ice Cafe",
+      "name:en": "Black Ice Cafe"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4971325125,
+    "lat": 34.0218518,
+    "lon": -5.0112861,
+    "timestamp": "2017-07-17T13:27:20Z",
+    "version": 2,
+    "changeset": 50350778,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "2 Hay Farah 2",
+      "addr:street": "Avenue Ibn Al Atir",
+      "amenity": "restaurant",
+      "name": "Snack L' Escalope",
+      "operator": "Nachit Hafid"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4980879097,
+    "lat": 34.0205369,
+    "lon": -5.0045143,
+    "timestamp": "2017-08-03T06:18:06Z",
+    "version": 2,
+    "changeset": 50796904,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "1 lot 12 Jabri",
+      "addr:street": "Avenue Ibn Al Atir",
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "Tipico Pizza Fahmi Amine"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4980880637,
+    "lat": 34.0207596,
+    "lon": -5.0056597,
+    "timestamp": "2017-08-03T06:18:06Z",
+    "version": 2,
+    "changeset": 50796904,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "43",
+      "addr:street": "Avenue Ibn Al Atir",
+      "amenity": "restaurant",
+      "name": "Casse-croûte Laamiri Abdelouahed"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4996666433,
+    "lat": 34.0196632,
+    "lon": -5.0144306,
+    "timestamp": "2017-08-03T06:10:12Z",
+    "version": 2,
+    "changeset": 50796771,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "5 Rési Ezzohor",
+      "addr:street": "Haj Mustapha Lahlou Adarissa",
+      "amenity": "restaurant",
+      "name": "Restaurant Escale",
+      "operator": "Jamai Najib"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4998091121,
+    "lat": 34.060114,
+    "lon": -4.9813138,
+    "timestamp": "2023-11-01T07:31:32Z",
+    "version": 7,
+    "changeset": 143458795,
+    "user": "Le Petit Léo",
+    "uid": 20120497,
+    "tags": {
+      "addr:housenumber": "8",
+      "addr:postcode": "30110",
+      "addr:street": "Rue Sidi El Khiyat",
+      "amenity": "restaurant",
+      "cuisine": "italian_pizza;seafood;burger;lebanese;pancake;american;moroccan;breakfast;coffee_shop;arab",
+      "email": "cinemacafefez@gmail.com",
+      "internet_access": "wlan",
+      "name": "Cinema cafe",
+      "name:en": "Cinema cafe",
+      "opening_hours": "Mo-Su 09:00-23:00",
+      "operator": "yassine",
+      "phone": "+212 5356-38395",
+      "website": "https://cinemacafefez.business.site/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5028966121,
+    "lat": 34.0137583,
+    "lon": -5.05064,
+    "timestamp": "2017-10-28T21:20:07Z",
+    "version": 3,
+    "changeset": 53328259,
+    "user": "Abdelali BOUSSIB",
+    "uid": 3459885,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "steak_house;grill",
+      "name": "Grillade Bensouda مشوار بن سودة",
+      "name:ar": "مشوار بن سودة",
+      "name:fr": "Grillade Bensouda"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5054002325,
+    "lat": 34.0235415,
+    "lon": -5.0205108,
+    "timestamp": "2017-08-24T18:36:28Z",
+    "version": 2,
+    "changeset": 51415137,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "3et4Rési NacimA",
+      "addr:street": "Route Ain Smen Hay Badr Face Mosquée Badr",
+      "amenity": "restaurant",
+      "name": "Restaurant Costa Serena",
+      "name:fr": "Restaurant Costa Serena"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5055997622,
+    "lat": 34.0265365,
+    "lon": -5.006559,
+    "timestamp": "2017-08-26T22:38:38Z",
+    "version": 2,
+    "changeset": 51470055,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:street": "Tabari",
+      "amenity": "restaurant",
+      "cuisine": "vietnamese",
+      "name": "Snack Restaurant Vietnamien"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5084854921,
+    "lat": 34.0619008,
+    "lon": -4.9839297,
+    "timestamp": "2024-12-31T21:05:15Z",
+    "version": 7,
+    "changeset": 160848034,
+    "user": "LateNightTone",
+    "uid": 4003485,
+    "tags": {
+      "addr:city": "Fes Médina",
+      "addr:street": "Rue Talaâ Kbira الطالعة الكبيرة",
+      "amenity": "restaurant",
+      "name": "Restaurant Bouanania"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5085574522,
+    "lat": 34.032236,
+    "lon": -4.995205,
+    "timestamp": "2017-09-12T14:40:54Z",
+    "version": 2,
+    "changeset": 51975590,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Snack el madina"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5097462354,
+    "lat": 34.0177605,
+    "lon": -5.0055449,
+    "timestamp": "2017-09-12T14:59:22Z",
+    "version": 2,
+    "changeset": 51976229,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Fragola"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5097511621,
+    "lat": 34.0180548,
+    "lon": -5.0060308,
+    "timestamp": "2017-09-12T14:59:21Z",
+    "version": 2,
+    "changeset": 51976229,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Délices"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5103588603,
+    "lat": 34.0412526,
+    "lon": -5.0001649,
+    "timestamp": "2019-07-28T09:16:55Z",
+    "version": 3,
+    "changeset": 72733131,
+    "user": "Drakarus",
+    "uid": 10112651,
+    "tags": {
+      "addr:street": "Avenue Hassan II شارع الحسن الثاني",
+      "amenity": "restaurant",
+      "cuisine": "grill",
+      "internet_access": "wlan",
+      "name": "Mr Brochette",
+      "phone": "+212 535 650 804"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5109591623,
+    "lat": 34.0639245,
+    "lon": -4.9809009,
+    "timestamp": "2023-11-02T19:41:58Z",
+    "version": 3,
+    "changeset": 143546972,
+    "user": "Le Petit Léo",
+    "uid": 20120497,
+    "tags": {
+      "addr:city": "Fes Médina",
+      "addr:housenumber": "43",
+      "addr:postcode": "30110",
+      "addr:street": "Rue Talaâ Kbira الطالعة الكبيرة",
+      "amenity": "restaurant",
+      "cuisine": "burger;oriental;sandwich;international;sausage;moroccan;mediterranean;coffee_shop;pizza;arab;mexican",
+      "email": "letarbouche.fes@gmail.com",
+      "internet_access": "wlan",
+      "name": "Le tarbouche",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "phone": "00212535636889",
+      "website": "https://www.facebook.com/letarbouchefes/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5112955722,
+    "lat": 34.0142659,
+    "lon": -5.0027169,
+    "timestamp": "2017-09-20T23:41:05Z",
+    "version": 2,
+    "changeset": 52228300,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Taco tac"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5114880336,
+    "lat": 34.032175,
+    "lon": -4.9953819,
+    "timestamp": "2017-09-21T00:15:44Z",
+    "version": 2,
+    "changeset": 52228813,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Borj el hout"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5114880340,
+    "lat": 34.0320869,
+    "lon": -4.9957808,
+    "timestamp": "2017-09-21T00:15:44Z",
+    "version": 2,
+    "changeset": 52228813,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Grillade diko"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5114880723,
+    "lat": 34.0319276,
+    "lon": -4.9964627,
+    "timestamp": "2017-09-21T00:15:44Z",
+    "version": 2,
+    "changeset": 52228813,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant belmaki"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5114881426,
+    "lat": 34.0321486,
+    "lon": -4.9955107,
+    "timestamp": "2017-09-21T00:15:44Z",
+    "version": 2,
+    "changeset": 52228813,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant le 300"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5114881427,
+    "lat": 34.0321066,
+    "lon": -4.9957098,
+    "timestamp": "2017-09-21T00:15:44Z",
+    "version": 2,
+    "changeset": 52228813,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant debbagh"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5116873726,
+    "lat": 34.0317239,
+    "lon": -4.9955902,
+    "timestamp": "2017-09-21T00:15:45Z",
+    "version": 2,
+    "changeset": 52228813,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant slaoui"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5134895621,
+    "lat": 34.0210876,
+    "lon": -4.9968308,
+    "timestamp": "2018-06-28T09:29:24Z",
+    "version": 3,
+    "changeset": 60242504,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "addr:city": "34 Route d'mouzzer fes",
+      "addr:housenumber": "34",
+      "addr:street": "Avenue Roi Houssaine Route d ' Immouzzer",
+      "amenity": "restaurant",
+      "name": "Restaurant Lounge Andalous",
+      "phone": "0535603162"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5135001922,
+    "lat": 34.028785,
+    "lon": -4.9989417,
+    "timestamp": "2017-09-29T10:10:14Z",
+    "version": 2,
+    "changeset": 52470427,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:street": "Avenue Roi Houssaine Route d ' Immouzzer près du Café Adan",
+      "amenity": "restaurant",
+      "name": "L' Ami"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5149461321,
+    "lat": 34.0263059,
+    "lon": -4.9946297,
+    "timestamp": "2017-10-06T11:43:41Z",
+    "version": 2,
+    "changeset": 52680825,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "24",
+      "addr:street": "Avenue Ibn Khatib Route d ' Immouzzer",
+      "amenity": "restaurant",
+      "name": "Outshy Sandwich Club"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5158665222,
+    "lat": 34.0262049,
+    "lon": -5.0002774,
+    "timestamp": "2019-08-05T06:42:28Z",
+    "version": 3,
+    "changeset": 73006897,
+    "user": "joost schouppe",
+    "uid": 67832,
+    "tags": {
+      "addr:street": "Ait Skatou",
+      "amenity": "restaurant",
+      "cuisine": "lebanese",
+      "name": "La Table Libanaise"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5168284694,
+    "lat": 34.0605711,
+    "lon": -4.9811934,
+    "timestamp": "2023-06-09T12:43:19Z",
+    "version": 2,
+    "changeset": 137135598,
+    "user": "Gurusraouta",
+    "uid": 18913526,
+    "tags": {
+      "addr:city": "Fès",
+      "addr:city:ar": "فاس",
+      "addr:city:es": "Fez",
+      "addr:city:fr": "Fès",
+      "addr:district": "Fès",
+      "addr:district:ar": "فاس",
+      "addr:district:es": "Fez",
+      "addr:district:fr": "Fès",
+      "addr:housenumber": "6",
+      "addr:postcode": "30110",
+      "addr:street": "Derb Salaj",
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "email": "lesalaj@hotmail.fr",
+      "name": "Le Salaj"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5172613924,
+    "lat": 34.0122349,
+    "lon": -5.0081951,
+    "timestamp": "2017-10-18T15:17:59Z",
+    "version": 2,
+    "changeset": 53043046,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:street": "Route Ain Chkaf",
+      "amenity": "restaurant",
+      "cuisine": "fish",
+      "name": "Poisson L' Ariva"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5174495424,
+    "lat": 34.0118513,
+    "lon": -4.9805389,
+    "timestamp": "2024-07-27T21:53:11Z",
+    "version": 3,
+    "changeset": 154500889,
+    "user": "Hervet",
+    "uid": 19855281,
+    "tags": {
+      "addr:housenumber": "150",
+      "addr:street": "Avenue My Rachid Route de Sefrou Lotis Ouafae 1",
+      "amenity": "restaurant",
+      "branch": "El Abidi Mohamed",
+      "name": "مقشدة الريف"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5183447621,
+    "lat": 34.0017992,
+    "lon": -5.0103986,
+    "timestamp": "2017-10-24T22:24:49Z",
+    "version": 2,
+    "changeset": 53221537,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:street": "Route Ain Chkaf",
+      "amenity": "restaurant",
+      "cuisine": "fish",
+      "name": "Pescado"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5183464521,
+    "lat": 34.0017124,
+    "lon": -5.0101245,
+    "timestamp": "2017-10-24T22:24:49Z",
+    "version": 2,
+    "changeset": 53221537,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:street": "Route Ain Chkaf",
+      "amenity": "restaurant",
+      "name": "Le Narval"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5185977722,
+    "lat": 34.0170513,
+    "lon": -4.979175,
+    "timestamp": "2017-10-28T14:24:22Z",
+    "version": 2,
+    "changeset": 53319191,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Snack mardilla"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5188237322,
+    "lat": 34.0150451,
+    "lon": -4.9757537,
+    "timestamp": "2017-10-28T14:24:22Z",
+    "version": 2,
+    "changeset": 53319191,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant fiesta"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5188303123,
+    "lat": 34.0151613,
+    "lon": -4.9747362,
+    "timestamp": "2017-10-28T12:25:21Z",
+    "version": 2,
+    "changeset": 53316702,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant al jazira"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5188308523,
+    "lat": 34.0152458,
+    "lon": -4.9746177,
+    "timestamp": "2017-10-28T12:25:21Z",
+    "version": 2,
+    "changeset": 53316702,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant Picasso"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5190379124,
+    "lat": 34.014481,
+    "lon": -4.9726783,
+    "timestamp": "2017-10-28T12:25:21Z",
+    "version": 2,
+    "changeset": 53316702,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Snack la place"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5194884626,
+    "lat": 34.0121037,
+    "lon": -4.9813166,
+    "timestamp": "2017-10-30T15:03:15Z",
+    "version": 2,
+    "changeset": 53370041,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:street": "Avenue My Rachid Route de Sefrou Zohor 1",
+      "amenity": "restaurant",
+      "name": "Pizza Pasta"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5194917427,
+    "lat": 34.0145313,
+    "lon": -4.9832399,
+    "timestamp": "2017-10-30T15:03:14Z",
+    "version": 2,
+    "changeset": 53370041,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "5",
+      "addr:street": "Avenue My Rachid Route de Sefrou Zohor 1 près du Complexe Social des Aveugles",
+      "amenity": "restaurant",
+      "name": "Primo Snack",
+      "operator": "El Hamraoui Najib"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5194917429,
+    "lat": 34.0143075,
+    "lon": -4.9830704,
+    "timestamp": "2017-10-30T15:03:14Z",
+    "version": 2,
+    "changeset": 53370041,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "1",
+      "addr:street": "Avenue My Rachid Route de Sefrou Zohor 1 près du Complexe Social des Aveugles",
+      "amenity": "restaurant",
+      "name": "Snack",
+      "operator": "Nassim Lahcen et Hafid Abdelmounim"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5194917439,
+    "lat": 34.0106204,
+    "lon": -4.9801866,
+    "timestamp": "2017-10-30T15:03:16Z",
+    "version": 2,
+    "changeset": 53370041,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "187",
+      "addr:street": "Avenue My Rachid Route de Sefrou Zohor 1",
+      "amenity": "restaurant",
+      "name": "Snack Al Aila Aziz Boukir"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5204125224,
+    "lat": 34.0175475,
+    "lon": -4.9877056,
+    "timestamp": "2018-07-11T14:13:56Z",
+    "version": 4,
+    "changeset": 60617595,
+    "user": "Velocimaptor",
+    "uid": 3544143,
+    "tags": {
+      "addr:housenumber": "70 et 72",
+      "addr:street": "Avenue Abi Horaira Zohor 1",
+      "amenity": "restaurant",
+      "name": "Restaurant La Rose",
+      "operator": "Bouhchlaf Abdelali",
+      "source": "Kaart Ground Survey 2018"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5204129523,
+    "lat": 34.0175678,
+    "lon": -4.9876177,
+    "timestamp": "2018-07-11T14:13:56Z",
+    "version": 4,
+    "changeset": 60617595,
+    "user": "Velocimaptor",
+    "uid": 3544143,
+    "tags": {
+      "addr:housenumber": "68",
+      "addr:street": "Avenue Abi Horaira Zohor 1",
+      "amenity": "restaurant",
+      "name": "Restaurant Zarda",
+      "operator": "Naji Ahmed",
+      "source": "Kaart Ground Survey 2018"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5216090822,
+    "lat": 34.0177124,
+    "lon": -4.981429,
+    "timestamp": "2017-11-07T12:12:53Z",
+    "version": 1,
+    "changeset": 53579964,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Snack la Ribera"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5219669821,
+    "lat": 34.0128351,
+    "lon": -5.0026744,
+    "timestamp": "2017-11-12T14:15:01Z",
+    "version": 2,
+    "changeset": 53713775,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:street": "Route Imouzer",
+      "amenity": "restaurant",
+      "name": "Restaurant Bavi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5226223222,
+    "lat": 34.0130023,
+    "lon": -5.0026782,
+    "timestamp": "2017-11-13T10:43:06Z",
+    "version": 1,
+    "changeset": 53736372,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "addr:street": "Route Imouzer",
+      "amenity": "restaurant",
+      "name": "Restaurant Katana Suchi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5228006221,
+    "lat": 34.0096459,
+    "lon": -4.9783211,
+    "timestamp": "2017-11-14T10:51:58Z",
+    "version": 1,
+    "changeset": 53767639,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Snack El wafae"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5230153721,
+    "lat": 34.0124853,
+    "lon": -4.9729332,
+    "timestamp": "2017-11-15T11:20:04Z",
+    "version": 1,
+    "changeset": 53799878,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Snack Katia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5231434923,
+    "lat": 34.0114874,
+    "lon": -4.9884505,
+    "timestamp": "2017-11-20T09:57:19Z",
+    "version": 2,
+    "changeset": 53944468,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "305",
+      "addr:street": "Avenue Karama Zohour 1",
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "Rabti Khalid Pizza Royale"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5231444740,
+    "lat": 34.0111693,
+    "lon": -4.9892054,
+    "timestamp": "2017-11-20T10:01:10Z",
+    "version": 2,
+    "changeset": 53944577,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "404",
+      "addr:street": "Avenue Karama Zohour 1",
+      "amenity": "restaurant",
+      "name": "Snack Abdou Bekkali",
+      "operator": "El Aghzaoui Mannana"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5232474324,
+    "lat": 34.0139505,
+    "lon": -4.971237,
+    "timestamp": "2017-11-16T11:21:10Z",
+    "version": 1,
+    "changeset": 53837862,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Snack El Wifaq"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5239191252,
+    "lat": 34.018314,
+    "lon": -4.986081,
+    "timestamp": "2018-01-09T10:18:24Z",
+    "version": 3,
+    "changeset": 55288755,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "addr:street": "Boulevard Moulay Rachid شارع مولاي رشيد",
+      "amenity": "restaurant",
+      "disused:amenity": "restaurant",
+      "name": "La Famille"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5240926421,
+    "lat": 34.0105614,
+    "lon": -4.9774602,
+    "timestamp": "2017-11-21T11:37:07Z",
+    "version": 1,
+    "changeset": 53973399,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Snack Driss (fermé )"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5242544222,
+    "lat": 34.0366646,
+    "lon": -5.014995,
+    "timestamp": "2017-11-22T11:17:19Z",
+    "version": 1,
+    "changeset": 53998527,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "addr:street": "Av Omar Ibn Al Khattab",
+      "amenity": "restaurant",
+      "name": "FOOD FACTORY"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5244078221,
+    "lat": 34.0128018,
+    "lon": -4.9741522,
+    "timestamp": "2017-11-23T11:05:09Z",
+    "version": 1,
+    "changeset": 54023332,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant Dichcom"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5244133721,
+    "lat": 34.015167,
+    "lon": -4.9862109,
+    "timestamp": "2017-11-25T17:57:09Z",
+    "version": 2,
+    "changeset": 54077948,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "224",
+      "addr:street": "Avenue Al Manama Zohour 1",
+      "amenity": "restaurant",
+      "name": "Hamzi Fatima Crémerie",
+      "name:fr": "Hamzi Fatima Crémerie"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5244176622,
+    "lat": 34.0387276,
+    "lon": -5.0120205,
+    "timestamp": "2017-11-23T12:44:47Z",
+    "version": 1,
+    "changeset": 54025400,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "addr:street": "rue Lalla Aicha",
+      "amenity": "restaurant",
+      "name": "O'POULET"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5244203522,
+    "lat": 34.0391178,
+    "lon": -5.0124051,
+    "timestamp": "2017-11-23T12:33:34Z",
+    "version": 1,
+    "changeset": 54025124,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "addr:street": "rue Lalla Aicha",
+      "amenity": "restaurant",
+      "name": "Restaurant La Pause"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5244287721,
+    "lat": 34.0385803,
+    "lon": -5.0118878,
+    "timestamp": "2017-11-23T13:13:46Z",
+    "version": 1,
+    "changeset": 54026030,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "addr:street": "rue Lalla Aicha",
+      "amenity": "restaurant",
+      "name": "Les Maître Du Cababes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5244333931,
+    "lat": 34.0372715,
+    "lon": -5.0129682,
+    "timestamp": "2017-11-23T13:47:47Z",
+    "version": 1,
+    "changeset": 54026713,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "addr:street": "Av Omar Ibn Al Khattab",
+      "amenity": "restaurant",
+      "name": "Wakamé"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5250183621,
+    "lat": 34.0087779,
+    "lon": -4.9645983,
+    "timestamp": "2017-11-30T08:43:05Z",
+    "version": 2,
+    "changeset": 54199074,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:street": "Al Madina Mounawara",
+      "amenity": "restaurant",
+      "name": "Pizzeria Davinci"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5252050825,
+    "lat": 34.0138327,
+    "lon": -4.9704003,
+    "timestamp": "2017-11-28T13:20:31Z",
+    "version": 1,
+    "changeset": 54149056,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant kaoutar"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5252063421,
+    "lat": 34.0138989,
+    "lon": -4.9703967,
+    "timestamp": "2017-11-28T13:22:44Z",
+    "version": 1,
+    "changeset": 54149109,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant Goût Dilices"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5253863529,
+    "lat": 34.0084528,
+    "lon": -4.9695689,
+    "timestamp": "2017-11-29T12:03:24Z",
+    "version": 1,
+    "changeset": 54175611,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Snack El Hamd"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5253911536,
+    "lat": 34.0078526,
+    "lon": -4.9690824,
+    "timestamp": "2017-11-29T12:41:10Z",
+    "version": 1,
+    "changeset": 54176549,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Marina Fish"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5253911850,
+    "lat": 34.008096,
+    "lon": -4.9692901,
+    "timestamp": "2017-11-29T12:33:13Z",
+    "version": 1,
+    "changeset": 54176355,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Pizzeria Fast Ford"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5253979421,
+    "lat": 34.0066198,
+    "lon": -4.9681513,
+    "timestamp": "2017-11-29T13:12:11Z",
+    "version": 1,
+    "changeset": 54177319,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Bleu Piscado"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5263495322,
+    "lat": 34.0127557,
+    "lon": -4.9697349,
+    "timestamp": "2017-12-04T10:34:24Z",
+    "version": 1,
+    "changeset": 54324914,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Tasty Pizza"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5263587422,
+    "lat": 34.012838,
+    "lon": -4.9683812,
+    "timestamp": "2017-12-04T11:36:16Z",
+    "version": 1,
+    "changeset": 54326426,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Snack Bilax"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5263599323,
+    "lat": 34.0128462,
+    "lon": -4.9685687,
+    "timestamp": "2017-12-04T11:48:21Z",
+    "version": 1,
+    "changeset": 54326723,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant slassi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5269910921,
+    "lat": 34.0077744,
+    "lon": -4.9668214,
+    "timestamp": "2017-12-09T00:26:56Z",
+    "version": 2,
+    "changeset": 54472979,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:street": "Av Taef Lot Wafae",
+      "amenity": "restaurant",
+      "name": "Restaurant Food & Outlaws"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5270743532,
+    "lat": 34.0080848,
+    "lon": -4.982382,
+    "timestamp": "2017-12-09T00:37:09Z",
+    "version": 2,
+    "changeset": 54473773,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "108",
+      "addr:street": "Avenue Beyrouth Zohour 2",
+      "amenity": "restaurant",
+      "name": "Boucherie et Snack Dindiniou",
+      "operator": "Khiyi Abdellatif"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5270755231,
+    "lat": 34.009347,
+    "lon": -4.9798287,
+    "timestamp": "2018-05-05T00:21:32Z",
+    "version": 3,
+    "changeset": 58694227,
+    "user": "Jamal Chaaouan",
+    "uid": 8222481,
+    "tags": {
+      "addr:housenumber": "9 et 11",
+      "addr:street": "Avenue Beyrouth Zohour 1",
+      "amenity": "restaurant",
+      "name": "Restaurant Bismillah",
+      "operator": "Mohyeddine Nabil"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5281953222,
+    "lat": 34.0090801,
+    "lon": -4.9797814,
+    "timestamp": "2018-05-05T00:21:31Z",
+    "version": 3,
+    "changeset": 58694227,
+    "user": "Jamal Chaaouan",
+    "uid": 8222481,
+    "tags": {
+      "addr:housenumber": "18",
+      "addr:street": "Avenue Beyrouth Lotis Iraki Zohour 2",
+      "amenity": "restaurant",
+      "name": "Snack Zaki",
+      "operator": "Toumi Ahmed"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5281978921,
+    "lat": 34.0078335,
+    "lon": -4.9824575,
+    "timestamp": "2017-12-17T16:00:16Z",
+    "version": 2,
+    "changeset": 54706636,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "13",
+      "addr:street": "Avenue Beyrouth Rue Bou Ali Zohour 2",
+      "amenity": "restaurant",
+      "name": "Snack Picapo",
+      "operator": "El Korri Mourad"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5295465623,
+    "lat": 34.0169825,
+    "lon": -4.9797102,
+    "timestamp": "2017-12-20T11:11:23Z",
+    "version": 1,
+    "changeset": 54783522,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Snack"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5298347237,
+    "lat": 34.0037469,
+    "lon": -4.9862175,
+    "timestamp": "2017-12-24T12:15:40Z",
+    "version": 2,
+    "changeset": 54885523,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "216",
+      "addr:street": "Avenue Soussa Resi Rahma Lotis Hajar Zohour 2",
+      "amenity": "restaurant",
+      "name": "Snack JE T ACOS ' T",
+      "operator": "El Ammouri Abdelali"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5298488523,
+    "lat": 34.0045916,
+    "lon": -4.984779,
+    "timestamp": "2017-12-24T12:15:39Z",
+    "version": 2,
+    "changeset": 54885523,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "3",
+      "addr:street": "Avenue Soussa Mosquée Saad Bnou Abi Ouakkass",
+      "amenity": "restaurant",
+      "name": "Snack Saad",
+      "operator": "Moubtassim Sanae et Driss Meftahi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5298492123,
+    "lat": 34.0043092,
+    "lon": -4.9851979,
+    "timestamp": "2017-12-24T12:15:39Z",
+    "version": 2,
+    "changeset": 54885523,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "9",
+      "addr:street": "Avenue Soussa Mosquée Saad Bnou Abi Ouakkass Zohour 2",
+      "amenity": "restaurant",
+      "name": "Palais de Poulets",
+      "operator": "Gouriach Abderrahmane"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5307138123,
+    "lat": 34.0649655,
+    "lon": -4.9769649,
+    "timestamp": "2018-03-27T14:56:05Z",
+    "version": 2,
+    "changeset": 57570481,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "addr:city": "Fes Médina",
+      "amenity": "restaurant",
+      "name": "Fez Lounge"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5309133129,
+    "lat": 34.0073089,
+    "lon": -4.9843951,
+    "timestamp": "2020-11-18T15:31:00Z",
+    "version": 3,
+    "changeset": 94375640,
+    "user": "MustafaQasim",
+    "uid": 9535554,
+    "tags": {
+      "addr:housenumber": "5",
+      "addr:street": "Avenue Port - Saïd Zohour 2",
+      "amenity": "restaurant",
+      "name": "Snack Cousin",
+      "operator": "Rougui Abdelouahed"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5316358921,
+    "lat": 34.0204186,
+    "lon": -4.9769232,
+    "timestamp": "2018-01-02T12:31:30Z",
+    "version": 1,
+    "changeset": 55099363,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant + boucherie"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5318283122,
+    "lat": 34.0210606,
+    "lon": -4.9744547,
+    "timestamp": "2018-01-03T12:15:06Z",
+    "version": 1,
+    "changeset": 55127363,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Sandwich Nouh"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5318300621,
+    "lat": 34.0210585,
+    "lon": -4.9744008,
+    "timestamp": "2018-01-03T12:17:42Z",
+    "version": 1,
+    "changeset": 55127402,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant Chaab"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5320104522,
+    "lat": 34.0207041,
+    "lon": -4.9735114,
+    "timestamp": "2018-01-04T11:34:47Z",
+    "version": 1,
+    "changeset": 55154945,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Snack"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5320984831,
+    "lat": 34.0045822,
+    "lon": -4.9872361,
+    "timestamp": "2018-10-25T19:18:31Z",
+    "version": 5,
+    "changeset": 63879158,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "12 mag 2",
+      "addr:street": "Avenue Chenguit Rue Sbae Ayoune Lotis Ouaha Zohour 2",
+      "amenity": "restaurant",
+      "name": "Snack F - Quick",
+      "name:fr": "Snack F - Quick",
+      "operator": "Faouzi Abdessamad"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5320996229,
+    "lat": 34.0047858,
+    "lon": -4.9871616,
+    "timestamp": "2018-10-25T19:18:32Z",
+    "version": 4,
+    "changeset": 63879158,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "150",
+      "addr:street": "Avenue Chenguit Lotis Ouaha Zohour 2",
+      "amenity": "restaurant",
+      "name": "Boughannou Aziz Snack",
+      "name:fr": "Boughannou Aziz Snack"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5321002423,
+    "lat": 34.0044673,
+    "lon": -4.9870217,
+    "timestamp": "2018-10-25T19:18:32Z",
+    "version": 4,
+    "changeset": 63879158,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "156",
+      "addr:street": "Avenue Chenguit Zohour 2",
+      "amenity": "restaurant",
+      "name": "Benhamza Khamiss Pizza et Tacos",
+      "name:fr": "Benhamza Khamiss Pizza et Tacos"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5370062322,
+    "lat": 34.0151294,
+    "lon": -5.0511594,
+    "timestamp": "2018-01-29T11:03:51Z",
+    "version": 1,
+    "changeset": 55855867,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant Taliouine"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5370092221,
+    "lat": 34.015079,
+    "lon": -5.0511214,
+    "timestamp": "2020-11-18T15:31:00Z",
+    "version": 2,
+    "changeset": 94375640,
+    "user": "MustafaQasim",
+    "uid": 9535554,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5370146822,
+    "lat": 34.0149842,
+    "lon": -5.0509846,
+    "timestamp": "2018-01-29T11:56:40Z",
+    "version": 1,
+    "changeset": 55857098,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant de nord"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5370149625,
+    "lat": 34.0148974,
+    "lon": -5.0510815,
+    "timestamp": "2018-01-29T12:07:47Z",
+    "version": 1,
+    "changeset": 55857441,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Snack Akhaouayene"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5375117023,
+    "lat": 34.0159736,
+    "lon": -5.0513203,
+    "timestamp": "2018-01-31T11:47:00Z",
+    "version": 1,
+    "changeset": 55929418,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant El Bahja"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5377643321,
+    "lat": 34.0135367,
+    "lon": -5.0495457,
+    "timestamp": "2018-02-01T10:27:55Z",
+    "version": 1,
+    "changeset": 55961529,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Snack"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5389794922,
+    "lat": 34.0141268,
+    "lon": -5.0510263,
+    "timestamp": "2018-02-05T13:45:58Z",
+    "version": 1,
+    "changeset": 56085506,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Snack"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5389825521,
+    "lat": 34.0138482,
+    "lon": -5.050996,
+    "timestamp": "2018-02-05T13:46:00Z",
+    "version": 1,
+    "changeset": 56085506,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Snack"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5392819023,
+    "lat": 34.0162453,
+    "lon": -5.0504206,
+    "timestamp": "2018-02-06T12:33:28Z",
+    "version": 1,
+    "changeset": 56115401,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Snack Mik Mak"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5393990122,
+    "lat": 34.0134004,
+    "lon": -5.0083325,
+    "timestamp": "2018-02-27T09:19:30Z",
+    "version": 3,
+    "changeset": 56715863,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:street": "Route d ' Ain Chkef Resi Nouzha Lotis Nouzha",
+      "amenity": "restaurant",
+      "name": "Grillade Tazia Bourbah Fatiha",
+      "name:fr": "Grillade Tazia Bourbah Fatiha"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5422265831,
+    "lat": 34.0167351,
+    "lon": -5.0542779,
+    "timestamp": "2018-02-19T11:34:41Z",
+    "version": 1,
+    "changeset": 56489401,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Snack"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5422367021,
+    "lat": 34.0171002,
+    "lon": -5.0533327,
+    "timestamp": "2018-02-19T12:32:32Z",
+    "version": 1,
+    "changeset": 56490749,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Snack"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5424399224,
+    "lat": 34.0167953,
+    "lon": -5.0531887,
+    "timestamp": "2018-02-20T11:42:50Z",
+    "version": 1,
+    "changeset": 56517986,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Snack"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5426295025,
+    "lat": 34.0061586,
+    "lon": -5.0103758,
+    "timestamp": "2023-12-27T12:29:15Z",
+    "version": 3,
+    "changeset": 145572733,
+    "user": "Langenb1",
+    "uid": 20134577,
+    "tags": {
+      "addr:street": "Route d 'Ain Chkef Lotis Asmae face École Anoual",
+      "amenity": "restaurant",
+      "name": "Restaurant Papa Fish",
+      "name:fr": "Restaurant Papa Fish"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5426295029,
+    "lat": 34.007316,
+    "lon": -5.0106952,
+    "timestamp": "2018-02-27T09:19:36Z",
+    "version": 2,
+    "changeset": 56715863,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:street": "Route d 'Ain Chkef Lotis Zahrat Madaine",
+      "amenity": "restaurant",
+      "name": "Snack Bateau Lux",
+      "name:fr": "Snack Bateau Lux"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5426421929,
+    "lat": 34.0176841,
+    "lon": -5.0200168,
+    "timestamp": "2018-02-25T09:06:56Z",
+    "version": 2,
+    "changeset": 56655163,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:street": "AV MOHAMMED 6 ZOUAGHAT HAUT",
+      "amenity": "restaurant",
+      "name": "Pizzeria Marco Polo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5446674226,
+    "lat": 33.9958354,
+    "lon": -5.0524891,
+    "timestamp": "2018-03-13T21:01:02Z",
+    "version": 2,
+    "changeset": 57157703,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "809",
+      "addr:street": "Lotis Moustakbal Hay Massira",
+      "amenity": "restaurant",
+      "name": "Snack El Khayrate",
+      "operator": "Jouhar Abdellah"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5477818422,
+    "lat": 33.9959752,
+    "lon": -5.0604935,
+    "timestamp": "2018-03-14T11:56:36Z",
+    "version": 1,
+    "changeset": 57175909,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Snack"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5493481721,
+    "lat": 33.9992297,
+    "lon": -5.0554084,
+    "timestamp": "2018-03-21T11:35:34Z",
+    "version": 1,
+    "changeset": 57381901,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Snack"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5493481725,
+    "lat": 33.999171,
+    "lon": -5.0555429,
+    "timestamp": "2018-03-21T11:43:52Z",
+    "version": 1,
+    "changeset": 57382126,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Snack"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5493817321,
+    "lat": 33.993841,
+    "lon": -5.059297,
+    "timestamp": "2018-03-26T05:22:24Z",
+    "version": 3,
+    "changeset": 57522384,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:street": "Hay Nassim Lotis Massira Resid 6 A",
+      "amenity": "restaurant",
+      "name": "Nassiri Saad Snack Laaz"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5515307525,
+    "lat": 33.9919927,
+    "lon": -5.0589516,
+    "timestamp": "2020-11-18T15:31:00Z",
+    "version": 3,
+    "changeset": 94375640,
+    "user": "MustafaQasim",
+    "uid": 9535554,
+    "tags": {
+      "addr:housenumber": "4",
+      "addr:street": "Mosquée Massira",
+      "amenity": "restaurant",
+      "name": "Bismillah",
+      "operator": "Mjouro Youssef"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5515308529,
+    "lat": 33.9938603,
+    "lon": -5.0595178,
+    "timestamp": "2020-11-18T15:31:00Z",
+    "version": 3,
+    "changeset": 94375640,
+    "user": "MustafaQasim",
+    "uid": 9535554,
+    "tags": {
+      "addr:housenumber": "1",
+      "addr:street": "Lotis Nassim Hay Massira Immb D 6",
+      "amenity": "restaurant",
+      "name": "Snack Arrahma",
+      "operator": "Taouil Hamid"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5515309521,
+    "lat": 33.9937302,
+    "lon": -5.0592489,
+    "timestamp": "2020-11-18T15:31:00Z",
+    "version": 3,
+    "changeset": 94375640,
+    "user": "MustafaQasim",
+    "uid": 9535554,
+    "tags": {
+      "addr:housenumber": "1",
+      "addr:street": "Lotis Nassim Hay Massira Immb A 5",
+      "amenity": "restaurant",
+      "name": "Snack Zouheir",
+      "operator": "El Bouzidi Zouheir"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5566335192,
+    "lat": 34.0635582,
+    "lon": -4.9816949,
+    "timestamp": "2018-04-20T09:43:55Z",
+    "version": 1,
+    "changeset": 58258718,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "addr:city": "Fes Médina talaa el kbira",
+      "amenity": "restaurant",
+      "name": "Restaurant el khmissa"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5582097355,
+    "lat": 34.0626939,
+    "lon": -4.9826801,
+    "timestamp": "2023-11-02T10:20:41Z",
+    "version": 2,
+    "changeset": 143521887,
+    "user": "Le Petit Léo",
+    "uid": 20120497,
+    "tags": {
+      "addr:city": "talaa el kbira derb ben salem",
+      "amenity": "restaurant",
+      "cuisine": "italian",
+      "name": "San Gusto",
+      "phone": "+212 649-313559"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5582113128,
+    "lat": 34.0626767,
+    "lon": -4.9830369,
+    "timestamp": "2018-04-27T09:37:25Z",
+    "version": 1,
+    "changeset": 58470373,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "addr:city": "talaa el kbira derb molay abdelmalek",
+      "amenity": "restaurant",
+      "name": "Restaurant de famille maimonid",
+      "phone": "0550107482"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5582222781,
+    "lat": 34.0617543,
+    "lon": -4.9836251,
+    "timestamp": "2024-12-31T21:05:15Z",
+    "version": 7,
+    "changeset": 160848034,
+    "user": "LateNightTone",
+    "uid": 4003485,
+    "tags": {
+      "addr:city": "Fes Médina",
+      "addr:street": "Rue Talâa Saghira",
+      "amenity": "restaurant",
+      "check_date": "2023-11-01",
+      "name": "Restaurant Guenoune Chez Said"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5582560395,
+    "lat": 34.0617635,
+    "lon": -4.9837456,
+    "timestamp": "2024-12-31T19:51:27Z",
+    "version": 5,
+    "changeset": 160846504,
+    "user": "LateNightTone",
+    "uid": 4003485,
+    "tags": {
+      "addr:city": "Fes Médina",
+      "addr:street": "Bab Boujloud باب بوجلود",
+      "alt_name": "Rujia",
+      "amenity": "restaurant",
+      "cuisine": "chinese",
+      "name": "Buoayad",
+      "name:zh": "如家餐厅"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5582570748,
+    "lat": 34.0619033,
+    "lon": -4.9837279,
+    "timestamp": "2024-12-31T21:05:15Z",
+    "version": 4,
+    "changeset": 160848034,
+    "user": "LateNightTone",
+    "uid": 4003485,
+    "tags": {
+      "addr:city": "Fes Médina",
+      "addr:street": "Rue Serrajine",
+      "amenity": "restaurant",
+      "name": "Restaurant benani"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5582580522,
+    "lat": 34.0618907,
+    "lon": -4.9837753,
+    "timestamp": "2024-12-31T21:05:15Z",
+    "version": 4,
+    "changeset": 160848034,
+    "user": "LateNightTone",
+    "uid": 4003485,
+    "tags": {
+      "addr:city": "Fes Médina",
+      "addr:street": "Rue Serrajine",
+      "amenity": "restaurant",
+      "name": "Kasbah de Fes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5582623848,
+    "lat": 34.0614156,
+    "lon": -4.9829525,
+    "timestamp": "2024-12-31T19:51:27Z",
+    "version": 3,
+    "changeset": 160846504,
+    "user": "LateNightTone",
+    "uid": 4003485,
+    "tags": {
+      "addr:city": "Fes Médina",
+      "addr:street": "Rue El Barid",
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "description": "Much cheaper than towards northwest (closer to the Bab Boujloud).",
+      "name": "Chez Hakim",
+      "phone": "0535740816"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5588054422,
+    "lat": 34.060845,
+    "lon": -4.9843387,
+    "timestamp": "2018-06-26T10:51:31Z",
+    "version": 2,
+    "changeset": 60178148,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "addr:city": "fes medina derb bab boujloud",
+      "amenity": "restaurant",
+      "name": "Restaurant Mezzanine",
+      "phone": "0535638668"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5588064866,
+    "lat": 34.0613693,
+    "lon": -4.9840345,
+    "timestamp": "2023-11-01T06:56:54Z",
+    "version": 2,
+    "changeset": 143457477,
+    "user": "Le Petit Léo",
+    "uid": 20120497,
+    "tags": {
+      "addr:city": "Fes Médina bab boujloud",
+      "amenity": "restaurant",
+      "cuisine": "moroccan",
+      "name": "Restaurant Terrace"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5608059621,
+    "lat": 34.0636552,
+    "lon": -4.9814343,
+    "timestamp": "2023-11-03T12:05:28Z",
+    "version": 3,
+    "changeset": 143571531,
+    "user": "Le Petit Léo",
+    "uid": 20120497,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Café restaurant El Kimissa",
+      "name:en": "Restaurant&Bier"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5678370522,
+    "lat": 34.0105196,
+    "lon": -4.9666097,
+    "timestamp": "2024-10-12T10:31:28Z",
+    "version": 4,
+    "changeset": 157789184,
+    "user": "Lepuse",
+    "uid": 9560399,
+    "tags": {
+      "addr:housenumber": "82",
+      "addr:postcode": "30100",
+      "addr:street": "Avenue Miaarage Narjiss Al Amal",
+      "amenity": "restaurant",
+      "cuisine": "african",
+      "email": "kibunu@africamail.com",
+      "internet_access": "wlan",
+      "name": "Restaurant africain Kibunu مطعم أفريقي",
+      "name:ar": "مطعم أفريقي",
+      "name:de": "Afrikanisches Restaurant Kibunu",
+      "name:en": "Kibunu African Restaurant",
+      "name:es": "Restaurante africano KIBUNU",
+      "name:fr": "Restaurant africain Kibunu",
+      "name:it": "Ristorante africano KIBUNU",
+      "name:zh-Latn-pinyin": "Fēizhōu cāntīng KIBUNU",
+      "opening_hours": "Sa 11:00-00:30; Su,Tu-Fr 11:00-00:30",
+      "phone": "+212688294032"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5708668521,
+    "lat": 34.0126276,
+    "lon": -5.0433264,
+    "timestamp": "2018-06-21T12:45:27Z",
+    "version": 1,
+    "changeset": 60043427,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "addr:street": "Lot Adouha Zouagha Haute",
+      "amenity": "restaurant",
+      "name": "Snack"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5717325498,
+    "lat": 34.0628664,
+    "lon": -4.9829268,
+    "timestamp": "2018-06-25T09:59:26Z",
+    "version": 1,
+    "changeset": 60144048,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "addr:city": "derb ben salem talaa kbira fes medina",
+      "amenity": "restaurant",
+      "name": "le 44",
+      "phone": "0535741450"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5717844322,
+    "lat": 34.0698673,
+    "lon": -4.9661221,
+    "timestamp": "2018-06-25T13:10:28Z",
+    "version": 1,
+    "changeset": 60150825,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "addr:street": "Boulevard des Merinides",
+      "amenity": "restaurant",
+      "name": "Snack"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5717934025,
+    "lat": 34.0292367,
+    "lon": -5.005087,
+    "timestamp": "2018-06-25T13:50:05Z",
+    "version": 1,
+    "changeset": 60152212,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5722534615,
+    "lat": 34.0653719,
+    "lon": -4.9778196,
+    "timestamp": "2018-06-27T09:35:06Z",
+    "version": 1,
+    "changeset": 60209339,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "addr:city": "7 zkak rouah fés medina",
+      "amenity": "restaurant",
+      "name": "Le Numéro 7",
+      "phone": "0694277849"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5723252521,
+    "lat": 34.066998,
+    "lon": -4.9643587,
+    "timestamp": "2018-06-27T13:46:28Z",
+    "version": 1,
+    "changeset": 60219120,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "addr:street": "Boulevard des Merinides",
+      "amenity": "restaurant",
+      "name": "Snack"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5723252522,
+    "lat": 34.0669096,
+    "lon": -4.9645044,
+    "timestamp": "2018-06-27T13:46:29Z",
+    "version": 1,
+    "changeset": 60219120,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "addr:street": "Boulevard des Merinides",
+      "amenity": "restaurant",
+      "name": "Snack"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5733870621,
+    "lat": 34.0581359,
+    "lon": -5.0209326,
+    "timestamp": "2018-07-02T11:28:48Z",
+    "version": 1,
+    "changeset": 60345311,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant Capital de Poulet"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5734106121,
+    "lat": 34.0637143,
+    "lon": -4.960709,
+    "timestamp": "2018-10-23T09:34:25Z",
+    "version": 2,
+    "changeset": 63788202,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:street": "Bab Khoukha",
+      "amenity": "restaurant",
+      "name": "Snack Bab Madina"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5734128321,
+    "lat": 34.0637967,
+    "lon": -4.9609221,
+    "timestamp": "2018-10-23T09:34:25Z",
+    "version": 2,
+    "changeset": 63788202,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:street": "Lot Najah Bab Khokha",
+      "amenity": "restaurant",
+      "name": "Snack Abdenour"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5736431823,
+    "lat": 34.0567818,
+    "lon": -5.0287471,
+    "timestamp": "2018-07-03T11:59:16Z",
+    "version": 1,
+    "changeset": 60376776,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Snack Fast-food"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5738833121,
+    "lat": 34.055968,
+    "lon": -5.0286258,
+    "timestamp": "2018-07-04T11:04:54Z",
+    "version": 1,
+    "changeset": 60405404,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant Miami(en cours)"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5738992421,
+    "lat": 34.0540745,
+    "lon": -5.0330428,
+    "timestamp": "2018-07-04T12:21:58Z",
+    "version": 1,
+    "changeset": 60407541,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant Aarif"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5741202221,
+    "lat": 34.0568448,
+    "lon": -5.0319878,
+    "timestamp": "2018-07-05T12:20:13Z",
+    "version": 1,
+    "changeset": 60435451,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Snack Tghat"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5749235321,
+    "lat": 34.0682067,
+    "lon": -4.9861511,
+    "timestamp": "2018-07-09T11:53:47Z",
+    "version": 1,
+    "changeset": 60537187,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Snack Bismillah"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5749581027,
+    "lat": 34.0666827,
+    "lon": -4.9645822,
+    "timestamp": "2018-10-23T09:11:58Z",
+    "version": 2,
+    "changeset": 63787445,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Asmak medina jbilou",
+      "name:fr": "Asmak medina jbilou"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5750227637,
+    "lat": 34.0581233,
+    "lon": -4.9897208,
+    "timestamp": "2019-12-29T17:04:26Z",
+    "version": 3,
+    "changeset": 78984214,
+    "user": "Cyrille37",
+    "uid": 454932,
+    "tags": {
+      "amenity": "restaurant",
+      "internet_access": "wlan",
+      "name": "Café Noria",
+      "source": "survey",
+      "w2g": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5751471021,
+    "lat": 34.0636688,
+    "lon": -4.9951205,
+    "timestamp": "2018-07-10T10:44:32Z",
+    "version": 1,
+    "changeset": 60571668,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant Akhawayn"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5753732221,
+    "lat": 34.0655836,
+    "lon": -4.9991638,
+    "timestamp": "2018-07-11T10:14:29Z",
+    "version": 1,
+    "changeset": 60607643,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Snack Bismillah"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5753988421,
+    "lat": 34.0495367,
+    "lon": -4.9651674,
+    "timestamp": "2018-07-11T12:34:36Z",
+    "version": 1,
+    "changeset": 60612986,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Les fruits de mer"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5756354521,
+    "lat": 34.0652703,
+    "lon": -4.9996027,
+    "timestamp": "2018-07-12T12:35:40Z",
+    "version": 1,
+    "changeset": 60650991,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Grillade Tanjaoui"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5757135721,
+    "lat": 34.0658882,
+    "lon": -5.0011149,
+    "timestamp": "2018-07-12T19:48:53Z",
+    "version": 1,
+    "changeset": 60663735,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Snack El Jazira"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5760853226,
+    "lat": 34.0616214,
+    "lon": -5.0146197,
+    "timestamp": "2018-10-23T09:34:29Z",
+    "version": 2,
+    "changeset": 63788202,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "4",
+      "addr:street": "Lotissement Moulay Amine Resid 19",
+      "amenity": "restaurant",
+      "name": "Snack Faissal Krimi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5760853521,
+    "lat": 34.0586946,
+    "lon": -5.0207786,
+    "timestamp": "2018-07-14T23:03:04Z",
+    "version": 1,
+    "changeset": 60722242,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "addr:housenumber": "202",
+      "addr:street": "Lotissement Jbel Tghat 1 Hay Tghat",
+      "amenity": "restaurant",
+      "name": "Restaurant Capitale du Poisson"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5765682770,
+    "lat": 34.0666165,
+    "lon": -5.0056976,
+    "timestamp": "2018-07-17T10:39:21Z",
+    "version": 1,
+    "changeset": 60794826,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Snack Bismillah"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5774100454,
+    "lat": 34.0610965,
+    "lon": -5.009496,
+    "timestamp": "2018-10-23T09:34:30Z",
+    "version": 2,
+    "changeset": 63788202,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "206",
+      "addr:street": "Hay Ahl Fes Ain Kadouss Rue 204",
+      "amenity": "restaurant",
+      "name": "Restaurant Ahl Fes Kyad Driss et Masrar Mohamed"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5774100755,
+    "lat": 34.0604472,
+    "lon": -5.0097523,
+    "timestamp": "2018-10-25T19:18:42Z",
+    "version": 4,
+    "changeset": 63879158,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "32",
+      "addr:street": "Hay Ain Kadouss Rue 206",
+      "amenity": "restaurant",
+      "name": "Snack Said Bahouh",
+      "name:fr": "Snack Said Bahouh"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5774100854,
+    "lat": 34.0595967,
+    "lon": -5.0080198,
+    "timestamp": "2018-10-23T09:34:31Z",
+    "version": 2,
+    "changeset": 63788202,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "11",
+      "addr:street": "Hay Ain Kadouss Rue 204",
+      "amenity": "restaurant",
+      "name": "Bassin Mohamed Rachid Snack"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5774101255,
+    "lat": 34.0602303,
+    "lon": -5.0085311,
+    "timestamp": "2018-10-23T09:34:31Z",
+    "version": 2,
+    "changeset": 63788202,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "1",
+      "addr:street": "Hay Ain Kadouss Rue 207",
+      "amenity": "restaurant",
+      "name": "Snack Hayani Maslouhi Abdellah"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5774101257,
+    "lat": 34.0605698,
+    "lon": -5.0095204,
+    "timestamp": "2018-07-20T22:04:08Z",
+    "version": 1,
+    "changeset": 60920162,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "tags": {
+      "addr:housenumber": "8",
+      "addr:street": "Hay Ain Kadouss Rue 206",
+      "amenity": "restaurant",
+      "name": "Snack Daouk Rafie Ennali Mustapha"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5774101553,
+    "lat": 34.066043,
+    "lon": -5.0022265,
+    "timestamp": "2018-10-25T19:18:43Z",
+    "version": 4,
+    "changeset": 63879158,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "4",
+      "addr:street": "Hay Mabrouka Ain Haroun Rue 202",
+      "amenity": "restaurant",
+      "name": "Snack Akka",
+      "name:fr": "Snack Akka",
+      "operator": "Kara Abdellah"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5774137953,
+    "lat": 34.0605369,
+    "lon": -5.0088059,
+    "timestamp": "2018-10-23T09:34:31Z",
+    "version": 2,
+    "changeset": 63788202,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "29",
+      "addr:street": "Hay Ain Kadouss Rue 204",
+      "amenity": "restaurant",
+      "name": "Chicken Palace Eddiaz Mohamed"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5774666653,
+    "lat": 34.0629254,
+    "lon": -5.0071696,
+    "timestamp": "2018-10-23T09:34:31Z",
+    "version": 2,
+    "changeset": 63788202,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:housenumber": "14",
+      "addr:street": "Avenue Kiraouane Hay Lamsalla Ain Kadouss",
+      "amenity": "restaurant",
+      "name": "Snack El Ghali Mhamdi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5788264353,
+    "lat": 34.0586917,
+    "lon": -5.0037361,
+    "timestamp": "2018-10-23T09:34:32Z",
+    "version": 2,
+    "changeset": 63788202,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "addr:street": "Avenue Mourabitine N : 1 Face Palais Royal Ain Kadousd",
+      "amenity": "restaurant",
+      "name": "Snack El Hayani Driouech Ahmed et El Mahzoume Rabia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5870923585,
+    "lat": 34.0590107,
+    "lon": -4.9724176,
+    "timestamp": "2018-08-31T11:57:15Z",
+    "version": 1,
+    "changeset": 62169918,
+    "user": "guimaraj",
+    "uid": 8759502,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "moroccan",
+      "name": "Palais Medina"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5885873691,
+    "lat": 34.0475355,
+    "lon": -5.0051733,
+    "timestamp": "2019-01-28T11:35:36Z",
+    "version": 2,
+    "changeset": 66702666,
+    "user": "Gr-Ab",
+    "uid": 8703876,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Station Fes",
+      "name:en": "Railway Station Fes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5996263085,
+    "lat": 34.0389317,
+    "lon": -5.0003359,
+    "timestamp": "2018-10-22T10:19:54Z",
+    "version": 2,
+    "changeset": 63753564,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "adil grillade",
+      "name:fr": "adil grillade"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6014929585,
+    "lat": 33.8280903,
+    "lon": -4.8421203,
+    "timestamp": "2018-11-03T07:15:26Z",
+    "version": 2,
+    "changeset": 64133365,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "burger;arab;coffee_shop",
+      "internet_access": "wlan",
+      "name": "Dar ryad Sefrou",
+      "name:fr": "Dar ryad Sefrou"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6019053129,
+    "lat": 34.0354057,
+    "lon": -5.0101733,
+    "timestamp": "2018-10-28T09:49:31Z",
+    "version": 1,
+    "changeset": 63945462,
+    "user": "Rhapsody01",
+    "uid": 8107043,
+    "tags": {
+      "amenity": "restaurant",
+      "description": "Pizza au feu de bois",
+      "name": "Le kiosk"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6040173529,
+    "lat": 34.0668767,
+    "lon": -4.9715665,
+    "timestamp": "2018-11-05T20:33:16Z",
+    "version": 1,
+    "changeset": 64210295,
+    "user": "grimpeur78",
+    "uid": 81648,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "internet_access": "wlan",
+      "internet_access:fee": "no",
+      "level": "1-3",
+      "name": "Ben Yamna",
+      "outdoor_seating": "yes",
+      "smoking": "outside",
+      "toilets": "yes",
+      "toilets:access": "customers",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6053022391,
+    "lat": 34.0633479,
+    "lon": -4.9817679,
+    "timestamp": "2023-11-01T06:43:49Z",
+    "version": 3,
+    "changeset": 143457044,
+    "user": "Le Petit Léo",
+    "uid": 20120497,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "El Forno",
+      "name:en": "Made in M"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6061558486,
+    "lat": 34.0644121,
+    "lon": -4.9790433,
+    "timestamp": "2018-11-14T20:24:27Z",
+    "version": 1,
+    "changeset": 64501418,
+    "user": "Barry Luijten",
+    "uid": 4929732,
+    "tags": {
+      "amenity": "restaurant",
+      "name:en": "Assala",
+      "website": "http://www.restaurantassala.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6310285685,
+    "lat": 34.0643429,
+    "lon": -4.9794083,
+    "timestamp": "2019-03-01T08:32:44Z",
+    "version": 1,
+    "changeset": 67677234,
+    "user": "Lucie Bioret",
+    "uid": 6894564,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Nacho mama"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6327751085,
+    "lat": 34.0617289,
+    "lon": -4.981042,
+    "timestamp": "2023-11-02T20:59:39Z",
+    "version": 3,
+    "changeset": 143549054,
+    "user": "Le Petit Léo",
+    "uid": 20120497,
+    "tags": {
+      "addr:city": "Fes Médina",
+      "addr:housenumber": "6",
+      "addr:postcode": "30000",
+      "addr:street": "derb Agoual sefli Rue Talâa Saghira",
+      "amenity": "restaurant",
+      "cuisine": "moroccan;italian_pizza;italian",
+      "delivery": "yes",
+      "diet:halal": "yes",
+      "diet:healthy": "yes",
+      "diet:kosher": "yes",
+      "diet:vegetarian": "yes",
+      "internet_access": "wlan",
+      "name": "Le Peroke Cafe Restaurant",
+      "name:en": "Le Peroke Cafe",
+      "opening_hours": "Mo-Sa 10:00-22:00",
+      "phone": "+212 649-277363",
+      "website": "https://leperoke-cafe.business.site/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6350989085,
+    "lat": 33.9652301,
+    "lon": -5.0319336,
+    "timestamp": "2019-03-20T21:25:26Z",
+    "version": 1,
+    "changeset": 68353996,
+    "user": "mmtaisma",
+    "uid": 4949884,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurante muy bueno."
+    }
+  },
+  {
+    "type": "node",
+    "id": 6374333585,
+    "lat": 34.060956,
+    "lon": -4.9832393,
+    "timestamp": "2019-03-31T17:24:01Z",
+    "version": 1,
+    "changeset": 68730483,
+    "user": "Sanjul",
+    "uid": 8797024,
+    "tags": {
+      "addr:street": "32, Rue Isisco, Place de la Casbah, Derb Mernissi, Fès",
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "Le Coin des Artistes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6441435817,
+    "lat": 34.066292,
+    "lon": -4.9748846,
+    "timestamp": "2019-05-01T19:45:41Z",
+    "version": 1,
+    "changeset": 69779981,
+    "user": "filipzava",
+    "uid": 521317,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Berrada Family Restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6479559124,
+    "lat": 33.8408073,
+    "lon": -4.9841815,
+    "timestamp": "2019-05-17T00:28:55Z",
+    "version": 1,
+    "changeset": 70338238,
+    "user": "alain2003",
+    "uid": 578772,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6479559285,
+    "lat": 33.8962306,
+    "lon": -4.9844443,
+    "timestamp": "2019-05-17T00:28:56Z",
+    "version": 1,
+    "changeset": 70338238,
+    "user": "alain2003",
+    "uid": 578772,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6525096185,
+    "lat": 34.0593446,
+    "lon": -4.9802428,
+    "timestamp": "2019-06-05T17:39:56Z",
+    "version": 1,
+    "changeset": 70962318,
+    "user": "HugoRoy",
+    "uid": 671923,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "moroccan",
+      "name:fr": "Palais Laraichi",
+      "opening_hours": "24/7"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6620756085,
+    "lat": 34.0632933,
+    "lon": -4.9730327,
+    "timestamp": "2019-07-16T16:27:37Z",
+    "version": 1,
+    "changeset": 72313848,
+    "user": "pascht11",
+    "uid": 10007934,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "steak_house;moroccan"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6680182085,
+    "lat": 34.0622009,
+    "lon": -4.9726314,
+    "timestamp": "2019-08-03T15:18:04Z",
+    "version": 1,
+    "changeset": 72971619,
+    "user": "Luka Vinck",
+    "uid": 8440179,
+    "tags": {
+      "addr:street": "Place R'cif ساحة الرصيف",
+      "amenity": "restaurant",
+      "cuisine": "burger;sandwich;moroccan;coffee_shop;local",
+      "internet_access": "wlan",
+      "name": "Mécafé"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6736717585,
+    "lat": 34.0273598,
+    "lon": -5.0127925,
+    "timestamp": "2019-08-22T20:01:24Z",
+    "version": 1,
+    "changeset": 73640516,
+    "user": "Alexander Javoronkov",
+    "uid": 5148584,
+    "tags": {
+      "addr:housenumber": "6",
+      "addr:street": "Avenue Mahmoud Al Aqqad",
+      "amenity": "restaurant",
+      "cuisine": "moroccan;seafood",
+      "internet_access": "wlan",
+      "name:en": "Majorelle",
+      "phone": "0535644307"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6745485085,
+    "lat": 34.063412,
+    "lon": -4.9787354,
+    "timestamp": "2019-08-26T07:36:51Z",
+    "version": 1,
+    "changeset": 73737366,
+    "user": "Rick1990",
+    "uid": 10252092,
+    "tags": {
+      "amenity": "restaurant",
+      "name:en": "Restaurant Nur"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6802299985,
+    "lat": 34.0009688,
+    "lon": -5.0114691,
+    "timestamp": "2019-09-17T13:38:37Z",
+    "version": 1,
+    "changeset": 74581594,
+    "user": "EL HAJJAJI",
+    "uid": 10265360,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Pizza Hut Ain Chkef",
+      "phone": "0535693838"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6831266689,
+    "lat": 34.0651623,
+    "lon": -4.9772703,
+    "timestamp": "2019-09-27T17:34:44Z",
+    "version": 1,
+    "changeset": 75020287,
+    "user": "蔚大官人",
+    "uid": 10334211,
+    "tags": {
+      "amenity": "restaurant",
+      "name:zh": "Dar saad restaueant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7092783931,
+    "lat": 34.0580855,
+    "lon": -4.9770973,
+    "timestamp": "2019-12-29T07:09:13Z",
+    "version": 1,
+    "changeset": 78972038,
+    "user": "mds08011",
+    "uid": 4705962,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Dar Tresor"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7093475985,
+    "lat": 34.0606898,
+    "lon": -4.9733499,
+    "timestamp": "2019-12-29T16:56:59Z",
+    "version": 1,
+    "changeset": 78984058,
+    "user": "Barry Luijten",
+    "uid": 4929732,
+    "tags": {
+      "amenity": "restaurant",
+      "name:en": "Dar Alaoui"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7099704986,
+    "lat": 34.0633692,
+    "lon": -4.9817541,
+    "timestamp": "2024-08-19T22:00:22Z",
+    "version": 5,
+    "changeset": 155483543,
+    "user": "lecolibri258",
+    "uid": 9396646,
+    "tags": {
+      "addr:housenumber": "221",
+      "addr:street": "Rue Talaâ Kbira الطالعة الكبيرة",
+      "amenity": "restaurant",
+      "cuisine": "moroccan",
+      "diet:vegetarian": "yes",
+      "internet_access": "wlan",
+      "internet_access:fee": "no",
+      "name": "Al Oud",
+      "name:en": "Al Oud",
+      "phone": "+212 5356-36414;+212 665-359007"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7099746385,
+    "lat": 34.0612723,
+    "lon": -4.9829266,
+    "timestamp": "2024-12-31T19:51:27Z",
+    "version": 2,
+    "changeset": 160846504,
+    "user": "LateNightTone",
+    "uid": 4003485,
+    "tags": {
+      "addr:city": "Fes Médina",
+      "addr:housenumber": "9",
+      "addr:street": "Rue El Barid",
+      "amenity": "restaurant",
+      "diet:vegan": "yes",
+      "diet:vegetarian": "yes",
+      "name": "Veggie Pause",
+      "name:en": "Veggie Pause"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7173669185,
+    "lat": 34.0603512,
+    "lon": -4.9725261,
+    "timestamp": "2024-12-31T20:37:35Z",
+    "version": 2,
+    "changeset": 160847467,
+    "user": "LateNightTone",
+    "uid": 4003485,
+    "tags": {
+      "addr:housenumber": "54",
+      "addr:street": "Boulevard Ahmed Ben Mohamed",
+      "amenity": "restaurant",
+      "cuisine": "moroccan",
+      "name:en": "Joker Fast Food",
+      "opening_hours": "Mo-Su 13:00-01:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7181527985,
+    "lat": 34.0621301,
+    "lon": -4.9830908,
+    "timestamp": "2020-02-03T12:58:27Z",
+    "version": 1,
+    "changeset": 80479502,
+    "user": "Thiago Osawa",
+    "uid": 10730367,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "moroccan",
+      "name": "restaurant hanafi",
+      "phone": "0775842288"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7249491485,
+    "lat": 34.0704816,
+    "lon": -4.9832938,
+    "timestamp": "2020-11-25T22:43:54Z",
+    "version": 3,
+    "changeset": 94800974,
+    "user": "rouelibre1",
+    "uid": 10901304,
+    "tags": {
+      "addr:housenumber": "16",
+      "addr:street": "Dhar richa",
+      "amenity": "restaurant",
+      "cuisine": "chicken;diner;african;moroccan;coffee_shop;local;arab",
+      "diet:vegan": "yes",
+      "email": "fezvacationtours@gmail.com",
+      "internet_access": "wlan",
+      "name": "Fezvacationtours",
+      "opening_hours": "Mo-Su 08:00-10:00",
+      "phone": "+212601089925",
+      "website": "https://www.fezvacationtours.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7952849584,
+    "lat": 34.0040878,
+    "lon": -5.0160571,
+    "timestamp": "2023-06-09T12:43:19Z",
+    "version": 3,
+    "changeset": 137135598,
+    "user": "Gurusraouta",
+    "uid": 18913526,
+    "tags": {
+      "addr:city": "Fès",
+      "addr:city:ar": "فاس",
+      "addr:city:es": "Fez",
+      "addr:city:fr": "Fès",
+      "addr:district": "Fès",
+      "addr:district:ar": "فاس",
+      "addr:district:es": "Fez",
+      "addr:district:fr": "Fès",
+      "addr:housenumber": "114",
+      "addr:postcode": "30000",
+      "addr:street": "Rue 15",
+      "amenity": "restaurant",
+      "cuisine": "pizza;burger;coffee_shop;italian;ice_cream;steak_house",
+      "diet:halal": "yes",
+      "diet:vegetarian": "yes",
+      "name": "VOSS CAFE",
+      "phone": "+212 80-8535864"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9625787652,
+    "lat": 34.0624068,
+    "lon": -4.9825509,
+    "timestamp": "2022-03-31T07:36:30Z",
+    "version": 1,
+    "changeset": 119145978,
+    "user": "Traktorbek",
+    "uid": 7370308,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Mom's Touch",
+      "opening_hours": "Mo-Su 12:00-22:00",
+      "phone": "+212664906809"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9631105817,
+    "lat": 33.8811461,
+    "lon": -4.8729968,
+    "timestamp": "2022-04-02T09:56:45Z",
+    "version": 1,
+    "changeset": 119228946,
+    "user": "Samir Jab",
+    "uid": 8120446,
+    "tags": {
+      "amenity": "restaurant",
+      "name:en": "Green hand ferme"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9641542056,
+    "lat": 34.0616842,
+    "lon": -4.9832924,
+    "timestamp": "2022-04-04T20:57:20Z",
+    "version": 4,
+    "changeset": 119318124,
+    "user": "mircozorzo",
+    "uid": 224342,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "moroccan",
+      "level": "0",
+      "name": "ɜadil mol lahrira bab bojloul",
+      "outdoor_seating": "yes",
+      "takeaway": "yes",
+      "toilets": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9642814947,
+    "lat": 34.0617889,
+    "lon": -4.9842735,
+    "timestamp": "2022-04-05T10:13:08Z",
+    "version": 1,
+    "changeset": 119336783,
+    "user": "mircozorzo",
+    "uid": 224342,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Medina Cafe"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9646679775,
+    "lat": 34.0616866,
+    "lon": -4.983585,
+    "timestamp": "2023-11-01T09:11:15Z",
+    "version": 4,
+    "changeset": 143462801,
+    "user": "Le Petit Léo",
+    "uid": 20120497,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "moroccan",
+      "name": "Laglali",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9672914617,
+    "lat": 34.061574,
+    "lon": -4.9802995,
+    "timestamp": "2022-04-17T21:30:21Z",
+    "version": 1,
+    "changeset": 119832107,
+    "user": "Capsma",
+    "uid": 15610954,
+    "tags": {
+      "addr:street": "Rue Zrbtana",
+      "amenity": "restaurant",
+      "name": "Kassr Annoujoum - Ducci Foundation",
+      "name:fr": "Kassr Annoujoum"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9798428818,
+    "lat": 34.0422024,
+    "lon": -4.9986797,
+    "timestamp": "2022-06-06T11:05:13Z",
+    "version": 1,
+    "changeset": 122019097,
+    "user": "manloij",
+    "uid": 16214512,
+    "tags": {
+      "amenity": "restaurant",
+      "name:en": "Restaurant Florence"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9872374817,
+    "lat": 34.0665633,
+    "lon": -4.9747267,
+    "timestamp": "2023-03-16T12:48:04Z",
+    "version": 2,
+    "changeset": 133747809,
+    "user": "Windjana",
+    "uid": 10216103,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Riad Nejjarine"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10062392978,
+    "lat": 34.0032439,
+    "lon": -5.0137487,
+    "timestamp": "2022-09-29T20:38:18Z",
+    "version": 1,
+    "changeset": 126797822,
+    "user": "BigRockMapologist",
+    "uid": 16754447,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Elhaqouni Grill"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10123755517,
+    "lat": 34.0635399,
+    "lon": -4.9743245,
+    "timestamp": "2022-10-23T12:37:40Z",
+    "version": 1,
+    "changeset": 127955653,
+    "user": "Alexski52",
+    "uid": 10134238,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Le patio bleu"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10180199218,
+    "lat": 34.0599367,
+    "lon": -4.9879766,
+    "timestamp": "2022-11-13T08:39:44Z",
+    "version": 1,
+    "changeset": 128837306,
+    "user": "OpenBetterWorld",
+    "uid": 11992717,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "african",
+      "diet:vegan": "yes",
+      "diet:vegetarian": "yes",
+      "level": "0",
+      "name": "Garden Coffee",
+      "opening_hours": "Mo-Su 08:00-23:00",
+      "outdoor_seating": "yes",
+      "phone": "+212 5356-36032",
+      "toilets": "yes",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10307815509,
+    "lat": 34.0673793,
+    "lon": -4.9738478,
+    "timestamp": "2023-01-05T02:40:09Z",
+    "version": 1,
+    "changeset": 130888328,
+    "user": "Patrick Lou",
+    "uid": 10123674,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Dar Hatim"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10693026606,
+    "lat": 34.0599458,
+    "lon": -4.9723676,
+    "timestamp": "2024-10-13T08:35:23Z",
+    "version": 3,
+    "changeset": 157824415,
+    "user": "Claudius Henrichs",
+    "uid": 18069,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "moroccan",
+      "name": "Al Mandar"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10693815705,
+    "lat": 34.0655656,
+    "lon": -4.980453,
+    "timestamp": "2023-02-25T22:32:17Z",
+    "version": 2,
+    "changeset": 133024307,
+    "user": "Guile63",
+    "uid": 18547523,
+    "tags": {
+      "addr:housenumber": "16",
+      "addr:postcode": "30110",
+      "addr:street": "Rue Talaâ Kbira الطالعة الكبيرة",
+      "amenity": "restaurant",
+      "cuisine": "moroccan",
+      "internet_access": "wlan",
+      "name": "Fondouk Bazaar",
+      "opening_hours": "Sa 12:00-21:45",
+      "phone": "05 35 63 81 04",
+      "website": "https://m.facebook.com/100035121158225/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10693893605,
+    "lat": 34.0643529,
+    "lon": -4.9795588,
+    "timestamp": "2023-11-02T20:09:16Z",
+    "version": 3,
+    "changeset": 143547649,
+    "user": "Le Petit Léo",
+    "uid": 20120497,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "moroccan",
+      "internet_access": "wlan",
+      "name": "Fondouk Bazaar",
+      "opening_hours": "Mo-Su 12:00-21:45",
+      "website": "https://m.facebook.com/fondoukbazaarfes/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10766768405,
+    "lat": 34.0593478,
+    "lon": -4.980289,
+    "timestamp": "2023-03-27T17:06:21Z",
+    "version": 1,
+    "changeset": 134187361,
+    "user": "Patrick Lou",
+    "uid": 10123674,
+    "tags": {
+      "addr:street": "Boulevard Ahmed Mekouar",
+      "amenity": "restaurant",
+      "name:en": "212pizzeria"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10766812805,
+    "lat": 34.0594008,
+    "lon": -4.979006,
+    "timestamp": "2023-03-27T17:26:39Z",
+    "version": 1,
+    "changeset": 134188023,
+    "user": "Patrick Lou",
+    "uid": 10123674,
+    "tags": {
+      "amenity": "restaurant",
+      "name:en": "Batha Grill & Pizzeria"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10766855505,
+    "lat": 34.0580743,
+    "lon": -4.9770698,
+    "timestamp": "2023-03-27T17:42:19Z",
+    "version": 1,
+    "changeset": 134188563,
+    "user": "Patrick Lou",
+    "uid": 10123674,
+    "tags": {
+      "addr:housenumber": "2",
+      "addr:street": "Derb Mokri",
+      "amenity": "restaurant",
+      "name:en": "Restaurant Tresor Fes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11078293479,
+    "lat": 34.0282307,
+    "lon": -4.9985789,
+    "timestamp": "2023-07-31T08:23:38Z",
+    "version": 2,
+    "changeset": 139241224,
+    "user": "Hervet",
+    "uid": 19855281,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Two Brothers Restaurant",
+      "opening_hours": "Mo-Su 12:00-23:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11115030906,
+    "lat": 34.0650997,
+    "lon": -4.9770402,
+    "timestamp": "2023-08-14T20:10:03Z",
+    "version": 1,
+    "changeset": 139887737,
+    "user": "RE3EL",
+    "uid": 13913242,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Palais Lahlou"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11115031005,
+    "lat": 34.069845,
+    "lon": -4.4560281,
+    "timestamp": "2023-08-14T20:10:03Z",
+    "version": 1,
+    "changeset": 139887737,
+    "user": "RE3EL",
+    "uid": 13913242,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Palais des fêtes",
+      "name:en": "Tahla Garden"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11125734405,
+    "lat": 34.0611993,
+    "lon": -4.9827447,
+    "timestamp": "2024-12-31T19:51:27Z",
+    "version": 2,
+    "changeset": 160846504,
+    "user": "LateNightTone",
+    "uid": 4003485,
+    "tags": {
+      "amenity": "restaurant",
+      "name:en": "Culture Box"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11203408337,
+    "lat": 34.0633922,
+    "lon": -4.9782156,
+    "timestamp": "2023-09-19T19:31:43Z",
+    "version": 1,
+    "changeset": 141483367,
+    "user": "Gerhalt",
+    "uid": 20290756,
+    "tags": {
+      "addr:housenumber": "14",
+      "addr:postcode": "30110",
+      "addr:street": "zkak lN 14 ZKAK LAHJAR, Rue Talaa Sghira, Fès 30110",
+      "amenity": "restaurant",
+      "name:en": "DAR HAMMAD",
+      "phone": "0774-336825"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11233439968,
+    "lat": 34.0016913,
+    "lon": -5.0127272,
+    "timestamp": "2024-12-20T19:47:47Z",
+    "version": 3,
+    "changeset": 160447501,
+    "user": "yetzt",
+    "uid": 26734,
+    "tags": {
+      "addr:city": "Fès",
+      "addr:housenumber": "magasin n6 lot 880 karaouyine",
+      "addr:postcode": "30050",
+      "addr:street": "Route Aïn Chkef طريق عين شقف",
+      "air_conditioning": "yes",
+      "amenity": "restaurant",
+      "cuisine": "waffle;cocktails;juice;crepe;pancake",
+      "description": "Venez déguster nos délicieuses crêpes ainsi qu'un tres large choix des Waffles chez Sweet Time ! Un cadre reposant et convivial vous attend.",
+      "diet:fruitarian": "yes",
+      "diet:halal": "yes",
+      "diet:vegetarian": "yes",
+      "internet_access": "wlan",
+      "name": "Sweet Time",
+      "opening_hours": "Mo-Su 11:00-00:00",
+      "outdoor_seating": "yes",
+      "phone": "+212 693-544556",
+      "smoking": "outside",
+      "takeaway": "yes",
+      "toilets": "yes",
+      "website": "https://www.sweet-time.ma/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11253450837,
+    "lat": 34.0623021,
+    "lon": -4.9800313,
+    "timestamp": "2023-10-10T17:35:25Z",
+    "version": 1,
+    "changeset": 142404206,
+    "user": "Tom_the_axe",
+    "uid": 18906017,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Nghma wa tay"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11255164037,
+    "lat": 34.0664188,
+    "lon": -4.975036,
+    "timestamp": "2023-10-11T13:37:40Z",
+    "version": 1,
+    "changeset": 142437667,
+    "user": "AlexTravel42",
+    "uid": 20449887,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Salah restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11257724137,
+    "lat": 34.0643994,
+    "lon": -4.9766949,
+    "timestamp": "2023-10-12T14:39:58Z",
+    "version": 2,
+    "changeset": 142483191,
+    "user": "Restaurant dar khabya",
+    "uid": 20458976,
+    "tags": {
+      "addr:housenumber": "99",
+      "addr:postcode": "30200",
+      "addr:street": "Rue Talâa Saghira",
+      "amenity": "restaurant",
+      "cuisine": "moroccan",
+      "email": "amineamrani413@gmail.com",
+      "internet_access": "wlan",
+      "name": "Restaurant dar khabya",
+      "name:en": "restaurant dar khabya",
+      "name:fr": "Restaurant dar khabya",
+      "opening_hours": "Mo-Su 12:00-23:00",
+      "phone": "00212618703622",
+      "website": "https://maps.app.goo.gl/waXukSiFTUQzsK3v8"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11258218637,
+    "lat": 34.0355211,
+    "lon": -5.0014096,
+    "timestamp": "2023-10-12T18:53:39Z",
+    "version": 1,
+    "changeset": 142493237,
+    "user": "AlexTravel42",
+    "uid": 20449887,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Bistrot des saveurs"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11300939155,
+    "lat": 34.0617508,
+    "lon": -4.9838357,
+    "timestamp": "2023-10-31T16:36:36Z",
+    "version": 2,
+    "changeset": 143432207,
+    "user": "Le Petit Léo",
+    "uid": 20120497,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant des Jeunes",
+      "name:fr": "Restaurant des Jeunes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11304139860,
+    "lat": 34.0617943,
+    "lon": -4.9836541,
+    "timestamp": "2023-11-01T10:10:38Z",
+    "version": 1,
+    "changeset": 143462801,
+    "user": "Le Petit Léo",
+    "uid": 20120497,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11304309934,
+    "lat": 34.0616002,
+    "lon": -4.9834853,
+    "timestamp": "2023-11-01T11:49:16Z",
+    "version": 2,
+    "changeset": 143470804,
+    "user": "Le Petit Léo",
+    "uid": 20120497,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Kan Zamane"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11304849070,
+    "lat": 34.0641189,
+    "lon": -4.9784331,
+    "timestamp": "2023-11-01T15:45:43Z",
+    "version": 1,
+    "changeset": 143482495,
+    "user": "Le Petit Léo",
+    "uid": 20120497,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Fnara"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11305970670,
+    "lat": 34.0627906,
+    "lon": -4.9790416,
+    "timestamp": "2023-11-01T20:49:01Z",
+    "version": 1,
+    "changeset": 143496023,
+    "user": "Le Petit Léo",
+    "uid": 20120497,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Nassmat Bladi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11305977869,
+    "lat": 34.0643908,
+    "lon": -4.9785584,
+    "timestamp": "2023-11-01T20:49:57Z",
+    "version": 1,
+    "changeset": 143496045,
+    "user": "Le Petit Léo",
+    "uid": 20120497,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "La Cave"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11306925769,
+    "lat": 34.0628804,
+    "lon": -4.9822492,
+    "timestamp": "2023-11-02T10:22:40Z",
+    "version": 1,
+    "changeset": 143521973,
+    "user": "Le Petit Léo",
+    "uid": 20120497,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Boujloud"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11308391855,
+    "lat": 34.0618097,
+    "lon": -4.9809868,
+    "timestamp": "2023-11-02T20:59:39Z",
+    "version": 1,
+    "changeset": 143549054,
+    "user": "Le Petit Léo",
+    "uid": 20120497,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "moroccan;mediterranean",
+      "name": "Mouda palace"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11748044374,
+    "lat": 34.4603557,
+    "lon": -4.8722095,
+    "timestamp": "2024-03-20T13:12:40Z",
+    "version": 1,
+    "changeset": 148912562,
+    "user": "Meryem akh",
+    "uid": 21163302,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12415378501,
+    "lat": 34.0621207,
+    "lon": -4.9850819,
+    "timestamp": "2024-12-12T09:38:16Z",
+    "version": 1,
+    "changeset": 160199735,
+    "user": "Tabooalan",
+    "uid": 10573717,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12466043713,
+    "lat": 34.0611878,
+    "lon": -4.9828558,
+    "timestamp": "2025-01-01T14:05:33Z",
+    "version": 2,
+    "changeset": 160864312,
+    "user": "LateNightTone",
+    "uid": 4003485,
+    "tags": {
+      "addr:city": "Fes Médina",
+      "addr:housenumber": "7",
+      "addr:street": "Rue El Barid",
+      "amenity": "restaurant",
+      "cuisine": "soup",
+      "name": "Broceliande"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12531731501,
+    "lat": 34.0599086,
+    "lon": -4.9723291,
+    "timestamp": "2025-01-25T13:44:33Z",
+    "version": 1,
+    "changeset": 161746705,
+    "user": "lgstn",
+    "uid": 20899094,
+    "tags": {
+      "amenity": "restaurant",
+      "internet_access": "wlan",
+      "name": "Yalla Yalla Cafe"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12741077250,
+    "lat": 34.0628761,
+    "lon": -4.9818581,
+    "timestamp": "2025-04-09T09:27:43Z",
+    "version": 1,
+    "changeset": 164714669,
+    "user": "mikr2019",
+    "uid": 9485264,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Sunshine Restaurant Coffee"
+    }
+  },
+  {
+    "type": "way",
+    "id": 651534873,
+    "timestamp": "2018-12-01T16:15:36Z",
+    "version": 3,
+    "changeset": 65076428,
+    "user": "Darori",
+    "uid": 7714000,
+    "center": {
+      "lat": 34.0625817,
+      "lon": -4.9737294
+    },
+    "nodes": [
+      6109443100,
+      6109443101,
+      6109443102,
+      4086498542,
+      6109443103,
+      6109443104,
+      6109443100
+    ],
+    "tags": {
+      "addr:city": "R'cif, Fez Medina",
+      "addr:housenumber": "2",
+      "addr:postcode": "30200",
+      "addr:street": "Derb Sayour",
+      "amenity": "restaurant",
+      "building": "house",
+      "building:levels": "1",
+      "capacity": "30",
+      "cuisine": "regional",
+      "delivery": "no",
+      "description": "Restaurant gastronomique traditionnel",
+      "height": "12",
+      "name": "Darori Resto",
+      "opening_hours": "7/7 18:00-23:00",
+      "outdoor_seating": "no",
+      "phone": "+212618453738",
+      "smoking": "outside",
+      "takeaway": "no"
+    }
+  }
+]

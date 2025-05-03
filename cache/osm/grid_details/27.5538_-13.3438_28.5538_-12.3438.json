@@ -1,0 +1,63 @@
+[
+  {
+    "type": "node",
+    "id": 5292017259,
+    "lat": 27.9385063,
+    "lon": -12.9238693,
+    "timestamp": "2017-12-18T17:16:29Z",
+    "version": 1,
+    "changeset": 54736840,
+    "user": "CRCulver",
+    "uid": 340741,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Le Délice",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5292017282,
+    "lat": 27.9380212,
+    "lon": -12.9227435,
+    "timestamp": "2017-12-18T19:26:00Z",
+    "version": 2,
+    "changeset": 54740054,
+    "user": "CRCulver",
+    "uid": 340741,
+    "tags": {
+      "amenity": "restaurant",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10779375829,
+    "lat": 27.9375881,
+    "lon": -12.9217061,
+    "timestamp": "2023-04-02T09:55:29Z",
+    "version": 1,
+    "changeset": 134407116,
+    "user": "geoser",
+    "uid": 5729272,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "La Courbine"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12511002051,
+    "lat": 27.943912,
+    "lon": -12.926571,
+    "timestamp": "2025-01-17T21:46:40Z",
+    "version": 1,
+    "changeset": 161472101,
+    "user": "sudo_man",
+    "uid": 10131249,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  }
+]

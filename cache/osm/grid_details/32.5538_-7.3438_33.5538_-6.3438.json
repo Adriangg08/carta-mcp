@@ -1,0 +1,89 @@
+[
+  {
+    "type": "node",
+    "id": 2928484041,
+    "lat": 32.8251757,
+    "lon": -6.5188302,
+    "timestamp": "2014-06-22T23:42:41Z",
+    "version": 1,
+    "changeset": 23091586,
+    "user": "alain2003",
+    "uid": 578772,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2928484227,
+    "lat": 32.8262368,
+    "lon": -6.5208906,
+    "timestamp": "2014-06-22T23:42:43Z",
+    "version": 1,
+    "changeset": 23091586,
+    "user": "alain2003",
+    "uid": 578772,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3654999028,
+    "lat": 32.9533182,
+    "lon": -6.9548617,
+    "timestamp": "2015-07-17T00:58:28Z",
+    "version": 1,
+    "changeset": 32687348,
+    "user": "alain2003",
+    "uid": 578772,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3654999037,
+    "lat": 32.9516311,
+    "lon": -6.9548167,
+    "timestamp": "2015-07-17T00:58:28Z",
+    "version": 1,
+    "changeset": 32687348,
+    "user": "alain2003",
+    "uid": 578772,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6593296989,
+    "lat": 33.5184651,
+    "lon": -7.2038704,
+    "timestamp": "2019-07-06T14:40:43Z",
+    "version": 1,
+    "changeset": 71960955,
+    "user": "Mohamed E",
+    "uid": 5044265,
+    "tags": {
+      "amenity": "restaurant",
+      "name:fr": "The little farm",
+      "opening_hours": "Mo-Su 09:00-19:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8909776318,
+    "lat": 33.5007548,
+    "lon": -7.3378948,
+    "timestamp": "2021-07-10T13:32:59Z",
+    "version": 1,
+    "changeset": 107748073,
+    "user": "Samir Jab",
+    "uid": 8120446,
+    "tags": {
+      "amenity": "restaurant",
+      "name:fr": "ô Lac"
+    }
+  }
+]

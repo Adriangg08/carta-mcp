@@ -1,0 +1,157 @@
+[
+  {
+    "type": "node",
+    "id": 1366796891,
+    "lat": 32.2914855,
+    "lon": -9.2323406,
+    "timestamp": "2016-02-16T15:09:40Z",
+    "version": 3,
+    "changeset": 37247417,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurent Maistro (Safi )"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1373897948,
+    "lat": 32.3095592,
+    "lon": -9.2262148,
+    "timestamp": "2012-10-27T08:11:06Z",
+    "version": 2,
+    "changeset": 13646451,
+    "user": "BELATAR",
+    "uid": 498538,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1947847110,
+    "lat": 31.5794297,
+    "lon": -9.0122216,
+    "timestamp": "2023-04-18T12:40:54Z",
+    "version": 3,
+    "changeset": 135058126,
+    "user": "Till_muc",
+    "uid": 18673484,
+    "tags": {
+      "amenity": "restaurant",
+      "description": "Supratours buses often stop here on Marakech - Essaouira trips. Food looked good and was quick",
+      "indoor_seating": "yes",
+      "name": "Café Restaurant Atlas",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5782862553,
+    "lat": 32.3002498,
+    "lon": -9.2391255,
+    "timestamp": "2018-07-24T20:28:42Z",
+    "version": 1,
+    "changeset": 61036201,
+    "user": "d3andj",
+    "uid": 7467772,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "moroccan",
+      "name:en": "Chez Hosni",
+      "phone": "+212660052323"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9262950762,
+    "lat": 32.3231877,
+    "lon": -9.2588771,
+    "timestamp": "2021-11-18T08:04:14Z",
+    "version": 1,
+    "changeset": 113932315,
+    "user": "Traktorbek",
+    "uid": 7370308,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Café Ocean",
+      "phone": "+212524667766"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9571028417,
+    "lat": 31.9874952,
+    "lon": -9.3284041,
+    "timestamp": "2022-03-11T15:04:42Z",
+    "version": 1,
+    "changeset": 118367633,
+    "user": "Ciclo-Via",
+    "uid": 168468,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Food Medkori"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10287778209,
+    "lat": 31.5809999,
+    "lon": -8.4927272,
+    "timestamp": "2022-12-26T15:56:45Z",
+    "version": 1,
+    "changeset": 130522653,
+    "user": "R3gi",
+    "uid": 873469,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "moroccan;tea",
+      "name:en": "Al Jaouda"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11063121405,
+    "lat": 32.2926452,
+    "lon": -9.2452191,
+    "timestamp": "2023-07-23T12:02:14Z",
+    "version": 1,
+    "changeset": 138890619,
+    "user": "Christof69300",
+    "uid": 7698949,
+    "tags": {
+      "addr:postcode": "46000",
+      "addr:street": "كرنيش آسفي",
+      "amenity": "restaurant",
+      "name": "Calypso Medina"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11799193811,
+    "lat": 32.3175365,
+    "lon": -9.2286801,
+    "timestamp": "2024-04-07T06:16:54Z",
+    "version": 1,
+    "changeset": 149679051,
+    "user": "Youssef Elouazzani",
+    "uid": 21283228,
+    "tags": {
+      "addr:city": "Safi",
+      "addr:postcode": "46000",
+      "addr:street": "Avenue Ennasr شارع النصر",
+      "amenity": "restaurant",
+      "brand": "wzanifood",
+      "contact:facebook": "https://www.facebook.com/profile.php?id=61555486837415&mibextid=LQQJ4d",
+      "cuisine": "fast_food;pizza;burger;tacos",
+      "diet:halal": "yes",
+      "email": "wzanifood@gmail.com",
+      "mobile": "‪+212 660‑872989‬",
+      "name": "wzanifood",
+      "opening_hours": "24/7",
+      "phone": "‪+212 660‑872989‬",
+      "website": "https://www.instagram.com/wzanifood?igsh=OHBsZmF5dml6cWho"
+    }
+  }
+]

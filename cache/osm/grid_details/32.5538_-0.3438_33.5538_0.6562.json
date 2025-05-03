@@ -1,0 +1,128 @@
+[
+  {
+    "type": "node",
+    "id": 3479404789,
+    "lat": 32.8991276,
+    "lon": 0.5447059,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 5,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:city": "الأبيض سيدي الشيخ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3479440750,
+    "lat": 32.8979591,
+    "lon": 0.5444031,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 4,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3479453609,
+    "lat": 32.8971354,
+    "lon": 0.5441871,
+    "timestamp": "2021-06-23T21:36:10Z",
+    "version": 5,
+    "changeset": 106861142,
+    "user": "rahmani nour-èddine",
+    "uid": 2859664,
+    "tags": {
+      "addr:city": "الأبيض سيدي الشيخ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3479453662,
+    "lat": 32.89706,
+    "lon": 0.5441744,
+    "timestamp": "2021-06-23T21:36:10Z",
+    "version": 5,
+    "changeset": 106861142,
+    "user": "rahmani nour-èddine",
+    "uid": 2859664,
+    "tags": {
+      "addr:city": "الأبيض سيدي الشيخ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4251885993,
+    "lat": 33.2647583,
+    "lon": -0.3146649,
+    "timestamp": "2018-06-13T17:54:09Z",
+    "version": 2,
+    "changeset": 59818370,
+    "user": "ButterflyOfFire_",
+    "uid": 2842609,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Restaurant Haddi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4444843090,
+    "lat": 32.9111827,
+    "lon": 0.5458521,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "مطعم السلطان",
+      "name:ar": "مطعم السلطان",
+      "name:fr": "Sultan"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5198292744,
+    "lat": 32.8986382,
+    "lon": 0.5446304,
+    "timestamp": "2020-11-19T00:04:57Z",
+    "version": 4,
+    "changeset": 94400844,
+    "user": "MustafaQasim",
+    "uid": 9535554,
+    "tags": {
+      "addr:country": "DZ",
+      "addr:housenumber": "049636270",
+      "addr:postcode": "32003",
+      "addr:street": "شارع ديدوش مراد",
+      "amenity": "restaurant",
+      "name": "كرانتيكا عبدو",
+      "name:ar": "كرانتيكا عبدو",
+      "name:en": "Karantika abdo",
+      "name:fr": "Karantika abfo",
+      "opening_hours": "Sa-Th 09:00-21:00",
+      "phone": "0675776913"
+    }
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "type": "node",
+    "id": 4337420795,
+    "lat": 33.1084136,
+    "lon": 6.0726968,
+    "timestamp": "2020-11-06T22:25:00Z",
+    "version": 4,
+    "changeset": 93687164,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "دوبارة حارة",
+      "name:ar": "دوبارة حارة",
+      "name:fr": "Doubara Hara"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4337420796,
+    "lat": 33.1085798,
+    "lon": 6.0728765,
+    "timestamp": "2020-11-06T22:25:00Z",
+    "version": 4,
+    "changeset": 93687164,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "مطعم السعيد",
+      "name:ar": "مطعم السعيد",
+      "name:fr": "Restaurant Said"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4337420797,
+    "lat": 33.1086248,
+    "lon": 6.072611,
+    "timestamp": "2020-11-06T22:25:00Z",
+    "version": 4,
+    "changeset": 93687164,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "مطعم معراج",
+      "name:ar": "مطعم معراج",
+      "name:fr": "Restaurant Maaradj"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1176013701,
+    "timestamp": "2023-05-28T05:14:11Z",
+    "version": 2,
+    "changeset": 136643330,
+    "user": "ratrun",
+    "uid": 474183,
+    "center": {
+      "lat": 33.1178369,
+      "lon": 6.0618032
+    },
+    "nodes": [
+      10927116810,
+      10927118663,
+      10927116528,
+      10927118042,
+      10927115363,
+      10927119423,
+      10927117545,
+      3225428998,
+      10927115077,
+      10927119607,
+      10927116982,
+      10927118224,
+      10927117971,
+      10927120630,
+      10927116810
+    ],
+    "tags": {
+      "addr:city": "تقرت",
+      "addr:city:ar": "تقرت",
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  }
+]

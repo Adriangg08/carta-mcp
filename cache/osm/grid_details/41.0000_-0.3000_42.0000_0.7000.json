@@ -1,0 +1,5401 @@
+[
+  {
+    "type": "node",
+    "id": 415655698,
+    "lat": 41.7231191,
+    "lon": 0.147707,
+    "timestamp": "2024-12-30T22:36:02Z",
+    "version": 4,
+    "changeset": 160812888,
+    "user": "jeslop",
+    "uid": 275212,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Casa Santos"
+    }
+  },
+  {
+    "type": "node",
+    "id": 480915805,
+    "lat": 41.8146357,
+    "lon": 0.6351525,
+    "timestamp": "2009-09-02T14:12:59Z",
+    "version": 1,
+    "changeset": 2348671,
+    "user": "ottokar55",
+    "uid": 101355,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 639637774,
+    "lat": 41.2236123,
+    "lon": 0.5447783,
+    "timestamp": "2024-12-30T16:18:30Z",
+    "version": 6,
+    "changeset": 160799208,
+    "user": "aTarom",
+    "uid": 5127355,
+    "tags": {
+      "addr:city": "Flix",
+      "addr:postcode": "43750",
+      "addr:street": "C-12 Eix de l'Ebre",
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "L'Ànima",
+      "name:ca": "L'Ànima",
+      "nohousenumber": "yes",
+      "opening_hours": "Tu-Su 13:10-15:30",
+      "phone": "+34 977 41 08 58",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 639637784,
+    "lat": 41.229905,
+    "lon": 0.5453416,
+    "timestamp": "2010-02-22T22:31:29Z",
+    "version": 2,
+    "changeset": 3948190,
+    "user": "modcube",
+    "uid": 232652,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Furnieles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 639637786,
+    "lat": 41.2306546,
+    "lon": 0.5470894,
+    "timestamp": "2010-02-15T13:08:52Z",
+    "version": 1,
+    "changeset": 3882987,
+    "user": "modcube",
+    "uid": 232652,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Continental"
+    }
+  },
+  {
+    "type": "node",
+    "id": 639637790,
+    "lat": 41.2309027,
+    "lon": 0.5504692,
+    "timestamp": "2022-09-23T16:20:49Z",
+    "version": 2,
+    "changeset": 126555602,
+    "user": "Ivan Flix",
+    "uid": 17210359,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "Pizzeria Vincent",
+      "name:ca": "La Flixeria"
+    }
+  },
+  {
+    "type": "node",
+    "id": 650907812,
+    "lat": 41.2308789,
+    "lon": 0.5501173,
+    "timestamp": "2022-11-27T05:43:47Z",
+    "version": 2,
+    "changeset": 129422728,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "El Racó",
+      "name:ca": "El Racó"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1212318620,
+    "lat": 41.6181436,
+    "lon": 0.6194839,
+    "timestamp": "2025-03-07T13:12:53Z",
+    "version": 5,
+    "changeset": 163327028,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "27",
+      "addr:postcode": "25006",
+      "addr:street": "Avinguda de Balmes",
+      "amenity": "restaurant",
+      "contact:instagram": "necesitoflow",
+      "cuisine": "burger",
+      "name": "Flow",
+      "phone": "+34 604 843 146",
+      "website": "https://burgerflow.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1257305676,
+    "lat": 41.9613037,
+    "lon": -0.0030175,
+    "timestamp": "2011-06-16T22:08:23Z",
+    "version": 2,
+    "changeset": 8460720,
+    "user": "ottokar55",
+    "uid": 101355,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "El Meridiano"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1268257377,
+    "lat": 41.2395119,
+    "lon": 0.5510034,
+    "timestamp": "2022-11-26T04:18:43Z",
+    "version": 3,
+    "changeset": 129388924,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Àrea de Guissona",
+      "name:ca": "Àrea de Guissona"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1460471016,
+    "lat": 41.6208302,
+    "lon": 0.621716,
+    "timestamp": "2023-08-13T00:34:09Z",
+    "version": 4,
+    "changeset": 139806192,
+    "user": "Àlex Magaz",
+    "uid": 118127,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:postcode": "25008",
+      "addr:street": "Carrer d'Humbert Torres",
+      "alt_name": "Cañas y tapas",
+      "amenity": "restaurant",
+      "name": "D'Cañas",
+      "nohousenumber": "yes",
+      "phone": "+34 973222714",
+      "website:menu": "https://www.portalrest.com/index.html?data=%3DATPrNXYmITPtZiM5EjMzETP0NXZSRWa"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1460471254,
+    "lat": 41.621163,
+    "lon": 0.6184162,
+    "timestamp": "2023-02-19T00:09:29Z",
+    "version": 5,
+    "changeset": 132732653,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:postcode": "25006",
+      "addr:street": "Avinguda de l'Alcalde Rovira Roure",
+      "amenity": "restaurant",
+      "delivery": "no",
+      "name": "Margotte",
+      "outdoor_seating": "no",
+      "source": "knowledge;survey"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1591416983,
+    "lat": 41.6198996,
+    "lon": 0.6369977,
+    "timestamp": "2023-02-19T00:01:46Z",
+    "version": 3,
+    "changeset": 132732578,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "7",
+      "addr:postcode": "25005",
+      "addr:street": "Avinguda de Tortosa",
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "la Huerta"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1959318853,
+    "lat": 41.1006517,
+    "lon": 0.6523744,
+    "timestamp": "2012-10-11T20:51:44Z",
+    "version": 1,
+    "changeset": 13459834,
+    "user": "janes",
+    "uid": 428521,
+    "tags": {
+      "amenity": "restaurant",
+      "internet_access": "wlan",
+      "name": "Restaurant Ferran"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2295695447,
+    "lat": 41.233451,
+    "lon": -0.0410789,
+    "timestamp": "2019-12-26T07:55:50Z",
+    "version": 3,
+    "changeset": 78869997,
+    "user": "AV Foto",
+    "uid": 1428118,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "spanish",
+      "name": "El Secreto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2295695451,
+    "lat": 41.2338115,
+    "lon": -0.0426957,
+    "timestamp": "2013-05-08T10:29:28Z",
+    "version": 1,
+    "changeset": 16026923,
+    "user": "AV Foto",
+    "uid": 1428118,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurante La Bodeguita"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2295695452,
+    "lat": 41.2336351,
+    "lon": -0.0424713,
+    "timestamp": "2013-05-08T10:29:28Z",
+    "version": 1,
+    "changeset": 16026923,
+    "user": "AV Foto",
+    "uid": 1428118,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Bowling Center Caspe"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2309496456,
+    "lat": 41.3635851,
+    "lon": 0.5066607,
+    "timestamp": "2022-11-27T06:52:04Z",
+    "version": 3,
+    "changeset": 129423768,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "La Plaça",
+      "name:ca": "La Plaça"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2331640614,
+    "lat": 41.6086086,
+    "lon": 0.6317716,
+    "timestamp": "2022-08-10T14:49:10Z",
+    "version": 4,
+    "changeset": 124735641,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "39",
+      "addr:postcode": "25001",
+      "addr:street": "Carrer del Riu Ebre",
+      "amenity": "restaurant",
+      "name": "Utopik GastroBar"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2389276693,
+    "lat": 41.2331128,
+    "lon": -0.0402872,
+    "timestamp": "2020-09-03T15:40:26Z",
+    "version": 2,
+    "changeset": 90370687,
+    "user": "Balázs Hidvégi",
+    "uid": 3738787,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "El Surtidor"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2389281973,
+    "lat": 41.2370868,
+    "lon": -0.0398406,
+    "timestamp": "2024-03-17T21:34:28Z",
+    "version": 3,
+    "changeset": 148791160,
+    "user": "jotero66",
+    "uid": 21007177,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Restaurante JB"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2389284212,
+    "lat": 41.239105,
+    "lon": -0.0437953,
+    "timestamp": "2013-07-19T09:27:33Z",
+    "version": 1,
+    "changeset": 17009454,
+    "user": "AV Foto",
+    "uid": 1428118,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "spanish",
+      "name": "Restaurante Magallón"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2407796926,
+    "lat": 41.6102368,
+    "lon": 0.6171854,
+    "timestamp": "2024-08-13T10:30:46Z",
+    "version": 3,
+    "changeset": 155188606,
+    "user": "kasvit",
+    "uid": 18517266,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "40",
+      "addr:postcode": "25002",
+      "addr:street": "Carrer de l'Acadèmia",
+      "amenity": "restaurant",
+      "contact:facebook": "https://www.facebook.com/p/Click-Menu-100050614763752/",
+      "contact:instagram": "restaurantclick",
+      "cuisine": "regional",
+      "diet:gluten_free": "yes",
+      "email": "restaurantclick@gmail.com",
+      "name": "Click Menú",
+      "phone": "+34 633 868 939"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2407798060,
+    "lat": 41.6105387,
+    "lon": 0.6171667,
+    "timestamp": "2013-08-05T11:36:45Z",
+    "version": 1,
+    "changeset": 17226673,
+    "user": "PSS25000",
+    "uid": 1704027,
+    "tags": {
+      "addr:housenumber": "3",
+      "addr:postcode": "25002",
+      "addr:street": "Templers",
+      "amenity": "restaurant",
+      "cuisine": "spanish",
+      "name": "Aggio"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2407801294,
+    "lat": 41.6128636,
+    "lon": 0.6173135,
+    "timestamp": "2024-07-12T12:20:03Z",
+    "version": 3,
+    "changeset": 153853328,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "67",
+      "addr:postcode": "25003",
+      "addr:street": "Doctor Combelles",
+      "amenity": "restaurant",
+      "cuisine": "spanish",
+      "name": "Aimia",
+      "website": "http://www.aimia.cat/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2408717142,
+    "lat": 41.1656354,
+    "lon": 0.4723632,
+    "timestamp": "2023-03-31T20:31:05Z",
+    "version": 3,
+    "changeset": 134361186,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "catalan",
+      "name": "la Casa Ecològica",
+      "name:ca": "la Casa Ecològica",
+      "website": "http://www.lacasaecologica.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2598865075,
+    "lat": 41.5947264,
+    "lon": 0.5910817,
+    "timestamp": "2013-12-28T21:25:35Z",
+    "version": 1,
+    "changeset": 19686843,
+    "user": "pokoli",
+    "uid": 1859290,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Teciteca"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2683302806,
+    "lat": 41.611911,
+    "lon": 0.6351117,
+    "timestamp": "2015-04-21T10:03:39Z",
+    "version": 2,
+    "changeset": 30373874,
+    "user": "Galifardeu",
+    "uid": 368660,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "continental",
+      "name": "Mini"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2698569022,
+    "lat": 41.5364728,
+    "lon": 0.4332559,
+    "timestamp": "2014-03-02T20:36:16Z",
+    "version": 2,
+    "changeset": 20873415,
+    "user": "Kasa95",
+    "uid": 1963125,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Restaurante Pepito Casanova"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3193568610,
+    "lat": 41.2481265,
+    "lon": -0.0130413,
+    "timestamp": "2023-03-19T17:18:39Z",
+    "version": 2,
+    "changeset": 133866511,
+    "user": "Valentin6562",
+    "uid": 18764643,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "spanish",
+      "name": "Meridiano Cero",
+      "source": "Visitante"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3251029271,
+    "lat": 41.6855377,
+    "lon": 0.3106208,
+    "timestamp": "2024-06-03T05:23:32Z",
+    "version": 2,
+    "changeset": 152184060,
+    "user": "xeget",
+    "uid": 21619163,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "spanish",
+      "name": "Can Yosvani"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3393049451,
+    "lat": 41.1064038,
+    "lon": 0.6418753,
+    "timestamp": "2015-03-10T20:44:16Z",
+    "version": 1,
+    "changeset": 29392898,
+    "user": "yopaseopor",
+    "uid": 500572,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3471802288,
+    "lat": 41.6101584,
+    "lon": 0.630708,
+    "timestamp": "2024-09-27T21:43:40Z",
+    "version": 5,
+    "changeset": 157189244,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "3",
+      "addr:postcode": "25001",
+      "addr:street": "Carrer d'Esperanza González",
+      "amenity": "restaurant",
+      "contact:instagram": "napolilasensaciolleida",
+      "contact:twitter": "napolilleida",
+      "cuisine": "pizza",
+      "name": "Pizza Napoli",
+      "phone": "+34 973 20 08 08",
+      "website": "https://napolilasensacio.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3673066880,
+    "lat": 41.6057204,
+    "lon": 0.6254678,
+    "timestamp": "2023-12-15T11:07:31Z",
+    "version": 4,
+    "changeset": 145146233,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "27",
+      "addr:postcode": "25001",
+      "addr:street": "Avinguda de Barcelona",
+      "amenity": "restaurant",
+      "cuisine": "japanese",
+      "name": "Kyoka Lleida",
+      "opening_hours": "Mo-Su 12:00-16:30, 20:00-24:00",
+      "phone": "+34 973 348 785",
+      "website": "https://kyoka.es/kyoka-cappont/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3674116244,
+    "lat": 41.6123014,
+    "lon": 0.627913,
+    "timestamp": "2022-08-10T14:49:10Z",
+    "version": 2,
+    "changeset": 124735641,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "la Clasca"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3904985214,
+    "lat": 41.8591557,
+    "lon": 0.2588895,
+    "timestamp": "2015-12-22T16:37:49Z",
+    "version": 1,
+    "changeset": 36109157,
+    "user": "ponsdaniel",
+    "uid": 944079,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "El Romeral"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3924051704,
+    "lat": 41.4969268,
+    "lon": -0.1578455,
+    "timestamp": "2019-03-04T20:58:20Z",
+    "version": 7,
+    "changeset": 67782199,
+    "user": "b-jazz-bot",
+    "uid": 9451067,
+    "tags": {
+      "all_you_can_eat": "yes",
+      "amenity": "restaurant",
+      "internet_access": "wlan",
+      "internet_access:fee": "no",
+      "name": "Bar buffet El Español",
+      "self_service": "yes",
+      "toilets:wheelchair": "yes",
+      "website": "https://www.elespanolbujaraloz.com/",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4196625030,
+    "lat": 41.8302093,
+    "lon": 0.5684669,
+    "timestamp": "2024-06-05T17:53:56Z",
+    "version": 2,
+    "changeset": 152299419,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Alfarràs",
+      "addr:housenumber": "10",
+      "addr:postcode": "25120",
+      "addr:street": "Avinguda de Lleida",
+      "amenity": "restaurant",
+      "cuisine": "kebab",
+      "name": "Jaros Kebab"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4235846490,
+    "lat": 41.648026,
+    "lon": 0.695182,
+    "timestamp": "2024-01-21T15:17:35Z",
+    "version": 3,
+    "changeset": 146516824,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:street": "Carrer Nou",
+      "amenity": "restaurant",
+      "cuisine": "balkan;seafood;fish;spanish",
+      "name": "Restsurante Casa Teo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4315868283,
+    "lat": 41.6168751,
+    "lon": 0.6281996,
+    "timestamp": "2024-12-12T09:52:12Z",
+    "version": 5,
+    "changeset": 160200254,
+    "user": "Galifardeu",
+    "uid": 368660,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "1",
+      "addr:postcode": "25007",
+      "addr:street": "Plaça de la Sal",
+      "amenity": "restaurant",
+      "cuisine": "asian",
+      "name": "Dewang"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4337669495,
+    "lat": 41.0158602,
+    "lon": 0.1891998,
+    "timestamp": "2024-12-30T22:37:48Z",
+    "version": 5,
+    "changeset": 160812926,
+    "user": "jeslop",
+    "uid": 275212,
+    "tags": {
+      "addr:housenumber": "57",
+      "addr:postcode": "44610",
+      "addr:street": "Avenida de Calaluña",
+      "amenity": "restaurant",
+      "name": "Fonda Alcalá",
+      "phone": "+34 978 851 028"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4360139950,
+    "lat": 41.6202977,
+    "lon": 0.630517,
+    "timestamp": "2018-04-14T00:40:21Z",
+    "version": 2,
+    "changeset": 58079445,
+    "user": "tawuzoda",
+    "uid": 8109641,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "17",
+      "addr:postcode": "25007",
+      "addr:street": "Carrer de l'Anselm Clavé",
+      "amenity": "restaurant",
+      "name": "El Galeó",
+      "opening_hours": "Mo-Su 07:00-24:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4379282579,
+    "lat": 41.3615143,
+    "lon": 0.2924411,
+    "timestamp": "2019-09-16T18:04:59Z",
+    "version": 3,
+    "changeset": 74545330,
+    "user": "kapazao_import",
+    "uid": 8770019,
+    "tags": {
+      "addr:city": "Mequinenza",
+      "addr:postcode": "50170",
+      "addr:street": "Avda. María Quintana",
+      "amenity": "restaurant",
+      "name": "Restaurante Royal 2",
+      "nohousenumber": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4397767690,
+    "lat": 41.5731386,
+    "lon": 0.6056208,
+    "timestamp": "2022-12-10T18:48:55Z",
+    "version": 7,
+    "changeset": 129942469,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "tags": {
+      "addr:housenumber": "78",
+      "addr:street": "Carrer del Doctor Robert",
+      "amenity": "restaurant",
+      "name": "La Ribera",
+      "name:ca": "La Ribera",
+      "phone": "+34 973720565"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4401569691,
+    "lat": 41.5021347,
+    "lon": 0.0571808,
+    "timestamp": "2018-07-19T13:33:23Z",
+    "version": 2,
+    "changeset": 60872746,
+    "user": "alain chappuis",
+    "uid": 8503804,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "la colina",
+      "name:es": "la colina",
+      "opening_hours": "Mo-Sa 07:00-23:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4417688816,
+    "lat": 41.9015734,
+    "lon": 0.1832538,
+    "timestamp": "2016-09-25T14:38:15Z",
+    "version": 1,
+    "changeset": 42424510,
+    "user": "ponsdaniel",
+    "uid": 944079,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Zonasport"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4440982574,
+    "lat": 41.6115602,
+    "lon": 0.632283,
+    "timestamp": "2024-11-02T09:42:27Z",
+    "version": 7,
+    "changeset": 158650491,
+    "user": "Galifardeu",
+    "uid": 368660,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "19",
+      "addr:postcode": "25001",
+      "addr:street": "Avinguda de les Garrigues",
+      "amenity": "restaurant",
+      "contact:phone": "604953385",
+      "cuisine": "italian",
+      "name": "La casa Italia 101"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4497087865,
+    "lat": 41.4192388,
+    "lon": 0.352972,
+    "timestamp": "2022-11-19T03:00:01Z",
+    "version": 4,
+    "changeset": 129108963,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "tags": {
+      "addr:city": "la Granja d'Escarp",
+      "addr:street": "Plaça de la Cultura",
+      "amenity": "restaurant",
+      "cuisine": "catalan",
+      "name": "Can Ros",
+      "name:ca": "Can Ros",
+      "phone": "+34 973782437"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4582022690,
+    "lat": 41.6244819,
+    "lon": 0.6197613,
+    "timestamp": "2024-04-25T12:00:22Z",
+    "version": 3,
+    "changeset": 150493172,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "38",
+      "addr:postcode": "25008",
+      "addr:street": "Carrer de Sant Hilari",
+      "amenity": "restaurant",
+      "name": "Lo Caragol",
+      "name:ca": "Lo Caragol",
+      "opening_hours": "Mo-Su 13:00-17:00",
+      "phone": "+34 973 22 54 04",
+      "website": "http://www.locaragol.cat"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4582383789,
+    "lat": 41.5810194,
+    "lon": 0.5147429,
+    "timestamp": "2020-04-10T10:50:59Z",
+    "version": 4,
+    "changeset": 83358420,
+    "user": "yopaseopor",
+    "uid": 500572,
+    "tags": {
+      "addr:full": "A-2 en Alcarràs (Lleida)",
+      "amenity": "restaurant",
+      "description:covid19": "fuel=No|sandwich=?|restaurant=Sí|supermarket=No|duchas=No|WC=Sí",
+      "internet_access": "wlan",
+      "name": "Hotel Casa Miquel",
+      "name:ca": "Casa Miquel",
+      "opening_hours": "24/7"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4583595293,
+    "lat": 41.5365554,
+    "lon": 0.514853,
+    "timestamp": "2023-01-03T17:25:39Z",
+    "version": 2,
+    "changeset": 130835684,
+    "user": "cardinal",
+    "uid": 147072,
+    "tags": {
+      "addr:city": "Torres de Segre",
+      "addr:housenumber": "2",
+      "addr:postcode": "25170",
+      "addr:street": "carrer Onze de Setembre",
+      "air_conditioning": "yes",
+      "amenity": "restaurant",
+      "bar": "yes",
+      "cuisine": "regional",
+      "name": "El Celler del Segre"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4583595491,
+    "lat": 41.5329534,
+    "lon": 0.5163508,
+    "timestamp": "2017-01-01T09:26:53Z",
+    "version": 1,
+    "changeset": 44819158,
+    "user": "David Miro",
+    "uid": 5033755,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Bar Restaurant Quelos",
+      "name:ca": "Bar Restaurant Quelos"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4596122552,
+    "lat": 41.6070785,
+    "lon": 0.6335344,
+    "timestamp": "2021-10-28T11:34:05Z",
+    "version": 3,
+    "changeset": 113078758,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Oopen",
+      "opening_hours": "PH,Mo-Su 00:00-24:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4596816290,
+    "lat": 41.6232928,
+    "lon": 0.6212393,
+    "timestamp": "2022-09-25T13:05:35Z",
+    "version": 3,
+    "changeset": 126614773,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "11",
+      "addr:postcode": "25008",
+      "addr:street": "Carrer del Taquígraf Martí",
+      "amenity": "restaurant",
+      "name": "El Bugui",
+      "phone": "+34 973249313"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4596816291,
+    "lat": 41.6230814,
+    "lon": 0.6214142,
+    "timestamp": "2022-09-25T13:05:35Z",
+    "version": 3,
+    "changeset": 126614773,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "19",
+      "addr:postcode": "25008",
+      "addr:street": "Carrer de Nadal Meroles",
+      "amenity": "restaurant",
+      "name": "Braseria Leia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4597018893,
+    "lat": 41.6197797,
+    "lon": 0.61571,
+    "timestamp": "2023-02-19T00:09:29Z",
+    "version": 2,
+    "changeset": 132732653,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:housenumber": "92",
+      "addr:postcode": "25006",
+      "addr:street": "Gran Passeig de Ronda",
+      "amenity": "restaurant",
+      "name": "L'Antiquari",
+      "name:ca": "L'Antiquari"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4597212189,
+    "lat": 41.6215479,
+    "lon": 0.6225645,
+    "timestamp": "2022-07-20T12:36:18Z",
+    "version": 3,
+    "changeset": 123849848,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Hong Kong",
+      "name:ca": "Hong Kong"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4597226194,
+    "lat": 41.6248697,
+    "lon": 0.6224321,
+    "timestamp": "2023-02-19T00:03:02Z",
+    "version": 4,
+    "changeset": 132732595,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "168",
+      "addr:postcode": "25008",
+      "addr:street": "Gran Passeig de Ronda",
+      "amenity": "restaurant",
+      "cuisine": "japanese",
+      "name": "Sushi 168",
+      "name:ca": "Sushi 168"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4597895792,
+    "lat": 41.6240431,
+    "lon": 0.6243812,
+    "timestamp": "2022-07-22T18:45:00Z",
+    "version": 2,
+    "changeset": 123952099,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "La Cassoleta",
+      "name:ca": "La Cassoleta"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4597895796,
+    "lat": 41.6220261,
+    "lon": 0.6240632,
+    "timestamp": "2023-02-19T00:03:56Z",
+    "version": 3,
+    "changeset": 132732606,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:housenumber": "18",
+      "addr:postcode": "25004",
+      "addr:street": "Carrer dels Pallars",
+      "amenity": "restaurant",
+      "name": "Tòfol",
+      "name:ca": "Tòfol"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4597954497,
+    "lat": 41.6225866,
+    "lon": 0.6236349,
+    "timestamp": "2023-02-19T00:03:56Z",
+    "version": 3,
+    "changeset": 132732606,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:housenumber": "28",
+      "addr:postcode": "25004",
+      "addr:street": "Carrer dels Pallars",
+      "amenity": "restaurant",
+      "name": "Pizzeria O 'Sole Mio",
+      "name:ca": "Pizzeria O 'Sole Mio"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4598535792,
+    "lat": 41.6214232,
+    "lon": 0.6212196,
+    "timestamp": "2025-03-06T17:19:34Z",
+    "version": 5,
+    "changeset": 163294413,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "7",
+      "addr:postcode": "25008",
+      "addr:street": "Carrer d'Humbert Torres",
+      "amenity": "restaurant",
+      "contact:facebook": "https://www.facebook.com/restaurantplatzlleida/",
+      "email": "info@restaurantplatz.com",
+      "name": "Platz",
+      "name:ca": "Platz",
+      "old_name": "Casual",
+      "phone": "+34 973 93 00 83",
+      "website": "https://www.restauranteplatz.com/ca/restaurante-platz-comida-tradicional-catalana-y-mediterranea-en-lleida/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4600743093,
+    "lat": 41.6120306,
+    "lon": 0.6200983,
+    "timestamp": "2023-10-29T12:08:50Z",
+    "version": 5,
+    "changeset": 143309224,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "18",
+      "addr:postcode": "25002",
+      "addr:street": "Avinguda de Catalunya",
+      "amenity": "restaurant",
+      "name": "Abat",
+      "name:ca": "Abat",
+      "opening_hours": "Mo-Th 08:00-23:00; Fr 08:00-00:00; Sa 09:00-00:00; Su 09:00-23:00",
+      "website": "https://abat.cat/",
+      "website:menu": "https://abat.cat/la-nostra-carta/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4600748692,
+    "lat": 41.6185762,
+    "lon": 0.6186657,
+    "timestamp": "2024-07-27T09:33:26Z",
+    "version": 5,
+    "changeset": 154474478,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "5",
+      "addr:postcode": "25006",
+      "addr:street": "Plaça de Ricard Vinyes",
+      "amenity": "restaurant",
+      "contact:facebook": "https://www.facebook.com/TeresaCarles1979/",
+      "contact:instagram": "teresacarles",
+      "diet:vegan": "yes",
+      "name": "Teresa Carles",
+      "opening_hours": "Mo-Th 13:00-16:00,20:00-23:00; Fr,Sa 13:00-16:00,20:00-23:30",
+      "phone": "+34973272795",
+      "website": "https://www.teresacarles.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4600750493,
+    "lat": 41.6184493,
+    "lon": 0.6190737,
+    "timestamp": "2024-01-09T17:55:18Z",
+    "version": 6,
+    "changeset": 146075655,
+    "user": "mpinol",
+    "uid": 20532616,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "3",
+      "addr:postcode": "25006",
+      "addr:street": "Plaça de Ricard Vinyes",
+      "amenity": "restaurant",
+      "brand": "UDON",
+      "brand:wikidata": "Q115679798",
+      "cuisine": "japanese",
+      "name": "UDON",
+      "phone": "+34 973 23 46 17",
+      "website": "https://www.udon.com/restaurante/udon-lleida"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4600750494,
+    "lat": 41.619844,
+    "lon": 0.6194195,
+    "timestamp": "2023-02-19T00:09:29Z",
+    "version": 3,
+    "changeset": 132732653,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:postcode": "25006",
+      "addr:street": "Passatge de Pompeu",
+      "amenity": "restaurant",
+      "name": "Il Pastificio"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4600750497,
+    "lat": 41.6119218,
+    "lon": 0.6178774,
+    "timestamp": "2024-09-28T09:01:44Z",
+    "version": 5,
+    "changeset": 157200184,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "13",
+      "addr:postcode": "25002",
+      "addr:street": "Carrer de Lluís Companys",
+      "amenity": "restaurant",
+      "name": "La Galeria",
+      "name:ca": "La Galeria",
+      "opening_hours": "Mo-Sa 07:30-21:29; Su 08:00-16:30",
+      "website": "https://lagalerialleida.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4600778094,
+    "lat": 41.6163304,
+    "lon": 0.6128995,
+    "timestamp": "2024-09-27T21:58:43Z",
+    "version": 3,
+    "changeset": 157189586,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "61",
+      "addr:postcode": "25006",
+      "addr:street": "Gran Passeig de Ronda",
+      "amenity": "restaurant",
+      "name": "Illa dels Pirates",
+      "name:ca": "Illa dels Pirates"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4602966824,
+    "lat": 41.623166,
+    "lon": 0.619025,
+    "timestamp": "2023-02-19T00:03:02Z",
+    "version": 4,
+    "changeset": 132732595,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:postcode": "25008",
+      "addr:street": "Baró d'Eroles",
+      "amenity": "restaurant",
+      "name": "Sant Bertino",
+      "name:ca": "Sant Bertino"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4602996990,
+    "lat": 41.6199718,
+    "lon": 0.6159572,
+    "timestamp": "2023-02-19T00:09:29Z",
+    "version": 4,
+    "changeset": 132732653,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:postcode": "25006",
+      "addr:street": "Gran Passeig de Ronda",
+      "amenity": "restaurant",
+      "name": "Hiper Cava (Pollastres a l'as)",
+      "name:ca": "Hiper Cava (Pollastres a l'as)",
+      "opening_hours:signed": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4605477091,
+    "lat": 41.6235653,
+    "lon": 0.6216955,
+    "timestamp": "2023-02-19T00:03:02Z",
+    "version": 4,
+    "changeset": 132732595,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:housenumber": "3",
+      "addr:postcode": "25008",
+      "addr:street": "Carrer de Folch i Torres",
+      "amenity": "restaurant",
+      "name": "Restaurant Duc",
+      "name:ca": "Restaurant Duc"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4611713391,
+    "lat": 41.6168191,
+    "lon": 0.6201606,
+    "timestamp": "2025-01-13T13:45:06Z",
+    "version": 4,
+    "changeset": 161310551,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "7",
+      "addr:postcode": "25006",
+      "addr:street": "Avinguda de Balmes",
+      "amenity": "restaurant",
+      "email": "lleida@lapiemontesa.com",
+      "name": "La Piemontesa",
+      "name:ca": "La Piemontesa",
+      "phone": "+34 973 302 294",
+      "website": "https://www.lapiemontesa.com/restaurantes-comida-italiana/la-piemontesa-lleida"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4622869289,
+    "lat": 41.6150913,
+    "lon": 0.626777,
+    "timestamp": "2023-02-18T23:59:28Z",
+    "version": 4,
+    "changeset": 132732545,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "6",
+      "addr:postcode": "25007",
+      "addr:street": "Plaça de la Paeria",
+      "amenity": "restaurant",
+      "cuisine": "italian",
+      "name": "La Impremta",
+      "name:ca": "La Impremta"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4629580897,
+    "lat": 41.6293883,
+    "lon": 0.6251193,
+    "timestamp": "2023-02-19T00:01:46Z",
+    "version": 3,
+    "changeset": 132732578,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "3",
+      "addr:postcode": "25005",
+      "addr:street": "Jardins de les Magnòlies",
+      "amenity": "restaurant",
+      "name": "Lo Caragol",
+      "name:ca": "Lo Caragol"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4629736311,
+    "lat": 41.6225739,
+    "lon": 0.6188651,
+    "timestamp": "2023-02-19T00:09:29Z",
+    "version": 3,
+    "changeset": 132732653,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:postcode": "25006",
+      "addr:street": "Gran Passeig de Ronda",
+      "amenity": "restaurant",
+      "name": "Casa Ronda"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4659446389,
+    "lat": 41.623973,
+    "lon": 0.627406,
+    "timestamp": "2023-02-19T00:03:56Z",
+    "version": 5,
+    "changeset": 132732606,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "49",
+      "addr:postcode": "25004",
+      "addr:street": "Avinguda de Sant Ruf",
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "El Faro",
+      "name:ca": "El Faro"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4707359790,
+    "lat": 41.6646118,
+    "lon": 0.6056428,
+    "timestamp": "2019-01-19T15:21:23Z",
+    "version": 2,
+    "changeset": 66456107,
+    "user": "yopaseopor",
+    "uid": 500572,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "La Brasa",
+      "name:ca": "La Brasa"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4714755293,
+    "lat": 41.0577277,
+    "lon": 0.6335287,
+    "timestamp": "2022-11-27T04:21:46Z",
+    "version": 2,
+    "changeset": 129421796,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "El Casal",
+      "name:ca": "El Casal"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4725979891,
+    "lat": 41.5345925,
+    "lon": 0.488118,
+    "timestamp": "2024-01-21T17:48:07Z",
+    "version": 2,
+    "changeset": 146522372,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Soses",
+      "addr:housenumber": "109",
+      "addr:postcode": "25181",
+      "addr:street": "Carrer del Sindicat",
+      "amenity": "restaurant",
+      "name": "Restaurant Lo Trull",
+      "website": "https://www.lotrull.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4752461321,
+    "lat": 41.6093671,
+    "lon": 0.6330981,
+    "timestamp": "2023-02-18T23:58:13Z",
+    "version": 3,
+    "changeset": 132732525,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:housenumber": "15",
+      "addr:postcode": "25001",
+      "addr:street": "Carrer d'Agustí Duran i Sanpere",
+      "amenity": "restaurant",
+      "name": "Asador Don Paco",
+      "name:ca": "Asador Don Paco"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4824755203,
+    "lat": 41.8898245,
+    "lon": 0.1986865,
+    "timestamp": "2017-04-29T10:34:58Z",
+    "version": 1,
+    "changeset": 48251965,
+    "user": "ponsdaniel",
+    "uid": 944079,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Las Casas del Adamil"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4827146110,
+    "lat": 41.5364181,
+    "lon": 0.4225201,
+    "timestamp": "2017-04-30T15:33:11Z",
+    "version": 1,
+    "changeset": 48284269,
+    "user": "ottokar55",
+    "uid": 101355,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4828143764,
+    "lat": 41.4978727,
+    "lon": -0.1525092,
+    "timestamp": "2017-06-07T22:25:58Z",
+    "version": 2,
+    "changeset": 49350041,
+    "user": "ottokar55",
+    "uid": 101355,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Las Sabinas"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4828144010,
+    "lat": 41.500014,
+    "lon": -0.0407239,
+    "timestamp": "2017-06-07T21:49:54Z",
+    "version": 2,
+    "changeset": 49349218,
+    "user": "ottokar55",
+    "uid": 101355,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "La Posada"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4828144011,
+    "lat": 41.500165,
+    "lon": -0.0388224,
+    "timestamp": "2022-05-10T13:14:21Z",
+    "version": 2,
+    "changeset": 120793744,
+    "user": "PTT",
+    "uid": 13136,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Las Mañas"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4828144038,
+    "lat": 41.5009093,
+    "lon": -0.028757,
+    "timestamp": "2017-06-07T21:49:54Z",
+    "version": 2,
+    "changeset": 49349218,
+    "user": "ottokar55",
+    "uid": 101355,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Hostal La Ruta",
+      "tourism": "motel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4900565478,
+    "lat": 41.5443589,
+    "lon": 0.4742418,
+    "timestamp": "2017-06-06T22:01:45Z",
+    "version": 1,
+    "changeset": 49320057,
+    "user": "ottokar55",
+    "uid": 101355,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4900565508,
+    "lat": 41.5509355,
+    "lon": 0.4918423,
+    "timestamp": "2017-06-06T22:01:46Z",
+    "version": 1,
+    "changeset": 49320057,
+    "user": "ottokar55",
+    "uid": 101355,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Cal Juanito"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4900619194,
+    "lat": 41.5197031,
+    "lon": 0.3314349,
+    "timestamp": "2017-06-06T22:52:59Z",
+    "version": 1,
+    "changeset": 49320805,
+    "user": "ottokar55",
+    "uid": 101355,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Cafe Edelweiss"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4902204136,
+    "lat": 41.6200275,
+    "lon": 0.6325123,
+    "timestamp": "2022-09-24T17:20:34Z",
+    "version": 4,
+    "changeset": 126591712,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "8",
+      "addr:postcode": "25007",
+      "addr:street": "Plaça de Ramon Berenguer IV",
+      "amenity": "restaurant",
+      "email": "restaurantklleida@gmail.com",
+      "name": "Restaurant TK",
+      "opening_hours": "Mo-Sa 07:30-23:00",
+      "phone": "+34 973 80 07 48",
+      "website": "https://tkrestaurant.es/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4902584362,
+    "lat": 41.5023711,
+    "lon": 0.0603465,
+    "timestamp": "2017-06-07T19:05:26Z",
+    "version": 1,
+    "changeset": 49345317,
+    "user": "ottokar55",
+    "uid": 101355,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Pilar"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4902592356,
+    "lat": 41.5135538,
+    "lon": 0.088655,
+    "timestamp": "2017-06-07T19:05:27Z",
+    "version": 1,
+    "changeset": 49345317,
+    "user": "ottokar55",
+    "uid": 101355,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4902815370,
+    "lat": 41.4998302,
+    "lon": -0.0343813,
+    "timestamp": "2017-06-07T21:49:48Z",
+    "version": 1,
+    "changeset": 49349218,
+    "user": "ottokar55",
+    "uid": 101355,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Murat"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4902922152,
+    "lat": 41.4954711,
+    "lon": -0.1527061,
+    "timestamp": "2017-06-08T06:59:00Z",
+    "version": 2,
+    "changeset": 49356654,
+    "user": "ottokar55",
+    "uid": 101355,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "La Parilla"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4919346685,
+    "lat": 41.6187868,
+    "lon": 0.6307816,
+    "timestamp": "2023-02-18T23:59:28Z",
+    "version": 4,
+    "changeset": 132732545,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "37",
+      "addr:postcode": "25007",
+      "addr:street": "Rambla de Ferran",
+      "amenity": "restaurant",
+      "cuisine": "sushi",
+      "name": "Sushi Sakura"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5273695039,
+    "lat": 41.7202806,
+    "lon": 0.4457025,
+    "timestamp": "2022-06-20T13:20:41Z",
+    "version": 2,
+    "changeset": 122624293,
+    "user": "Xem",
+    "uid": 2155338,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "la Tabola"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5314479321,
+    "lat": 41.0555004,
+    "lon": 0.4386323,
+    "timestamp": "2018-12-24T00:09:55Z",
+    "version": 2,
+    "changeset": 65726917,
+    "user": "Jordi MF",
+    "uid": 8278438,
+    "tags": {
+      "addr:housenumber": "21",
+      "addr:postcode": "43780",
+      "addr:street": "Carrer de Vilalba dels Arcs",
+      "amenity": "restaurant",
+      "cuisine": "mediterranean;regional",
+      "email": "ginebrals@elsginebrals.com",
+      "name": "Restaurant Ginebrals",
+      "phone": "+34 977 42 16 58",
+      "website": "http://www.elsginebrals.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5341592621,
+    "lat": 41.0522125,
+    "lon": -0.128925,
+    "timestamp": "2018-01-15T21:33:09Z",
+    "version": 1,
+    "changeset": 55476169,
+    "user": "OpinaRed",
+    "uid": 5654508,
+    "tags": {
+      "addr:postcode": "44600",
+      "amenity": "restaurant",
+      "cuisine": "coffee_shop;regional;diner;spanish",
+      "name": "Empeltre",
+      "name:en": "Spanish"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5458645462,
+    "lat": 41.6207056,
+    "lon": 0.6182198,
+    "timestamp": "2023-05-04T19:29:38Z",
+    "version": 5,
+    "changeset": 135714336,
+    "user": "kasvit",
+    "uid": 18517266,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "9",
+      "addr:postcode": "25006",
+      "addr:street": "Avinguda de l'Alcalde Rovira Roure",
+      "addr:unit": "Bajos",
+      "amenity": "restaurant",
+      "cuisine": "mediterranean",
+      "diet:gluten_free": "yes",
+      "name": "Vucätica",
+      "opening_hours": "Tu-Sa 13:00-16:00,20:00-00:00",
+      "phone": "+34 973 24 00 25",
+      "website": "https://www.vucatica.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5458645464,
+    "lat": 41.6210882,
+    "lon": 0.6180281,
+    "timestamp": "2018-12-20T13:07:02Z",
+    "version": 2,
+    "changeset": 65639811,
+    "user": "Galifardeu",
+    "uid": 368660,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "15",
+      "addr:postcode": "25006",
+      "addr:street": "Avinguda de l'Alcalde Rovira Roure",
+      "amenity": "restaurant",
+      "cuisine": "japanese",
+      "name": "Miss Sushi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5458645466,
+    "lat": 41.6205859,
+    "lon": 0.6182608,
+    "timestamp": "2022-11-26T05:41:37Z",
+    "version": 3,
+    "changeset": 129389861,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "9",
+      "addr:postcode": "25006",
+      "addr:street": "Avinguda de l'Alcalde Rovira Roure",
+      "amenity": "restaurant",
+      "name": "Xalet Suís",
+      "name:ca": "Xalet Suís"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5458645467,
+    "lat": 41.6200208,
+    "lon": 0.6182425,
+    "timestamp": "2023-04-08T14:36:12Z",
+    "version": 8,
+    "changeset": 134655484,
+    "user": "kasvit",
+    "uid": 18517266,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "13",
+      "addr:postcode": "25006",
+      "addr:street": "Carrer de la Serra de Prades",
+      "amenity": "restaurant",
+      "brand": "La Tagliatella",
+      "brand:wikidata": "Q113426257",
+      "cuisine": "italian",
+      "diet:gluten_free": "yes",
+      "name": "La Tagliatella",
+      "phone": "+34 973 72 50 60",
+      "website": "https://www.latagliatella.es/ca/restaurantes/lleida/rovira-roure-lleida"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5458645485,
+    "lat": 41.6199308,
+    "lon": 0.6199969,
+    "timestamp": "2022-07-16T11:01:57Z",
+    "version": 2,
+    "changeset": 123685629,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "5",
+      "addr:postcode": "25006",
+      "addr:street": "Carrer de Sans i Ribes",
+      "amenity": "restaurant",
+      "name": "El Fanal"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5459318850,
+    "lat": 41.6198721,
+    "lon": 0.620846,
+    "timestamp": "2024-12-30T19:00:57Z",
+    "version": 4,
+    "changeset": 160804856,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "13",
+      "addr:postcode": "25006",
+      "addr:street": "Avinguda de Prat de la Riba",
+      "amenity": "restaurant",
+      "cuisine": "asian",
+      "name": "Skoi",
+      "website": "https://skoi.es/home"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5480268121,
+    "lat": 41.7269451,
+    "lon": 0.589574,
+    "timestamp": "2018-03-15T11:50:54Z",
+    "version": 1,
+    "changeset": 57208994,
+    "user": "David Morcillo",
+    "uid": 6599376,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Els jardines de alguaire"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5499103585,
+    "lat": 41.2601553,
+    "lon": -0.1267493,
+    "timestamp": "2018-03-23T14:23:51Z",
+    "version": 1,
+    "changeset": 57459304,
+    "user": "Jordi Sanuy",
+    "uid": 7915246,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Bar el Mirador",
+      "outdoor_seating": "yes",
+      "smoking": "outside"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5499103622,
+    "lat": 41.2613049,
+    "lon": -0.1254676,
+    "timestamp": "2024-04-03T21:54:22Z",
+    "version": 3,
+    "changeset": 149545136,
+    "user": "jotero66",
+    "uid": 21007177,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Bar Las Piscinas"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5515851904,
+    "lat": 41.0527135,
+    "lon": -0.1517681,
+    "timestamp": "2018-03-30T11:08:52Z",
+    "version": 2,
+    "changeset": 57657666,
+    "user": "Baxe Nafarroa",
+    "uid": 6672338,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Los Alamos"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5515998234,
+    "lat": 41.0510339,
+    "lon": -0.1730809,
+    "timestamp": "2018-03-30T10:11:51Z",
+    "version": 1,
+    "changeset": 57656479,
+    "user": "Baxe Nafarroa",
+    "uid": 6672338,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Venta La Panolla"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5516562199,
+    "lat": 41.0457212,
+    "lon": -0.1319119,
+    "timestamp": "2019-10-11T16:46:44Z",
+    "version": 2,
+    "changeset": 75577206,
+    "user": "kapazao_import",
+    "uid": 8770019,
+    "tags": {
+      "amenity": "restaurant",
+      "contact:facebook": "https://www.facebook.com/restaurante.laparrilla.7",
+      "name": "La Parrilla"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5524998924,
+    "lat": 41.6183473,
+    "lon": 0.6193779,
+    "timestamp": "2023-11-13T12:20:52Z",
+    "version": 2,
+    "changeset": 143968231,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "33,35",
+      "addr:street": "Avinguda de Balmes",
+      "amenity": "restaurant",
+      "name": "Da Vinci",
+      "phone": "+34 973 24 83 52"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5600267224,
+    "lat": 41.3766406,
+    "lon": 0.3140622,
+    "timestamp": "2022-11-27T01:32:10Z",
+    "version": 2,
+    "changeset": 129419890,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Bellavista",
+      "name:ca": "Bellavista"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5863737888,
+    "lat": 41.621278,
+    "lon": 0.6242301,
+    "timestamp": "2022-12-24T22:46:49Z",
+    "version": 3,
+    "changeset": 130468706,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Ducal",
+      "name:ca": "Ducal"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5961295373,
+    "lat": 41.8496,
+    "lon": 0.2974103,
+    "timestamp": "2019-08-27T18:17:04Z",
+    "version": 4,
+    "changeset": 73810253,
+    "user": "sanchi",
+    "uid": 170106,
+    "tags": {
+      "addr:city": "Binéfar",
+      "addr:housenumber": "19",
+      "addr:postcode": "22500",
+      "addr:street": "Calle San Quilez",
+      "amenity": "restaurant",
+      "capacity": "50",
+      "cuisine": "spanish",
+      "delivery": "no",
+      "name": "Bar El Patio",
+      "opening_hours": "Mo-Su 07:00-23:00",
+      "outdoor_seating": "yes",
+      "phone": "+34 642 163 061",
+      "smoking": "no",
+      "takeaway": "yes",
+      "website": "https://www.barelpatio.es/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6371339324,
+    "lat": 41.4951189,
+    "lon": 0.3316769,
+    "timestamp": "2020-10-22T13:00:14Z",
+    "version": 2,
+    "changeset": 92898030,
+    "user": "Balázs Hidvégi",
+    "uid": 3738787,
+    "tags": {
+      "addr:city": "Fraga",
+      "addr:postcode": "22520",
+      "addr:street": "N-211, Km 328",
+      "amenity": "restaurant",
+      "name": "Restaurante Mercofraga",
+      "opening_hours": "Mo-Su 08:00-17:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6384095874,
+    "lat": 41.5208354,
+    "lon": 0.3496087,
+    "timestamp": "2022-12-10T18:30:41Z",
+    "version": 4,
+    "changeset": 129941998,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "tags": {
+      "addr:housenumber": "2",
+      "addr:postcode": "22520",
+      "addr:street": "Plaza de Juan XXIII",
+      "amenity": "restaurant",
+      "cuisine": "regional;tapas",
+      "name": "La Sitja",
+      "name:ca": "La Sitja"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6680317578,
+    "lat": 41.6145771,
+    "lon": 0.6218274,
+    "timestamp": "2023-08-13T00:34:10Z",
+    "version": 3,
+    "changeset": 139806192,
+    "user": "Àlex Magaz",
+    "uid": 118127,
+    "tags": {
+      "addr:housenumber": "3",
+      "addr:street": "Plaça de Sant Llorenç",
+      "amenity": "restaurant",
+      "name": "Iruña",
+      "opening_hours": "Mo-Su, PH 12:00-15:15, 20:00-23:15",
+      "phone": "+34 973 274 755",
+      "website": "https://www.iruñalleida.com/",
+      "website:menu": "https://www.iruñalleida.com/p/nuestracarta.html?m=0"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6698676288,
+    "lat": 41.6400324,
+    "lon": 0.6051462,
+    "timestamp": "2024-07-01T09:21:39Z",
+    "version": 2,
+    "changeset": 153402383,
+    "user": "b-jazz-bot",
+    "uid": 9451067,
+    "tags": {
+      "addr:housenumber": "42",
+      "addr:postcode": "25198",
+      "addr:street": "Camí de Montcada",
+      "amenity": "restaurant",
+      "cuisine": "steak_house;regional;grill;spanish;barbecue;mediterranean",
+      "name": "La Dolceta",
+      "opening_hours": "Mo-Sa 13:00-16:00",
+      "phone": "+34973231364",
+      "website": "https://www.ladolceta.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6759592586,
+    "lat": 41.6180403,
+    "lon": 0.6206361,
+    "timestamp": "2023-11-13T12:19:15Z",
+    "version": 3,
+    "changeset": 143968169,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:housenumber": "7",
+      "addr:postcode": "25006",
+      "addr:street": "Carrer del Camp de Mart",
+      "amenity": "restaurant",
+      "check_date:opening_hours": "2020-12-17",
+      "name": "En Familia",
+      "opening_hours": "Tu-Su 13:00-16:00",
+      "phone": "+34973596832",
+      "website": "https://www.restaurantenfamilia.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6815378571,
+    "lat": 41.048459,
+    "lon": 0.3772629,
+    "timestamp": "2022-11-19T02:37:29Z",
+    "version": 2,
+    "changeset": 129108679,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Coll de Moro",
+      "name:ca": "Coll de Moro"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6871663006,
+    "lat": 41.7739377,
+    "lon": 0.3819416,
+    "timestamp": "2019-10-11T17:40:01Z",
+    "version": 1,
+    "changeset": 75579512,
+    "user": "jserret",
+    "uid": 10347224,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurante Can Yosvani"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6871686206,
+    "lat": 41.7819165,
+    "lon": 0.3681199,
+    "timestamp": "2024-06-03T05:40:11Z",
+    "version": 2,
+    "changeset": 152184393,
+    "user": "xeget",
+    "uid": 21619163,
+    "tags": {
+      "addr:city": "La Melusa",
+      "addr:postcode": "22549",
+      "addr:street": "N-240",
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Bar Restaurante y Panadería",
+      "phone": "+34 974 42 54 55"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7118798110,
+    "lat": 41.6187459,
+    "lon": 0.619646,
+    "timestamp": "2020-01-09T07:12:00Z",
+    "version": 1,
+    "changeset": 79367167,
+    "user": "Galifardeu",
+    "uid": 368660,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Caravista"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7147272414,
+    "lat": 41.2518354,
+    "lon": -0.050461,
+    "timestamp": "2020-05-10T09:47:11Z",
+    "version": 2,
+    "changeset": 84965289,
+    "user": "Luiyo",
+    "uid": 316694,
+    "tags": {
+      "addr:city": "Caspe",
+      "addr:postcode": "50700",
+      "addr:suburb": "Zaragoza",
+      "amenity": "restaurant",
+      "name": "Bar Club Náutico Mar de Aragón",
+      "website": "http://www.clubnauticomardearagon.es/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7204237778,
+    "lat": 41.4721212,
+    "lon": 0.3381946,
+    "timestamp": "2025-02-17T21:16:58Z",
+    "version": 11,
+    "changeset": 162635556,
+    "user": "Jordi MF",
+    "uid": 8278438,
+    "tags": {
+      "addr:city": "Torrente de Cinca",
+      "addr:postcode": "22590",
+      "amenity": "restaurant",
+      "name": "Atenea Restaurante",
+      "opening_hours": "Mo-Fr 07:00-20:00; Sa 07:00-24:00",
+      "website": "https://atenearestaurante.es/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7348024584,
+    "lat": 41.5081684,
+    "lon": 0.3281581,
+    "timestamp": "2020-07-19T20:11:06Z",
+    "version": 3,
+    "changeset": 88210620,
+    "user": "Robot8A",
+    "uid": 393359,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Ficus & Persica",
+      "opening_hours": "24/7",
+      "phone": "+34 974 345 967"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7684552259,
+    "lat": 41.2725785,
+    "lon": -0.0898401,
+    "timestamp": "2020-07-05T09:07:24Z",
+    "version": 1,
+    "changeset": 87549937,
+    "user": "Balázs Hidvégi",
+    "uid": 3738787,
+    "tags": {
+      "addr:city": "Playas de Chacón",
+      "addr:housenumber": "281",
+      "addr:postcode": "50700",
+      "amenity": "restaurant",
+      "name": "EL QUIJOTE De Chacon"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7728485777,
+    "lat": 41.3723191,
+    "lon": 0.302634,
+    "timestamp": "2023-10-27T13:01:45Z",
+    "version": 2,
+    "changeset": 143210565,
+    "user": "scai",
+    "uid": 118134,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "traditional",
+      "name": "El Mesón",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7873055903,
+    "lat": 41.2326847,
+    "lon": -0.0396592,
+    "timestamp": "2020-09-03T16:07:32Z",
+    "version": 1,
+    "changeset": 90371575,
+    "user": "Balázs Hidvégi",
+    "uid": 3738787,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Los Candiles",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7893426485,
+    "lat": 41.0440276,
+    "lon": -0.1298662,
+    "timestamp": "2020-09-16T07:56:04Z",
+    "version": 2,
+    "changeset": 90969417,
+    "user": "b-jazz-bot",
+    "uid": 9451067,
+    "tags": {
+      "addr:housenumber": "9",
+      "addr:postcode": "44600",
+      "addr:street": "Avenida Maestrazgo",
+      "amenity": "restaurant",
+      "cuisine": "breakfast;burger;fish;local;regional;spanish",
+      "email": "info@aparthotelmeseguer.es",
+      "internet_access": "wlan",
+      "name": "Meseguer",
+      "opening_hours": "Mo-Sa 13:00-16:00",
+      "phone": "+34978831002",
+      "website": "https://www.aparthotelmeseguer.es/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7894107985,
+    "lat": 41.7960246,
+    "lon": 0.5682776,
+    "timestamp": "2023-10-14T10:39:14Z",
+    "version": 2,
+    "changeset": 142570878,
+    "user": "pitort",
+    "uid": 469238,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Bar - Restaurant Ideal"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8022324868,
+    "lat": 41.4561838,
+    "lon": 0.3599025,
+    "timestamp": "2020-10-19T15:03:04Z",
+    "version": 1,
+    "changeset": 92716817,
+    "user": "terezity",
+    "uid": 12015397,
+    "tags": {
+      "addr:city": "Massalcoreig",
+      "addr:housenumber": "63",
+      "addr:postcode": "25184",
+      "addr:street": "Carrer Nou",
+      "amenity": "restaurant",
+      "bar": "yes",
+      "brewery": "various",
+      "cuisine": "pizza;regional;sandwich",
+      "name": "Bar Restaurant Montse",
+      "opening_hours": "Mo-Su 09:00-23:00",
+      "outdoor_seating": "yes",
+      "takeaway": "yes",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8320840269,
+    "lat": 41.6214409,
+    "lon": 0.6351779,
+    "timestamp": "2022-11-26T05:36:17Z",
+    "version": 3,
+    "changeset": 129389818,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "27",
+      "addr:postcode": "25005",
+      "addr:street": "Passatge de Sant Jeroni",
+      "amenity": "restaurant",
+      "cuisine": "regional;burger;sandwich",
+      "name": "Frankfurt Sapporo",
+      "name:ca": "Frankfurt Sapporo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8554459023,
+    "lat": 41.5212275,
+    "lon": 0.3485611,
+    "timestamp": "2022-12-10T18:30:21Z",
+    "version": 2,
+    "changeset": 129941998,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "tags": {
+      "addr:city": "Fraga",
+      "addr:housenumber": "28",
+      "addr:postcode": "22520",
+      "addr:street": "Calle San Sebastián",
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Casa Cabrera Nova",
+      "name:ca": "Casa Cabrera Nova",
+      "phone": "+34 974 09 68 24",
+      "website": "https://www.casacabreranova.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8614555280,
+    "lat": 41.0541302,
+    "lon": 0.4383955,
+    "timestamp": "2021-04-10T10:54:15Z",
+    "version": 1,
+    "changeset": 102692459,
+    "user": "Balázs Hidvégi",
+    "uid": 3738787,
+    "tags": {
+      "addr:city": "Gandesa",
+      "addr:housenumber": "4",
+      "addr:postcode": "43780",
+      "addr:street": "Plaça de la Farola",
+      "amenity": "restaurant",
+      "name": "Sibarites",
+      "website": "https://www.restaurantsibarites.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9186878939,
+    "lat": 41.6802119,
+    "lon": 0.6813133,
+    "timestamp": "2022-11-27T05:14:56Z",
+    "version": 2,
+    "changeset": 129422364,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "La Vinya",
+      "name:ca": "La Vinya"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9199391393,
+    "lat": 41.6102472,
+    "lon": 0.6255609,
+    "timestamp": "2024-07-26T23:12:57Z",
+    "version": 5,
+    "changeset": 154463874,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:housenumber": "55",
+      "addr:postcode": "25001",
+      "addr:street": "Carrer de Jaume II",
+      "amenity": "restaurant",
+      "contact:email": "hola@cantamanyanes.com",
+      "contact:facebook": "https://www.facebook.com/people/Cantamanyanes/100054371028275/",
+      "contact:instagram": "cantamanyanes_lleida",
+      "contact:phone": "+34 97 3986234",
+      "contact:website": "http://cantamanyanes.com",
+      "cuisine": "international",
+      "name": "Cantamanyanes",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9199504266,
+    "lat": 41.6142607,
+    "lon": 0.6226262,
+    "timestamp": "2023-02-18T23:53:32Z",
+    "version": 3,
+    "changeset": 132732455,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:housenumber": "21",
+      "addr:postcode": "25002",
+      "addr:street": "Carrer de la Palma",
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Els Trulls",
+      "name:ca": "Els Trulls"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9207524942,
+    "lat": 41.6053184,
+    "lon": 0.6108282,
+    "timestamp": "2025-04-12T13:17:58Z",
+    "version": 3,
+    "changeset": 164855722,
+    "user": "Àlex Magaz",
+    "uid": 118127,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date": "2025-04-12",
+      "name": "Punt Estrella Dalmau",
+      "name:ca": "Punt Estrella Dalmau",
+      "opening_hours": "24/7"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9233539445,
+    "lat": 41.622427,
+    "lon": 0.6186706,
+    "timestamp": "2021-11-07T17:31:40Z",
+    "version": 1,
+    "changeset": 113489819,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Cal Picoti",
+      "takeaway": "only"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9287988641,
+    "lat": 41.5731794,
+    "lon": 0.6056719,
+    "timestamp": "2021-11-27T11:40:33Z",
+    "version": 1,
+    "changeset": 114291553,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "La Terrasseta"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9320068538,
+    "lat": 41.6189551,
+    "lon": 0.6143049,
+    "timestamp": "2021-12-08T06:03:05Z",
+    "version": 1,
+    "changeset": 114686357,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "german",
+      "name": "Frankfurt Wiener"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9394298960,
+    "lat": 41.6250643,
+    "lon": 0.6359255,
+    "timestamp": "2022-09-15T03:13:58Z",
+    "version": 2,
+    "changeset": 126203121,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "35",
+      "addr:postcode": "25005",
+      "addr:street": "Carrer del Camí de Corbins",
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "Impasto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9483104817,
+    "lat": 41.6122855,
+    "lon": 0.6022172,
+    "timestamp": "2022-11-27T06:46:30Z",
+    "version": 2,
+    "changeset": 129423669,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "La Mina",
+      "name:ca": "La Mina"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9676577962,
+    "lat": 41.039102,
+    "lon": 0.5972099,
+    "timestamp": "2022-04-19T08:23:38Z",
+    "version": 1,
+    "changeset": 119893849,
+    "user": "Uanraf",
+    "uid": 4223781,
+    "tags": {
+      "amenity": "restaurant",
+      "mobile": "635111025",
+      "name": "Molí de Xim"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9849836263,
+    "lat": 41.6102743,
+    "lon": 0.6297592,
+    "timestamp": "2022-08-10T14:49:10Z",
+    "version": 3,
+    "changeset": 124735641,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "21",
+      "addr:postcode": "25001",
+      "addr:street": "Carrer de la Doctora Castells",
+      "air_conditioning": "yes",
+      "amenity": "restaurant",
+      "bar": "yes",
+      "brewery": "yes",
+      "cuisine": "coffee_shop;burger;regional;sandwich;tapas;vermut;happy_hour;drinks;postres;desayuno;vermuteria",
+      "delivery": "yes",
+      "description": "En aquest racó de Cappont, a Lleida, hi trobareu una cafetería - bar de tapes, una vermuteria dissabtes i diumenges al migdia. Tot, en el millor ambient gràcies al nostre equipàs, i a la vostra companyia. Us esperem!",
+      "diet:gluten_free": "yes",
+      "diet:non_vegetarian": "yes",
+      "diet:vegan": "yes",
+      "diet:vegetarian": "yes",
+      "internet_access": "wlan",
+      "internet_access:fee": "customers",
+      "name": "Lo Breston",
+      "opening_hours": "Tu-Su",
+      "outdoor_seating": "yes",
+      "phone": "+34 973192246",
+      "takeaway": "yes",
+      "website": "https://lobreston.com/",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9930367291,
+    "lat": 41.6157146,
+    "lon": 0.6269144,
+    "timestamp": "2023-12-15T11:04:26Z",
+    "version": 3,
+    "changeset": 145146150,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "6",
+      "addr:postcode": "25007",
+      "addr:street": "Plaça de Sant Joan",
+      "amenity": "restaurant",
+      "cuisine": "japanese",
+      "name": "Kyoka Lleida",
+      "opening_hours": "Mo-Su 12:00-16:30, 20:00-24:00",
+      "phone": "+34 973 234 255",
+      "website": "https://kyoka.es/lleida-placa-de-sant-joan/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9942706641,
+    "lat": 41.605711,
+    "lon": 0.622298,
+    "timestamp": "2023-04-08T14:39:29Z",
+    "version": 4,
+    "changeset": 134655596,
+    "user": "kasvit",
+    "uid": 18517266,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "5",
+      "addr:postcode": "25001",
+      "addr:street": "Avinguda de Barcelona",
+      "amenity": "restaurant",
+      "brand": "Foster's Hollywood",
+      "brand:wikidata": "Q5864366",
+      "brand:wikipedia": "es:Foster's Hollywood",
+      "cuisine": "american",
+      "diet:gluten_free": "yes",
+      "name": "Foster's Hollywood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9945339657,
+    "lat": 41.6133084,
+    "lon": 0.6290108,
+    "timestamp": "2025-03-06T17:16:29Z",
+    "version": 3,
+    "changeset": 163294308,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "5C",
+      "addr:postcode": "25001",
+      "addr:street": "Carrer de Jaume II",
+      "amenity": "restaurant",
+      "contact:facebook": "https://www.facebook.com/people/Buteko-Lleida/100063690335343/",
+      "name": "Buteko",
+      "phone": "+34 675 66 66 35"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9960283461,
+    "lat": 41.5755091,
+    "lon": 0.5170762,
+    "timestamp": "2022-08-17T20:54:45Z",
+    "version": 1,
+    "changeset": 125035405,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "catalan",
+      "name": "Bar Restaurant La Cooperativa",
+      "phone": "+34 973791497",
+      "website": "https://www.lacooperativarestaurantebarbraseria.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9963771398,
+    "lat": 41.7247946,
+    "lon": 0.4424277,
+    "timestamp": "2022-09-08T00:06:29Z",
+    "version": 3,
+    "changeset": 125921280,
+    "user": "lovelyfurball88",
+    "uid": 12424494,
+    "tags": {
+      "addr:housenumber": "19",
+      "addr:street": "Carrer de la Pau",
+      "amenity": "restaurant",
+      "name": "Zero39",
+      "phone": "+34 973 74 22 07"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9978663945,
+    "lat": 41.6306252,
+    "lon": 0.5942994,
+    "timestamp": "2023-11-09T10:05:00Z",
+    "version": 2,
+    "changeset": 143814948,
+    "user": "b-jazz-bot",
+    "uid": 9451067,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "barbecue",
+      "name": "Ribs",
+      "phone": "+34973670733",
+      "website": "https://www.ribs.es/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9978663946,
+    "lat": 41.6306829,
+    "lon": 0.5941559,
+    "timestamp": "2022-08-25T22:19:43Z",
+    "version": 1,
+    "changeset": 125381620,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Club Morrison",
+      "phone": "+34 616640048"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10023377339,
+    "lat": 41.6238098,
+    "lon": 0.6332461,
+    "timestamp": "2023-02-19T00:01:46Z",
+    "version": 2,
+    "changeset": 132732578,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "48",
+      "addr:postcode": "25005",
+      "addr:street": "Carrer del Baró de Maials",
+      "amenity": "restaurant",
+      "name": "Cafeteria Restaurant MAESS"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10050739058,
+    "lat": 41.6239306,
+    "lon": 0.6274607,
+    "timestamp": "2023-09-21T14:40:50Z",
+    "version": 3,
+    "changeset": 141563090,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "47",
+      "addr:postcode": "25004",
+      "addr:street": "Avinguda de Sant Ruf",
+      "amenity": "restaurant",
+      "contact:instagram": "abbioccobrunch",
+      "name": "Abbiocco Healthy Brunch",
+      "phone": "+34 747476203"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10090371350,
+    "lat": 41.612597,
+    "lon": 0.6206841,
+    "timestamp": "2023-10-29T09:03:47Z",
+    "version": 3,
+    "changeset": 143302617,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "19",
+      "addr:postcode": "25002",
+      "addr:street": "Carrer de Ballester",
+      "amenity": "restaurant",
+      "name": "Topkapi",
+      "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-17:00",
+      "phone": "+34 973 26 85 97"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10121640606,
+    "lat": 41.5002994,
+    "lon": 0.4670423,
+    "timestamp": "2022-10-22T18:48:37Z",
+    "version": 1,
+    "changeset": 127934355,
+    "user": "ivanivenen",
+    "uid": 14483868,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "El Mirador de Montefiu"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10180218544,
+    "lat": 41.6060398,
+    "lon": 0.644383,
+    "timestamp": "2023-02-18T23:58:13Z",
+    "version": 2,
+    "changeset": 132732525,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "7",
+      "addr:postcode": "25001",
+      "addr:street": "Carrer de Reus",
+      "amenity": "restaurant",
+      "cuisine": "barbecue",
+      "name": "Braseria Los Arcos",
+      "phone": "+34 973828922"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10183167317,
+    "lat": 41.0390797,
+    "lon": 0.5972014,
+    "timestamp": "2022-11-14T13:41:34Z",
+    "version": 1,
+    "changeset": 128892430,
+    "user": "Anscari Valdi",
+    "uid": 6555158,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "El moli d'en Xim"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10188029610,
+    "lat": 41.6061664,
+    "lon": 0.6432799,
+    "timestamp": "2022-11-16T09:10:10Z",
+    "version": 1,
+    "changeset": 128978616,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:housenumber": "3",
+      "addr:postcode": "25001",
+      "addr:street": "Carrer del Centre",
+      "amenity": "restaurant",
+      "name": "Restaurant Lo Raconet",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10188040117,
+    "lat": 41.6055416,
+    "lon": 0.6452363,
+    "timestamp": "2022-11-16T09:10:10Z",
+    "version": 1,
+    "changeset": 128978616,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "24",
+      "addr:postcode": "25001",
+      "addr:street": "Carrer d'Àger",
+      "amenity": "restaurant",
+      "name": "El Trevolet",
+      "phone": "+34973216414"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10188040130,
+    "lat": 41.604985,
+    "lon": 0.6427216,
+    "timestamp": "2023-02-18T23:58:13Z",
+    "version": 3,
+    "changeset": 132732525,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "12",
+      "addr:postcode": "25001",
+      "addr:street": "Carrer de Sant Jaume",
+      "amenity": "restaurant",
+      "name": "Rostisseria Urgell",
+      "name:ca": "Rostisseria Urgell",
+      "phone": "+34973212106",
+      "website": "https://www.rostisseriaurgell.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10188114191,
+    "lat": 41.6029688,
+    "lon": 0.6458706,
+    "timestamp": "2022-11-16T10:07:26Z",
+    "version": 1,
+    "changeset": 128981588,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "41",
+      "addr:postcode": "25001",
+      "addr:street": "Avinguda del Pla d'Urgell",
+      "amenity": "restaurant",
+      "name": "Restaurant L'Arosa",
+      "phone": "+34973204674"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10188114206,
+    "lat": 41.60453,
+    "lon": 0.6423512,
+    "timestamp": "2022-11-26T05:33:44Z",
+    "version": 2,
+    "changeset": 129389791,
+    "user": "jmaspons",
+    "uid": 11725140,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "barbecue",
+      "name": "Braseria Cal Mol",
+      "name:ca": "Braseria Cal Mol",
+      "phone": "+34649457396"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10188114214,
+    "lat": 41.6033633,
+    "lon": 0.643603,
+    "timestamp": "2023-02-18T23:58:13Z",
+    "version": 2,
+    "changeset": 132732525,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "32",
+      "addr:postcode": "25001",
+      "addr:street": "Carrer de l'Hostal de la Bordeta",
+      "amenity": "restaurant",
+      "name": "Plat Fet Lleida",
+      "phone": "+34662575000",
+      "takeaway": "only"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10188941411,
+    "lat": 41.6050514,
+    "lon": 0.6408949,
+    "timestamp": "2023-10-02T15:36:28Z",
+    "version": 3,
+    "changeset": 142045371,
+    "user": "Galifardeu",
+    "uid": 368660,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "12",
+      "addr:postcode": "25001",
+      "addr:street": "Avinguda d'Artesa",
+      "amenity": "restaurant",
+      "name": "Bon Plat",
+      "phone": "+34643037181"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10189021067,
+    "lat": 41.6022844,
+    "lon": 0.6427046,
+    "timestamp": "2022-11-16T16:39:12Z",
+    "version": 2,
+    "changeset": 129000854,
+    "user": "aTarom",
+    "uid": 5127355,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "2",
+      "addr:postcode": "25001",
+      "addr:street": "Carrer d'Antoni Solé",
+      "amenity": "restaurant",
+      "email": "info@restauranturgell.com",
+      "name": "Restaurant Urgell",
+      "phone": "+34973214685;+34 691 57 97 76",
+      "website": "https://www.restauranturgell.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10189021093,
+    "lat": 41.6017711,
+    "lon": 0.642588,
+    "timestamp": "2022-11-16T16:00:49Z",
+    "version": 1,
+    "changeset": 128999021,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "25",
+      "addr:postcode": "25001",
+      "addr:street": "Avinguda d'Artesa",
+      "amenity": "restaurant",
+      "name": "Bar Restaurant Zhang",
+      "phone": "+34973216695"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10189021094,
+    "lat": 41.6017294,
+    "lon": 0.6426184,
+    "timestamp": "2022-11-16T16:00:49Z",
+    "version": 1,
+    "changeset": 128999021,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "25",
+      "addr:postcode": "25001",
+      "addr:street": "Avinguda d'Artesa",
+      "amenity": "restaurant",
+      "name": "Pollastres El Salvador",
+      "phone": "+34973216695",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10189021097,
+    "lat": 41.601406,
+    "lon": 0.6427907,
+    "timestamp": "2024-07-22T12:13:53Z",
+    "version": 2,
+    "changeset": 154260170,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "2",
+      "addr:postcode": "25001",
+      "addr:street": "Carrer del Sifó",
+      "amenity": "restaurant",
+      "contact:facebook": "https://www.facebook.com/people/Pizzeria-Imola/100063548171527/",
+      "contact:instagram": "pizzeriaimola",
+      "cuisine": "pizza",
+      "name": "Pizzeria Imola",
+      "opening_hours": "Th-Su 13:00-16:00,20:00-00:30",
+      "phone": "+34973213422;+34 651799372"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10201897249,
+    "lat": 41.6028285,
+    "lon": 0.6408393,
+    "timestamp": "2022-11-19T13:13:20Z",
+    "version": 1,
+    "changeset": 129123537,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "27",
+      "addr:postcode": "25001",
+      "addr:street": "Avinguda de Flix",
+      "amenity": "restaurant",
+      "name": "Restaurant La Estancia",
+      "phone": "+34973213634",
+      "website": "https://laestanciarestaurante.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10203645574,
+    "lat": 41.6061988,
+    "lon": 0.6395336,
+    "timestamp": "2022-11-20T10:38:39Z",
+    "version": 1,
+    "changeset": 129151194,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "2",
+      "addr:postcode": "25001",
+      "addr:street": "Carrer de Goya",
+      "amenity": "restaurant",
+      "name": "Lo Renato"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10209200478,
+    "lat": 41.6375654,
+    "lon": 0.6284661,
+    "timestamp": "2022-11-22T09:14:24Z",
+    "version": 1,
+    "changeset": 129229187,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "40",
+      "addr:postcode": "25005",
+      "addr:street": "Avinguda de Sant Pere",
+      "amenity": "restaurant",
+      "cuisine": "barbecue",
+      "name": "Bar Braseria La Tasca",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10209200482,
+    "lat": 41.6359561,
+    "lon": 0.6301061,
+    "timestamp": "2024-01-28T17:29:27Z",
+    "version": 2,
+    "changeset": 146788509,
+    "user": "kapazao_import",
+    "uid": 8770019,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "6",
+      "addr:postcode": "25005",
+      "addr:street": "Plaça de Sant Pere",
+      "amenity": "restaurant",
+      "contact:facebook": "https://www.facebook.com/people/El-Meson-dAm%C3%A0lia/100064239211379/",
+      "name": "El Meson d'Amalia",
+      "outdoor_seating": "yes",
+      "phone": "+34 973 83 22 14"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10223494099,
+    "lat": 41.6180029,
+    "lon": 0.6306721,
+    "timestamp": "2024-01-28T17:29:27Z",
+    "version": 2,
+    "changeset": 146788509,
+    "user": "kapazao_import",
+    "uid": 8770019,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "26",
+      "addr:postcode": "25007",
+      "addr:street": "Rambla de Ferran",
+      "amenity": "restaurant",
+      "contact:facebook": "https://es-es.facebook.com/people/El-Bodegon-Lleida/100063690835852/",
+      "name": "El Bodegón",
+      "phone": "+34 973 22 03 37"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10225675974,
+    "lat": 41.6171655,
+    "lon": 0.6305906,
+    "timestamp": "2024-01-28T17:29:27Z",
+    "version": 2,
+    "changeset": 146788509,
+    "user": "kapazao_import",
+    "uid": 8770019,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "4",
+      "addr:postcode": "25007",
+      "addr:street": "Carrer de l'Alcalde Fuster",
+      "amenity": "restaurant",
+      "contact:facebook": "https://www.facebook.com/fusterialleida/",
+      "name": "La Fusteria",
+      "opening_hours": "Mo-Fr 08:00-01:00; Sa 19:00-02:00",
+      "phone": "+34 687 99 67 57"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10225675986,
+    "lat": 41.6176002,
+    "lon": 0.6319838,
+    "timestamp": "2022-11-29T13:39:54Z",
+    "version": 1,
+    "changeset": 129522291,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "9",
+      "addr:postcode": "25007",
+      "addr:street": "Carrer de Vila Antònia",
+      "amenity": "restaurant",
+      "name": "Casa Tiell"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10226026502,
+    "lat": 41.6171664,
+    "lon": 0.633393,
+    "timestamp": "2022-11-29T16:54:44Z",
+    "version": 1,
+    "changeset": 129529434,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "10",
+      "addr:postcode": "25007",
+      "addr:street": "Avinguda del Segre",
+      "amenity": "restaurant",
+      "name": "Restaurant Cafeteria Lleida",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10226026508,
+    "lat": 41.6180485,
+    "lon": 0.6322628,
+    "timestamp": "2022-11-29T16:54:44Z",
+    "version": 1,
+    "changeset": 129529434,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "4",
+      "addr:postcode": "25007",
+      "addr:street": "Carrer del Riu",
+      "amenity": "restaurant",
+      "cuisine": "kebab;moroccan",
+      "name": "Restaurant Cafeteria Mouna"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10226077991,
+    "lat": 41.6176765,
+    "lon": 0.6344832,
+    "timestamp": "2022-11-29T17:01:18Z",
+    "version": 1,
+    "changeset": 129529676,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "14",
+      "addr:postcode": "25007",
+      "addr:street": "Avinguda del Segre",
+      "amenity": "restaurant",
+      "cuisine": "kebab",
+      "name": "Rif Kebab Bahiha"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10226088919,
+    "lat": 41.6189514,
+    "lon": 0.6332315,
+    "timestamp": "2022-11-29T16:54:44Z",
+    "version": 1,
+    "changeset": 129529434,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "10",
+      "addr:postcode": "25007",
+      "addr:street": "Carrer de Lluís Roca",
+      "amenity": "restaurant",
+      "contact:facebook": "https://www.facebook.com/people/Les-deux-chefs/100054643021901/",
+      "email": "Restlesdeuxchefs@gmail.com",
+      "name": "Les Deux Chefs",
+      "phone": "+34622167331",
+      "website": "https://lesdeuxchefs.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10241160276,
+    "lat": 41.6169398,
+    "lon": 0.612978,
+    "timestamp": "2022-12-06T00:29:03Z",
+    "version": 2,
+    "changeset": 129761050,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "sushi",
+      "level": "1",
+      "name": "Sushi House",
+      "takeaway": "only"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10310678782,
+    "lat": 41.6180723,
+    "lon": 0.6188392,
+    "timestamp": "2023-06-07T10:10:33Z",
+    "version": 3,
+    "changeset": 137049538,
+    "user": "ivanbranco",
+    "uid": 11220113,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "italian;pizza",
+      "name": "Porco Dio",
+      "name:etymology:description": "The name is a famous italian blasphemy.",
+      "name:etymology:wikidata": "Q787;Q190",
+      "phone": "+34 873 49 38 90",
+      "website": "https://porcodio.es/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10686225107,
+    "lat": 41.6072971,
+    "lon": 0.6271888,
+    "timestamp": "2025-03-25T18:55:05Z",
+    "version": 3,
+    "changeset": 164092626,
+    "user": "Galifardeu",
+    "uid": 368660,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "10",
+      "addr:postcode": "25001",
+      "addr:street": "Avinguda de l'Estudi General",
+      "amenity": "restaurant",
+      "name": "La Montenya"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10706040273,
+    "lat": 41.6086816,
+    "lon": 0.6273867,
+    "timestamp": "2023-03-03T08:20:05Z",
+    "version": 1,
+    "changeset": 133240646,
+    "user": "Galifardeu",
+    "uid": 368660,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "36",
+      "addr:postcode": "25001",
+      "addr:street": "Carrer de la Doctora Castells",
+      "amenity": "restaurant",
+      "cuisine": "turkish;grill",
+      "name": "Ala Turca Grill House",
+      "phone": "+34 973 01 89 83"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10721696890,
+    "lat": 41.0884871,
+    "lon": 0.6392875,
+    "timestamp": "2023-03-08T16:08:26Z",
+    "version": 1,
+    "changeset": 133446846,
+    "user": "headlamp",
+    "uid": 8078835,
+    "tags": {
+      "addr:city": "Móra d'Ebre",
+      "addr:housenumber": "52",
+      "addr:postcode": "43740",
+      "addr:street": "Avinguda de les Comarques Catalanes",
+      "amenity": "restaurant",
+      "cuisine": "sushi",
+      "name": "Piscolabis"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10722791659,
+    "lat": 41.6058159,
+    "lon": 0.6241529,
+    "timestamp": "2023-03-09T07:03:31Z",
+    "version": 1,
+    "changeset": 133466118,
+    "user": "Galifardeu",
+    "uid": 368660,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "18",
+      "addr:postcode": "25001",
+      "addr:street": "Carrer de Pere de Cabrera",
+      "amenity": "restaurant",
+      "contact:instagram": "mariapia.lleida",
+      "cuisine": "pizza",
+      "name": "Pizzería María Pía",
+      "phone": "+34 973 046 705",
+      "website": "https://mariapiapizzeria.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10729862886,
+    "lat": 41.4656244,
+    "lon": 0.4138061,
+    "timestamp": "2023-03-13T10:41:37Z",
+    "version": 3,
+    "changeset": 133618993,
+    "user": "Mar Mar",
+    "uid": 2963768,
+    "tags": {
+      "amenity": "restaurant",
+      "contact:email": "barladiscoseros@gmail.com",
+      "contact:phone": "+34 873 45 09 90",
+      "name": "La Disco",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10749001607,
+    "lat": 41.523241,
+    "lon": 0.3405445,
+    "timestamp": "2023-12-30T19:23:56Z",
+    "version": 2,
+    "changeset": 145710240,
+    "user": "Robot8A",
+    "uid": 393359,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Casa Borau"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10869004620,
+    "lat": 41.6190832,
+    "lon": 0.621525,
+    "timestamp": "2024-01-31T18:38:08Z",
+    "version": 2,
+    "changeset": 146916660,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "27",
+      "addr:postcode": "25004",
+      "addr:street": "Carrer de Bonaire",
+      "amenity": "restaurant",
+      "diet:gluten_free": "yes",
+      "name": "Astoria"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10869004621,
+    "lat": 41.6099015,
+    "lon": 0.6343697,
+    "timestamp": "2024-07-22T12:16:58Z",
+    "version": 2,
+    "changeset": 154260316,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "1",
+      "addr:postcode": "25001",
+      "addr:street": "Carrer dels Agustins",
+      "amenity": "restaurant",
+      "contact:instagram": "pizzerialabufala",
+      "cuisine": "pizza",
+      "diet:gluten_free": "yes",
+      "diet:vegan": "yes",
+      "diet:vegetarian": "yes",
+      "name": "La Búfala",
+      "phone": "+34 973 20 27 49"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10869004624,
+    "lat": 41.6160084,
+    "lon": 0.6213752,
+    "timestamp": "2023-05-04T19:29:38Z",
+    "version": 1,
+    "changeset": 135714336,
+    "user": "kasvit",
+    "uid": 18517266,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "La Forastera"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10869004625,
+    "lat": 41.6159903,
+    "lon": 0.6214383,
+    "timestamp": "2023-05-04T19:29:38Z",
+    "version": 1,
+    "changeset": 135714336,
+    "user": "kasvit",
+    "uid": 18517266,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:postcode": "25002",
+      "addr:street": "Plaça de Cervantes",
+      "amenity": "restaurant",
+      "cuisine": "mediterranean;spanish",
+      "diet:gluten_free": "yes",
+      "diet:lactose_free": "yes",
+      "diet:vegan": "yes",
+      "diet:vegetarian": "yes",
+      "level": "4",
+      "name": "Clea Tushé",
+      "phone": "+34 973 98 51 51",
+      "source": "clea@clearestaurant.com",
+      "website": "http://www.clearestaurant.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10929201313,
+    "lat": 41.6138222,
+    "lon": 0.6259167,
+    "timestamp": "2023-05-26T14:15:23Z",
+    "version": 1,
+    "changeset": 136590255,
+    "user": "Galifardeu",
+    "uid": 368660,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "22",
+      "addr:postcode": "25002",
+      "addr:street": "Avinguda de Blondel",
+      "amenity": "restaurant",
+      "name": "Gourmet Real",
+      "phone": "+34 973 30 08 77",
+      "website": "http://restaurantgourmetreal.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11029625206,
+    "lat": 41.6105992,
+    "lon": 0.6174851,
+    "timestamp": "2024-07-26T12:02:10Z",
+    "version": 3,
+    "changeset": 154439222,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "36",
+      "addr:postcode": "25002",
+      "addr:street": "Carrer de l'Acadèmia",
+      "amenity": "restaurant",
+      "contact:instagram": "kamutrestaurant",
+      "email": "kamut.rest@gmail.com",
+      "name": "Kamut",
+      "phone": "+34 973 018 778;+34 635 554 349",
+      "website": "https://www.kamutrestaurants.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11094279956,
+    "lat": 41.619035,
+    "lon": 0.6214291,
+    "timestamp": "2024-01-31T18:38:08Z",
+    "version": 2,
+    "changeset": 146916660,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "25",
+      "addr:postcode": "25004",
+      "addr:street": "Carrer de Bonaire",
+      "amenity": "restaurant",
+      "contact:mobile": "+34 681 132 330",
+      "cuisine": "indian;kebab;pizza",
+      "name": "Amigo Ali",
+      "opening_hours": "Mo-We 11:30-23:30; Th-Su 11:30-00:30",
+      "phone": "+34 973 347 165",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11094322510,
+    "lat": 41.6189157,
+    "lon": 0.6210028,
+    "timestamp": "2024-01-31T18:38:08Z",
+    "version": 2,
+    "changeset": 146916660,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "51",
+      "addr:postcode": "25004",
+      "addr:street": "Carrer de Sant Martí",
+      "amenity": "restaurant",
+      "name": "Rita Cokó"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11110842335,
+    "lat": 41.616986,
+    "lon": 0.6230706,
+    "timestamp": "2023-08-23T19:52:04Z",
+    "version": 2,
+    "changeset": 140291378,
+    "user": "Àlex Magaz",
+    "uid": 118127,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "15",
+      "addr:postcode": "25004",
+      "addr:street": "Carrer de Sant Martí",
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "takeaway": "only",
+      "toilets": "no",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11110879207,
+    "lat": 41.6166581,
+    "lon": 0.6223422,
+    "timestamp": "2023-08-13T00:34:09Z",
+    "version": 1,
+    "changeset": 139806192,
+    "user": "Àlex Magaz",
+    "uid": 118127,
+    "tags": {
+      "addr:housenumber": "6",
+      "addr:street": "Carrer de Sant Carles",
+      "amenity": "restaurant",
+      "name": "Le bon goût",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11115169885,
+    "lat": 41.6146001,
+    "lon": 0.6240042,
+    "timestamp": "2023-08-14T22:31:21Z",
+    "version": 1,
+    "changeset": 139891426,
+    "user": "Àlex Magaz",
+    "uid": 118127,
+    "tags": {
+      "addr:housenumber": "40",
+      "addr:street": "Carrer Cavallers",
+      "amenity": "restaurant",
+      "name": "Txoco"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11115183646,
+    "lat": 41.6140737,
+    "lon": 0.6242221,
+    "timestamp": "2023-08-14T22:31:21Z",
+    "version": 1,
+    "changeset": 139891426,
+    "user": "Àlex Magaz",
+    "uid": 118127,
+    "tags": {
+      "addr:housenumber": "24",
+      "addr:street": "Carrer Cavallers",
+      "amenity": "restaurant",
+      "name": "Celler del Roser"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11161496905,
+    "lat": 41.0011096,
+    "lon": 0.4282965,
+    "timestamp": "2023-09-01T17:45:17Z",
+    "version": 1,
+    "changeset": 140690416,
+    "user": "zorun",
+    "uid": 496765,
+    "tags": {
+      "amenity": "restaurant",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11209966757,
+    "lat": 41.5731956,
+    "lon": 0.5488102,
+    "timestamp": "2023-09-22T11:07:42Z",
+    "version": 1,
+    "changeset": 141599613,
+    "user": "Galifardeu",
+    "uid": 368660,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Sisco Florida"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11224387727,
+    "lat": 41.6211439,
+    "lon": 0.6168091,
+    "timestamp": "2023-09-28T06:57:13Z",
+    "version": 1,
+    "changeset": 141849512,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "123",
+      "addr:street": "Gran Passeig de Ronda",
+      "amenity": "restaurant",
+      "cuisine": "sushi",
+      "name": "Genki Sushi",
+      "phone": "+34 973829637",
+      "website": "https://hmaw.mbm07.cn/b9cxck/K666G_f6TsRZa"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11235513599,
+    "lat": 41.5962146,
+    "lon": 0.595177,
+    "timestamp": "2023-10-03T10:16:45Z",
+    "version": 1,
+    "changeset": 142093096,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:milestone": "458.5",
+      "addr:postcode": "25197",
+      "addr:street": "N-II",
+      "amenity": "restaurant",
+      "email": "hreinaisabel@hotmail.com",
+      "name": "Restaurant Hotel Reina Isabel",
+      "phone": "+34 973 269 589",
+      "stars": "1",
+      "tourism": "hotel",
+      "website": "https://hotelreinaisabel.net/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11362866440,
+    "lat": 41.6183049,
+    "lon": 0.6212875,
+    "timestamp": "2024-04-25T12:02:57Z",
+    "version": 3,
+    "changeset": 150493281,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "27",
+      "addr:postcode": "25006",
+      "addr:street": "Carrer del Camp de Mart",
+      "amenity": "restaurant",
+      "cuisine": "sushi",
+      "name": "Macao",
+      "opening_hours": "Tu-Su 13:00-17:00; 20:30-00:00",
+      "phone": "+34973046308",
+      "website": "http://macaogrup.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11463863601,
+    "lat": 41.5576935,
+    "lon": 0.5101141,
+    "timestamp": "2024-01-25T17:38:29Z",
+    "version": 2,
+    "changeset": 146682589,
+    "user": "ivanivenen",
+    "uid": 14483868,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Lo Panamà",
+      "phone": "+34973 79 03 83"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11470566878,
+    "lat": 41.5231836,
+    "lon": 0.3403832,
+    "timestamp": "2023-12-30T19:23:56Z",
+    "version": 1,
+    "changeset": 145710240,
+    "user": "Robot8A",
+    "uid": 393359,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Casa Armando"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11503793829,
+    "lat": 41.6193368,
+    "lon": 0.6187018,
+    "timestamp": "2024-01-09T17:55:18Z",
+    "version": 1,
+    "changeset": 146075655,
+    "user": "mpinol",
+    "uid": 20532616,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "sandwich",
+      "name": "Las Vegas Ricard Vinyes",
+      "phone": "+34 873499387"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11503793830,
+    "lat": 41.6204732,
+    "lon": 0.6180888,
+    "timestamp": "2024-01-09T17:55:18Z",
+    "version": 1,
+    "changeset": 146075655,
+    "user": "mpinol",
+    "uid": 20532616,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "59",
+      "addr:postcode": "25006",
+      "addr:street": "Carrer de Magí Morera",
+      "amenity": "restaurant",
+      "cuisine": "italian;pizza;pasta",
+      "name": "Napulè",
+      "phone": "+34 973391168",
+      "website": "https://napuleristorante.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11659905724,
+    "lat": 41.6211065,
+    "lon": 0.6237444,
+    "timestamp": "2024-02-24T16:37:12Z",
+    "version": 1,
+    "changeset": 147862552,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "39",
+      "addr:postcode": "25008",
+      "addr:street": "Avinguda de Prat de la Riba",
+      "amenity": "restaurant",
+      "cuisine": "italian",
+      "name": "Sheyton"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11787509213,
+    "lat": 41.0502872,
+    "lon": -0.1314358,
+    "timestamp": "2024-04-04T18:53:24Z",
+    "version": 2,
+    "changeset": 149583662,
+    "user": "Lorenz Quack",
+    "uid": 4346177,
+    "tags": {
+      "addr:city": "Alcañiz",
+      "addr:housenumber": "16",
+      "addr:postcode": "44600",
+      "addr:street": "Calle Alejandre",
+      "amenity": "restaurant",
+      "cuisine": "spanish",
+      "name": "Venecia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11787509214,
+    "lat": 41.0503569,
+    "lon": -0.1313218,
+    "timestamp": "2024-04-04T18:48:22Z",
+    "version": 1,
+    "changeset": 149583489,
+    "user": "Lorenz Quack",
+    "uid": 4346177,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "spanish",
+      "name": "La Chesita"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11854139578,
+    "lat": 41.2412138,
+    "lon": 0.3317921,
+    "timestamp": "2025-01-17T16:39:53Z",
+    "version": 3,
+    "changeset": 161462761,
+    "user": "Jordi MF",
+    "uid": 8278438,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Bar Restaurante Camping Fayón",
+      "website": "https://tucofre.com/fayon/bar-restaurante-camping-fayn"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11854166321,
+    "lat": 41.2399294,
+    "lon": 0.3341946,
+    "timestamp": "2024-11-18T14:37:31Z",
+    "version": 3,
+    "changeset": 159286207,
+    "user": "Jordi MF",
+    "uid": 8278438,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Bar Restaurante Roca"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11881374361,
+    "lat": 41.5911741,
+    "lon": 0.5842538,
+    "timestamp": "2024-05-05T14:46:17Z",
+    "version": 1,
+    "changeset": 150923607,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:milestone": "457.5",
+      "addr:postcode": "25194",
+      "addr:street": "N-II",
+      "amenity": "restaurant",
+      "contact:instagram": "carballeiralleida",
+      "name": "Restaurant Carballeira",
+      "name:ca": "Restaurant Carballeira",
+      "nohousenumber": "yes",
+      "phone": "+34   973 27 27 28",
+      "website": "https://carballeiralleida.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12057149224,
+    "lat": 41.6125145,
+    "lon": 0.624114,
+    "timestamp": "2024-07-16T12:20:26Z",
+    "version": 1,
+    "changeset": 154012870,
+    "user": "Tobias235",
+    "uid": 14827393,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "9",
+      "addr:postcode": "25002",
+      "addr:street": "Avinguda de Blondel",
+      "amenity": "restaurant",
+      "name": "Cafetería Snoopy",
+      "opening_hours": "Mo-Sa 08:00-23:00; Su off",
+      "phone": "+34973272666"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12067995769,
+    "lat": 41.6205043,
+    "lon": 0.6177235,
+    "timestamp": "2024-07-22T11:44:18Z",
+    "version": 3,
+    "changeset": 154258886,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:housenumber": "7",
+      "addr:postcode": "25006",
+      "addr:street": "Carrer de la Serra del Cadí",
+      "amenity": "restaurant",
+      "contact:instagram": "pizzerialatrattoria",
+      "cuisine": "italian;pizza",
+      "name": "Pizzeria La Trattoria",
+      "phone": "+34973220841"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12068045011,
+    "lat": 41.6210231,
+    "lon": 0.6225237,
+    "timestamp": "2024-07-24T13:49:39Z",
+    "version": 3,
+    "changeset": 154351522,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "5",
+      "addr:postcode": "25008",
+      "addr:street": "Avinguda de l'Alcalde Porqueres",
+      "amenity": "restaurant",
+      "contact:facebook": "https://www.facebook.com/creperiaflash/",
+      "contact:instagram": "creperiaflash",
+      "cuisine": "crepe;coffee_shop",
+      "email": "creperia@creperiaflash.com",
+      "name": "Flash",
+      "opening_hours": "Mo,We,Th 09:00-17:00; Fr 09:00-01:00; Sa 12:00-01:00; Su 12:00-17:00,20:00-01:00",
+      "phone": "+34 973 221 840",
+      "website": "http://www.creperiaflash.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12078016472,
+    "lat": 41.9767559,
+    "lon": 0.4883044,
+    "timestamp": "2024-07-28T06:51:37Z",
+    "version": 1,
+    "changeset": 154507581,
+    "user": "MacDony",
+    "uid": 3701940,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12183679573,
+    "lat": 41.6111758,
+    "lon": 0.6296437,
+    "timestamp": "2024-09-18T09:50:55Z",
+    "version": 1,
+    "changeset": 156764074,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "3",
+      "addr:postcode": "25001",
+      "addr:street": "Carrer dels Trinitaris",
+      "amenity": "restaurant",
+      "email": "contacto@detapas-restaurant.es",
+      "name": "Detapas",
+      "opening_hours": "Mo-Sa 09:00-17:00",
+      "phone": "+34 973 20 11 38",
+      "website": "https://detapas-restaurant.es/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12205997965,
+    "lat": 41.6284893,
+    "lon": 0.6304833,
+    "timestamp": "2024-09-27T21:43:40Z",
+    "version": 1,
+    "changeset": 157189244,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "76",
+      "addr:postcode": "25005",
+      "addr:street": "Carrer del Corregidor Escofet",
+      "amenity": "restaurant",
+      "contact:instagram": "napolilasensaciolleida",
+      "contact:twitter": "napolilleida",
+      "cuisine": "pizza",
+      "delivery": "yes",
+      "name": "Pizza Napoli",
+      "phone": "+34 973 22 40 88",
+      "website": "https://napolilasensacio.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12492271259,
+    "lat": 41.4867244,
+    "lon": 0.3836377,
+    "timestamp": "2025-01-11T12:47:57Z",
+    "version": 1,
+    "changeset": 161237829,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Bar Restaurant La Cobil"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12641212516,
+    "lat": 41.6190573,
+    "lon": 0.6208603,
+    "timestamp": "2025-03-06T17:13:52Z",
+    "version": 1,
+    "changeset": 163294232,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "55",
+      "addr:postcode": "25004",
+      "addr:street": "Carrer de Sant Martí",
+      "amenity": "restaurant",
+      "contact:instagram": "larrosseria_norules",
+      "name": "L'Arrosseria x No Rules",
+      "phone": "+34 669 617 401;+34 973 279 586"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12643284848,
+    "lat": 41.6183537,
+    "lon": 0.6179575,
+    "timestamp": "2025-03-07T12:59:21Z",
+    "version": 1,
+    "changeset": 163326562,
+    "user": "blacx",
+    "uid": 327111,
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "34",
+      "addr:postcode": "25006",
+      "addr:street": "Carrer de les Torres de Sanui",
+      "amenity": "restaurant",
+      "email": "noucasajose@gmail.com",
+      "name": "Casa José",
+      "phone": "+34 973 237 038",
+      "website": "https://www.restaurantcasajose.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12692747201,
+    "lat": 41.8506505,
+    "lon": 0.2974468,
+    "timestamp": "2025-03-23T10:02:58Z",
+    "version": 1,
+    "changeset": 163978871,
+    "user": "Liquenmaps",
+    "uid": 21839056,
+    "tags": {
+      "addr:housenumber": "49",
+      "addr:postcode": "22500",
+      "addr:street": "Calle Lérida",
+      "amenity": "restaurant",
+      "contact:instagram": "aneto_3404_",
+      "cuisine": "breakfast;burger;coffee_shop;diner;friture;local;spanish",
+      "name": "Aneto 3404",
+      "phone": "974428428"
+    }
+  },
+  {
+    "type": "way",
+    "id": 107410030,
+    "timestamp": "2023-02-19T00:09:29Z",
+    "version": 6,
+    "changeset": 132732653,
+    "user": "blacx",
+    "uid": 327111,
+    "center": {
+      "lat": 41.6204196,
+      "lon": 0.6178711
+    },
+    "nodes": [
+      1234534466,
+      1234534657,
+      9319840876,
+      9319840875,
+      1234534456,
+      1234534625,
+      1234534466
+    ],
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "57",
+      "addr:postcode": "25006",
+      "addr:street": "Carrer de Magí Morera",
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "japanese",
+      "name": "Bokoto",
+      "phone": "+34 973 24 77 53",
+      "website": "https://bokoto.es/"
+    }
+  },
+  {
+    "type": "way",
+    "id": 174934623,
+    "timestamp": "2019-03-23T14:05:36Z",
+    "version": 4,
+    "changeset": 68445219,
+    "user": "b-jazz-bot",
+    "uid": 9451067,
+    "center": {
+      "lat": 41.5382215,
+      "lon": 0.437848
+    },
+    "nodes": [
+      1855776272,
+      1855776281,
+      1855776280,
+      1855776283,
+      1855776277,
+      1855776274,
+      1855776271,
+      1855776265,
+      1855776256,
+      1855776254,
+      1855776263,
+      1855776259,
+      1855776272
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Salones Casanova",
+      "website": "https://www.salonescasanova.com/"
+    }
+  },
+  {
+    "type": "way",
+    "id": 232367078,
+    "timestamp": "2017-04-21T14:11:18Z",
+    "version": 2,
+    "changeset": 48004500,
+    "user": "wheelmap_visitor",
+    "uid": 290680,
+    "center": {
+      "lat": 41.0669962,
+      "lon": -0.1870772
+    },
+    "nodes": [
+      2407199839,
+      2407199840,
+      2407199834,
+      2407199832,
+      2407199839
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 254048269,
+    "timestamp": "2013-12-28T20:53:55Z",
+    "version": 1,
+    "changeset": 19686301,
+    "user": "pokoli",
+    "uid": 1859290,
+    "center": {
+      "lat": 41.4600979,
+      "lon": 0.562441
+    },
+    "nodes": [
+      2598819749,
+      2598819750,
+      2598819751,
+      2598819752,
+      2598819749
+    ],
+    "tags": {
+      "addr:city": "Sarroca de Lleida",
+      "addr:postcode": "25175",
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "regional",
+      "name": "El Raco",
+      "phone": "+34973126241"
+    }
+  },
+  {
+    "type": "way",
+    "id": 268060784,
+    "timestamp": "2019-05-21T00:28:27Z",
+    "version": 2,
+    "changeset": 70459300,
+    "user": "Pere Saguer",
+    "uid": 4351260,
+    "center": {
+      "lat": 41.2293997,
+      "lon": 0.3387735
+    },
+    "nodes": [
+      2734242725,
+      2734242717,
+      2734242707,
+      2734242716,
+      2734242705,
+      2734242712,
+      2734242691,
+      2734242720,
+      2734242725
+    ],
+    "tags": {
+      "addr:city": "la Pobla de Massaluca",
+      "addr:postcode": "43783",
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "mediterranean",
+      "name": "Restaurant Port Massaluca"
+    }
+  },
+  {
+    "type": "way",
+    "id": 288788249,
+    "timestamp": "2018-12-09T09:59:03Z",
+    "version": 2,
+    "changeset": 65310547,
+    "user": "altair12",
+    "uid": 9094738,
+    "center": {
+      "lat": 41.617973,
+      "lon": 0.649725
+    },
+    "nodes": [
+      2923443138,
+      2923443139,
+      2923443140,
+      2923443141,
+      2923443142,
+      2923443143,
+      2923443144,
+      2923443145,
+      2923443138
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "industrial",
+      "name": "Radena"
+    }
+  },
+  {
+    "type": "way",
+    "id": 288901281,
+    "timestamp": "2019-01-08T20:34:25Z",
+    "version": 2,
+    "changeset": 66140514,
+    "user": "altair12",
+    "uid": 9094738,
+    "center": {
+      "lat": 41.6157044,
+      "lon": 0.6449805
+    },
+    "nodes": [
+      2924558048,
+      2924558050,
+      2924558051,
+      2924558049,
+      2924558048
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "industrial",
+      "name": "Restaurant Entrevies"
+    }
+  },
+  {
+    "type": "way",
+    "id": 320498326,
+    "timestamp": "2019-05-01T20:27:16Z",
+    "version": 4,
+    "changeset": 69781045,
+    "user": "yopaseopor",
+    "uid": 500572,
+    "center": {
+      "lat": 41.6645544,
+      "lon": 0.6073082
+    },
+    "nodes": [
+      3270231804,
+      3270231801,
+      3270231796,
+      3270231799,
+      3270231794,
+      3270231797,
+      3270231793,
+      3270231795,
+      3270231798,
+      3270231800,
+      3270231804
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "regional",
+      "name": "Parador 24h Torrefarrera",
+      "opening_hours": "24/7",
+      "phone": "+34 973752043"
+    }
+  },
+  {
+    "type": "way",
+    "id": 391017231,
+    "timestamp": "2023-11-09T10:05:10Z",
+    "version": 4,
+    "changeset": 143814948,
+    "user": "b-jazz-bot",
+    "uid": 9451067,
+    "center": {
+      "lat": 41.6114595,
+      "lon": 0.6446451
+    },
+    "nodes": [
+      3941739756,
+      3941739865,
+      3942176117,
+      3941739857,
+      3941739860,
+      3941739858,
+      3941739859,
+      3941739756
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Punto Estrella 24h Lamolla",
+      "opening_hours": "24/7",
+      "phone": "+34 973 21 29 39",
+      "website": "https://www.puntoestrella24h.com/"
+    }
+  },
+  {
+    "type": "way",
+    "id": 431589403,
+    "timestamp": "2023-03-14T07:20:38Z",
+    "version": 11,
+    "changeset": 133653222,
+    "user": "Galifardeu",
+    "uid": 368660,
+    "center": {
+      "lat": 41.5424346,
+      "lon": 0.6379461
+    },
+    "nodes": [
+      10733520072,
+      10734207804,
+      10733520073,
+      4308161314,
+      4308161316,
+      4308161296,
+      10733520072
+    ],
+    "tags": {
+      "addr:street": "Autopista del Nord-est",
+      "amenity": "restaurant",
+      "bridge": "yes",
+      "building": "yes",
+      "cuisine": "sandwich;international;breakfast;coffee_shop",
+      "internet_access": "wlan",
+      "layer": "1",
+      "name": "Àrea de Servei Lleida",
+      "name:ca": "Àrea de Servei Lleida",
+      "name:es": "Área de Servicio de Lérida",
+      "name:it": "Area di Servizio di Lleida",
+      "phone": "+34 932401515",
+      "website": "http://www.opin.at/areas160302"
+    }
+  },
+  {
+    "type": "way",
+    "id": 440207492,
+    "timestamp": "2024-05-25T07:58:35Z",
+    "version": 4,
+    "changeset": 151798776,
+    "user": "Jordi MF",
+    "uid": 8278438,
+    "center": {
+      "lat": 41.3767758,
+      "lon": 0.3050478
+    },
+    "nodes": [
+      4379282547,
+      4379282279,
+      4379282273,
+      4379282500,
+      4379282490,
+      4379282554,
+      4379282527,
+      4379282214,
+      4379282208,
+      4379282531,
+      4379282547
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Bar Restaurant Piscis"
+    }
+  },
+  {
+    "type": "way",
+    "id": 464505069,
+    "timestamp": "2022-08-30T21:02:26Z",
+    "version": 3,
+    "changeset": 125587193,
+    "user": "blacx",
+    "uid": 327111,
+    "center": {
+      "lat": 41.6139215,
+      "lon": 0.6553909
+    },
+    "nodes": [
+      4596047185,
+      4596047186,
+      2922209464,
+      3676261336,
+      4596047185
+    ],
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "6",
+      "addr:postcode": "25190",
+      "addr:street": "Carrer del Cogull",
+      "amenity": "restaurant",
+      "building": "industrial",
+      "name": "Braseria Casa Tere",
+      "opening_hours": "Tu-Su 08:00-16:00",
+      "phone": "+34 973194624"
+    }
+  },
+  {
+    "type": "way",
+    "id": 491773027,
+    "timestamp": "2017-05-06T13:46:49Z",
+    "version": 1,
+    "changeset": 48452733,
+    "user": "Sebasbcn",
+    "uid": 1767975,
+    "center": {
+      "lat": 41.906199,
+      "lon": 0.5658311
+    },
+    "nodes": [
+      4838575935,
+      4838575936,
+      4838575937,
+      4838575938,
+      4838575939,
+      4838575940,
+      4838575941,
+      4838575942,
+      4838575935
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Camping Las Planas"
+    }
+  },
+  {
+    "type": "way",
+    "id": 494619570,
+    "timestamp": "2019-12-19T10:42:45Z",
+    "version": 2,
+    "changeset": 78632822,
+    "user": "EliziR",
+    "uid": 605366,
+    "center": {
+      "lat": 41.6308752,
+      "lon": 0.597069
+    },
+    "nodes": [
+      4863673002,
+      2122911981,
+      4863673003,
+      4863673004,
+      2122912180,
+      4863673005,
+      4863673002
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Fonda Nastasi"
+    }
+  },
+  {
+    "type": "way",
+    "id": 498921398,
+    "timestamp": "2023-02-10T16:19:12Z",
+    "version": 4,
+    "changeset": 132369029,
+    "user": "sanchi",
+    "uid": 170106,
+    "center": {
+      "lat": 41.5145033,
+      "lon": 0.2694429
+    },
+    "nodes": [
+      4902592782,
+      4902592781,
+      4902592780,
+      4902592779,
+      4902592782
+    ],
+    "tags": {
+      "addr:city": "Fraga",
+      "addr:postcode": "22520",
+      "addr:street": "Carretera Nacional 2",
+      "amenity": "restaurant",
+      "cuisine": "grill",
+      "name": "El Ventorillo",
+      "opening_hours": "Tu 08:00-22:00; Th-Su 08:00-22:00",
+      "phone": "+34 677 381 455",
+      "website": "https://ventorrillo-v-estruch.business.site/"
+    }
+  },
+  {
+    "type": "way",
+    "id": 534298162,
+    "timestamp": "2017-10-22T16:35:49Z",
+    "version": 1,
+    "changeset": 53156140,
+    "user": "Luiyo",
+    "uid": 316694,
+    "center": {
+      "lat": 41.0230035,
+      "lon": -0.0984196
+    },
+    "nodes": [
+      5182040265,
+      5182040264,
+      5182040263,
+      5182040262,
+      5182040261,
+      5182040260,
+      5182040259,
+      5182040258,
+      5182040265
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "building:levels": "1",
+      "name": "Las Horcas"
+    }
+  },
+  {
+    "type": "way",
+    "id": 576474430,
+    "timestamp": "2018-04-04T21:42:04Z",
+    "version": 2,
+    "changeset": 57816012,
+    "user": "dr_grijando",
+    "uid": 548834,
+    "center": {
+      "lat": 41.5676415,
+      "lon": 0.3024592
+    },
+    "nodes": [
+      5529062268,
+      5529062267,
+      5529062270,
+      5529062269,
+      5529062268
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "spanish",
+      "name": "Kilómetro 6,5"
+    }
+  },
+  {
+    "type": "way",
+    "id": 647527462,
+    "timestamp": "2019-10-10T17:49:25Z",
+    "version": 2,
+    "changeset": 75527531,
+    "user": "jserret",
+    "uid": 10347224,
+    "center": {
+      "lat": 41.8788085,
+      "lon": 0.5144556
+    },
+    "nodes": [
+      6080925606,
+      6080925605,
+      6080925604,
+      6080925603,
+      6080925602,
+      6080925601,
+      6080925606
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Bar Restaurant Los Amics"
+    }
+  },
+  {
+    "type": "way",
+    "id": 682994922,
+    "timestamp": "2019-04-10T21:46:08Z",
+    "version": 1,
+    "changeset": 69098170,
+    "user": "ansuta",
+    "uid": 3188422,
+    "center": {
+      "lat": 41.5241207,
+      "lon": 0.3622205
+    },
+    "nodes": [
+      6397287915,
+      6397287916,
+      6397287917,
+      6397287918,
+      6397287919,
+      6397287920,
+      6397287921,
+      6397287922,
+      6397287923,
+      6397287924,
+      6397287915
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 717900357,
+    "timestamp": "2019-08-24T13:56:46Z",
+    "version": 1,
+    "changeset": 73696833,
+    "user": "jqngarcia",
+    "uid": 5126253,
+    "center": {
+      "lat": 41.580248,
+      "lon": 0.574162
+    },
+    "nodes": [
+      6742282077,
+      6742282076,
+      6742282075,
+      6742282074,
+      6742282077
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "retail",
+      "building:levels": "3",
+      "name": "Restaurant Cal Nenet",
+      "phone": "+34973 26 00 16"
+    }
+  },
+  {
+    "type": "way",
+    "id": 765238108,
+    "timestamp": "2024-03-17T21:34:28Z",
+    "version": 3,
+    "changeset": 148791160,
+    "user": "jotero66",
+    "uid": 21007177,
+    "center": {
+      "lat": 41.2497716,
+      "lon": -0.0532229
+    },
+    "nodes": [
+      7147272399,
+      7147272400,
+      7147272401,
+      7147272402,
+      7147272403,
+      7147272404,
+      7147272405,
+      7147272406,
+      7147272407,
+      7147272408,
+      7147272409,
+      7147272410,
+      7147272411,
+      7147272399
+    ],
+    "tags": {
+      "addr:city": "Caspe",
+      "addr:postcode": "50700",
+      "addr:street": "Calle de la Perca",
+      "addr:suburb": "Zaragoza",
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "spanish",
+      "internet_access": "yes",
+      "internet_access:fee": "no",
+      "name": "Restaurante \"La Marmita Del Druida\"",
+      "outdoor_seating": "yes",
+      "smoking": "no"
+    }
+  },
+  {
+    "type": "way",
+    "id": 797880897,
+    "timestamp": "2023-11-02T22:40:18Z",
+    "version": 4,
+    "changeset": 143551576,
+    "user": "b-jazz-bot",
+    "uid": 9451067,
+    "center": {
+      "lat": 41.5025632,
+      "lon": 0.327824
+    },
+    "nodes": [
+      7462673307,
+      7462673308,
+      7462673309,
+      7462673310,
+      7462673307
+    ],
+    "tags": {
+      "addr:city": "Fraga",
+      "addr:postcode": "22520",
+      "addr:street": "N-211, Km 329.5",
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Espai Oró",
+      "name:ca": "Espai Oró",
+      "website": "https://espaioro.com/"
+    }
+  },
+  {
+    "type": "way",
+    "id": 817817597,
+    "timestamp": "2022-08-19T20:11:09Z",
+    "version": 2,
+    "changeset": 125124652,
+    "user": "blacx",
+    "uid": 327111,
+    "center": {
+      "lat": 41.3590533,
+      "lon": 0.5137624
+    },
+    "nodes": [
+      7637772113,
+      7637772112,
+      7637772121,
+      7637772120,
+      7637772119,
+      7637772118,
+      7637772117,
+      7637772116,
+      7637772115,
+      7637772114,
+      7637772113
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Cram Restaurant"
+    }
+  },
+  {
+    "type": "way",
+    "id": 833161203,
+    "timestamp": "2020-08-02T12:03:07Z",
+    "version": 1,
+    "changeset": 88837947,
+    "user": "Adrián C",
+    "uid": 10909979,
+    "center": {
+      "lat": 41.6318656,
+      "lon": 0.5931396
+    },
+    "nodes": [
+      7777676276,
+      7777676277,
+      7777676278,
+      7777676279,
+      7777676280,
+      7777676281,
+      7777676282,
+      7777676283,
+      7777676276
+    ],
+    "tags": {
+      "addr:city": "Lleida",
+      "addr:housenumber": "96",
+      "addr:street": "N-240",
+      "addr:unit": "4",
+      "air_conditioning": "yes",
+      "amenity": "restaurant",
+      "bar": "yes",
+      "building": "yes",
+      "cuisine": "regional;grill",
+      "name": "Punto Estrella Les Basses",
+      "opening_hours": "24/7",
+      "outdoor_seating": "yes",
+      "phone": "+34 973 231 006",
+      "reservation": "yes",
+      "website": "https://puntoestrella24h.com/",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1047128724,
+    "timestamp": "2022-04-01T12:36:38Z",
+    "version": 1,
+    "changeset": 119200899,
+    "user": "Galifardeu",
+    "uid": 368660,
+    "center": {
+      "lat": 41.6109961,
+      "lon": 0.6617876
+    },
+    "nodes": [
+      9628887500,
+      9628887501,
+      9628887502,
+      9628887503,
+      9628887504,
+      9628887500
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "La Brasa d'Or",
+      "opening_hours": "Mo-Th 07:30-17:00; Fr-Sa 07:30-23:00",
+      "phone": "+34973203057",
+      "website": "https://www.labrasador.com/"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1060445418,
+    "timestamp": "2022-05-16T08:25:12Z",
+    "version": 1,
+    "changeset": 121039438,
+    "user": "msevilla00",
+    "uid": 240498,
+    "center": {
+      "lat": 41.0636682,
+      "lon": -0.1822983
+    },
+    "nodes": [
+      9742955228,
+      9742955229,
+      9742955230,
+      9742955231,
+      9742955232,
+      9742955233,
+      9742955234,
+      9742955235,
+      9742955236,
+      9742955237,
+      9742955238,
+      9742955239,
+      9742955240,
+      9742955241,
+      9742955228
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "La Perca"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1072025447,
+    "timestamp": "2022-06-21T17:01:19Z",
+    "version": 1,
+    "changeset": 122677613,
+    "user": "daaniel_",
+    "uid": 14472420,
+    "center": {
+      "lat": 41.9173687,
+      "lon": 0.1718761
+    },
+    "nodes": [
+      9836657694,
+      9836657695,
+      9836657696,
+      9836657697,
+      9836657698,
+      9836657699,
+      9836657694
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1085806178,
+    "timestamp": "2022-08-12T11:57:07Z",
+    "version": 1,
+    "changeset": 124815512,
+    "user": "blacx",
+    "uid": 327111,
+    "center": {
+      "lat": 41.6154949,
+      "lon": 0.6347762
+    },
+    "nodes": [
+      9949214959,
+      9949214913,
+      3446023063,
+      9949214960,
+      3446023064,
+      9949214961,
+      9949214962,
+      9949214959
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "el Mirador dels Camps Elisis"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1093656310,
+    "timestamp": "2023-09-14T16:53:11Z",
+    "version": 3,
+    "changeset": 141267093,
+    "user": "Galifardeu",
+    "uid": 368660,
+    "center": {
+      "lat": 41.6482209,
+      "lon": 0.5591198
+    },
+    "nodes": [
+      10016766800,
+      10016766801,
+      10016766802,
+      10016766803,
+      10016766800
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Santa Gadea"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1107697996,
+    "timestamp": "2024-02-03T19:47:41Z",
+    "version": 3,
+    "changeset": 147032139,
+    "user": "kapazao_import",
+    "uid": 8770019,
+    "center": {
+      "lat": 41.4934806,
+      "lon": 0.4597398
+    },
+    "nodes": [
+      10135162833,
+      10135162834,
+      10135162835,
+      10135162836,
+      10135162837,
+      10135162838,
+      10135162839,
+      10135162833
+    ],
+    "tags": {
+      "addr:city": "Aitona",
+      "addr:housenumber": "50",
+      "addr:postcode": "25182",
+      "addr:street": "Avinguda 27 de gener",
+      "amenity": "restaurant",
+      "bar": "yes",
+      "building": "yes",
+      "name": "Restaurant-Cafeteria Casa Conrado",
+      "phone": "+34 973794011"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1107697997,
+    "timestamp": "2024-02-03T19:47:41Z",
+    "version": 2,
+    "changeset": 147032139,
+    "user": "kapazao_import",
+    "uid": 8770019,
+    "center": {
+      "lat": 41.4924705,
+      "lon": 0.4586503
+    },
+    "nodes": [
+      10135162840,
+      10135162841,
+      10135162842,
+      10135162843,
+      10135162844,
+      10135162845,
+      10135162846,
+      10135162840
+    ],
+    "tags": {
+      "addr:city": "Aitona",
+      "addr:housenumber": "21",
+      "addr:postcode": "25182",
+      "addr:street": "Avinguda 27 de gener",
+      "amenity": "restaurant",
+      "bar": "yes",
+      "building": "yes",
+      "name": "Bar-Restaurant Can Joan",
+      "phone": "+34 973794362"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1157501953,
+    "timestamp": "2023-03-26T19:56:24Z",
+    "version": 1,
+    "changeset": 134150033,
+    "user": "rombik97",
+    "uid": 9583643,
+    "center": {
+      "lat": 41.0124213,
+      "lon": 0.6105136
+    },
+    "nodes": [
+      10764485220,
+      10764485221,
+      10764485222,
+      10764485223,
+      10764485224,
+      10764485225,
+      10764485220
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Restaurant Bar Sant Jordi"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1277881718,
+    "timestamp": "2024-04-28T18:22:32Z",
+    "version": 1,
+    "changeset": 150631238,
+    "user": "Galifardeu",
+    "uid": 368660,
+    "center": {
+      "lat": 41.6217798,
+      "lon": 0.6572712
+    },
+    "nodes": [
+      11358105093,
+      11862786222,
+      11358105087,
+      11862786218,
+      11862786217,
+      11358105094,
+      11358105093
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Tosca"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1306318449,
+    "timestamp": "2024-08-08T08:39:49Z",
+    "version": 1,
+    "changeset": 154967211,
+    "user": "pitort",
+    "uid": 469238,
+    "center": {
+      "lat": 41.4871479,
+      "lon": 0.5124849
+    },
+    "nodes": [
+      12098459910,
+      12098459909,
+      12098459908,
+      12098459907,
+      12098459910
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Refugi de Pescadors"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1313421642,
+    "timestamp": "2024-09-05T06:47:09Z",
+    "version": 1,
+    "changeset": 156215242,
+    "user": "Escribansen",
+    "uid": 9210764,
+    "center": {
+      "lat": 41.5239013,
+      "lon": 0.3391235
+    },
+    "nodes": [
+      12157159032,
+      12157159033,
+      8702533940,
+      8702533941,
+      12157159032
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "La Cantonada"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1347345912,
+    "timestamp": "2024-12-30T15:13:13Z",
+    "version": 1,
+    "changeset": 160796373,
+    "user": "JspMB",
+    "uid": 710145,
+    "center": {
+      "lat": 41.1348474,
+      "lon": 0.6517679
+    },
+    "nodes": [
+      12463234493,
+      12463234494,
+      12463234495,
+      12463234496,
+      12463234497,
+      12463234498,
+      12463234499,
+      12463234500,
+      12463234493
+    ],
+    "tags": {
+      "addr:city": "Garcia",
+      "addr:housenumber": "12",
+      "addr:postcode": "43749",
+      "addr:street": "Avinguda de ña Ribera",
+      "amenity": "restaurant",
+      "building": "yes",
+      "email": "info@pasdelase.com",
+      "name": "Pas de l'Ase",
+      "opening_hours": "Mo,We-Su 13:00-16:00",
+      "phone": "+34 977 402 567",
+      "website": "https://www.pasdelase.com/"
+    }
+  }
+]

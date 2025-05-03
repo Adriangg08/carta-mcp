@@ -1,0 +1,559 @@
+[
+  {
+    "type": "node",
+    "id": 329647189,
+    "lat": 28.1025305,
+    "lon": -14.3891771,
+    "timestamp": "2021-10-21T21:41:29Z",
+    "version": 6,
+    "changeset": 112811878,
+    "user": "korni",
+    "uid": 526156,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurante Cofete Pepe El Faro",
+      "outdoor_seating": "yes",
+      "smoking": "outside"
+    }
+  },
+  {
+    "type": "node",
+    "id": 568814901,
+    "lat": 28.0494932,
+    "lon": -14.3517454,
+    "timestamp": "2013-10-30T23:32:53Z",
+    "version": 3,
+    "changeset": 18626796,
+    "user": "Javier Sanchez",
+    "uid": 47882,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "Pizzeria Vesubio"
+    }
+  },
+  {
+    "type": "node",
+    "id": 569438056,
+    "lat": 28.0499585,
+    "lon": -14.3585393,
+    "timestamp": "2018-02-28T17:15:02Z",
+    "version": 3,
+    "changeset": 56762106,
+    "user": "Nordpfeil",
+    "uid": 1337142,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Cofradía de Morro Jable"
+    }
+  },
+  {
+    "type": "node",
+    "id": 613452069,
+    "lat": 28.0494847,
+    "lon": -14.3510987,
+    "timestamp": "2013-10-30T23:32:52Z",
+    "version": 3,
+    "changeset": 18626796,
+    "user": "Javier Sanchez",
+    "uid": 47882,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "La Gariotas"
+    }
+  },
+  {
+    "type": "node",
+    "id": 613452085,
+    "lat": 28.0495785,
+    "lon": -14.3522432,
+    "timestamp": "2013-10-30T23:32:51Z",
+    "version": 2,
+    "changeset": 18626796,
+    "user": "Javier Sanchez",
+    "uid": 47882,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Cofradia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 613452088,
+    "lat": 28.0494902,
+    "lon": -14.3526894,
+    "timestamp": "2013-10-30T23:32:52Z",
+    "version": 5,
+    "changeset": 18626796,
+    "user": "Javier Sanchez",
+    "uid": 47882,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "La Laja"
+    }
+  },
+  {
+    "type": "node",
+    "id": 613452116,
+    "lat": 28.0497982,
+    "lon": -14.3522214,
+    "timestamp": "2010-01-14T13:19:50Z",
+    "version": 1,
+    "changeset": 3616908,
+    "user": "dk1ri",
+    "uid": 49044,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Mattarello"
+    }
+  },
+  {
+    "type": "node",
+    "id": 613452118,
+    "lat": 28.049693,
+    "lon": -14.3521321,
+    "timestamp": "2013-10-30T23:32:52Z",
+    "version": 2,
+    "changeset": 18626796,
+    "user": "Javier Sanchez",
+    "uid": 47882,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "La Strada"
+    }
+  },
+  {
+    "type": "node",
+    "id": 613452121,
+    "lat": 28.0495802,
+    "lon": -14.352148,
+    "timestamp": "2013-10-30T23:32:51Z",
+    "version": 3,
+    "changeset": 18626796,
+    "user": "Javier Sanchez",
+    "uid": 47882,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Blue Marlin"
+    }
+  },
+  {
+    "type": "node",
+    "id": 648637791,
+    "lat": 28.0506011,
+    "lon": -14.3521876,
+    "timestamp": "2013-10-30T23:32:53Z",
+    "version": 2,
+    "changeset": 18626796,
+    "user": "Javier Sanchez",
+    "uid": 47882,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "japanese",
+      "name": "Sushi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 648637806,
+    "lat": 28.0524205,
+    "lon": -14.35278,
+    "timestamp": "2010-02-21T00:13:51Z",
+    "version": 1,
+    "changeset": 3929110,
+    "user": "dk1ri",
+    "uid": 49044,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "italian",
+      "name": "Piccola Italia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 933613276,
+    "lat": 28.049808,
+    "lon": -14.3472374,
+    "timestamp": "2014-12-12T20:40:42Z",
+    "version": 4,
+    "changeset": 27429966,
+    "user": "Romanese",
+    "uid": 60780,
+    "tags": {
+      "amenity": "restaurant",
+      "description": "Open Th - Tu ***",
+      "name": "Coronado",
+      "website": "http://www.restaurantecoronado.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1003634362,
+    "lat": 28.0514303,
+    "lon": -14.3529075,
+    "timestamp": "2010-11-25T12:00:55Z",
+    "version": 2,
+    "changeset": 6453907,
+    "user": "MTB54",
+    "uid": 39726,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Cafeteria San Francisco"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1170621535,
+    "lat": 28.0495352,
+    "lon": -14.3528348,
+    "timestamp": "2024-03-24T14:34:32Z",
+    "version": 4,
+    "changeset": 149091702,
+    "user": "limap2",
+    "uid": 20793033,
+    "tags": {
+      "amenity": "restaurant",
+      "internet_access": "wlan",
+      "name": "La Farola del Mar"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1170621848,
+    "lat": 28.0499495,
+    "lon": -14.3527328,
+    "timestamp": "2012-03-09T11:26:54Z",
+    "version": 2,
+    "changeset": 10918766,
+    "user": "bingogubbe",
+    "uid": 111698,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Charly"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1198133640,
+    "lat": 28.0495786,
+    "lon": -14.3524134,
+    "timestamp": "2013-10-30T23:32:51Z",
+    "version": 2,
+    "changeset": 18626796,
+    "user": "Javier Sanchez",
+    "uid": 47882,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Clavijo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1618293195,
+    "lat": 28.0527128,
+    "lon": -14.352702,
+    "timestamp": "2013-10-30T23:32:53Z",
+    "version": 2,
+    "changeset": 18626796,
+    "user": "Javier Sanchez",
+    "uid": 47882,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Rayos del Sol"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1620432256,
+    "lat": 28.0502194,
+    "lon": -14.3527098,
+    "timestamp": "2015-12-12T11:56:34Z",
+    "version": 3,
+    "changeset": 35907555,
+    "user": "fuerteinfo",
+    "uid": 3451191,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Bodega de Jandia",
+      "smoking": "outside"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1647258403,
+    "lat": 28.0519539,
+    "lon": -14.352703,
+    "timestamp": "2013-10-30T23:32:51Z",
+    "version": 2,
+    "changeset": 18626796,
+    "user": "Javier Sanchez",
+    "uid": 47882,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "El Dorado"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1647258425,
+    "lat": 28.0505931,
+    "lon": -14.3524552,
+    "timestamp": "2012-02-25T17:09:42Z",
+    "version": 1,
+    "changeset": 10789851,
+    "user": "dk1ri",
+    "uid": 49044,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "italian",
+      "name": "Los Italianos"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1647258447,
+    "lat": 28.0514869,
+    "lon": -14.3524917,
+    "timestamp": "2025-02-27T16:59:32Z",
+    "version": 4,
+    "changeset": 163021028,
+    "user": "Mariusz256",
+    "uid": 10396575,
+    "tags": {
+      "amenity": "restaurant",
+      "bar": "yes",
+      "check_date": "2025-02-27",
+      "cuisine": "tapas;sandwich;spanish",
+      "name": "San Francisco",
+      "payment:cash": "yes",
+      "payment:credit_cards": "yes",
+      "payment:debit_cards": "yes",
+      "smoking": "outside",
+      "source": "survey",
+      "toilets": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1658050876,
+    "lat": 28.0487421,
+    "lon": -14.3448026,
+    "timestamp": "2017-04-23T10:29:54Z",
+    "version": 6,
+    "changeset": 48055973,
+    "user": "mark1111",
+    "uid": 1712338,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "El Pescado"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1658053114,
+    "lat": 28.0486471,
+    "lon": -14.3447987,
+    "timestamp": "2017-04-23T10:29:54Z",
+    "version": 6,
+    "changeset": 48055973,
+    "user": "mark1111",
+    "uid": 1712338,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Playa Vista"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2439776376,
+    "lat": 28.0498284,
+    "lon": -14.352436,
+    "timestamp": "2013-08-30T21:52:09Z",
+    "version": 1,
+    "changeset": 17596546,
+    "user": "Nadjita",
+    "uid": 1633343,
+    "tags": {
+      "addr:housenumber": "8",
+      "addr:street": "Peatonal La Piragua",
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Posada San Borondon II",
+      "smoking": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2514540896,
+    "lat": 28.0495411,
+    "lon": -14.3525553,
+    "timestamp": "2013-10-30T23:32:33Z",
+    "version": 1,
+    "changeset": 18626796,
+    "user": "Javier Sanchez",
+    "uid": 47882,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Avenida del Mar"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2514540935,
+    "lat": 28.0497761,
+    "lon": -14.3525487,
+    "timestamp": "2019-08-14T14:23:38Z",
+    "version": 4,
+    "changeset": 73351301,
+    "user": "sanchi",
+    "uid": 170106,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "pizza;tapas",
+      "name": "Las Tapas De Miguel",
+      "phone": "+34 626474748"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2514540959,
+    "lat": 28.0496443,
+    "lon": -14.3526778,
+    "timestamp": "2013-10-30T23:32:34Z",
+    "version": 1,
+    "changeset": 18626796,
+    "user": "Javier Sanchez",
+    "uid": 47882,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "La Puntilla"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2514541274,
+    "lat": 28.049434,
+    "lon": -14.3509938,
+    "timestamp": "2013-10-30T23:32:37Z",
+    "version": 1,
+    "changeset": 18626796,
+    "user": "Javier Sanchez",
+    "uid": 47882,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Waikiki"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3332992091,
+    "lat": 28.0730119,
+    "lon": -14.500107,
+    "timestamp": "2018-03-08T21:25:29Z",
+    "version": 3,
+    "changeset": 57013576,
+    "user": "Nordpfeil",
+    "uid": 1337142,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Punta de Jandia",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5465466694,
+    "lat": 28.0729472,
+    "lon": -14.4996592,
+    "timestamp": "2018-03-08T21:26:41Z",
+    "version": 1,
+    "changeset": 57013612,
+    "user": "Nordpfeil",
+    "uid": 1337142,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "El Tenderete",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5469839397,
+    "lat": 28.0511599,
+    "lon": -14.3513803,
+    "timestamp": "2018-03-10T20:34:21Z",
+    "version": 1,
+    "changeset": 57067300,
+    "user": "Nordpfeil",
+    "uid": 1337142,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Morro Jable Doner KebabPizza Pollo Asado"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6263893757,
+    "lat": 28.0496973,
+    "lon": -14.3524226,
+    "timestamp": "2019-02-07T14:10:59Z",
+    "version": 1,
+    "changeset": 66996005,
+    "user": "dkf2010",
+    "uid": 685599,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "burger",
+      "name": "Irish Times & Simon‘s Kitchen"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8379262118,
+    "lat": 28.0494258,
+    "lon": -14.3511773,
+    "timestamp": "2021-01-30T21:38:38Z",
+    "version": 1,
+    "changeset": 98430208,
+    "user": "370mind",
+    "uid": 8425883,
+    "tags": {
+      "addr:street": "Avenida Tomás Grau Gurrea",
+      "amenity": "restaurant",
+      "name": "Leo's"
+    }
+  },
+  {
+    "type": "way",
+    "id": 507398143,
+    "timestamp": "2017-10-27T17:54:16Z",
+    "version": 2,
+    "changeset": 53298108,
+    "user": "hltrmnn",
+    "uid": 326928,
+    "center": {
+      "lat": 28.0727897,
+      "lon": -14.4995807
+    },
+    "nodes": [
+      4969122520,
+      4969122519,
+      4969122518,
+      4969122517,
+      4969122520
+    ],
+    "tags": {
+      "addr:city": "Puerto de la Cruz",
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "regional",
+      "name": "El Caletón",
+      "outdoor_seating": "yes"
+    }
+  }
+]

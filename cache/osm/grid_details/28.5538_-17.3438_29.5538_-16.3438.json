@@ -1,0 +1,84 @@
+[
+  {
+    "type": "node",
+    "id": 343579928,
+    "lat": 28.5541182,
+    "lon": -16.3455371,
+    "timestamp": "2009-11-22T17:37:21Z",
+    "version": 4,
+    "changeset": 3188645,
+    "user": "zarquon",
+    "uid": 48283,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Casa Lourdes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4067280857,
+    "lat": 28.5553481,
+    "lon": -16.3446949,
+    "timestamp": "2022-03-09T11:02:25Z",
+    "version": 4,
+    "changeset": 118273803,
+    "user": "Opix",
+    "uid": 6337205,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "spanish",
+      "name": "Cofradía de Bajamar",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5418802222,
+    "lat": 28.5543095,
+    "lon": -16.3450949,
+    "timestamp": "2018-02-17T19:21:19Z",
+    "version": 1,
+    "changeset": 56448069,
+    "user": "Christian Waldraff",
+    "uid": 5113318,
+    "tags": {
+      "amenity": "restaurant",
+      "name:de": "Tapasbar La Oliva"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5418805721,
+    "lat": 28.5548779,
+    "lon": -16.345275,
+    "timestamp": "2024-04-06T17:55:34Z",
+    "version": 4,
+    "changeset": 149666178,
+    "user": "Tobias235",
+    "uid": 14827393,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Casa Pepe",
+      "name:es": "Casa Pepe",
+      "operational_status": "closed"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6920140859,
+    "lat": 28.5545464,
+    "lon": -16.3450211,
+    "timestamp": "2019-10-27T13:33:32Z",
+    "version": 1,
+    "changeset": 76266159,
+    "user": "ArticCynda",
+    "uid": 2464082,
+    "tags": {
+      "addr:street": "Avenida Gran Poder",
+      "amenity": "restaurant",
+      "cuisine": "spanish",
+      "name": "Los Tarajales",
+      "phone": "+34 922 540 260"
+    }
+  }
+]

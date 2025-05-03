@@ -1,0 +1,194 @@
+[
+  {
+    "type": "node",
+    "id": 1834181781,
+    "lat": 28.4992073,
+    "lon": -11.3333018,
+    "timestamp": "2012-07-22T13:46:09Z",
+    "version": 1,
+    "changeset": 12433190,
+    "user": "staehler",
+    "uid": 118856,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Equinoxe",
+      "tourism": "guest_house"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4318240700,
+    "lat": 28.497513,
+    "lon": -11.3310565,
+    "timestamp": "2023-02-06T22:20:54Z",
+    "version": 3,
+    "changeset": 132179201,
+    "user": "Tootie4Douz",
+    "uid": 14237762,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant Dubai"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6127207986,
+    "lat": 28.4943609,
+    "lon": -11.3343573,
+    "timestamp": "2023-02-09T14:41:31Z",
+    "version": 2,
+    "changeset": 132311151,
+    "user": "Tootie4Douz",
+    "uid": 14237762,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "La Scala"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6128070486,
+    "lat": 28.495645,
+    "lon": -11.3331109,
+    "timestamp": "2023-02-06T22:20:54Z",
+    "version": 2,
+    "changeset": 132179201,
+    "user": "Tootie4Douz",
+    "uid": 14237762,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Al Firdaous"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6131146287,
+    "lat": 28.4920657,
+    "lon": -11.3366764,
+    "timestamp": "2023-02-06T22:20:54Z",
+    "version": 2,
+    "changeset": 132179201,
+    "user": "Tootie4Douz",
+    "uid": 14237762,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Café Mogador"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6131159485,
+    "lat": 28.4961193,
+    "lon": -11.3323573,
+    "timestamp": "2023-02-06T22:20:54Z",
+    "version": 2,
+    "changeset": 132179201,
+    "user": "Tootie4Douz",
+    "uid": 14237762,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8213844925,
+    "lat": 28.4281093,
+    "lon": -11.1090037,
+    "timestamp": "2020-12-10T13:56:30Z",
+    "version": 1,
+    "changeset": 95621591,
+    "user": "Med Tantan",
+    "uid": 12225822,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "breakfast;chicken;coffee_shop;deli;fish;local;moroccan",
+      "internet_access": "wlan",
+      "name": "مطعم و مقهى الأمل",
+      "name:fr": "Restaurant et Café El-Amal",
+      "opening_hours": "24/7"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8213845120,
+    "lat": 28.4277882,
+    "lon": -11.1089584,
+    "timestamp": "2020-12-10T13:56:56Z",
+    "version": 1,
+    "changeset": 95621591,
+    "user": "Med Tantan",
+    "uid": 12225822,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "chicken;coffee_shop;deli;fish;fish_and_chips;friture;kebab",
+      "internet_access": "wlan",
+      "name": "مطاعم",
+      "name:fr": "Restaurant",
+      "opening_hours": "Mo-Su 06:00-00:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8213845522,
+    "lat": 28.428211,
+    "lon": -11.1092704,
+    "timestamp": "2020-12-10T13:56:44Z",
+    "version": 1,
+    "changeset": 95621591,
+    "user": "Med Tantan",
+    "uid": 12225822,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "barbecue;breakfast;chicken;coffee_shop;fish;fish_and_chips;local",
+      "internet_access": "wlan",
+      "name": "مطعم",
+      "name:fr": "Restaurant",
+      "opening_hours": "Mo-Su 06:00-00:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8213845523,
+    "lat": 28.4333899,
+    "lon": -11.1055024,
+    "timestamp": "2020-12-10T13:56:59Z",
+    "version": 1,
+    "changeset": 95621591,
+    "user": "Med Tantan",
+    "uid": 12225822,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "breakfast;chicken;coffee_shop;fish;fish_and_chips;local;moroccan"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10225388317,
+    "lat": 28.4947009,
+    "lon": -11.3360531,
+    "timestamp": "2022-11-29T10:36:08Z",
+    "version": 1,
+    "changeset": 129514722,
+    "user": "traveLove",
+    "uid": 8548906,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "moroccan",
+      "name:de": "Café Chbika"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10632633007,
+    "lat": 28.4916562,
+    "lon": -11.3375517,
+    "timestamp": "2023-02-09T14:41:31Z",
+    "version": 1,
+    "changeset": 132311151,
+    "user": "Tootie4Douz",
+    "uid": 14237762,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  }
+]

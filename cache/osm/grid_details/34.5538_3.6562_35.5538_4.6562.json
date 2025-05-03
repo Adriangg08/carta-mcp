@@ -1,0 +1,117 @@
+[
+  {
+    "type": "node",
+    "id": 3897080011,
+    "lat": 35.0297083,
+    "lon": 4.5792087,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4583705789,
+    "lat": 34.895675,
+    "lon": 3.7319833,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "Resto",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4612236589,
+    "lat": 35.2146719,
+    "lon": 4.180265,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 3,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "مطعم تقليدي",
+      "name:ar": "مطعم تقليدي",
+      "name:fr": "Restaurant Traditionnel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5060154623,
+    "lat": 35.0952087,
+    "lon": 4.2678263,
+    "timestamp": "2020-12-31T00:32:17Z",
+    "version": 5,
+    "changeset": 96696110,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "مطعم مؤكولات تقليدبة",
+      "name:ar": "مطعم مأكولات تقليدية",
+      "name:fr": "La cuisine traditionnelle"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5238034331,
+    "lat": 34.9896651,
+    "lon": 4.0915885,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 4,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "مطعم",
+      "name:ar": "مطعم",
+      "name:fr": "Resto"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1186100548,
+    "timestamp": "2023-06-30T23:02:38Z",
+    "version": 1,
+    "changeset": 137976431,
+    "user": "حسام عبد الناصر",
+    "uid": 19359683,
+    "center": {
+      "lat": 35.3167134,
+      "lon": 4.1887737
+    },
+    "nodes": [
+      11016949076,
+      3863869032,
+      11016948683,
+      11016945044,
+      11016949076
+    ],
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Restaurant Traditionnel de Boussada",
+      "source": "microsoft/BuildingFootprints"
+    }
+  }
+]

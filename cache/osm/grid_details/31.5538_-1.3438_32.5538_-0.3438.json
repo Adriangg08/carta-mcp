@@ -1,0 +1,40 @@
+[
+  {
+    "type": "node",
+    "id": 2516995440,
+    "lat": 32.1130777,
+    "lon": -1.2308897,
+    "timestamp": "2022-08-20T15:13:35Z",
+    "version": 5,
+    "changeset": 125151870,
+    "user": "Kadubei",
+    "uid": 16642036,
+    "tags": {
+      "addr:city": "Figuig ⵉⴼⵉⵢⵢⵉⵢ فكيك",
+      "addr:city:ar": "فكيك",
+      "addr:city:es": "Figuig",
+      "addr:street": "شارع الحسن الثاني",
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6700518217,
+    "lat": 32.0531771,
+    "lon": -1.257283,
+    "timestamp": "2020-12-30T19:19:38Z",
+    "version": 2,
+    "changeset": 96687154,
+    "user": "Vejoson",
+    "uid": 11422772,
+    "tags": {
+      "addr:city": "بني ونيف",
+      "addr:postcode": "08100",
+      "alt_name:ar": "مطعم بوبكر",
+      "amenity": "restaurant",
+      "name": "مطعم أبو بكر",
+      "name:ar": "مطعم أبو بكر",
+      "name:fr": "Boubakr"
+    }
+  }
+]

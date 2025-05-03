@@ -1,0 +1,38 @@
+[
+  {
+    "type": "node",
+    "id": 3329542995,
+    "lat": 29.7098901,
+    "lon": 0.7185657,
+    "timestamp": "2018-06-13T17:53:33Z",
+    "version": 3,
+    "changeset": 59818370,
+    "user": "ButterflyOfFire_",
+    "uid": 2842609,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "مطعم القوسطو باحمود",
+      "name:ar": "مطعم القوسطو باحمود",
+      "name:fr": "Restaurant Elgosto Bahmoud"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3329545293,
+    "lat": 29.7112903,
+    "lon": 0.719671,
+    "timestamp": "2018-06-13T17:53:34Z",
+    "version": 3,
+    "changeset": 59818370,
+    "user": "ButterflyOfFire_",
+    "uid": 2842609,
+    "tags": {
+      "addr:country": "DZ",
+      "amenity": "restaurant",
+      "name": "مطعم الشروق",
+      "name:ar": "مطعم الشروق",
+      "name:fr": "Restaurant echourouk"
+    }
+  }
+]

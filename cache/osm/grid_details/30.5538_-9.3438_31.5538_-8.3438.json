@@ -1,0 +1,230 @@
+[
+  {
+    "type": "node",
+    "id": 1875136583,
+    "lat": 31.0254804,
+    "lon": -9.024776,
+    "timestamp": "2013-12-11T23:37:40Z",
+    "version": 2,
+    "changeset": 19404445,
+    "user": "alain2003",
+    "uid": 578772,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1875136611,
+    "lat": 31.0246576,
+    "lon": -9.0233276,
+    "timestamp": "2012-08-20T22:17:35Z",
+    "version": 1,
+    "changeset": 12801649,
+    "user": "alain2003",
+    "uid": 578772,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2211173242,
+    "lat": 30.8606409,
+    "lon": -8.3768846,
+    "timestamp": "2023-09-10T16:51:20Z",
+    "version": 5,
+    "changeset": 141072424,
+    "user": "Leila 786",
+    "uid": 19384728,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Gite Bellevue",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2576437686,
+    "lat": 31.4870923,
+    "lon": -8.6548429,
+    "timestamp": "2013-12-11T23:37:33Z",
+    "version": 1,
+    "changeset": 19404445,
+    "user": "alain2003",
+    "uid": 578772,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4867982923,
+    "lat": 31.0251437,
+    "lon": -9.0228991,
+    "timestamp": "2018-10-22T10:19:26Z",
+    "version": 2,
+    "changeset": 63753564,
+    "user": "johnparis",
+    "uid": 2126146,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Repos Imintanout 210517",
+      "name:fr": "Repos Imintanout 210517"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6308287883,
+    "lat": 31.5508106,
+    "lon": -8.8141546,
+    "timestamp": "2019-02-28T14:40:09Z",
+    "version": 1,
+    "changeset": 67653697,
+    "user": "plasmaron",
+    "uid": 1721489,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Mazagan"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11278163034,
+    "lat": 30.7662079,
+    "lon": -8.5138094,
+    "timestamp": "2023-10-20T19:23:09Z",
+    "version": 1,
+    "changeset": 142888693,
+    "user": "GEOG281_NorrisCarson",
+    "uid": 20402616,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11278163035,
+    "lat": 30.7662568,
+    "lon": -8.5131976,
+    "timestamp": "2023-10-20T19:23:09Z",
+    "version": 1,
+    "changeset": 142888693,
+    "user": "GEOG281_NorrisCarson",
+    "uid": 20402616,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11278177456,
+    "lat": 30.7670235,
+    "lon": -8.512726,
+    "timestamp": "2023-10-20T19:23:31Z",
+    "version": 1,
+    "changeset": 142888722,
+    "user": "GEOG281_NorrisCarson",
+    "uid": 20402616,
+    "tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1206993322,
+    "timestamp": "2023-09-11T19:25:13Z",
+    "version": 1,
+    "changeset": 141130415,
+    "user": "Sy’Mone Miles",
+    "uid": 20223766,
+    "center": {
+      "lat": 31.170407,
+      "lon": -8.9091477
+    },
+    "nodes": [
+      11184190693,
+      11184190694,
+      11184190695,
+      11184190696,
+      11184190693
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1207209281,
+    "timestamp": "2023-09-12T15:11:54Z",
+    "version": 1,
+    "changeset": 141168761,
+    "user": "fhamouda",
+    "uid": 19783156,
+    "center": {
+      "lat": 31.3555712,
+      "lon": -8.5029865
+    },
+    "nodes": [
+      11186027728,
+      11186027729,
+      11186027730,
+      11186027731,
+      11186027728
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1217174452,
+    "timestamp": "2023-10-27T21:58:52Z",
+    "version": 2,
+    "changeset": 143231702,
+    "user": "youngmapper",
+    "uid": 13063701,
+    "center": {
+      "lat": 30.7669491,
+      "lon": -8.5127449
+    },
+    "nodes": [
+      11278078868,
+      11278100569,
+      11278100570,
+      11294372536,
+      11278078868
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1217175997,
+    "timestamp": "2023-11-16T10:42:39Z",
+    "version": 2,
+    "changeset": 144088994,
+    "user": "tonybendell",
+    "uid": 3620803,
+    "center": {
+      "lat": 30.7662609,
+      "lon": -8.5131909
+    },
+    "nodes": [
+      11278058456,
+      11278058458,
+      11278058459,
+      11278058460,
+      11278058461,
+      11278058456
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes"
+    }
+  }
+]
