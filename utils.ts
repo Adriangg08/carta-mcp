@@ -635,7 +635,7 @@ out body tags meta;`;
 }
 
 // Parse OSM menus (from scraped_pages.json) and save parsed menus
-export async function parseOsmMenus(areaArg: string): Promise<boolean> {
+export async function parseOsmMenus(areaArg: string, resume: boolean = false): Promise<boolean> {
   if (!areaArg) throw new Error('Area argument is required');
   // Paths and settings
   const baseMenusDir = path.join('cache', 'osm', 'manual');
@@ -647,15 +647,28 @@ export async function parseOsmMenus(areaArg: string): Promise<boolean> {
   const progressPath = path.join(areaDir, `${safeName}.progress.json`);
   const logPath = path.join(areaDir, `${safeName}.log`);
   const batchSize = parseInt(process.env.MENU_BATCH_SIZE || '10', 10);
-  // Initialize empty results, always reprocess all restaurants
-  const results: any[] = [];
+  // Determine start index and load existing results if resuming
+  let startIndex = 0;
+  let results: any[] = [];
+  if (resume) {
+    if (fs.existsSync(progressPath)) {
+      const { lastIndex } = JSON.parse(fs.readFileSync(progressPath, 'utf8'));
+      startIndex = lastIndex + 1;
+    }
+    if (fs.existsSync(outputPath)) {
+      results = JSON.parse(fs.readFileSync(outputPath, 'utf8'));
+    }
+  } else {
+    if (fs.existsSync(progressPath)) fs.unlinkSync(progressPath);
+    if (fs.existsSync(outputPath)) fs.unlinkSync(outputPath);
+  }
   const total = restaurants.length;
-  console.log(`Total restaurants: ${total}, batchSize: ${batchSize}`);
-  fs.appendFileSync(logPath, `[${new Date().toISOString()}] Starting parseOsmMenus: ${total} restaurants, batchSize ${batchSize}\n`);
+  console.log(`Total restaurants: ${total}, batchSize: ${batchSize}, startIndex: ${startIndex}`);
+  fs.appendFileSync(logPath, `[${new Date().toISOString()}] Starting parseOsmMenus: ${total} restaurants, batchSize ${batchSize}${resume ? ', resuming from ' + startIndex : ''}\n`);
   // Track batch failures
   const failures: { batchStart: number; batchEnd: number; error: string }[] = [];
   // Batch processing
-  for (let i = 0; i < total; i += batchSize) {
+  for (let i = startIndex; i < total; i += batchSize) {
     const end = Math.min(i + batchSize, total);
     console.log(`Processing restaurants ${i}-${end - 1}`);
     fs.appendFileSync(logPath, `[${new Date().toISOString()}] Processing restaurants ${i}-${end - 1}\n`);

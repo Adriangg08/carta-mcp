@@ -200,8 +200,9 @@ async function main() {
   }
   if (args[0] === '--osm-parse-menus') {
     const areaArg = args[1];
-    console.log(`Parsing menus for area: ${areaArg || 'all'}`);
-    await parseOsmMenus(areaArg);
+    const resume = args[2] === '--resume';
+    console.log(`Parsing menus for area: ${areaArg || 'all'} ${resume ? '(resuming)' : '(fresh start)'}`);
+    await parseOsmMenus(areaArg, resume);
     return;
   }
   if (args[0] === '--osm-details') {

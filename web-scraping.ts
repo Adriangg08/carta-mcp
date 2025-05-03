@@ -2,6 +2,23 @@ import { JSDOM } from "jsdom";
 import puppeteer from 'puppeteer';
 import { cleanHtml } from "./utils";
 
+// Global Puppeteer browser instance to reuse across scrapes
+let browser: import('puppeteer').Browser | null = null;
+
+async function getBrowser(): Promise<import('puppeteer').Browser> {
+  if (!browser) {
+    browser = await puppeteer.launch({ headless: true });
+  }
+  return browser;
+}
+
+async function closeBrowser(): Promise<void> {
+  if (browser) {
+    await browser.close();
+    browser = null;
+  }
+}
+
 /**
  * Función para extraer texto de una página web
  */
@@ -11,9 +28,6 @@ export async function scrapeWebPage(url: string): Promise<{
   links: { url: string; text: string }[];
   metadata: Record<string, string>;
 }> {
-  // Reutilizar un único navegador de Puppeteer
-  let browser: import('puppeteer').Browser | null = null;
-
   // Obtener HTML estático o dinámico con Puppeteer si falla
   async function fetchPageContent(targetUrl: string): Promise<string> {
     try {
@@ -33,8 +47,8 @@ export async function scrapeWebPage(url: string): Promise<{
       return await res.text();
     } catch (fetchErr) {
       try {
-        if (!browser) browser = await puppeteer.launch({ headless: true });
-        const page = await browser.newPage();
+        const browserInstance = await getBrowser();
+        const page = await browserInstance.newPage();
         await page.goto(targetUrl, { waitUntil: 'networkidle2' });
         const content = await page.content();
         await page.close();
@@ -135,7 +149,7 @@ export async function scrapeMultiplePages(urls: string[]): Promise<{
       }
     })
   );
-  
+  await closeBrowser();
   return { pages: results };
 }
 
@@ -206,7 +220,6 @@ export async function listDomainUrls(
   const menuIncludePatterns = [
     /(menu|carta|food|comida|platos|dishes|specialties|especialidades)/i,
     /(dinner|lunch|breakfast|cena|almuerzo|desayuno)/i,
-    /(restaurant|restaurante|bar|cafeteria|cafe|bistro|pub)/i,
     /(eat|comer|dining|cenar|gastronomia|gastronomy)/i,
     /(cuisine|cocina|chef|kitchen|recetas|recipes)/i,
     /(tapas|raciones|pinchos|entrantes|starters|appetizers)/i,
@@ -445,6 +458,7 @@ export async function listDomainUrls(
     return 0;
   });
   
+  await closeBrowser();
   return {
     domain: baseUrl.hostname,
     urlsFound: foundUrls.size,
